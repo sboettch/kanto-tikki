@@ -13,6 +13,7 @@ const yen = n => n == null ? '—' : '¥' + n.toLocaleString('en-US');
 const man = n => n == null ? '—' : (n/10000).toFixed(n % 10000 ? 1 : 0) + '万';
 
 const CORRIDORS = {
+  all:        { name:'All Corridors', ja:'首都圏全線', tag:'All 5 Living Corridors · 500+ Homes', badge:'🌐', ready:true, color:'#803860' },
   keikyu:     { name:'Keikyu', ja:'京急本線・都営浅草線', tag:'Ningyōchō → Yokohama', badge:'⛩', ready:true, color:'var(--shu)' },
   toyoko:     { name:'Tōyoko', ja:'東急東横線', tag:'Shibuya → Yokohama', badge:'🌸', ready:true, color:'#da0442' },
   hibiya:     { name:'Hibiya', ja:'東京メトロ日比谷線', tag:'Naka-Meguro → Kita-Senju', badge:'🌹', ready:true, color:'#9caeb7' },
@@ -24,17 +25,92 @@ const state = {
   corridor: new URLSearchParams(location.search).get('c') || 'keikyu',
   view: 'corridor', dest: 'yokohama',
   fStation: new URLSearchParams(location.search).get('stn') || 'all', fLayout: 'all', fTier: 'all', sort: 'goal',
-  fQuick: 'all', fService: 'all', activeStnDrawer: null,
+  fPocket: 'all', fQuick: 'all', fService: 'all', activeStnDrawer: null,
   loved: new Set(), taste: null, radio: null, toastT: null,
   topoGroup: 'all', topoLine: null, topoSelectedStation: null,
   pk: null, pkMax: 35, pkBudget: 0, pkLayout: '1K',
 };
 
+function getAllCorridorHomes(){
+  let all = [];
+  if (typeof HOMES !== 'undefined' && Array.isArray(HOMES)) all = all.concat(HOMES);
+  if (typeof CORRIDORS_DATA !== 'undefined'){
+    for (const [k, c] of Object.entries(CORRIDORS_DATA)){
+      if (c && c.homes && Array.isArray(c.homes)) all = all.concat(c.homes);
+    }
+  }
+  const seen = new Set();
+  return all.filter(h => {
+    if (!h || !h.id || seen.has(h.id)) return false;
+    seen.add(h.id);
+    return true;
+  });
+}
+
+function getAllCorridorPockets(){
+  let all = [];
+  if (typeof POCKETS_R3 !== 'undefined' && Array.isArray(POCKETS_R3)) all = all.concat(POCKETS_R3);
+  if (typeof CORRIDORS_DATA !== 'undefined'){
+    for (const [k, c] of Object.entries(CORRIDORS_DATA)){
+      if (k !== 'keikyu' && c && c.pockets && Array.isArray(c.pockets)) all = all.concat(c.pockets);
+    }
+  }
+  const seen = new Set();
+  return all.filter(p => {
+    if (!p || !p.id || seen.has(p.id)) return false;
+    seen.add(p.id);
+    return true;
+  });
+}
+
+function getAllCorridorStations(){
+  let all = [];
+  if (typeof STATIONS !== 'undefined' && Array.isArray(STATIONS)) all = all.concat(STATIONS);
+  if (typeof CORRIDORS_DATA !== 'undefined'){
+    for (const [k, c] of Object.entries(CORRIDORS_DATA)){
+      if (k !== 'keikyu' && c && c.stations && Array.isArray(c.stations)) all = all.concat(c.stations);
+    }
+  }
+  const seen = new Set();
+  return all.filter(s => {
+    if (!s || !s.id || seen.has(s.id)) return false;
+    seen.add(s.id);
+    return true;
+  });
+}
+
+function pocketForListing(l){
+  if (!l) return null;
+  const pList = getAllCorridorPockets();
+  if (l.pocketId){
+    const f = pList.find(p => p.id === l.pocketId);
+    if (f) return f;
+  }
+  const bySt = pList.find(p => p.st === l.st);
+  if (bySt) return bySt;
+  const st = getAllCorridorStations().find(s => s.id === l.st);
+  if (st && st.ward){
+    const byW = pList.find(p => p.ward === st.ward);
+    if (byW) return byW;
+  }
+  return pList[0] || null;
+}
+
 function getActiveCorridor(){
   const p = state.corridor || 'keikyu';
+  if (p === 'all') {
+    return {
+      id: 'all', name: 'All Corridors', ja: '首都圏全線',
+      stations: getAllCorridorStations(),
+      homes: getAllCorridorHomes(),
+      pockets: getAllCorridorPockets(),
+      color: '#803860', goalMin: 26.5
+    };
+  }
   return (typeof CORRIDORS_DATA !== 'undefined' && CORRIDORS_DATA[p]) ? CORRIDORS_DATA[p] : (typeof CORRIDORS_DATA !== 'undefined' ? CORRIDORS_DATA.keikyu : null);
 }
 function activeStations(){
+  if (state.corridor === 'all') return getAllCorridorStations();
   const c = getActiveCorridor();
   return (c && c.stations) ? c.stations : STATIONS;
 }
@@ -51,10 +127,12 @@ function activeAnchors(){
   return (c && c.anchors) ? c.anchors : ANCHORS;
 }
 function activeHomes(){
+  if (state.corridor === 'all') return getAllCorridorHomes();
   const c = getActiveCorridor();
   return (c && c.homes) ? c.homes : HOMES;
 }
 function activePockets(){
+  if (state.corridor === 'all') return getAllCorridorPockets();
   const c = getActiveCorridor();
   return (c && c.pockets) ? c.pockets : POCKETS_R3;
 }
@@ -64,11 +142,29 @@ function activeGoalMin(){
   return (c && c.goalMin) ? c.goalMin : GOAL_MIN;
 }
 function activeColor(){
+  if (state.corridor === 'all') return '#803860';
   const c = getActiveCorridor();
   return (c && c.color) ? c.color : 'var(--shu)';
 }
 
 function calcCommute(stId, destId){
+  if (state.corridor === 'all'){
+    if (typeof STATIONS !== 'undefined' && STATIONS.some(s => s.id === stId)) {
+      return commute(stId, destId);
+    }
+    if (typeof CORRIDORS_DATA !== 'undefined'){
+      for (const [k, c] of Object.entries(CORRIDORS_DATA)){
+        if (c && c.stations && c.stations.some(s => s.id === stId)){
+          const oldC = state.corridor;
+          state.corridor = k;
+          const res = calcCommute(stId, destId);
+          state.corridor = oldC;
+          return res;
+        }
+      }
+    }
+    return commute(stId, destId);
+  }
   if (state.corridor === 'keikyu' || !state.corridor){
     return commute(stId, destId);
   }
@@ -230,8 +326,17 @@ function qText(kind, it){
   const a = areaFor(it.st) || {};
   const bits = [];
   const both = o => { if(!o) return; if(typeof o==='string'){bits.push(o);return;} bits.push(o.en||'', o.ja||''); };
-  if (kind === 'pocket'){ both(it.name); both(it.gem); both(it.photoOp); both(it.how); both(it.noiseWatch); }
-  else { both(it.name); bits.push(it.layout||'', it.srcName||'', it.built||''); if(it.listed){ both(it.listed.st); bits.push(it.listed.line||''); } }
+  if (kind === 'pocket'){
+    both(it.name); both(it.gem); both(it.photoOp); both(it.how); both(it.noiseWatch);
+    bits.push(it.id||'', it.st||'');
+  } else {
+    both(it.name);
+    bits.push(it.id||'', it.layout||'', it.srcName||'', it.built||'', it.address||'', it.url||'', it.mapUrl||'');
+    both(it.why); both(it.extra);
+    if(it.listed){ both(it.listed.st); bits.push(it.listed.line||''); }
+    const p = pocketForListing(it);
+    if (p){ both(p.name); both(p.gem); bits.push(p.id||''); }
+  }
   const st = activeStations().find(s => s.id === it.st) || (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[it.st]]) || { en:it.st, ja:it.st, ward:'' };
   const w = activeWards()[st.ward] || (typeof WARDS !== 'undefined' && WARDS[st.ward]) || { en:st.ward, ja:st.ward };
   bits.push(st.en, st.ja, tx(w), ty(w)||'');
@@ -1172,10 +1277,10 @@ function pkAnswer(which){
   render();
 }
 function openPocket(id){
-  const pList = activePockets();
-  const p = pList.find(x=>x.id===id) || (typeof POCKETS_R3 !== 'undefined' && POCKETS_R3.find(x=>x.id===id));
+  const pList = getAllCorridorPockets();
+  const p = pList.find(x=>x.id===id) || activePockets().find(x=>x.id===id);
   if (!p) return;
-  const st = activeStations().find(s => s.id === p.st) || (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[p.st]]) || { en:p.st, ja:p.st };
+  const st = getAllCorridorStations().find(s => s.id === p.st) || activeStations().find(s => s.id === p.st) || { en:p.st, ja:p.st };
   const wards = activeWards();
   const pWard = wards[p.ward] || (typeof WARDS !== 'undefined' && WARDS[p.ward]) || { en:p.ward, ja:p.ward };
   const pk = state.pk; const touched = pkTouched();
@@ -1217,6 +1322,25 @@ function openPocket(id){
       ${p.off?`<p class="provrow" style="margin-top:6px">${esc(t('pk_access'))}: ${esc(tx(p.how))}</p>`:''}
       <p class="provrow" style="margin-top:4px">${esc(t('pk_souba_at'))} ${state.pkLayout}: ${g.souba!=null?yen(g.souba):'—'} · ${esc(tx(SOUBA_NOTE))}</p>
     </div>
+    ${(() => {
+      const pHomes = getAllCorridorHomes().filter(h => {
+        const pkt = pocketForListing(h);
+        return pkt && pkt.id === p.id;
+      });
+      if (pHomes.length === 0) return '';
+      return `<div class="sect">
+        <h3>${esc(LANG.cur==='ja'?'この街角の掲載物件':'Homes in this Pocket')} (${pHomes.length})</h3>
+        <div class="pocket-homes-row">
+          ${pHomes.slice(0, 12).map(h => `
+            <div class="pocket-home-chip" data-case="${h.id}">
+              <b title="${esc(tx(h.name))}">${esc(tx(h.name))}</b>
+              <span style="font-weight:700;color:var(--shu)">${yen(h.rent)}</span>
+              <span>${esc(h.layout)}${h.m2 ? ' · ' + h.m2 + 'm²' : ''}</span>
+            </div>
+          `).join('')}
+        </div>
+      </div>`;
+    })()}
     <div class="sheetacts">
       <span class="cta" data-homesat="${p.st}">${esc(t('pk_seehomes'))} →</span>
       <span class="cta ghost" data-area="${p.st}">${esc(t('area_btn'))}: ${esc(LANG.cur==='ja'?st.ja:st.en)}</span>
@@ -1270,6 +1394,7 @@ function filteredHomes(){
   const goalMin = activeGoalMin();
   let hs = allHomes.filter(l => {
     if (state.fStation!=='all' && l.st!==state.fStation) return false;
+    if (state.fPocket!=='all' && pocketForListing(l)?.id!==state.fPocket) return false;
     if (state.fLayout!=='all' && layoutClass(l)!==state.fLayout) return false;
     if (state.fTier!=='all') {
       if (state.fTier==='LIVE' && l.tier!=='LIVE') return false;
@@ -1288,13 +1413,32 @@ function filteredHomes(){
     if (state.fQuick==='family' && !((l.layout||'').includes('2') || (l.layout||'').includes('3'))) return false;
     return qMatch('listing', l).ok;
   });
+
+  let isCrossMatch = false;
+  if (hs.length === 0 && (state.q || '').trim() && state.corridor !== 'all') {
+    const cross = getAllCorridorHomes().filter(l => qMatch('listing', l).ok);
+    if (cross.length > 0) {
+      hs = cross;
+      isCrossMatch = true;
+    }
+  }
+
   const key = l => Math.abs(calcCommute(l.st, state.dest).median - goalMin);
   if (state.sort==='rent') hs.sort((a,b) => (a.rent||9e9)-(b.rent||9e9));
   else if (state.sort==='size') hs.sort((a,b) => (b.m2||0)-(a.m2||0));
   else if (state.sort==='radio' && state.taste) hs.sort((a,b) => tasteScore(b)-tasteScore(a));
+  else if (state.sort==='pocket') {
+    hs.sort((a,b) => {
+      const pa = (pocketForListing(a)?.name?.[LANG.cur==='ja'?'ja':'en'] || '');
+      const pb = (pocketForListing(b)?.name?.[LANG.cur==='ja'?'ja':'en'] || '');
+      return pa.localeCompare(pb);
+    });
+  }
   else hs.sort((a,b) => key(a)-key(b));
   // stand-ins never outrank the real thing (the editorial-sorts-last rule)
-  return hs.filter(l=>l.tier==='LIVE').concat(hs.filter(l=>l.tier!=='LIVE'));
+  const res = hs.filter(l=>l.tier==='LIVE').concat(hs.filter(l=>l.tier!=='LIVE'));
+  if (isCrossMatch) res._crossMatch = true;
+  return res;
 }
 function layoutOptions(){
   const allHomes = activeHomes();
@@ -1401,7 +1545,7 @@ function homesView(){
     <button class="quick-chip ${state.fQuick==='family'?'on':''}" data-qfilter="family">
       2LDK+ ${esc(LANG.cur==='ja'?'ファミリー':'Family')} <span class="q-count">${nFamily}</span>
     </button>
-    ${(state.fStation!=='all' || state.fLayout!=='all' || state.fTier!=='all' || state.fQuick!=='all' || state.sort!=='goal') ?
+    ${(state.fStation!=='all' || state.fPocket!=='all' || state.fLayout!=='all' || state.fTier!=='all' || state.fQuick!=='all' || state.sort!=='goal') ?
       `<button class="quick-chip" data-qfilter="clear" style="margin-left:auto;color:var(--shu);border-color:var(--shu)">
         ✕ ${esc(LANG.cur==='ja'?'リセット':'Clear filters')}
       </button>` : ''}
@@ -1416,6 +1560,10 @@ function homesView(){
         return `<option value="${s.id}" ${state.fStation===s.id?'selected':''}>${esc(LANG.cur==='ja'?s.ja:s.en)} (${cnt})</option>`;
       }).join('')}
     </select>
+    <select id="fpocket" aria-label="Pocket">
+      <option value="all">${esc(LANG.cur==='ja'?'街角: 全て':'Pocket: All')} (${activePockets().length})</option>
+      ${activePockets().map(p => `<option value="${p.id}" ${state.fPocket===p.id?'selected':''}>🏮 ${esc(LANG.cur==='ja'?p.name.ja:p.name.en)}</option>`).join('')}
+    </select>
     <select id="flayout" aria-label="${esc(t('f_layout'))}">
       <option value="all">${esc(t('f_layout'))}: ${esc(t('f_all'))}</option>
       ${layoutOptions().map(v=>`<option ${state.fLayout===v?'selected':''}>${v}</option>`).join('')}
@@ -1427,13 +1575,23 @@ function homesView(){
       <option value="LUXURY" ${state.fTier==='LUXURY'?'selected':''}>${esc(t('tier_luxury'))}</option>
     </select>
     <select id="fsort" aria-label="${esc(t('f_sort'))}">
-      ${[['goal',t('sort_goal')],['rent',t('sort_rent')],['size',t('sort_size')]]
+      ${[['goal',t('sort_goal')],['rent',t('sort_rent')],['size',t('sort_size')],['pocket',LANG.cur==='ja'?'街角順':'By Pocket']]
         .concat(state.taste?[['radio',t('sort_radio')]]:[])
         .map(([v,lab])=>`<option value="${v}" ${state.sort===v?'selected':''}>${esc(t('f_sort'))}: ${esc(lab)}</option>`).join('')}
     </select>
     <span class="count">${hs.length} ${esc(t('n_homes'))}</span>
   </div>
-  <p class="note"><b>${hs.length}</b> ${esc(t('n_homes'))} ${state.fStation!=='all'||state.fQuick!=='all'||state.fTier!=='all'?'matching filter':'across corridor'} · ${nLive} <b>LIVE</b> · ${nRep} REP · ${esc(LANG.cur==='ja'?'取得':'fetched')} ${FETCHED}</p>
+  ${hs._crossMatch ? `
+    <div class="cross-match-banner">
+      <div>
+        🌐 <b>${esc(LANG.cur==='ja'?'他路線で見つかった物件':'Found in Another Living Corridor')}:</b>
+        ${esc(LANG.cur==='ja'?'現在選択中の路線外ですが、検索条件に一致した物件を表示しています。':'This listing matches your search in another living corridor.')}
+      </div>
+      <button type="button" class="quick-chip on" data-corridor-switch="all" style="font-size:12px;padding:4px 10px;cursor:pointer">
+        ${esc(LANG.cur==='ja'?'全路線を表示する':'Switch to All Corridors')} →
+      </button>
+    </div>` : ''}
+  <p class="note"><b>${hs.length}</b> ${esc(t('n_homes'))} ${state.fStation!=='all'||state.fPocket!=='all'||state.fQuick!=='all'||state.fTier!=='all'?'matching filter':'across corridor'} · ${nLive} <b>LIVE</b> · ${nRep} REP · ${esc(LANG.cur==='ja'?'取得':'fetched')} ${FETCHED}</p>
   <div class="grid">${hs.map(card).join('')}</div>`;
 }
 function rentLine(l){
@@ -1470,6 +1628,15 @@ function card(l){
         ${noiseSummary(l.st)?`<span class="badge b-transfer" title="${esc(tx(noiseSummary(l.st)))}">⚠ ${esc(t('noise_chip'))}</span>`:''}
       </div>
     </div>
+    ${(() => {
+      const pkt = pocketForListing(l);
+      if (!pkt) return '';
+      return `<div class="card-pocket-bar" data-pocket="${pkt.id}" title="${esc(tx(pkt.name))}">
+        <span class="pkt-badge">🏮 ${esc(tx(pkt.name))}</span>
+        <span class="pkt-gem">${esc(tx(pkt.gem))}</span>
+        <span class="pkt-link">${esc(LANG.cur==='ja'?'街角カルテ':'Pocket')} →</span>
+      </div>`;
+    })()}
     ${matchLine(qMatch('listing', l).reasons)}
     <div class="cardacts">
       <span class="mini">${esc(t('case_btn'))}</span>
@@ -1481,10 +1648,10 @@ function card(l){
 
 /* ————— case sheet ————— */
 function openCase(id){
-  const allH = activeHomes();
+  const allH = getAllCorridorHomes();
   const l = allH.find(h => h.id===id) || (typeof HOMES !== 'undefined' && HOMES.find(h => h.id===id));
   if (!l) return;
-  const st = activeStations().find(s => s.id === l.st) || (typeof STATIONS !== 'undefined' && typeof S_IDX !== 'undefined' && STATIONS[S_IDX[l.st]]) || { en:l.st, ja:l.st, num:'' };
+  const st = getAllCorridorStations().find(s => s.id === l.st) || activeStations().find(s => s.id === l.st) || { en:l.st, ja:l.st, num:'' };
   const eff = (l.deposit_mo!=null||l.key_mo!=null||l.deposit_yen!=null||l.key_yen!=null) ? effCost(l) : null;
   const dList = activeDests();
   const commRows = dList.map(d => {
@@ -1492,7 +1659,7 @@ function openCase(id){
     return `<tr><td>${esc(tx(d))}</td><td>${c.walkOnly?esc(t('walkonly')):(l.approx?'≈':'')+c.median+'′'}</td><td>${c.walkOnly?'—':c.p90+'′'}</td>
       <td>${c.walkOnly?'':`<span class="badge ${c.direct?'b-direct':'b-transfer'}">${esc(c.direct?t('direct'):t('transfer')+' ×'+c.transfers)}</span>`}</td></tr>`;
   }).join('');
-  const a = areaFor(l.st);
+  const a = areaFor(l.st) || {};
   const dep = l.deposit_mo!=null ? (l.deposit_mo===0?'0':l.deposit_mo+' mo') : l.deposit_yen!=null ? yen(l.deposit_yen) : '—';
   const key = l.key_mo!=null ? (l.key_mo===0?'0':l.key_mo+' mo') : l.key_yen!=null ? yen(l.key_yen) : '—';
   $('#overlay').innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(tx(l.name))}">
@@ -1522,7 +1689,31 @@ function openCase(id){
       <table class="commtable"><tr><th>${esc(t('dest'))}</th><th>${esc(t('med'))}</th><th>${esc(t('p90'))}</th><th></th></tr>${commRows}</table>
       <p class="provrow" style="margin-top:7px">${esc(t('typ_verify'))} · ${esc(LANG.cur==='ja'?'p90＝中央値+運転間隔×0.4+乗換×4分':'p90 = median + headway·0.4 + 4′·transfer')}${l.stNote?` · ${esc(tx(l.stNote))}`:''}</p>
     </div>
-    <div class="sect"><h3>${esc(t('sheet_area'))} — ${esc(LANG.cur==='ja'?st.ja:st.en)}</h3>
+    ${(() => {
+      const pkt = pocketForListing(l);
+      if (!pkt) return '';
+      const radarMini = pkt.ax ? `<div class="commline" style="margin-top:8px">
+        <span class="badge b-rep">🤫 ${esc(LANG.cur==='ja'?'静寂':'Quiet')} ${pkt.ax.quiet}/5</span>
+        <span class="badge b-rep">🍜 ${esc(LANG.cur==='ja'?'食文化':'Food')} ${pkt.ax.food}/5</span>
+        <span class="badge b-rep">🌿 ${esc(LANG.cur==='ja'?'緑道':'Green')} ${pkt.ax.green}/5</span>
+        <span class="badge b-rep">🏮 ${esc(LANG.cur==='ja'?'風情':'Retro')} ${pkt.ax.old ?? pkt.ax.retro ?? 3}/5</span>
+      </div>` : '';
+      return `<div class="sect">
+        <div class="pocket-dossier-box">
+          <div class="pocket-dossier-header">
+            <span class="pocket-dossier-tag" style="font-weight:700;color:var(--shu)">🏮 NEIGHBORHOOD POCKET · 街角カルテ</span>
+            <button type="button" class="mini" data-pocket="${pkt.id}" style="margin-left:auto;cursor:pointer">
+              ${esc(LANG.cur==='ja'?'この街角を詳しく見る':'Explore Pocket Dossier')} →
+            </button>
+          </div>
+          <h4 style="margin:6px 0 4px;font-size:16px">${esc(tx(pkt.name))} <small style="font-weight:normal;color:var(--muted)">${esc(ty(pkt.name))}</small></h4>
+          <p style="margin:0;font-size:13.5px;color:var(--ink)">${esc(tx(pkt.gem))}</p>
+          ${pkt.noiseWatch ? `<p class="note" style="color:var(--warn);margin:8px 0 0">⚠ <b>${esc(LANG.cur==='ja'?'環境留意点':'Environmental Watch')}:</b> ${esc(tx(pkt.noiseWatch))}</p>` : ''}
+          ${radarMini}
+        </div>
+      </div>`;
+    })()}
+    ${a.char ? `<div class="sect"><h3>${esc(t('sheet_area'))} — ${esc(LANG.cur==='ja'?st.ja:st.en)}</h3>
       <p style="margin:0 0 10px">${esc(tx(a.char)||'')}</p>
       <div class="commline">
         ${a.quiet?`<span class="badge b-rep" title="${esc(t('noise_scale'))}">${esc(LANG.cur==='ja'?'夜':'quiet')} ${a.quiet.v}/5 <i class="tierchip tc-P">P</i></span>`:''}
@@ -1534,7 +1725,7 @@ function openCase(id){
       ${a.noise?`<p class="note" style="color:var(--warn);margin:10px 0 0">⚠ ${esc(tx(noiseSummary(l.st)))}</p>`:''}
       ${a.senses?`<p class="note" style="margin:10px 0 0">👃 ${senseHtml(a.senses)}</p>`:''}
       <p style="margin:10px 0 0"><span class="mini" data-area="${l.st}">${esc(LANG.cur==='ja'?'街ファイルを開く':'Open the full area file')} →</span></p>
-    </div>
+    </div>` : ''}
     <div class="sect">
       <details class="ledger"><summary>${esc(t('sheet_ledger'))}</summary><div class="schema">${esc(l.tier==='LIVE'
         ? `source: ${l.srcName} · fetched ${FETCHED} · rent quoted exactly as listed${l.urlNote?`\nurl: ward list page (${tx(l.urlNote)})`:`\nurl: listing detail page`}${l.stNote?`\nstation note: ${tx(l.stNote)}`:''}\ncommute: typical-scheduled model (tier E) — ODPT adapter queued\narea file: per-field tiers V/S/P/E/Q — see area sheet`
@@ -1760,7 +1951,7 @@ document.addEventListener('click', e => {
     e.preventDefault();
     const qf = el.dataset.qfilter;
     if (qf === 'clear'){
-      state.fStation = 'all'; state.fLayout = 'all'; state.fTier = 'all'; state.fQuick = 'all'; state.sort = 'goal';
+      state.fStation = 'all'; state.fPocket = 'all'; state.fLayout = 'all'; state.fTier = 'all'; state.fQuick = 'all'; state.sort = 'goal';
     } else {
       state.fQuick = (state.fQuick === qf ? 'all' : qf);
       if (state.fQuick === 'luxury') state.fTier = 'LUXURY';
@@ -1821,7 +2012,7 @@ document.addEventListener('click', e => {
   if (el.dataset.pkstart){ state.pk = { i:0, u:{}, touched:new Set(), done:false, skipped:false, shownAt: performance.now() }; render(); return; }
   if (el.dataset.pkskip){ if (state.pk) state.pk.skipped = true; render(); return; }
   if (el.dataset.pkredo){ state.pk = { i:0, u:{}, touched:new Set(), done:false, skipped:false, shownAt: performance.now() }; render(); return; }
-  if (el.dataset.pocket){ e.preventDefault(); openPocket(el.dataset.pocket); return; }
+  if (el.dataset.pocket){ e.stopPropagation(); e.preventDefault(); openPocket(el.dataset.pocket); return; }
   if (el.dataset.love){
     e.stopPropagation(); e.preventDefault();
     const id = el.dataset.love;
@@ -1899,6 +2090,7 @@ document.addEventListener('change', e => {
     return;
   }
   if (e.target.id === 'fstation'){ state.fStation = e.target.value; render(); return; }
+  if (e.target.id === 'fpocket'){ state.fPocket = e.target.value; render(); return; }
   if (e.target.id === 'flayout'){ state.fLayout = e.target.value; render(); return; }
   if (e.target.id === 'ftier'){ state.fTier = e.target.value; render(); return; }
   if (e.target.id === 'fsort'){ state.sort = e.target.value; render(); return; }
