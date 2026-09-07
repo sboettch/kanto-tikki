@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-lv01-hero-portrait-v2",
+ "state": "COMMUNITY_REFERENCE",
+ "display_label": "Listing hero — community reference model in washi/sumi illustrated exterior. Not a photograph. Architectural study based on listed facts.",
+ "card_label": "COMMUNITY REFERENCE · 外観イメージ",
+ "detail_label": "COMMUNITY REFERENCE · washi/sumi illustrated hero — 10-storey scale, RC structure and grey-tile facade drawn from listing facts; street scene reflects Nihombashi-Hamacho neighborhood character",
+ "generated_at": "2026-09-03",
+ "generator": "Kyojima-Grade Washi/Gouache Master Generator (1024×576 16:9 cinematic washi paper fuse)",
+ "method": "listed-fact architectural portrait with washi paper texture, deckled border, sumi-ink contour linework, and warm twilight illumination",
+ "output": {
+  "local_path": "kanto/portraits/lv01_hero.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 576,
+  "sha256": "bc998f693ae77ee7e963ef157bab2be95da06040786780415273d64efc70cdbc"
+ },
+ "visual_proximity": {
+  "status": "MASSING_FACTS_AND_MATERIAL_STUDY",
+  "grade": "COMMUNITY_STUDY",
+  "score_basis": "scale, 10-storey height, RC structure, and grey-tile finish authored from verified agency listing facts; neighborhood streetscape typology drawn from Nihombashi-Hamacho corridor",
+  "matched_attributes": [
+   "10 storeys — as listed",
+   "built 2022-03 — as listed",
+   "area: Nihombashihamacho, Chūō-ku",
+   "structure RC — as listed",
+   "stated by agency: 'grey toned tiled stylish exterior'"
+  ],
+  "not_asserted": [
+   "current daily exterior condition",
+   "exact neighboring parcel buildings",
+   "interior unit layouts beyond madori",
+   "on-site photograph representation"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled Community Reference Model at every display surface.",
+  "Illustrates building scale, materials, and typology from listed facts; not a photograph.",
+  "Provides authentic neighborhood atmosphere without misrepresenting current on-site physical state."
+ ]
+}

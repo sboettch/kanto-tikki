@@ -1,0 +1,39 @@
+{
+ "asset_id": "kanto-lv19-massing-portrait-v1",
+ "state": "SYNTHETIC",
+ "display_label": "Massing portrait — storeys/structure from the listing; facade style typologized. Not a photograph.",
+ "card_label": "SYNTHETIC · massing portrait 外形図",
+ "detail_label": "SYNTHETIC · massing portrait — floors, structure and build year are the listing's; window rhythm and colors are typology, not observation",
+ "generated_at": "2026-09-02",
+ "generator": "procedural elevation (PIL); replaced 1:1 by reference reconstruction after review (renders/PACKETS.json)",
+ "method": "listed-fact massing: countable floors, structure palette, layout-scaled bays",
+ "output": {
+  "local_path": "kanto/portraits/lv19.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 420,
+  "sha256": "64b81f1c56ce08a393f458938337593a135ebbd83606c4c95e2772fa357b7b75"
+ },
+ "visual_proximity": {
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "NOT SCORED",
+  "score_basis": "no exterior-photo comparison performed; only listed numeric facts are asserted",
+  "matched_attributes": [
+   "7 storeys — as listed",
+   "built 2018 — as listed",
+   "structure RC — as listed"
+  ],
+  "not_asserted": [
+   "actual facade appearance beyond stated facts",
+   "window placement",
+   "colors (except stated)",
+   "site context",
+   "current condition"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled synthetic at every display surface.",
+  "Asserts only what the listing states: storey count, structure, build year, layout scale.",
+  "Retired automatically when the reference reconstruction for this listing passes HIGH/MEDIUM review."
+ ]
+}

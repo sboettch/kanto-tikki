@@ -1,0 +1,57 @@
+{
+ "asset_id": "kanto-kawasaki-area-essence-v1",
+ "area_key": "kawasaki",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — synthetic editorial illustration, not a photograph, not this home",
+ "card_label": "SYNTHETIC · area essence 想像図",
+ "detail_label": "SYNTHETIC · area essence — editorial illustration of the station area's documented typology · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (PIL r9); adapter is replaceable (StreamDiffusion / OpenAI per docs/VISUAL_PROXIMITY_PIPELINE.md)",
+ "method": "procedural composition from documented place facts; paper aesthetic: wash sky, sumi hatching, washi grain, ink outlines",
+ "output": {
+  "local_path": "kanto/essence/kawasaki.png",
+  "format": "PNG",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "bd6e32dc654a70b2a6b07aeb48ba1ca8da7713d9e338061ee23d0e88eece4df2",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; scene elements are drawn only from documented area facts listed in matched_attributes; stylized washi/sumi register chosen deliberately — without ground-truth photos, illustration carries lower expectation error than photorealism",
+  "matched_attributes": [
+   "terminal towers",
+   "cinema-city glow",
+   "factory horizon"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is synthetic and labeled at every display surface.",
+  "It illustrates the station area's documented typology, never a listable property.",
+  "The floor-plan glyph remains the property-level hero; the essence is context only.",
+  "A StreamDiffusion/OpenAI reference-informed upgrade replaces this asset through the same manifest contract (render queue)."
+ ],
+ "animated_output": {
+  "local_path": "kanto/essence/kawasaki_live.webp",
+  "format": "WEBP_ANIM",
+  "frames": 36,
+  "fps": 12,
+  "loop": true,
+  "sha256": "f086ea5879e577c4a79b96068feb4ad4e73e21a702a3d45b1d5669cc035d55f4",
+  "note": "same scene, ambient motion only — a train passing, lantern sway, canal shimmer, star twinkle; motion is editorial texture and claims no event"
+ }
+}

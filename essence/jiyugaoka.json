@@ -1,0 +1,38 @@
+{
+ "asset_id": "kanto-jiyugaoka-area-essence-v1",
+ "area_key": "jiyugaoka",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — illustrated, not a photograph, not this home",
+ "card_label": "Illustrated · area essence 想像図",
+ "detail_label": "Illustrated · area essence — editorial illustration of the station area's documented character · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "Gemini image generation — painterly editorial illustration style",
+ "method": "AI-generated from documented place facts; labeled as illustrated at all display surfaces",
+ "output": {
+  "local_path": "kanto/essence/jiyugaoka.webp",
+  "format": "WEBP",
+  "sha256": "5213502ef14450e2c5b8a8df773d228a12a7da1e56d53d44c1ce42c0a7220cf8"
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; elements drawn from documented area facts; painterly illustration register chosen deliberately",
+  "matched_attributes": [
+   "European pastry shop street",
+   "French patisserie storefronts",
+   "planter boxes",
+   "piazza feel"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is illustrated and labeled at every display surface.",
+  "It illustrates the station area's documented character, never a listable property.",
+  "A reference-photo-informed upgrade replaces this asset when available."
+ ]
+}

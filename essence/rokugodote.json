@@ -1,0 +1,57 @@
+{
+ "asset_id": "kanto-rokugodote-area-essence-v1",
+ "area_key": "rokugodote",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — synthetic editorial illustration, not a photograph, not this home",
+ "card_label": "SYNTHETIC · area essence 想像図",
+ "detail_label": "SYNTHETIC · area essence — editorial illustration of the station area's documented typology · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (PIL r9); adapter is replaceable (StreamDiffusion / OpenAI per docs/VISUAL_PROXIMITY_PIPELINE.md)",
+ "method": "procedural composition from documented place facts; paper aesthetic: wash sky, sumi hatching, washi grain, ink outlines",
+ "output": {
+  "local_path": "kanto/essence/rokugodote.png",
+  "format": "PNG",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "4b652944b92c158d419f3e3432b7817695e6615377bb04dba1756754d200b4b3",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; scene elements are drawn only from documented area facts listed in matched_attributes; stylized washi/sumi register chosen deliberately — without ground-truth photos, illustration carries lower expectation error than photorealism",
+  "matched_attributes": [
+   "Tama levee grass",
+   "river glint",
+   "Rokugō bridge line"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is synthetic and labeled at every display surface.",
+  "It illustrates the station area's documented typology, never a listable property.",
+  "The floor-plan glyph remains the property-level hero; the essence is context only.",
+  "A StreamDiffusion/OpenAI reference-informed upgrade replaces this asset through the same manifest contract (render queue)."
+ ],
+ "animated_output": {
+  "local_path": "kanto/essence/rokugodote_live.webp",
+  "format": "WEBP_ANIM",
+  "frames": 36,
+  "fps": 12,
+  "loop": true,
+  "sha256": "2cbc0d774cf7c3bcd0905f50ed5702245b886c3e06a2d2dbcd1f303c5fa5621f",
+  "note": "same scene, ambient motion only — a train passing, lantern sway, canal shimmer, star twinkle; motion is editorial texture and claims no event"
+ }
+}

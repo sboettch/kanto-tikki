@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-lv43-hero-portrait-v1",
+ "state": "SYNTHETIC",
+ "display_label": "Listing hero — synthetic washi/sumi illustrated exterior. Not a photograph. Not this building's current appearance.",
+ "card_label": "SYNTHETIC · illustrated hero 外観図",
+ "detail_label": "SYNTHETIC · washi/sumi illustrated hero — building scale, structure and facade type drawn from listing facts; street scene is area typology; current appearance, site context, and interior are unknown",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural hero (PIL r9, portrait_gen.py); replaced 1:1 by reference reconstruction after review (renders/PACKETS.json)",
+ "method": "listed-fact illustrated elevation with washi wash sky, sumi hatch, ink outline, paper grain",
+ "output": {
+  "local_path": "kanto/portraits/lv43_hero.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 576,
+  "sha256": "fbaba6debb2fda5a58f85aac1c6025a7130803af43bf5041cbd6b67ae252e82c"
+ },
+ "visual_proximity": {
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "NOT SCORED",
+  "score_basis": "no exterior-photo comparison performed; scale/structure from listing; facade illustration is washi/sumi typology, not ground-truth observation",
+  "matched_attributes": [
+   "4 storeys — as listed",
+   "built 2018 — as listed",
+   "area: sengakuji",
+   "structure steel — as listed"
+  ],
+  "not_asserted": [
+   "actual facade appearance",
+   "current exterior condition",
+   "site context or neighbors",
+   "street-level detail",
+   "interior"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled synthetic at every display surface.",
+  "Illustrates building scale and type from listed facts; not the actual building.",
+  "Retired when the reference reconstruction passes HIGH/MEDIUM review (renders/PACKETS.json)."
+ ]
+}

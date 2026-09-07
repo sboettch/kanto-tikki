@@ -1,0 +1,49 @@
+{
+ "asset_id": "kanto-lv53-hero-portrait-v1",
+ "state": "SYNTHETIC",
+ "display_label": "Listing hero — synthetic washi/sumi illustrated exterior. Not a photograph. Not this building's current appearance.",
+ "card_label": "SYNTHETIC · illustrated hero 外観図",
+ "detail_label": "SYNTHETIC · washi/sumi illustrated hero — building scale, structure and facade type drawn from listing facts; street scene is area typology; current appearance, site context, and interior are unknown",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural hero (PIL r9, portrait_gen.py); replaced 1:1 by reference reconstruction after review (renders/PACKETS.json)",
+ "method": "listed-fact illustrated elevation with washi wash sky, sumi hatch, ink outline, paper grain",
+ "output": {
+  "local_path": "kanto/portraits/lv53_hero.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 576,
+  "sha256": "8fb3332ed7c21fbb7d62969a698aaba17fa33e0d176823c3c950e88535f92053",
+  "shoji_pass": {
+   "pipeline": "Shoji Pass · Kosmos + SD-Turbo dual-layer horizon fuse · Luminous Paper Theater (kokogarden v1)",
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_building": 0.35,
+   "horizon_frac": 0.68,
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "NOT SCORED",
+  "score_basis": "no exterior-photo comparison performed; scale/structure from listing; facade illustration is washi/sumi typology, not ground-truth observation",
+  "matched_attributes": [
+   "12 storeys — as listed",
+   "built 2018 — as listed",
+   "area: kitashina",
+   "structure RC — as listed"
+  ],
+  "not_asserted": [
+   "actual facade appearance",
+   "current exterior condition",
+   "site context or neighbors",
+   "street-level detail",
+   "interior"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled synthetic at every display surface.",
+  "Illustrates building scale and type from listed facts; not the actual building.",
+  "Retired when the reference reconstruction passes HIGH/MEDIUM review (renders/PACKETS.json)."
+ ]
+}

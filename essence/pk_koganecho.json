@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-pk_koganecho-pocket-essence-v1",
+ "area_key": "pk_koganecho",
+ "state": "SYNTHETIC",
+ "display_label": "Pocket essence — Koganechō arts district. Synthetic editorial illustration, not a photograph.",
+ "card_label": "SYNTHETIC · pocket essence 地域図",
+ "detail_label": "SYNTHETIC · pocket essence — editorial illustration of Koganechō arts district typology · not a photograph",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (pocket_gen.py)",
+ "method": "procedural composition from documented pocket facts",
+ "output": {
+  "local_path": "kanto/essence/pk_koganecho.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "70df93dcfd6d99bcefd14d77eef70294d899889806d7c372ecfd0390810a74fc",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "matched_attributes": [
+   "railway viaduct studio arches",
+   "riverbank willow walk",
+   "Ōoka river reflections"
+  ],
+  "not_asserted": [
+   "specific storefronts",
+   "current weather",
+   "exact geometry"
+  ]
+ }
+}

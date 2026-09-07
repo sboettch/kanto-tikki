@@ -1,0 +1,39 @@
+{
+ "asset_id": "kanto-seijogakuinmae-area-essence-v1",
+ "area_key": "seijogakuinmae",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — illustrated, not a photograph, not this home",
+ "card_label": "Illustrated · area essence 想像図",
+ "detail_label": "Illustrated · area essence — editorial illustration of the station area's documented character · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "Gemini image generation — painterly editorial illustration style",
+ "method": "AI-generated from documented place facts; labeled as illustrated at all display surfaces",
+ "output": {
+  "local_path": "kanto/essence/seijogakuinmae.webp",
+  "format": "WEBP",
+  "sha256": "426cb56ead7be5ffb6dd0b7de1f6a3b8b58d9dcf6944ac36936489706cb099ac"
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; elements drawn from documented area facts; painterly illustration register chosen deliberately",
+  "matched_attributes": [
+   "Seijo boulevard",
+   "torii gate visible",
+   "large houses behind hedges",
+   "autumn trees",
+   "old-money residential"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is illustrated and labeled at every display surface.",
+  "It illustrates the station area's documented character, never a listable property.",
+  "A reference-photo-informed upgrade replaces this asset when available."
+ ]
+}

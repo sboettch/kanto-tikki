@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-pk_umeyashiki-pocket-essence-v1",
+ "area_key": "pk_umeyashiki",
+ "state": "SYNTHETIC",
+ "display_label": "Pocket essence — Umeyashiki back grid. Synthetic editorial illustration, not a photograph.",
+ "card_label": "SYNTHETIC · pocket essence 地域図",
+ "detail_label": "SYNTHETIC · pocket essence — editorial illustration of Umeyashiki back grid typology · not a photograph",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (pocket_gen.py)",
+ "method": "procedural composition from documented pocket facts",
+ "output": {
+  "local_path": "kanto/essence/pk_umeyashiki.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "761652c0a4d21fb039eb82d14acc6bdb586cbf070c05ea108f7de72745b9f42f",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "matched_attributes": [
+   "plum-garden pace",
+   "sentō brick chimney",
+   "residential laundry-line dusk"
+  ],
+  "not_asserted": [
+   "specific storefronts",
+   "current weather",
+   "exact geometry"
+  ]
+ }
+}

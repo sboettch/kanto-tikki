@@ -1,0 +1,37 @@
+{
+ "asset_id": "kanto-hiyoshi-area-essence-v1",
+ "area_key": "hiyoshi",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — illustrated, not a photograph, not this home",
+ "card_label": "Illustrated · area essence 想像図",
+ "detail_label": "Illustrated · area essence — editorial illustration of the station area's documented character · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "Gemini image generation — painterly editorial illustration style",
+ "method": "AI-generated from documented place facts; labeled as illustrated at all display surfaces",
+ "output": {
+  "local_path": "kanto/essence/hiyoshi.webp",
+  "format": "WEBP",
+  "sha256": "4f05b8d4763eee1f643880bac9142d9e5be07eb6c5f6edd120fa8ecae10d52ef"
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; elements drawn from documented area facts; painterly illustration register chosen deliberately",
+  "matched_attributes": [
+   "Keio University campus gate",
+   "ginkgo avenue",
+   "student shotengai arcade"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is illustrated and labeled at every display surface.",
+  "It illustrates the station area's documented character, never a listable property.",
+  "A reference-photo-informed upgrade replaces this asset when available."
+ ]
+}

@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build & staging artifacts
+deploy/public/
+*.tar.gz
+_to_delete_*
+
+# Editor & local environment
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Wrangler
+node_modules/
+.wrangler/
+npm-debug.log*

@@ -1,0 +1,55 @@
+{
+ "asset_id": "kanto-zoshiki-area-essence-v1",
+ "area_key": "zoshiki",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — synthetic editorial illustration, not a photograph, not this home",
+ "card_label": "SYNTHETIC · area essence 想像図",
+ "detail_label": "SYNTHETIC · area essence — editorial illustration of the station area's documented typology · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (PIL r9); adapter is replaceable (StreamDiffusion / OpenAI per docs/VISUAL_PROXIMITY_PIPELINE.md)",
+ "method": "procedural composition from documented place facts; paper aesthetic: wash sky, sumi hatching, washi grain, ink outlines",
+ "output": {
+  "local_path": "kanto/essence/zoshiki.png",
+  "format": "PNG",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "7b22fd07dd30102c13b19d36e140fdb3684ae88faf2fc6bc7ce6b656ec1502f8",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; scene elements are drawn only from documented area facts listed in matched_attributes; stylized washi/sumi register chosen deliberately — without ground-truth photos, illustration carries lower expectation error than photorealism",
+  "matched_attributes": [
+   "the kilometre-long covered shōtengai itself"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is synthetic and labeled at every display surface.",
+  "It illustrates the station area's documented typology, never a listable property.",
+  "The floor-plan glyph remains the property-level hero; the essence is context only.",
+  "A StreamDiffusion/OpenAI reference-informed upgrade replaces this asset through the same manifest contract (render queue)."
+ ],
+ "animated_output": {
+  "local_path": "kanto/essence/zoshiki_live.webp",
+  "format": "WEBP_ANIM",
+  "frames": 36,
+  "fps": 12,
+  "loop": true,
+  "sha256": "3567f173fc48286b4c1a583b6ca6e66c5be6fb8127cde76c0cc9d81058b961f2",
+  "note": "same scene, ambient motion only — a train passing, lantern sway, canal shimmer, star twinkle; motion is editorial texture and claims no event"
+ }
+}

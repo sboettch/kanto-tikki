@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-pk_ginzaeast-pocket-essence-v1",
+ "area_key": "pk_ginzaeast",
+ "state": "SYNTHETIC",
+ "display_label": "Pocket essence — Ginza East · Shintomi. Synthetic editorial illustration, not a photograph.",
+ "card_label": "SYNTHETIC · pocket essence 地域図",
+ "detail_label": "SYNTHETIC · pocket essence — editorial illustration of Ginza East · Shintomi typology · not a photograph",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (pocket_gen.py)",
+ "method": "procedural composition from documented pocket facts",
+ "output": {
+  "local_path": "kanto/essence/pk_ginzaeast.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "3c17044a29ad2d6e51d9033c1f49ee8db956361475e7b9e62fb8b9eaca2d7ba4",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "matched_attributes": [
+   "Kabukiza theater roofline",
+   "Ginza neon spill",
+   "quiet artisan printing quarter"
+  ],
+  "not_asserted": [
+   "specific storefronts",
+   "current weather",
+   "exact geometry"
+  ]
+ }
+}

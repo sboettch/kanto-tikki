@@ -1,0 +1,116 @@
+{
+  "contract": "hometikki visual-proximity input packet v1 (docs/VISUAL_PROXIMITY_PIPELINE.md)",
+  "generated_at": "2026-09-02",
+  "rules": [
+    "Reference images are generation inputs with REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED scope: fetched locally by fetch_references.py, never displayed, hotlinked, exported, or published by the app.",
+    "The displayed artifact is always the SYNTHETIC reconstruction, labeled at every surface, released only after manual side-by-side review grades HIGH or MEDIUM.",
+    "Ungraded, LOW, or reference-free outputs fail closed: the app keeps showing madori + area essence and the 'render queued' slot.",
+    "Provider is neutral: gpt-image (autoregressive) or SD/StreamDiffusion img2img — same packet in, same manifest out."
+  ],
+  "packets": [
+    {
+      "property_key": "lv16|RISING-PLACE-KAMATA-MINAMI",
+      "listing_id": "lv16",
+      "source_page_url": "https://www.homes.co.jp/chintai/b-37010800345920/",
+      "observed_at": "2026-09-02",
+      "structured_facts": {
+        "structure": "RC 鉄筋コンクリート", "total_floors": 7, "built": "2013-02",
+        "unit": "4F/403", "exposure": "SW 南西", "address_block": "東京都大田区仲六郷1丁目",
+        "layout": "1K", "m2": 20.59
+      },
+      "image_inputs_discovered": [
+        { "url": "https://image2.homes.jp/smallimg/image.php?file=https%3A%2F%2Fimg-hc.s3-ap-northeast-1.amazonaws.com%2Fimg%2FiRoom%2F15023%2F15023393%2F15023393_2.jpg",
+          "source_role": "primary exterior reference (外観)", "rights_scope": "REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED", "display_or_redistribution": false },
+        { "url_pattern": "gallery 15023393_{1,3..13}.jpg", "source_role": "floor plan + interiors — narrow-scope references only", "display_or_redistribution": false }
+      ],
+      "preserve_attributes": ["7-storey RC massing", "balcony rhythm on SW face", "2013-era compact-1K facade grammar", "Nakarokugō low-rise street context"],
+      "forbidden_inventions": ["extra storeys", "corner retail unless referenced", "landscaping not visible in references"],
+      "output_profile": "street-facing exterior, dusk or overcast neutral, 1024x768",
+      "status": "REFERENCES_DISCOVERED — fetch + generate + manual review pending"
+    },
+    {
+      "property_key": "lv27|LA-PRALLE-TSURUMI",
+      "listing_id": "lv27",
+      "source_page_url": "https://www.homes.co.jp/chintai/room/bc3fae01023ac56715332c4bc629d7e8e8147043/",
+      "observed_at": "2026-09-02",
+      "structured_facts": {
+        "structure": "steel 鉄骨造", "total_floors": 3, "built": "2025-12",
+        "exposure": "SW 南西", "address_block": "神奈川県横浜市鶴見区潮田町1丁目65",
+        "layout": "2LDK", "m2": 63.18,
+        "notable": "SHAIDD55 high sound-insulation floor system"
+      },
+      "image_inputs_discovered": [
+        { "url": "https://image3.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F3704030%2Frent%2F1846%2F2%2F2%2Fsk0r.jpg",
+          "source_role": "primary exterior reference (外観)", "rights_scope": "REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED", "display_or_redistribution": false }
+      ],
+      "preserve_attributes": ["3-storey steel-frame new build (Dec 2025)", "2LDK family-scale fenestration", "Ushioda-chō low-rise block context"],
+      "forbidden_inventions": ["tower massing", "aged patina — the building is one year old"],
+      "output_profile": "street-facing exterior, 1024x768",
+      "status": "REFERENCES_DISCOVERED — fetch + generate + manual review pending"
+    },
+    {
+      "property_key": "lv12|JMF-RESIDENCE-KITASHINAGAWA",
+      "listing_id": "lv12",
+      "source_page_url": "https://www.homes.co.jp/chintai/b-1559940012780/",
+      "observed_at": "2026-09-02",
+      "structured_facts": {
+        "structure": "RC 鉄筋コンクリート", "total_floors": 13, "built": "2018-04",
+        "exposure": "SE 南東", "address_block": "東京都品川区北品川2丁目24-7",
+        "layout": "1K", "m2": 20.04, "notable": "auto-lock entrance, 25-photo gallery"
+      },
+      "image_inputs_discovered": [
+        { "url": "https://image4.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F155994%2Frent%2F12780%2F2%2F2%2F8hcu.jpg",
+          "source_role": "primary exterior reference (外観)", "rights_scope": "REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED", "display_or_redistribution": false },
+        { "url_pattern": "gallery 155994/rent/12780/... (25 photos incl. エントランス)", "source_role": "entrance + context references", "display_or_redistribution": false }
+      ],
+      "preserve_attributes": ["13-storey RC tower massing", "2018 compact-residence facade grammar", "Kitashinagawa 2-chōme mid-rise street"],
+      "forbidden_inventions": ["podium retail unless referenced", "extra tower wings"],
+      "output_profile": "street-facing exterior, 1024x768",
+      "status": "REFERENCES_DISCOVERED — fetch + generate + manual review pending"
+    },
+    {
+      "property_key": "lv30|KOYASU-6MIN-1R",
+      "listing_id": "lv30",
+      "source_page_url": "https://www.homes.co.jp/chintai/room/19d55fde24f93f07dfd8b0c2c16320e7bf652889/",
+      "observed_at": "2026-09-02",
+      "structured_facts": {
+        "structure": "wood 木造", "total_floors": 3, "built": "2026-02",
+        "unit": "1F", "exposure": "E 東", "address_block": "神奈川県横浜市神奈川区大口通 area",
+        "layout": "1R", "m2": 18.0, "notable": "free internet, separate bath/toilet, no deposit/key money"
+      },
+      "image_inputs_discovered": [
+        { "url": "https://image1.homes.jp/smallimg/image.php?file=https%3A%2F%2Fcdn-lambda-img.cloud.ielove.jp%2Fimage%2Frent%2Fc45ac2f1%2F1314_945030_1_132000_132000.jpg",
+          "source_role": "primary listing image (og:image)", "rights_scope": "REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED", "display_or_redistribution": false },
+        { "url": "https://cdn-lambda-img.cloud.ielove.jp/image/rent/c45ac2f1/1314_945030_2_132000_132000.jpg",
+          "source_role": "floor plan reference", "display_or_redistribution": false }
+      ],
+      "preserve_attributes": ["3-storey wooden new build (Feb 2026)", "small-footprint 1R fenestration", "Koyasu backstreet scale"],
+      "forbidden_inventions": ["RC/tile facade — the structure is wood", "more than 3 storeys"],
+      "output_profile": "street-facing exterior, 1024x768",
+      "status": "REFERENCES_DISCOVERED — fetch + generate + manual review pending"
+    },
+    {
+      "property_key": "lv01|BAUS-FLATS-NIHONBASHI-HAMACHO",
+      "listing_id": "lv01",
+      "source_page_url": "https://www.realestate-tokyo.com/rent/B0024248/baus-flats-nihonbashi-hamacho/",
+      "observed_at": "2026-09-02",
+      "structured_facts": {
+        "structure": "RC", "total_floors": 10, "built": "2022-03",
+        "address_block": "Nihombashihamacho, Chuo-ku", "layout": "1LDK (1BR)", "m2": 40.01,
+        "facade_stated": "grey toned tiled stylish exterior design; auto-lock, cameras, video intercom"
+      },
+      "image_inputs_discovered": [
+        { "url": "https://img.plazahomes.co.jp/rental/-/1280/1280/24248_9.jpg", "source_role": "primary reference (PLAZA gallery)", "rights_scope": "REFERENCE_ONLY_NO_REUSE_RIGHTS_ASSERTED", "display_or_redistribution": false },
+        { "url_pattern": "https://img.plazahomes.co.jp/rental/-/1280/1280/24248_{3..21}.jpg", "source_role": "gallery references incl. exterior/common areas", "display_or_redistribution": false }
+      ],
+      "preserve_attributes": ["10-storey RC", "grey tiled facade (stated by agency)", "2022 build", "Hamachō backstreet context"],
+      "forbidden_inventions": ["colors contradicting the stated grey-tile facade"],
+      "output_profile": "street-facing exterior, 1024x768",
+      "status": "REFERENCES_DISCOVERED — fetch + generate + manual review pending"
+    },
+    {
+      "property_key": "PENDING_FETCH",
+      "note": "Remaining LIVE listings with kept detail URLs (lv13 Belc, lv14 ST Residence, lv15 Azalea, lv28 Rowateru, lv29 Le Lien, lv31 Le'a Portside, lv32 Chamaison Ōguchi, lv33 Park Axis Tammachi) follow the same packet shape — run fetch_references.py --discover to fill them from their source_page_url."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+ "asset_id": "kanto-ueno-area-essence-v1",
+ "area_key": "ueno",
+ "state": "SYNTHETIC",
+ "display_label": "Area essence — illustrated, not a photograph, not this home",
+ "card_label": "Illustrated · area essence 想像図",
+ "detail_label": "Illustrated · area essence — editorial illustration of the station area's documented character · not a photograph · not any specific building",
+ "generated_at": "2026-09-02",
+ "generator": "Gemini image generation — painterly editorial illustration style",
+ "method": "AI-generated from documented place facts; labeled as illustrated at all display surfaces",
+ "output": {
+  "local_path": "kanto/essence/ueno.webp",
+  "format": "WEBP",
+  "sha256": "0f96114157ea47ff3e0b9d14930152d1556e50deb7d076c4ae0900445550ddd8"
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "score_basis": "no exact-address reference used; elements drawn from documented area facts; painterly illustration register chosen deliberately",
+  "matched_attributes": [
+   "Ueno Park",
+   "Tokyo National Museum",
+   "Ameyoko market stalls",
+   "Shinobazu Pond",
+   "cherry trees"
+  ],
+  "not_asserted": [
+   "any specific building or storefront",
+   "current condition",
+   "season or weather",
+   "exact geometry or distances"
+  ]
+ },
+ "expectation_contract": [
+  "The essence is illustrated and labeled at every display surface.",
+  "It illustrates the station area's documented character, never a listable property.",
+  "A reference-photo-informed upgrade replaces this asset when available."
+ ]
+}

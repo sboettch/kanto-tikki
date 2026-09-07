@@ -1,0 +1,40 @@
+{
+ "asset_id": "kanto-pk_kamataeast-pocket-essence-v1",
+ "area_key": "pk_kamataeast",
+ "state": "SYNTHETIC",
+ "display_label": "Pocket essence — Kamata east maze. Synthetic editorial illustration, not a photograph.",
+ "card_label": "SYNTHETIC · pocket essence 地域図",
+ "detail_label": "SYNTHETIC · pocket essence — editorial illustration of Kamata east maze typology · not a photograph",
+ "generated_at": "2026-09-02",
+ "generator": "washi/sumi paper procedural scene (pocket_gen.py)",
+ "method": "procedural composition from documented pocket facts",
+ "output": {
+  "local_path": "kanto/essence/pk_kamataeast.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 384,
+  "sha256": "3cf5dbe7f4fb622c607d400550a62266662ab1924b5b66ac9dcd2b78e45191f5",
+  "diffusion_pass": {
+   "model": "stabilityai/sd-turbo",
+   "method": "dual-pass horizon fuse",
+   "strength_sky": 0.5,
+   "strength_ground": 0.35,
+   "style_system": "Luminous paper theater (kokogarden Kosmos v1)",
+   "applied_at": "2026-09-02"
+  }
+ },
+ "visual_proximity": {
+  "status": "AREA_TYPOLOGY_EDITORIAL",
+  "grade": "NOT SCORED",
+  "matched_attributes": [
+   "gyōza pilgrimage grid",
+   "retro alley steam",
+   "24h illuminated shōtengai"
+  ],
+  "not_asserted": [
+   "specific storefronts",
+   "current weather",
+   "exact geometry"
+  ]
+ }
+}
