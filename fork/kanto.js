@@ -1499,7 +1499,15 @@ function openCase(id){
     <button type="button" class="sheet-close" data-close="1" aria-label="${esc(t('close'))}">✕</button>
     <h2>${esc(tx(l.name))} <span class="badge ${l.tier==='LIVE'?'b-live':'b-rep'}">${esc(l.tier==='LIVE'?t('live_badge'):t('rep_badge'))}</span>${l.en_agent?` <span class="badge b-en">${esc(t('en_badge'))}</span>`:''}</h2>
     <p class="jah">${esc(ty(l.name)||'')} · ${esc(LANG.cur==='ja'?st.ja:st.en)}${l.listed?` · ${esc(tx(l.listed.st))}${l.listed.walk?' '+l.listed.walk+'′':''}${l.listed.line?' · '+esc(l.listed.line):''}`:''}</p>
-    ${bldgStrip(l.id)}
+    <div class="shadowbox-container" id="caseShadowboxViewport">
+      <div class="shadowbox-badge">🏮 LIVING 3D SHADOWBOX · 和紙立体図 <i data-bldginfo="${l.id}" role="button" tabindex="0" style="margin-left:6px;cursor:pointer;font-style:normal" aria-label="${esc(t('ess_title'))}">ⓘ</i></div>
+      <div class="shadowbox-controls">
+        <button type="button" class="shadowbox-btn" data-sb-tod="morning">朝</button>
+        <button type="button" class="shadowbox-btn" data-sb-tod="day">昼</button>
+        <button type="button" class="shadowbox-btn active" data-sb-tod="dusk">夕</button>
+        <button type="button" class="shadowbox-btn" data-sb-tod="night">夜</button>
+      </div>
+    </div>
     ${essStrip(l.st, true)}
     <div class="costgrid">
       <div class="fact"><div class="k">${esc(LANG.cur==='ja'?'家賃':'Rent')}</div><div class="v">${yen(l.rent)}${l.rentMax?'–'+yen(l.rentMax):''}</div></div>
@@ -1541,11 +1549,24 @@ function openCase(id){
     </div>
     <div class="sheetacts">
       <a class="cta" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(t('open_src'))} ↗</a>
+      ${l.mapUrl ? `<a class="cta cta-maps" href="${esc(l.mapUrl)}" target="_blank" rel="noopener">Google Maps 📍</a>` : ''}
       <span class="cta ghost" data-love="${l.id}">♥ ${esc(t('love_btn'))}</span>
       <span class="cta ghost" data-close="1">${esc(t('close'))}</span>
     </div>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  if (typeof KantoShadowbox !== 'undefined' && KantoShadowbox.mount) {
+    const sb = KantoShadowbox.mount('caseShadowboxViewport', l, { timeOfDay: 'dusk' });
+    const sbBtns = $('#overlay').querySelectorAll('[data-sb-tod]');
+    sbBtns.forEach(btn => {
+      btn.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        sbBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        if (sb && sb.setTimeOfDay) sb.setTimeOfDay(btn.dataset.sbTod);
+      });
+    });
+  }
 }
 
 /* ————— area sheet ————— */
@@ -1731,7 +1752,7 @@ function toast(msg){
 /* ————— events: one delegated listener ————— */
 document.addEventListener('click', e => {
   const ov = $('#overlay');
-  if (e.target === ov){ ov.hidden = true; return; }
+  if (e.target === ov){ if (typeof KantoShadowbox !== 'undefined') KantoShadowbox.unmount(); ov.hidden = true; return; }
   const el = e.target.closest('[data-v],[data-case],[data-essinfo],[data-area],[data-love],[data-close],[data-verdict],[data-radiorestart],[data-gohomes],[data-homesat],[data-tgroup],[data-tline],[data-tstation],[data-tstation-clear],[data-bldginfo],[data-essplay],[data-pq],[data-pkstart],[data-pkskip],[data-pkredo],[data-pocket],[data-qfilter],[data-stfilter],[data-corridor-switch],[data-fservice],[data-stn-snap],[data-filter-stn],[data-open-dossier],#langbtn');
   if (!el) return;
   if (el.id === 'langbtn'){ LANG.cur = LANG.cur === 'en' ? 'ja' : 'en'; render(); return; }
@@ -1754,7 +1775,7 @@ document.addEventListener('click', e => {
     render(); return;
   }
   if (el.dataset.v){ e.preventDefault(); setView(el.dataset.v); return; }
-  if (el.dataset.close){ ov.hidden = true; return; }
+  if (el.dataset.close){ if (typeof KantoShadowbox !== 'undefined') KantoShadowbox.unmount(); ov.hidden = true; return; }
   if (el.dataset.essinfo){ e.stopPropagation(); e.preventDefault(); openEssInfo(el.dataset.essinfo); return; }
   if (el.dataset.essplay){
     e.stopPropagation(); e.preventDefault();
@@ -1894,7 +1915,7 @@ document.addEventListener('input', e => {
   }
 });
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape' && !$('#overlay').hidden){ $('#overlay').hidden = true; return; }
+  if (e.key === 'Escape' && !$('#overlay').hidden){ if (typeof KantoShadowbox !== 'undefined') KantoShadowbox.unmount(); $('#overlay').hidden = true; return; }
   if ((e.key === 'Enter' || e.key === ' ') && e.target && e.target.getAttribute && e.target.getAttribute('role') === 'button' && e.target.tabIndex >= 0){
     e.preventDefault();
     e.target.click();

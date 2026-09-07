@@ -1,0 +1,20 @@
+{
+  "id": "dt067",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急田園都市線/梶が谷駅 歩10分東急田園都市線/宮崎台駅 歩13分ＪＲ南武線/武蔵溝ノ口駅 歩20分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt067.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109314613/?bc=100523048647",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A913%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%A2%B6%E3%83%B6%E8%B0%B7"
+}

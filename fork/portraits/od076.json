@@ -1,0 +1,20 @@
+{
+  "id": "od076",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 小田急線/和泉多摩川駅 歩17分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od076.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108278952/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A917%E5%88%86%20%EF%BC%A2%EF%BD%85%EF%BD%8C%EF%BD%89%EF%BD%9A%EF%BD%85%E3%80%80%EF%BC%B6%EF%BD%89%EF%BD%8C%EF%BD%8C%EF%BD%81"
+}

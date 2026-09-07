@@ -1,0 +1,20 @@
+{
+  "id": "hb069",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京メトロ南北線/白金高輪駅 歩8分東京メトロ南北線/白金台駅 歩12分東京メトロ日比谷線/広尾駅 歩17分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb069.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108758532/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A917%E5%88%86%20BELLA%20%E7%99%BD%E9%87%91%20west"
+}

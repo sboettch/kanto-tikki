@@ -1,0 +1,20 @@
+{
+  "id": "od020",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京メトロ有楽町線/江戸川橋駅 歩5分東京メトロ東西線/神楽坂駅 歩8分都営大江戸線/牛込神楽坂駅 歩16分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od020.webp",
+  "source": "https://suumo.jp/chintai/jnc_000091631848/?bc=100508945115",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A/%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E7%A5%9E%E6%A5%BD%E5%9D%82%E3%83%92%E3%83%AB%E3%82%BAsecond"
+}

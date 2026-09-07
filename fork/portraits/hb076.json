@@ -1,0 +1,20 @@
+{
+  "id": "hb076",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "34 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ山手線/田町駅 歩11分新交通ゆりかもめ/日の出駅 歩8分都営三田線/三田駅 歩10分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 34,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb076.webp",
+  "source": "https://suumo.jp/chintai/jnc_000073679984/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%94%B0%E7%94%BA%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%96%B0%E4%BA%A4%E9%80%9A%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81/%E6%97%A5%E3%81%AE%E5%87%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E4%B8%89%E7%94%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%20GLOBAL%20FRONT%20TOWER%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC"
+}

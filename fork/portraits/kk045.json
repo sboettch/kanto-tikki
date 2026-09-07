@@ -1,0 +1,20 @@
+{
+  "id": "kk045",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京都大田区大森本町２ — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk045.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109489001/?bc=100524658255",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E6%9C%AC%E7%94%BA%EF%BC%92%20%EF%BC%A3%EF%BC%AF%EF%BC%A3%EF%BC%AF%EF%BC%A3%EF%BC%B5%EF%BC%A2%EF%BC%A5%E5%A4%A7%E6%A3%AE%E6%9C%AC%E7%94%BA"
+}

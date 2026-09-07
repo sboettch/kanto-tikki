@@ -1,0 +1,20 @@
+{
+  "id": "dt019",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 小田急線/豪徳寺駅 歩7分東急世田谷線/山下駅 歩7分小田急線/梅ヶ丘駅 歩10分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt019.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109652469/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E8%B1%AA%E5%BE%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E5%B1%B1%E4%B8%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%89"
+}

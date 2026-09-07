@@ -1,0 +1,20 @@
+{
+  "id": "hb087",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "26 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ山手線/品川駅 歩7分京急本線/北品川駅 歩8分東京モノレール/天王洲アイル駅 歩16分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 26,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb087.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108129522/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A/%E5%8C%97%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB/%E5%A4%A9%E7%8E%8B%E6%B4%B2%E3%82%A2%E3%82%A4%E3%83%AB%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E5%93%81%E5%B7%9D%E3%83%8F%E3%83%BC%E3%83%88%E3%80%80%E3%83%93%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC"
+}

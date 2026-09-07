@@ -1,0 +1,20 @@
+{
+  "id": "dt026",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 京王線/仙川駅 歩8分京王線/芦花公園駅 歩28分京王線/柴崎駅 歩33分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt026.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109296621/?bc=100518522602",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%99%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A928%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A933%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B6%E3%83%BB%E3%82%A8%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B5%E4%B8%96%E7%94%B0%E8%B0%B7"
+}

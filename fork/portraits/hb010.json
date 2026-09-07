@@ -1,0 +1,20 @@
+{
+  "id": "hb010",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急東横線/学芸大学駅 歩7分東急東横線/祐天寺駅 歩14分東急田園都市線/三軒茶屋駅 歩25分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb010.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109082708/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%AC%E3%83%BC%E3%83%B4"
+}

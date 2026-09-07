@@ -1,0 +1,20 @@
+{
+  "id": "hb067",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京メトロ日比谷線/六本木駅 歩10分東京メトロ日比谷線/広尾駅 歩14分東京メトロ千代田線/乃木坂駅 歩14分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb067.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108916663/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%B9%83%E6%9C%A8%E5%9D%82%E9%A7%85%20%E6%AD%A914%E5%88%86%20Due%20West%20Azabu%20House"
+}

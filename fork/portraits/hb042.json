@@ -1,0 +1,20 @@
+{
+  "id": "hb042",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ山手線/目黒駅 歩7分東急目黒線/不動前駅 歩9分ＪＲ山手線/五反田駅 歩20分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb042.webp",
+  "source": "https://suumo.jp/chintai/jnc_000045301831/?bc=100525804047",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BA%94%E5%8F%8D%E7%94%B0%E9%A7%85%20%E6%AD%A920%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E7%9B%AE%E9%BB%92%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%8910%E5%B9%B4"
+}

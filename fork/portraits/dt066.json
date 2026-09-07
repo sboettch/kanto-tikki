@@ -1,0 +1,20 @@
+{
+  "id": "dt066",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ南武線/武蔵中原駅 バス10分 (バス停)蟹ヶ谷 歩8分東急東横線/日吉駅 バス10分 (バス停)さくらが丘 歩9分東急東横線/武蔵小杉駅 バス15分 (バス停)蟹ヶ谷 歩8分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt066.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109683626/?bc=100525836487",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E8%9F%B9%E3%83%B6%E8%B0%B7%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%97%A5%E5%90%89%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E3%81%95%E3%81%8F%E3%82%89%E3%81%8C%E4%B8%98%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89%E9%A7%85%20%E3%83%90%E3%82%B915%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E8%9F%B9%E3%83%B6%E8%B0%B7%20%E6%AD%A98%E5%88%86%20%E3%82%A8%E3%82%B3%E3%81%AE%E4%BD%8F"
+}

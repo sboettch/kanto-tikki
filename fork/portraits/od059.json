@@ -1,0 +1,20 @@
+{
+  "id": "od059",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "9 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 小田急線/世田谷代田駅 歩7分小田急線/梅ヶ丘駅 歩10分京王井の頭線/新代田駅 歩14分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 9,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od059.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109503486/?bc=100524952177",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AF%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0"
+}

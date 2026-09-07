@@ -1,0 +1,20 @@
+{
+  "id": "kk097",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 都営大江戸線/月島駅 歩4分都営大江戸線/勝どき駅 歩8分ＪＲ京葉線/越中島駅 歩22分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk097.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109502716/?bc=100524817910",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E6%9C%88%E5%B3%B6%E9%A7%85%20%E6%AD%A94%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E5%8B%9D%E3%81%A9%E3%81%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E4%BA%AC%E8%91%89%E7%B7%9A/%E8%B6%8A%E4%B8%AD%E5%B3%B6%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%83%E3%83%88%E6%9C%88%E5%B3%B6%EF%BC%B4%EF%BC%AF%EF%BC%AB%EF%BC%B9%EF%BC%AF%20%EF%BC%A2%EF%BC%A1%EF%BC%B9"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "od032",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急世田谷線/若林駅 歩5分東急世田谷線/松陰神社前駅 歩7分東急世田谷線/西太子堂駅 歩11分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od032.webp",
+  "source": "https://suumo.jp/chintai/jnc_000105887906/?bc=100498440152",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%A5%BF%E5%A4%AA%E5%AD%90%E5%A0%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A7%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%84%E3%80%80%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%E3%80%80%EF%BC%B7%EF%BD%81%EF%BD%8B%EF%BD%81%EF%BD%82%EF%BD%81%EF%BD%99%EF%BD%81%EF%BD%93%EF%BD%88%EF%BD%89"
+}

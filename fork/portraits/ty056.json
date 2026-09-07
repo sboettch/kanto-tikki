@@ -1,0 +1,20 @@
+{
+  "id": "ty056",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ山手線/恵比寿駅 歩6分ＪＲ山手線/渋谷駅 歩20分東京メトロ日比谷線/広尾駅 歩13分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/ty056.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109232398/?bc=100513212843",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A3%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4"
+}

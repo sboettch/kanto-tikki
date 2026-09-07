@@ -1,0 +1,20 @@
+{
+  "id": "ty099",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "7 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急東横線/祐天寺駅 歩7分東急東横線/学芸大学駅 歩10分東京メトロ日比谷線/中目黒駅 歩19分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 7,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/ty099.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109159032/?bc=100521968827",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A4%E3%83%97%E3%82%BB%E7%9B%AE%E9%BB%92%E4%B8%AD%E7%94%BA"
+}

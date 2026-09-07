@@ -1,0 +1,20 @@
+{
+  "id": "dt008",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急東横線/自由が丘駅 歩6分東急大井町線/九品仏駅 歩7分東急目黒線/奥沢駅 歩8分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt008.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108156407/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%AD%EF%BD%81%EF%BD%89%EF%BD%93%EF%BD%8F%EF%BD%8E%E3%80%80%EF%BC%B3%EF%BC%B0%E3%80%80%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98"
+}

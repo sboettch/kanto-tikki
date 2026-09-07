@@ -1,0 +1,20 @@
+{
+  "id": "kk016",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京都港区三田５ — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk016_hero.webp",
+  "source": "https://suumo.jp/chintai/jnc_000104222308/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E4%B8%89%E7%94%B0%EF%BC%95%20%E3%83%AB%E3%82%AF%E3%83%AC%E4%B8%89%E7%94%B0"
+}

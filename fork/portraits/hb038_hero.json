@@ -1,0 +1,20 @@
+{
+  "id": "hb038",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "5 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急東横線/都立大学駅 歩11分東急東横線/学芸大学駅 歩15分東急目黒線/大岡山駅 歩18分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 5,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb038_hero.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109617599/?bc=100525385316",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%A2%E7%9B%AE%E9%BB%92%E7%A2%91%E6%96%87%E8%B0%B7"
+}

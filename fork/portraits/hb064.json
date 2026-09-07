@@ -1,0 +1,20 @@
+{
+  "id": "hb064",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "5 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急大井町線/緑が丘駅 歩6分東急大井町線/自由が丘駅 歩7分東急目黒線/奥沢駅 歩9分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 5,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb064.webp",
+  "source": "https://suumo.jp/chintai/jnc_000106460654/?bc=100521007772",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A%20%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%8959%E5%B9%B4"
+}

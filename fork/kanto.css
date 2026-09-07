@@ -289,6 +289,18 @@ details.ledger .schema{font:500 12px/1.7 ui-monospace,Menlo,monospace;color:var(
 .esslist{margin:8px 0 0;padding-left:18px;font-size:13px;line-height:1.6}
 .esslist li{margin:2px 0}
 
+/* ————— Living 3D Washi Paper Shadowbox Player ————— */
+.shadowbox-container{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:0 0 14px;background:#141623;box-shadow:0 8px 28px rgba(0,0,0,.35),inset 0 0 0 1px rgba(255,255,255,.08)}
+.shadowbox-container canvas{width:100%;height:100%;display:block;cursor:crosshair}
+.shadowbox-badge{position:absolute;top:10px;left:10px;background:rgba(14,18,28,.78);backdrop-filter:blur(8px);color:#f3ead8;font-size:11px;letter-spacing:.5px;padding:4px 10px;border-radius:14px;border:1px solid rgba(255,255,255,.15);pointer-events:none;display:flex;align-items:center;gap:6px;z-index:2}
+.shadowbox-badge::before{content:'';display:inline-block;width:6px;height:6px;border-radius:50%;background:#ffaa44;box-shadow:0 0 8px #ffaa44;animation:shadowPulse 2.5s ease-in-out infinite}
+@keyframes shadowPulse{0%,100%{opacity:.6;transform:scale(.9)}50%{opacity:1;transform:scale(1.15)}}
+.shadowbox-controls{position:absolute;right:10px;bottom:10px;display:flex;gap:5px;z-index:2}
+.shadowbox-btn{background:rgba(14,18,28,.75);backdrop-filter:blur(6px);color:#f3ead8;border:1px solid rgba(255,255,255,.18);font-size:11px;padding:3px 8px;border-radius:6px;cursor:pointer;transition:all .15s ease}
+.shadowbox-btn:hover,.shadowbox-btn.active{background:rgba(232,82,152,.85);border-color:rgba(255,255,255,.4);color:#fff}
+.cta-maps{background:#1f4068!important;border-color:#1f4068!important;color:#fff!important}
+.cta-maps:hover{background:#162d4a!important}
+
 /* ————— Round 2.5: lines topology ————— */
 .topo{background:linear-gradient(180deg,var(--navy-2),var(--navy));border-radius:var(--r-lg);
   padding:14px 14px 6px;box-shadow:var(--shadow);color:var(--navy-ink)}

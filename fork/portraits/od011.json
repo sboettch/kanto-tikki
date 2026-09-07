@@ -1,0 +1,20 @@
+{
+  "id": "od011",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "13 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京メトロ丸ノ内線/新宿御苑前駅 歩5分東京メトロ丸ノ内線/新宿三丁目駅 歩10分東京メトロ丸ノ内線/四谷三丁目駅 歩11分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 13,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od011.webp",
+  "source": "https://suumo.jp/chintai/jnc_000107861227/?bc=100517946862",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E5%9B%9B%E8%B0%B7%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91II"
+}

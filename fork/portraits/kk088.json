@@ -1,0 +1,20 @@
+{
+  "id": "kk088",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "12 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 都営新宿線/浜町駅 歩2分都営浅草線/人形町駅 歩7分東京メトロ半蔵門線/水天宮前駅 歩11分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 12,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk088.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108829559/?bc=100525811908",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%B5%9C%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E4%BA%BA%E5%BD%A2%E7%94%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%8A%E8%94%B5%E9%96%80%E7%B7%9A/%E6%B0%B4%E5%A4%A9%E5%AE%AE%E5%89%8D%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A%20%E6%B5%9C%E7%94%BA%E9%A7%85%2012%E9%9A%8E%E5%BB%BA%20%E7%AF%897%E5%B9%B4"
+}

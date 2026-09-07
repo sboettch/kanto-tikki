@@ -1,0 +1,20 @@
+{
+  "id": "od068",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "5 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 京王線/明大前駅 歩7分東急世田谷線/下高井戸駅 歩6分京王井の頭線/東松原駅 歩15分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 5,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od068.webp",
+  "source": "https://suumo.jp/chintai/jnc_000105881670/?bc=100496974462",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%9D%B1%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%A2%E3%82%A4%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%98%8E%E5%A4%A7%E5%89%8D"
+}

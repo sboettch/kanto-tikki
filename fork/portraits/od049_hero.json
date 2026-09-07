@@ -1,0 +1,20 @@
+{
+  "id": "od049",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急田園都市線/三軒茶屋駅 歩6分東急世田谷線/若林駅 歩9分東急世田谷線/松陰神社前駅 歩18分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od049_hero.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109296635/?bc=100525746201",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A918%E5%88%86%20Tarufu%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B"
+}

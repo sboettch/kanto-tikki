@@ -1,0 +1,20 @@
+{
+  "id": "ty062",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 京王新線/初台駅 歩4分ＪＲ山手線/新宿駅 歩25分東京メトロ千代田線/代々木公園駅 歩18分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/ty062.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109676369/?bc=100523860885",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A925%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E5%88%9D%E5%8F%B0II"
+}

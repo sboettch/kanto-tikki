@@ -1,0 +1,20 @@
+{
+  "id": "dt046",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急田園都市線/梶が谷駅 歩4分東急田園都市線/溝の口駅 歩9分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt046.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109602954/?bc=100525736347",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%A2%E3%82%BA%E6%A2%B6%E3%82%B1%E8%B0%B7%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9"
+}

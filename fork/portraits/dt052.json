@@ -1,0 +1,20 @@
+{
+  "id": "dt052",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東急田園都市線/梶が谷駅 歩8分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/dt052.webp",
+  "source": "https://suumo.jp/chintai/jnc_000089113634/?bc=100521174104",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%B4%E2%80%99%EF%BD%93%E3%80%80%EF%BD%87%EF%BD%81%EF%BD%92%EF%BD%84%EF%BD%85%EF%BD%8E%E6%A2%B6%E3%83%B6%E8%B0%B7"
+}

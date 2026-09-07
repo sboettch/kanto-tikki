@@ -1,0 +1,20 @@
+{
+  "id": "hb093",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "21 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 都営三田線/御成門駅 歩4分ＪＲ山手線/新橋駅 歩10分東京メトロ日比谷線/神谷町駅 歩9分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 21,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/hb093.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108509470/?bc=100516922939",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E7%A5%9E%E8%B0%B7%E7%94%BA%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%BE%A1%E6%88%90%E9%96%80"
+}

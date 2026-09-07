@@ -1,0 +1,20 @@
+{
+  "id": "kk010",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京都港区芝公園２ — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk010.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109528346/?bc=100524846481",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%85%AC%E5%9C%92%EF%BC%92%20%E8%8A%9D%E5%85%AC%E5%9C%92%E3%82%A2%E3%83%93%E3%82%BF%E3%82%B7%E3%82%AA%E3%83%B3"
+}

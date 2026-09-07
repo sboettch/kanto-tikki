@@ -1337,5 +1337,70 @@
     "walk": null,
     "st_txt": "神奈川県横浜市西区老松町",
     "url": "https://suumo.jp/chintai/jnc_000109162355/"
+  },
+  {
+    "src": "SUUMO",
+    "sid": "shimbashi",
+    "name": "西新橋アルファレジデンス",
+    "rent": 800000,
+    "mgmt": null,
+    "layout": "2LDK",
+    "m2": 110.6,
+    "built": "東京メトロ銀座線/虎ノ門駅 歩6分東京メトロ日比谷線/虎ノ門",
+    "walk": null,
+    "st_txt": "東京都港区西新橋２",
+    "url": "https://suumo.jp/chintai/jnc_000109609585/?bc=100525352709"
+  },
+  {
+    "src": "SUUMO",
+    "sid": "shimbashi",
+    "name": "パークアクシス御成門",
+    "rent": 370000,
+    "mgmt": null,
+    "layout": "1LDK",
+    "m2": 55.16,
+    "built": "都営三田線/御成門駅 歩4分ＪＲ山手線/新橋駅 歩10分東京",
+    "walk": null,
+    "st_txt": "東京都港区西新橋３",
+    "url": "https://suumo.jp/chintai/jnc_000108509470/?bc=100516922939"
+  },
+  {
+    "src": "SUUMO",
+    "sid": "shimbashi",
+    "name": "パークアクシス御成門",
+    "rent": 50000,
+    "mgmt": null,
+    "layout": "1LDK",
+    "m2": 56.05,
+    "built": "都営三田線/御成門駅 歩4分ＪＲ山手線/新橋駅 歩10分東京",
+    "walk": null,
+    "st_txt": "東京都港区西新橋３",
+    "url": "https://suumo.jp/chintai/jnc_000108836601/?bc=100519542974"
+  },
+  {
+    "src": "SUUMO",
+    "sid": "shimbashi",
+    "name": "パークアクシス虎ノ門",
+    "rent": 90000,
+    "mgmt": null,
+    "layout": "ワンルーム",
+    "m2": 23.0,
+    "built": "東京メトロ日比谷線/虎ノ門ヒルズ駅 歩6分東京メトロ銀座線/",
+    "walk": null,
+    "st_txt": "東京都港区西新橋３",
+    "url": "https://suumo.jp/chintai/jnc_000108389188/?bc=100522045889"
+  },
+  {
+    "src": "SUUMO",
+    "sid": "shimbashi",
+    "name": "パークアクシス虎ノ門",
+    "rent": 230000,
+    "mgmt": null,
+    "layout": "1LDK",
+    "m2": 34.51,
+    "built": "東京メトロ日比谷線/虎ノ門ヒルズ駅 歩6分東京メトロ銀座線/",
+    "walk": null,
+    "st_txt": "東京都港区西新橋３",
+    "url": "https://suumo.jp/chintai/jnc_000108170848/?bc=100514663698"
   }
 ]

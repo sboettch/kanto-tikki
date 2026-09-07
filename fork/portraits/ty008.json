@@ -1,0 +1,20 @@
+{
+  "id": "ty008",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 京王新線/幡ヶ谷駅 歩7分京王新線/初台駅 歩9分小田急線/代々木上原駅 歩19分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/ty008.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109601235/",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%B9%A1%E3%83%B6%E8%B0%B7"
+}

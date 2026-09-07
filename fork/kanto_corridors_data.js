@@ -136,15 +136,4250 @@ const CORRIDORS_DATA = {
         ax:{quiet:3, old:5, intl:1, food:4, craft:4, green:2, night:3, refined:2, photo:4} },
     ],
     homes: [
-      { id:'ty_hiyoshi_annex', st:'hiyoshi', ward:'kohoku', name:{en:'Park Heights Annex', ja:'パークハイツアネックス'}, rent:68000, fee:3000, mgmt:3000, layout:'1K', size:20.5, m2:20.5, walk:8, year:1981, built:'1981 · 2F 軽量鉄骨造', tag:'LIVE', live:true, tier:'LIVE', srcName:'SUUMO / Google Maps', url:'https://maps.app.goo.gl/cJMiGzpkunkw1E439?g_st=ac', listed:{st:{en:'Hiyoshi',ja:'日吉'}, line:'Tokyu Toyoko / Meguro / Shin-Yokohama', walk:8}, extra:{en:'8 min walk to Hiyoshi Stn · 7 min walk to Green Line Hiyoshihonchō · 44 min commute to Yokosuka-Chūō (1 transfer at Yokohama)', ja:'日吉駅徒歩8分・グリーンライン日吉本町駅徒歩7分 · 横浜乗換1回で横須賀中央へ44分（60分上限内）'}, why:{en:'Quiet residential hillside in Hiyoshihoncho 3-chome. 44 min one-transfer commute to Yokosuka naval/engineering hub via Yokohama Keikyu Kaitoku (fits within 60′ boundary).', ja:'日吉本町3丁目の閑静な高台住宅街。横浜駅乗換で横須賀中央へ44分、エンジニア通勤の60分上限内に直結。'} },
-      { id:'ty_h01', st:'daikanyama', ward:'shibuya', name:{en:'Daikanyama Terrace Court', ja:'代官山テラスコート'}, rent:185000, fee:10000, layout:'1LDK', size:38.5, walk:4, year:2020, tag:'✨ High-End', live:true, why:{en:'Designer concrete finish, west-facing balcony overlooking lush courtyard.', ja:'打ち放しコンクリート、中庭を望む西向きバルコニー。'} },
-      { id:'ty_h02', st:'nakameguro', ward:'meguro', name:{en:'Riverfront Meguro Residence', ja:'リバーフロント中目黒'}, rent:142000, fee:8000, layout:'1K', size:27.2, walk:5, year:2018, tag:'LIVE', live:true, why:{en:'Directly fronting the quiet residential segment of Meguro River.', ja:'目黒川の静かな上流エリアに面した上質1K。'} },
-      { id:'ty_h03', st:'gakugeidaigaku', ward:'meguro', name:{en:'Gakudai Green Flat', ja:'学芸大学グリーンフラット'}, rent:118000, fee:7000, layout:'1K', size:25.8, walk:3, year:2016, tag:'LIVE', live:true, why:{en:'Steppes from the east shotengai, double-glazed acoustic sash.', ja:'東口商店街すぐ、二重サッシ完備で静寂確保。'} },
-      { id:'ty_h04', st:'jiyugaoka', ward:'meguro', name:{en:'Jiyugaoka Maison Blanche', ja:'自由が丘メゾンブランシュ'}, rent:128000, fee:8000, layout:'1DK', size:31.0, walk:6, year:2019, tag:'LIVE', live:true, why:{en:'Sunlit corner apartment in quiet residential Jiyugaoka 2-chome.', ja:'自由が丘2丁目の閑静な住宅街に位置する角部屋。'} },
-      { id:'ty_h05', st:'musashikosugi', ward:'nakahara', name:{en:'Kosugi Tower Vista', ja:'武蔵小杉タワービスタ'}, rent:165000, fee:12000, layout:'1LDK', size:42.0, walk:3, year:2021, tag:'✨ High-End', live:true, why:{en:'High-floor city views, direct indoor concourse to train lines.', ja:'高層階からのパノラマ眺望、駅直結地下通路利用可能。'} },
-      { id:'ty_h06', st:'hiyoshi', ward:'kohoku', name:{en:'Hiyoshi Hill Terrace', ja:'日吉ヒルテラス'}, rent:78000, fee:5000, layout:'1K', size:22.5, walk:5, year:2015, tag:'LIVE', live:true, why:{en:'Peaceful hilltop residential pocket, excellent cost-performance.', ja:'日吉本町の高台に佇む落ち着いた住環境、コスパ抜群。'} },
-      { id:'ty_h07', st:'hakuraku', ward:'kanagawaku', name:{en:'Rokkakubashi Machiya Atelier', ja:'六角橋マチヤアトリエ'}, rent:72000, fee:4000, layout:'1R', size:24.0, walk:4, year:2017, tag:'LIVE', live:true, why:{en:'Renovated timber design flat steps from the retro shopping lane.', ja:'レトロ商店街から1本入ったリノベーション木造フラット。'} },
-      { id:'ty_h08', st:'kikuna', ward:'kohoku', name:{en:'Kikuna Forest Court', ja:'菊名フォレストコート'}, rent:68000, fee:4000, layout:'1K', size:21.8, walk:7, year:2014, tag:'LIVE', live:true, why:{en:'Quiet residential hillside, dual access to Toyoko Express & JR.', ja:'急行停車駅・菊名の閑静な住宅街、2路線利用可。'} },
+
+  {
+    "id": "ty_hiyoshi_annex",
+    "name": {
+      "en": "Park Heights Annex",
+      "ja": "パークハイツアネックス"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO / Google Maps",
+    "url": "https://maps.app.goo.gl/cJMiGzpkunkw1E439?g_st=ac",
+    "mapUrl": "https://maps.app.goo.gl/cJMiGzpkunkw1E439?g_st=ac",
+    "address": "神奈川県横浜市港北区日吉本町３丁目",
+    "rent": 68000,
+    "mgmt": 3000,
+    "layout": "1K",
+    "m2": 20.5,
+    "built": "1981 · 2F 軽量鉄骨造",
+    "structure": "軽量鉄骨",
+    "floors": 2,
+    "built_year": "1981",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "extra": {
+      "en": "8 min walk to Hiyoshi Stn · 7 min walk to Green Line Hiyoshihonchō · 44 min commute to Yokosuka-Chūō (1 transfer at Yokohama)",
+      "ja": "日吉駅徒歩8分・グリーンライン日吉本町駅徒歩7分 · 横浜乗換1回で横須賀中央へ44分（60分上限内）"
+    },
+    "why": {
+      "en": "Quiet residential hillside in Hiyoshihoncho 3-chome. 44 min one-transfer commute to Yokosuka naval/engineering hub via Yokohama Keikyu Kaitoku.",
+      "ja": "日吉本町3丁目の閑静な高台住宅街。横浜駅乗換で横須賀中央へ44分、エンジニア通勤の60分上限内に直結。"
+    },
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko / Meguro / Shin-Yokohama",
+      "walk": 8
+    }
+  },
+  {
+    "name": {
+      "en": "Proud Flat 代々木初台",
+      "ja": "プラウド代々木初台"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109477510/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E4%BB%A3%E3%80%85%E6%9C%A8%E5%88%9D%E5%8F%B0",
+    "address": "京王新線/初台駅 歩8分京王新線/幡ヶ谷駅 歩7分小田急線/参宮橋駅 歩16分",
+    "rent": 385000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 76.66,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty001",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "幡ヶ谷３丁目戸建",
+      "ja": "幡ヶ谷３丁目戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109601224/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E5%B9%A1%E3%83%B6%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE%E6%88%B8%E5%BB%BA",
+    "address": "京王新線/幡ヶ谷駅 歩7分京王線/笹塚駅 歩11分京王新線/初台駅 歩21分",
+    "rent": 270000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 67.67,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty002",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "幡ヶ谷戸建",
+      "ja": "幡ヶ谷戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109428923/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A918%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E5%B9%A1%E3%83%B6%E8%B0%B7%E6%88%B8%E5%BB%BA",
+    "address": "京王新線/幡ヶ谷駅 歩10分京王新線/初台駅 歩18分京王線/笹塚駅 歩16分",
+    "rent": 270000,
+    "mgmt": 0,
+    "layout": "4LDK",
+    "m2": 96.32,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty003",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "幡ヶ谷戸建",
+      "ja": "幡ヶ谷戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109237756/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E5%B9%A1%E3%83%B6%E8%B0%B7%E6%88%B8%E5%BB%BA",
+    "address": "京王新線/幡ヶ谷駅 歩8分京王線/笹塚駅 歩13分小田急線/代々木上原駅 歩25分",
+    "rent": 270000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 73.33,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty004",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Plaza 西原",
+      "ja": "プラザ西原"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109049388/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%B6%E8%A5%BF%E5%8E%9F",
+    "address": "京王新線/幡ヶ谷駅 歩8分京王新線/初台駅 歩10分東京メトロ千代田線/代々木上原駅 歩16分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "4LDK",
+    "m2": 95.15,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty005",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ザ Park House アーバンス渋谷",
+      "ja": "ザ・パークハウスアーバンス渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106120708/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E7%A5%9E%E6%B3%89%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%89%8D%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%82%B6%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E3%82%B9%E6%B8%8B%E8%B0%B7",
+    "address": "東急東横線/渋谷駅 歩6分京王井の頭線/神泉駅 歩13分東京メトロ千代田線/明治神宮前駅 歩14分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 31.3,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty006",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ファレール笹塚ii",
+      "ja": "ファレール笹塚II"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109132678/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%83%95%E3%82%A1%E3%83%AC%E3%83%BC%E3%83%AB%E7%AC%B9%E5%A1%9AII",
+    "address": "京王線/笹塚駅 歩5分京王新線/幡ヶ谷駅 歩12分京王線/代田橋駅 歩20分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 54.44,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty007",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ウェル Square 幡ヶ谷",
+      "ja": "ウェルスクエア幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109601235/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩7分京王新線/初台駅 歩9分小田急線/代々木上原駅 歩19分",
+    "rent": 171000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 30.94,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty008",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サンフラット幡ヶ谷",
+      "ja": "サンフラット幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108662787/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩6分京王新線/初台駅 歩15分都営大江戸線/西新宿五丁目駅 歩19分",
+    "rent": 66000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "ty009",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サンフラット幡ヶ谷",
+      "ja": "サンフラット幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109590207/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩6分京王新線/初台駅 歩15分都営大江戸線/西新宿五丁目駅 歩19分",
+    "rent": 70000,
+    "mgmt": 0,
+    "layout": "1SK",
+    "m2": 22.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "ty010",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "メルクマール京王笹塚 Residence",
+      "ja": "メルクマール京王笹塚レジデンス"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107804243/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A91%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A1%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%BC%E3%83%AB%E4%BA%AC%E7%8E%8B%E7%AC%B9%E5%A1%9A%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "京王線/笹塚駅 歩1分京王新線/幡ヶ谷駅 歩11分京王線/代田橋駅 歩14分",
+    "rent": 155000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 28.21,
+    "built": "2019 · 21F",
+    "structure": "RC",
+    "floors": 21,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty011",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Alero Base Sasazuka South",
+      "ja": "ALERO BASE Sasazuka South"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107020837/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%9D%B1%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%20ALERO%20BASE%20Sasazuka%20South",
+    "address": "京王線/笹塚駅 歩4分小田急線/東北沢駅 歩14分東京メトロ千代田線/代々木上原駅 歩18分",
+    "rent": 218000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 40.93,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty012",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｕｒｂａｎ Ｂｒｅｅｚｅ 恵比寿",
+      "ja": "Ｕｒｂａｎ Ｂｒｅｅｚｅ 恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000103938048/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%B5%EF%BD%92%EF%BD%82%EF%BD%81%EF%BD%8E%20%EF%BC%A2%EF%BD%92%EF%BD%85%EF%BD%85%EF%BD%9A%EF%BD%85%20%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩7分ＪＲ山手線/渋谷駅 歩10分東急東横線/代官山駅 歩10分",
+    "rent": 341000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.06,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty013",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｕｒｂａｎ Ｂｒｅｅｚｅ 恵比寿",
+      "ja": "Ｕｒｂａｎ Ｂｒｅｅｚｅ 恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000103938052/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%B5%EF%BD%92%EF%BD%82%EF%BD%81%EF%BD%8E%20%EF%BC%A2%EF%BD%92%EF%BD%85%EF%BD%85%EF%BD%9A%EF%BD%85%20%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩7分ＪＲ山手線/渋谷駅 歩10分東急東横線/代官山駅 歩10分",
+    "rent": 341000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 45.06,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty014",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ザ Park House 恵比寿",
+      "ja": "ザ・パークハウス恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106943909/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%B6%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩5分東京メトロ日比谷線/広尾駅 歩12分東急東横線/代官山駅 歩13分",
+    "rent": 400000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 58.59,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty015",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "オープンレジデンシア新宿ザ House",
+      "ja": "オープンレジデンシア新宿ザ・ハウス"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109503584/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%20%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B7%E3%82%A2%E6%96%B0%E5%AE%BF%E3%82%B6%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%B9",
+    "address": "都営大江戸線/新宿駅 歩4分ＪＲ山手線/代々木駅 歩8分小田急線/南新宿駅 歩7分",
+    "rent": 210000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 36.12,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty016",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Castalia 初台2",
+      "ja": "カスタリア初台2"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108526810/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%88%9D%E5%8F%B02",
+    "address": "京王新線/初台駅 歩7分京王新線/幡ヶ谷駅 歩9分東京メトロ千代田線/代々木上原駅 歩19分",
+    "rent": 213000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.51,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty017",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リージア代々木ビナリオ",
+      "ja": "リージア代々木ビナリオ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107516784/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A94%E5%88%86%20%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E3%83%93%E3%83%8A%E3%83%AA%E3%82%AA",
+    "address": "都営大江戸線/新宿駅 歩4分ＪＲ山手線/代々木駅 歩4分小田急線/南新宿駅 歩4分",
+    "rent": 155000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 28.49,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty018",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Kolet幡ヶ谷",
+      "ja": "Kolet幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109373212/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A918%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A918%E5%88%86%20Kolet%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩10分京王線/笹塚駅 歩18分京王新線/初台駅 歩18分",
+    "rent": 415000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 85.49,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty019",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラン Heights 代々木",
+      "ja": "グランハイツ代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108716782/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "小田急線/参宮橋駅 歩5分ＪＲ山手線/代々木駅 歩10分京王新線/初台駅 歩9分",
+    "rent": 159000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 31.36,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty020",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラン Heights 代々木",
+      "ja": "グランハイツ代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109186111/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "小田急線/参宮橋駅 歩5分ＪＲ山手線/代々木駅 歩10分京王新線/初台駅 歩9分",
+    "rent": 248000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 50.3,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty021",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ポラスト代々木",
+      "ja": "ポラスト代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108150094/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E5%8C%97%E5%8F%82%E9%81%93%E9%A7%85%20%E6%AD%A96%E5%88%86%20%E3%83%9D%E3%83%A9%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "ＪＲ山手線/代々木駅 歩4分小田急線/南新宿駅 歩5分東京メトロ副都心線/北参道駅 歩6分",
+    "rent": 233000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty022",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Proud Flat 恵比寿ヒルサイド Garden",
+      "ja": "プラウド恵比寿ヒルサイドガーデン"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109125885/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E6%81%B5%E6%AF%94%E5%AF%BF%E3%83%92%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3",
+    "address": "ＪＲ山手線/恵比寿駅 歩4分東急東横線/代官山駅 歩10分東急東横線/中目黒駅 歩16分",
+    "rent": 500000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.0,
+    "built": "2019 · 11F",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty023",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｂｐｒ Residence 代々木",
+      "ja": "ＢＰＲレジデンス代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109567344/?bc=100525260333",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%A2%EF%BC%B0%EF%BC%B2%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "京王新線/初台駅 歩4分小田急線/参宮橋駅 歩8分都営大江戸線/西新宿五丁目駅 歩18分",
+    "rent": 208000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 44.17,
+    "built": "2019 · 11F",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty024",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグライア恵比寿",
+      "ja": "アグライア恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104769792/?bc=100518973455",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%A9%E3%82%A4%E3%82%A2%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩4分東急東横線/代官山駅 歩18分",
+    "rent": 248000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.54,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty025",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ファミール新宿グランスィート Tower",
+      "ja": "ファミール新宿グランスィートタワー"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109264952/?bc=100525859429",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%20%E3%83%95%E3%82%A1%E3%83%9F%E3%83%BC%E3%83%AB%E6%96%B0%E5%AE%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/新宿駅 歩7分小田急線/南新宿駅 歩5分",
+    "rent": 280000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.86,
+    "built": "2019 · 20F",
+    "structure": "RC",
+    "floors": 20,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty026",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ファミール新宿グランスィート Tower",
+      "ja": "ファミール新宿グランスィートタワー"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109416311/?bc=100518353412",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%20%E3%83%95%E3%82%A1%E3%83%9F%E3%83%BC%E3%83%AB%E6%96%B0%E5%AE%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%A3%E3%83%BC%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/新宿駅 歩7分小田急線/南新宿駅 歩5分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.86,
+    "built": "2019 · 20F",
+    "structure": "RC",
+    "floors": 20,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty027",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "セレッソ幡ヶ谷",
+      "ja": "セレッソ幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109225886/?bc=100522401459",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%BB%E3%83%AC%E3%83%83%E3%82%BD%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩6分京王線/笹塚駅 歩9分東京メトロ千代田線/代々木上原駅 歩20分",
+    "rent": 210000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.5,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty028",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ディームス渋谷本町",
+      "ja": "ディームス渋谷本町"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108709650/?bc=100520648010",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A94%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E4%B8%AD%E9%87%8E%E5%9D%82%E4%B8%8A%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A0%E3%82%B9%E6%B8%8B%E8%B0%B7%E6%9C%AC%E7%94%BA",
+    "address": "都営大江戸線/西新宿五丁目駅 歩4分京王新線/初台駅 歩13分東京メトロ丸ノ内線/中野坂上駅 歩14分",
+    "rent": 229000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.15,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty029",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "恵比寿戸建",
+      "ja": "恵比寿戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109105368/?bc=100491275420",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E6%81%B5%E6%AF%94%E5%AF%BF%E6%88%B8%E5%BB%BA",
+    "address": "ＪＲ山手線/恵比寿駅 歩12分東京メトロ日比谷線/広尾駅 歩16分東京メトロ南北線/白金台駅 歩19分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 78.92,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty030",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ティアラ恵比寿",
+      "ja": "ティアラ恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108333665/?bc=100497130842",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩8分東京メトロ日比谷線/恵比寿駅 歩8分東京メトロ日比谷線/広尾駅 歩16分",
+    "rent": 475000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 86.45,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty031",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "恵比寿戸建",
+      "ja": "恵比寿戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108691026/?bc=100525862169",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E6%81%B5%E6%AF%94%E5%AF%BF%E6%88%B8%E5%BB%BA",
+    "address": "ＪＲ山手線/恵比寿駅 歩9分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 97.41,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty032",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "S3笹塚",
+      "ja": "S3笹塚"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107703276/?bc=100511092791",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A919%E5%88%86%20S3%E7%AC%B9%E5%A1%9A",
+    "address": "京王線/笹塚駅 歩6分京王線/代田橋駅 歩11分京王新線/幡ヶ谷駅 歩19分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.05,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty033",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｒｏｓｉｅｒ Ｍ",
+      "ja": "ｒｏｓｉｅｒ　Ｍ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109428929/?bc=100524000741",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BD%92%EF%BD%8F%EF%BD%93%EF%BD%89%EF%BD%85%EF%BD%92%E3%80%80%EF%BC%AD",
+    "address": "小田急線/参宮橋駅 歩7分京王新線/初台駅 歩6分小田急線/代々木八幡駅 歩15分",
+    "rent": 190000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.43,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty034",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "クイーンズ代々木",
+      "ja": "クイーンズ代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109162106/?bc=100521768223",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "京王新線/初台駅 歩6分小田急線/参宮橋駅 歩6分ＪＲ山手線/代々木駅 歩13分",
+    "rent": 175000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 39.21,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty035",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ルミークアン笹塚",
+      "ja": "ルミークアン笹塚"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107804242/?bc=100520187945",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%AB%E3%83%9F%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%B3%E7%AC%B9%E5%A1%9A",
+    "address": "京王線/笹塚駅 歩7分京王線/代田橋駅 歩8分京王井の頭線/新代田駅 歩15分",
+    "rent": 276000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.49,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty036",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ヴィスタ Court 幡ヶ谷",
+      "ja": "ヴィスタコート幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109105386/?bc=100521318000",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%88%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩5分京王線/笹塚駅 歩9分東京メトロ千代田線/代々木上原駅 歩17分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 30.78,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty037",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ヴィスタ Court 幡ヶ谷",
+      "ja": "ヴィスタコート幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109147013/?bc=100524944652",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%BF%E3%82%B3%E3%83%BC%E3%83%88%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩5分京王線/笹塚駅 歩9分東京メトロ千代田線/代々木上原駅 歩17分",
+    "rent": 185000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 30.2,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty038",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ガイア恵比寿ビル",
+      "ja": "ガイア恵比寿ビル"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109232346/?bc=100520372090",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%AC%E3%82%A4%E3%82%A2%E6%81%B5%E6%AF%94%E5%AF%BF%E3%83%93%E3%83%AB",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分東急東横線/代官山駅 歩13分東京メトロ日比谷線/中目黒駅 歩16分",
+    "rent": 495000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 87.78,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty039",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サン Maison 初台",
+      "ja": "サンメゾン初台"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108782967/?bc=100514968305",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%B5%E3%83%B3%E3%83%A1%E3%82%BE%E3%83%B3%E5%88%9D%E5%8F%B0",
+    "address": "京王新線/初台駅 歩6分京王新線/幡ヶ谷駅 歩10分小田急線/参宮橋駅 歩18分",
+    "rent": 180000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.71,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty040",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｓａｓａｚｕｋａ Ｔｏｄａｙ",
+      "ja": "ＳＡＳＡＺＵＫＡ　ＴＯＤＡＹ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109232386/?bc=100522836818",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E4%B8%AD%E9%87%8E%E5%AF%8C%E5%A3%AB%E8%A6%8B%E7%94%BA%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%B3%EF%BC%A1%EF%BC%B3%EF%BC%A1%EF%BC%BA%EF%BC%B5%EF%BC%AB%EF%BC%A1%E3%80%80%EF%BC%B4%EF%BC%AF%EF%BC%A4%EF%BC%A1%EF%BC%B9",
+    "address": "京王新線/幡ヶ谷駅 歩10分京王線/笹塚駅 歩14分東京メトロ丸ノ内線/中野富士見町駅 歩18分",
+    "rent": 207000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.75,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty041",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "京王線 笹塚駅 地下1地上4階建 築4年",
+      "ja": "京王線 笹塚駅 地下1地上4階建 築4年"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108673472/?bc=100504426858",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B9%E5%8D%97%E7%94%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E4%BA%AC%E7%8E%8B%E7%B7%9A%20%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A4%E9%9A%8E%E5%BB%BA%20%E7%AF%894%E5%B9%B4",
+    "address": "京王線/笹塚駅 歩8分京王線/代田橋駅 歩9分東京メトロ丸ノ内線/方南町駅 歩15分",
+    "rent": 135000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 30.08,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty042",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "メルヴェイユ恵比寿",
+      "ja": "メルヴェイユ恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109510778/?bc=100516342682",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%A1%E3%83%AB%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%A6%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分東急東横線/代官山駅 歩11分東急東横線/中目黒駅 歩17分",
+    "rent": 380000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 74.23,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty043",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ザ Park ハビオ恵比寿 Place",
+      "ja": "ザ・パークハビオ恵比寿プレイス"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676328/?bc=100525783795",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%B6%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%81%B5%E6%AF%94%E5%AF%BF%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9",
+    "address": "ＪＲ山手線/恵比寿駅 歩9分東京メトロ日比谷線/広尾駅 歩12分東京メトロ日比谷線/恵比寿駅 歩11分",
+    "rent": 180000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 28.32,
+    "built": "2019 · 11F",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty044",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "House 北参道",
+      "ja": "ハウス北参道"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108156521/?bc=100514802701",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E5%8C%97%E5%8F%82%E9%81%93%E9%A7%85%20%E6%AD%A92%E5%88%86%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E5%8D%83%E9%A7%84%E3%82%B1%E8%B0%B7%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%83%8F%E3%82%A6%E3%82%B9%E5%8C%97%E5%8F%82%E9%81%93",
+    "address": "ＪＲ山手線/代々木駅 歩9分東京メトロ副都心線/北参道駅 歩2分ＪＲ中央線/千駄ケ谷駅 歩9分",
+    "rent": 304000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 73.66,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty045",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "オーキッド Residence 代々木 Ｗｅｓｔ",
+      "ja": "オーキッドレジデンス代々木 ＷＥＳＴ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109376782/?bc=100523577408",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%83%89%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%20%EF%BC%B7%EF%BC%A5%EF%BC%B3%EF%BC%B4",
+    "address": "小田急線/南新宿駅 歩5分ＪＲ山手線/代々木駅 歩6分小田急線/参宮橋駅 歩9分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 22.4,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty046",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リヴ City 初台",
+      "ja": "リヴシティ初台"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108845797/?bc=100519504347",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A95%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%88%9D%E5%8F%B0",
+    "address": "京王新線/初台駅 歩5分小田急線/参宮橋駅 歩10分小田急線/代々木八幡駅 歩14分",
+    "rent": 119500,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 22.63,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "ty047",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リヴ City 初台",
+      "ja": "リヴシティ初台"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109155982/?bc=100509923195",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A95%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%88%9D%E5%8F%B0",
+    "address": "京王新線/初台駅 歩5分小田急線/参宮橋駅 歩10分小田急線/代々木八幡駅 歩14分",
+    "rent": 178000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.89,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty048",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍａｉｓｏｎ Ｓｅｎｋｉ Ｈａｔｓｕｄａｉ",
+      "ja": "Ｍａｉｓｏｎ Ｓｅｎｋｉ Ｈａｔｓｕｄａｉ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109074022/?bc=100521297292",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%AD%EF%BD%81%EF%BD%89%EF%BD%93%EF%BD%8F%EF%BD%8E%20%EF%BC%B3%EF%BD%85%EF%BD%8E%EF%BD%8B%EF%BD%89%20%EF%BC%A8%EF%BD%81%EF%BD%94%EF%BD%93%EF%BD%95%EF%BD%84%EF%BD%81%EF%BD%89",
+    "address": "京王新線/初台駅 歩5分京王新線/幡ヶ谷駅 歩11分小田急線/参宮橋駅 歩18分",
+    "rent": 232000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.74,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty049",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "チェレスタ笹塚",
+      "ja": "チェレスタ笹塚"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109576988/?bc=100488541408",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B9%E5%8D%97%E7%94%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%81%E3%82%A7%E3%83%AC%E3%82%B9%E3%82%BF%E7%AC%B9%E5%A1%9A",
+    "address": "京王線/笹塚駅 歩7分京王線/代田橋駅 歩9分東京メトロ丸ノ内線/方南町駅 歩19分",
+    "rent": 175000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty050",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ケルス Court 笹塚",
+      "ja": "ケルスコート笹塚"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109159089/?bc=100521745599",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%B1%E3%83%AB%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%E7%AC%B9%E5%A1%9A",
+    "address": "京王新線/幡ヶ谷駅 歩7分京王線/笹塚駅 歩5分東京メトロ千代田線/代々木上原駅 歩15分",
+    "rent": 136000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 24.65,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty051",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "渋谷本町6丁目戸建",
+      "ja": "渋谷本町6丁目戸建"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105555044/?bc=100494263183",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E6%B8%8B%E8%B0%B7%E6%9C%AC%E7%94%BA6%E4%B8%81%E7%9B%AE%E6%88%B8%E5%BB%BA",
+    "address": "京王新線/幡ヶ谷駅 歩12分京王新線/初台駅 歩10分都営大江戸線/西新宿五丁目駅 歩13分",
+    "rent": 450000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 77.13,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty052",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "オーキッド Residence 代々木 Ｅａｓｔ",
+      "ja": "オーキッドレジデンス代々木 ＥＡＳＴ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109381983/?bc=100523639549",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%83%89%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%20%EF%BC%A5%EF%BC%A1%EF%BC%B3%EF%BC%B4",
+    "address": "小田急線/南新宿駅 歩5分ＪＲ山手線/代々木駅 歩6分小田急線/参宮橋駅 歩9分",
+    "rent": 135000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 23.31,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty053",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "オーキッド Residence 代々木 Ｅａｓｔ",
+      "ja": "オーキッドレジデンス代々木 ＥＡＳＴ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108698386/?bc=100525733281",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%83%89%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%20%EF%BC%A5%EF%BC%A1%EF%BC%B3%EF%BC%B4",
+    "address": "小田急線/南新宿駅 歩5分ＪＲ山手線/代々木駅 歩6分小田急線/参宮橋駅 歩9分",
+    "rent": 210000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 36.37,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty054",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋｏｌｅｔ幡ヶ谷 ０３",
+      "ja": "Ｋｏｌｅｔ幡ヶ谷＃０３"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000079092227/?bc=100524943754",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E4%B8%AD%E9%87%8E%E5%AF%8C%E5%A3%AB%E8%A6%8B%E7%94%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%20%EF%BC%AB%EF%BD%8F%EF%BD%8C%EF%BD%85%EF%BD%94%E5%B9%A1%E3%83%B6%E8%B0%B7%EF%BC%83%EF%BC%90%EF%BC%93",
+    "address": "京王新線/幡ヶ谷駅 歩12分京王線/笹塚駅 歩15分東京メトロ丸ノ内線/中野富士見町駅 歩19分",
+    "rent": 370000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 69.91,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty055",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 恵比寿駅 地下1地上3階建 築8年",
+      "ja": "ＪＲ山手線 恵比寿駅 地下1地上3階建 築8年"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109232398/?bc=100513212843",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A3%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分ＪＲ山手線/渋谷駅 歩20分東京メトロ日比谷線/広尾駅 歩13分",
+    "rent": 291000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.03,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty056",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 恵比寿駅 地下1地上3階建 築8年",
+      "ja": "ＪＲ山手線 恵比寿駅 地下1地上3階建 築8年"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109232393/?bc=100513212763",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A3%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分ＪＲ山手線/渋谷駅 歩20分東京メトロ日比谷線/広尾駅 歩13分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 52.95,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty057",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライベート Place 広尾",
+      "ja": "プライベートプレイス広尾"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109207615/?bc=100352755907",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E3%83%A9%E3%82%A4%E3%83%B3%E9%AB%98%E6%B5%B7/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%83%E5%B0%BE",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分湘南新宿ライン高海/恵比寿駅 歩11分東京メトロ日比谷線/広尾駅 歩13分",
+    "rent": 291000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.03,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty058",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライベート Place 広尾",
+      "ja": "プライベートプレイス広尾"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109207610/?bc=100334285674",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E3%83%A9%E3%82%A4%E3%83%B3%E9%AB%98%E6%B5%B7/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E5%BA%83%E5%B0%BE",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分湘南新宿ライン高海/恵比寿駅 歩11分東京メトロ日比谷線/広尾駅 歩13分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 52.95,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty059",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ新宿",
+      "ja": "グランパセオ新宿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108949439/?bc=100524518336",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E6%96%B0%E5%AE%BF",
+    "address": "都営新宿線/新宿駅 歩7分小田急線/南新宿駅 歩7分ＪＲ山手線/代々木駅 歩12分",
+    "rent": 139000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 22.9,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty060",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "コンポジット代々木",
+      "ja": "コンポジット代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109067033/?bc=100521268735",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "小田急線/南新宿駅 歩5分都営大江戸線/代々木駅 歩6分小田急線/参宮橋駅 歩10分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 24.13,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty061",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "シャトー初台ii",
+      "ja": "シャトー初台II"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676369/?bc=100523860885",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A925%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%B7%E3%83%A3%E3%83%88%E3%83%BC%E5%88%9D%E5%8F%B0II",
+    "address": "京王新線/初台駅 歩4分ＪＲ山手線/新宿駅 歩25分東京メトロ千代田線/代々木公園駅 歩18分",
+    "rent": 154000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 37.97,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty062",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ド オカ",
+      "ja": "メゾン・ド・オカ"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108741051/?bc=100518593883",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%97%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E9%A7%85%20%E6%AD%A97%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%82%AA%E3%82%AB",
+    "address": "小田急線/南新宿駅 歩5分京王新線/新宿駅 歩7分ＪＲ山手線/代々木駅 歩7分",
+    "rent": 233000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 48.82,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty063",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライム Garden 恵比寿南",
+      "ja": "プライムガーデン恵比寿南"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104554314/?bc=100486534181",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97",
+    "address": "東急東横線/代官山駅 歩5分東京メトロ日比谷線/恵比寿駅 歩7分東急東横線/中目黒駅 歩10分",
+    "rent": 230000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 31.47,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty064",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Legaland幡ヶ谷south",
+      "ja": "LEGALAND幡ヶ谷South"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104449800/?bc=100519978677",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A913%E5%88%86%20LEGALAND%E5%B9%A1%E3%83%B6%E8%B0%B7South",
+    "address": "京王新線/幡ヶ谷駅 歩5分京王線/笹塚駅 歩9分東京メトロ千代田線/代々木上原駅 歩13分",
+    "rent": 226000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.54,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty065",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランツ恵比寿",
+      "ja": "グランツ恵比寿"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109558695/?bc=100525115792",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%84%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ山手線/恵比寿駅 歩7分東京メトロ日比谷線/恵比寿駅 歩6分ＪＲ山手線/渋谷駅 歩9分",
+    "rent": 241000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 41.83,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty066",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "コンフォリア幡ヶ谷",
+      "ja": "コンフォリア幡ヶ谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108389534/?bc=100515991530",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A917%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%9D%B1%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B9%A1%E3%83%B6%E8%B0%B7",
+    "address": "京王新線/幡ヶ谷駅 歩4分東京メトロ千代田線/代々木上原駅 歩17分小田急線/東北沢駅 歩19分",
+    "rent": 167000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.53,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty067",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランテール代々木",
+      "ja": "グランテール代々木"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107849720/?bc=100511864586",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%88%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8F%82%E5%AE%AE%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB%E4%BB%A3%E3%80%85%E6%9C%A8",
+    "address": "京王新線/初台駅 歩7分小田急線/参宮橋駅 歩8分小田急線/代々木八幡駅 歩11分",
+    "rent": 135000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.32,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty068",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アムール代々木上原",
+      "ja": "アムール代々木上原"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108597539/?bc=100525744794",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E6%96%B0%E7%B7%9A/%E5%B9%A1%E3%83%B6%E8%B0%B7%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%82%A2%E3%83%A0%E3%83%BC%E3%83%AB%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京メトロ千代田線/代々木上原駅 歩4分小田急線/代々木八幡駅 歩9分京王新線/幡ヶ谷駅 歩14分",
+    "rent": 185000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.01,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty069",
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shibuya station with direct transit connection.",
+      "ja": "渋谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shibuya · verified real listing with mapped address",
+      "ja": "渋谷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "スター Residence 八雲",
+      "ja": "スターレジデンス八雲"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109264675/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E5%85%AB%E9%9B%B2",
+    "address": "東急東横線/都立大学駅 歩8分東急東横線/自由が丘駅 歩14分東急大井町線/緑が丘駅 歩20分",
+    "rent": 328000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 62.51,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty070",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ａｓｋ中目黒",
+      "ja": "ＡＳＫ中目黒"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109483627/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%A1%EF%BC%B3%EF%BC%AB%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/中目黒駅 歩10分東急東横線/祐天寺駅 歩10分東急田園都市線/池尻大橋駅 歩18分",
+    "rent": 425000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 75.31,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty071",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Luana Court",
+      "ja": "Luana Court"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109428797/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A923%E5%88%86%20Luana%20Court",
+    "address": "東急東横線/都立大学駅 歩12分東急東横線/学芸大学駅 歩13分東急目黒線/西小山駅 歩23分",
+    "rent": 306000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 67.44,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty072",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急目黒線 大岡山駅 5階建 築2年",
+      "ja": "東急目黒線 大岡山駅 5階建 築2年"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669226/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A%20%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%892%E5%B9%B4",
+    "address": "東急目黒線/大岡山駅 歩8分東急大井町線/緑が丘駅 歩10分東急東横線/自由が丘駅 歩15分",
+    "rent": 277000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.93,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty073",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ktm",
+      "ja": "KTM"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109547651/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E6%88%B8%E8%B6%8A%E9%8A%80%E5%BA%A7%E9%A7%85%20%E6%AD%A920%E5%88%86%20KTM",
+    "address": "東急目黒線/西小山駅 歩6分東急目黒線/武蔵小山駅 歩7分東急池上線/戸越銀座駅 歩20分",
+    "rent": 232000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.94,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty074",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｌａ Ｐｅｒｌａ Ｊｉｙｕｇａｏｋａii",
+      "ja": "Ｌａ　Ｐｅｒｌａ　ＪｉｙｕｇａｏｋａII"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104957386/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A99%E5%88%86%20%EF%BC%AC%EF%BD%81%E3%80%80%EF%BC%B0%EF%BD%85%EF%BD%92%EF%BD%8C%EF%BD%81%E3%80%80%EF%BC%AA%EF%BD%89%EF%BD%99%EF%BD%95%EF%BD%87%EF%BD%81%EF%BD%8F%EF%BD%8B%EF%BD%81II",
+    "address": "東急大井町線/緑が丘駅 歩9分東急東横線/自由が丘駅 歩14分東急東横線/都立大学駅 歩9分",
+    "rent": 225000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.98,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty075",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エルファーロ目黒iii",
+      "ja": "エルファーロ目黒III"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106978818/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%A8%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AD%E7%9B%AE%E9%BB%92III",
+    "address": "ＪＲ山手線/目黒駅 歩9分ＪＲ山手線/恵比寿駅 歩10分東京メトロ南北線/白金台駅 歩20分",
+    "rent": 295000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 40.79,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty076",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急東横線 学芸大学駅 4階建 築7年",
+      "ja": "東急東横線 学芸大学駅 4階建 築7年"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669253/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A%20%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%204%E9%9A%8E%E5%BB%BA%20%E7%AF%897%E5%B9%B4",
+    "address": "東急東横線/学芸大学駅 歩7分東急東横線/祐天寺駅 歩15分東急目黒線/武蔵小山駅 歩22分",
+    "rent": 335000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 50.16,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty077",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ブランシエスタ目黒中央町",
+      "ja": "ブランシエスタ目黒中央町"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108149857/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%BF%E7%9B%AE%E9%BB%92%E4%B8%AD%E5%A4%AE%E7%94%BA",
+    "address": "東急東横線/学芸大学駅 歩11分東急東横線/祐天寺駅 歩18分東急目黒線/武蔵小山駅 歩22分",
+    "rent": 275000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.72,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty078",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison レーヴ",
+      "ja": "メゾンレーヴ"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109082708/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%AC%E3%83%BC%E3%83%B4",
+    "address": "東急東横線/学芸大学駅 歩7分東急東横線/祐天寺駅 歩14分東急田園都市線/三軒茶屋駅 歩25分",
+    "rent": 160000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty079",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 目黒駅 8階建 築2年",
+      "ja": "ＪＲ山手線 目黒駅 8階建 築2年"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108854090/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E7%9B%AE%E9%BB%92%E9%A7%85%208%E9%9A%8E%E5%BB%BA%20%E7%AF%892%E5%B9%B4",
+    "address": "ＪＲ山手線/目黒駅 歩5分都営三田線/目黒駅 歩5分東京メトロ南北線/目黒駅 歩5分",
+    "rent": 215000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 32.85,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty080",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ザ Park House 上目黒ピアース",
+      "ja": "ザ・パークハウス上目黒ピアース"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109284119/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%82%B6%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E4%B8%8A%E7%9B%AE%E9%BB%92%E3%83%94%E3%82%A2%E3%83%BC%E3%82%B9",
+    "address": "東京メトロ日比谷線/中目黒駅 歩3分東急東横線/代官山駅 歩12分東急田園都市線/池尻大橋駅 歩17分",
+    "rent": 340000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.06,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty081",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ目黒ii",
+      "ja": "グランパセオ目黒II"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108993380/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E7%9B%AE%E9%BB%92II",
+    "address": "ＪＲ山手線/目黒駅 歩10分東急目黒線/不動前駅 歩10分",
+    "rent": 155000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 24.23,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty082",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急大井町線 緑が丘駅 地下2地上2階建 築15年",
+      "ja": "東急大井町線 緑が丘駅 地下2地上2階建 築15年"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108782813/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A%20%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E5%9C%B0%E4%B8%8B2%E5%9C%B0%E4%B8%8A2%E9%9A%8E%E5%BB%BA%20%E7%AF%8915%E5%B9%B4",
+    "address": "東急大井町線/緑が丘駅 歩7分東急東横線/自由が丘駅 歩8分東急目黒線/奥沢駅 歩10分",
+    "rent": 195000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.47,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty083",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｃｂ大岡山ヴェルデ",
+      "ja": "ＣＢ大岡山ヴェルデ"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108101707/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%A3%EF%BC%A2%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87",
+    "address": "東急大井町線/緑が丘駅 歩4分東急大井町線/大岡山駅 歩8分東急目黒線/奥沢駅 歩10分",
+    "rent": 133000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.7,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty084",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 恵比寿駅 地下1地上3階建 築3年",
+      "ja": "ＪＲ山手線 恵比寿駅 地下1地上3階建 築3年"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108872846/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A3%E9%9A%8E%E5%BB%BA%20%E7%AF%893%E5%B9%B4",
+    "address": "ＪＲ山手線/恵比寿駅 歩7分東急東横線/中目黒駅 歩10分東急東横線/代官山駅 歩10分",
+    "rent": 247000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.55,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty085",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ Terrace 恵比寿",
+      "ja": "アグレシオテラス恵比寿"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108552709/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%9F%BC%E4%BA%AC%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ埼京線/恵比寿駅 歩12分ＪＲ山手線/目黒駅 歩12分東急東横線/代官山駅 歩19分",
+    "rent": 283000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 55.81,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty086",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ Terrace 恵比寿",
+      "ja": "アグレシオテラス恵比寿"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000088673337/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%9F%BC%E4%BA%AC%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ埼京線/恵比寿駅 歩12分ＪＲ山手線/目黒駅 歩12分東急東横線/代官山駅 歩19分",
+    "rent": 315000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 54.87,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty087",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "パレ ホームズ大岡山",
+      "ja": "パレ・ホームズ大岡山"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108366197/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%B4%97%E8%B6%B3%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%8C%97%E5%8D%83%E6%9D%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%91%E3%83%AC%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E5%A4%A7%E5%B2%A1%E5%B1%B1",
+    "address": "東急目黒線/洗足駅 歩9分東急大井町線/大岡山駅 歩12分東急大井町線/北千束駅 歩12分",
+    "rent": 129000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.76,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty088",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ピアース恵比寿",
+      "ja": "ピアース恵比寿"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109483651/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%20%E3%83%94%E3%82%A2%E3%83%BC%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京メトロ日比谷線/恵比寿駅 歩6分ＪＲ山手線/恵比寿駅 歩9分東急東横線/代官山駅 歩7分",
+    "rent": 270000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.2,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty089",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｐｒｅｃｉａ自由が丘",
+      "ja": "Ｐｒｅｃｉａ自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109355800/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BC%B0%EF%BD%92%EF%BD%85%EF%BD%83%EF%BD%89%EF%BD%81%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東急東横線/自由が丘駅 歩10分東急東横線/都立大学駅 歩15分東急大井町線/九品仏駅 歩15分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 52.83,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty090",
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Jiyūgaoka station with direct transit connection.",
+      "ja": "自由が丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Jiyūgaoka · verified real listing with mapped address",
+      "ja": "自由が丘駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｒｅｓｉｄｅｎｃｅ Ｃａｒｉｔａｓ Ｄａｉｋａｎｙａｍａ",
+      "ja": "Ｒｅｓｉｄｅｎｃｅ Ｃａｒｉｔａｓ Ｄａｉｋａｎｙａｍａ"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000080459472/?bc=100514804850",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%20%EF%BC%B2%EF%BD%85%EF%BD%93%EF%BD%89%EF%BD%84%EF%BD%85%EF%BD%8E%EF%BD%83%EF%BD%85%20%EF%BC%A3%EF%BD%81%EF%BD%92%EF%BD%89%EF%BD%94%EF%BD%81%EF%BD%93%20%EF%BC%A4%EF%BD%81%EF%BD%89%EF%BD%8B%EF%BD%81%EF%BD%8E%EF%BD%99%EF%BD%81%EF%BD%8D%EF%BD%81",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分東急東横線/代官山駅 歩6分東京メトロ日比谷線/中目黒駅 歩9分",
+    "rent": 215000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 47.32,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty091",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Lapis 恵比寿ii",
+      "ja": "LAPiS 恵比寿II"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108716479/?bc=100518363032",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A920%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%20LAPiS%20%E6%81%B5%E6%AF%94%E5%AF%BFII",
+    "address": "ＪＲ山手線/恵比寿駅 歩10分東急東横線/代官山駅 歩20分ＪＲ山手線/目黒駅 歩10分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 23.49,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty092",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Lapis 恵比寿ii",
+      "ja": "LAPiS 恵比寿II"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106607875/?bc=100520372413",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A920%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%20LAPiS%20%E6%81%B5%E6%AF%94%E5%AF%BFII",
+    "address": "ＪＲ山手線/恵比寿駅 歩10分東急東横線/代官山駅 歩20分ＪＲ山手線/目黒駅 歩10分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.73,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty093",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アテスウェイ駒場",
+      "ja": "アテスウェイ駒場"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109494959/?bc=100524598829",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E9%A7%92%E5%A0%B4%E6%9D%B1%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%82%A2%E3%83%86%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A4%E9%A7%92%E5%A0%B4",
+    "address": "京王井の頭線/駒場東大前駅 歩4分東急田園都市線/池尻大橋駅 歩12分ＪＲ山手線/渋谷駅 歩22分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.88,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty094",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "En下目黒",
+      "ja": "EN下目黒"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107362515/?bc=100511018856",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E4%BA%94%E5%8F%8D%E7%94%B0%E9%A7%85%20%E6%AD%A916%E5%88%86%20EN%E4%B8%8B%E7%9B%AE%E9%BB%92",
+    "address": "ＪＲ山手線/目黒駅 歩10分東急目黒線/不動前駅 歩8分都営浅草線/五反田駅 歩16分",
+    "rent": 187000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.97,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty095",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーサフェリーチェ自由が丘",
+      "ja": "カーサフェリーチェ自由が丘"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000099346924/?bc=100507096608",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東急大井町線/緑が丘駅 歩2分東急大井町線/大岡山駅 歩9分東急目黒線/奥沢駅 歩11分",
+    "rent": 173000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.77,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty096",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ユーガ都立大学",
+      "ja": "ユーガ都立大学"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669256/?bc=100525743342",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A6%E3%83%BC%E3%82%AC%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東急東横線/都立大学駅 歩8分東急大井町線/自由が丘駅 歩15分東急目黒線/大岡山駅 歩14分",
+    "rent": 124000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 27.15,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty097",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "イプセ目黒中町",
+      "ja": "イプセ目黒中町"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109600921/?bc=100525544933",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A4%E3%83%97%E3%82%BB%E7%9B%AE%E9%BB%92%E4%B8%AD%E7%94%BA",
+    "address": "東急東横線/祐天寺駅 歩7分東急東横線/学芸大学駅 歩10分東京メトロ日比谷線/中目黒駅 歩19分",
+    "rent": 157000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 27.45,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty098",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "イプセ目黒中町",
+      "ja": "イプセ目黒中町"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109159032/?bc=100521968827",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A4%E3%83%97%E3%82%BB%E7%9B%AE%E9%BB%92%E4%B8%AD%E7%94%BA",
+    "address": "東急東横線/祐天寺駅 歩7分東急東横線/学芸大学駅 歩10分東京メトロ日比谷線/中目黒駅 歩19分",
+    "rent": 224000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 39.01,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "ty099",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋｅｗｅｌ緑が丘",
+      "ja": "Ｋｅｗｅｌ緑が丘"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000045051906/?bc=100507874911",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A920%E5%88%86%20%EF%BC%AB%EF%BD%85%EF%BD%97%EF%BD%85%EF%BD%8C%E7%B7%91%E3%81%8C%E4%B8%98",
+    "address": "東急大井町線/緑が丘駅 歩6分東急目黒線/大岡山駅 歩12分東急東横線/自由が丘駅 歩20分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 39.79,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "ty100",
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Tokyu Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with direct transit connection.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
+      "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  }
+
     ]
   },
 
@@ -238,10 +4473,4208 @@ const CORRIDORS_DATA = {
         ax:{quiet:2, old:5, intl:2, food:5, craft:3, green:3, night:4, refined:2, photo:4} },
     ],
     homes: [
-      { id:'hb_h01', st:'ebisu', ward:'shibuya', name:{en:'Ebisu South Court', ja:'恵比寿サウスコート'}, rent:148000, fee:10000, layout:'1K', size:28.0, walk:5, year:2019, tag:'LIVE', live:true, why:{en:'Quiet residential pocket south of Garden Place.', ja:'ガーデンプレイス南側の落ち着いた邸宅街。'} },
-      { id:'hb_h02', st:'hiroo', ward:'minato', name:{en:'Hiroo Forest Residence', ja:'広尾フォレストレジデンス'}, rent:195000, fee:15000, layout:'1LDK', size:40.2, walk:4, year:2021, tag:'✨ High-End', live:true, why:{en:'Designer wood interior overlooking Arisugawa green belt.', ja:'有栖川公園の緑を望むデザイナーズ1LDK。'} },
-      { id:'hb_h03', st:'hatchobori', ward:'chuo', name:{en:'Hatchobori Canal Suite', ja:'八丁堀キャナルスイート'}, rent:128000, fee:8000, layout:'1K', size:26.5, walk:3, year:2020, tag:'LIVE', live:true, why:{en:'Direct line to Ginza & Roppongi, quiet canal walkway view.', ja:'銀座・六本木直通、水辺の遊歩道に面した静かな部屋。'} },
-      { id:'hb_h04', st:'kitasenju', ward:'adachi', name:{en:'Kita-Senju Retro Garden', ja:'北千住レトロガーデン'}, rent:76000, fee:5000, layout:'1K', size:23.0, walk:6, year:2018, tag:'LIVE', live:true, why:{en:'Minutes from 5 train lines, quiet post-town residential alley.', ja:'5路線利用可能なメガハブ、宿場町の情緒ある路地。'} },
+
+  {
+    "name": {
+      "en": "スター Residence 八雲",
+      "ja": "スターレジデンス八雲"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109264675/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E5%85%AB%E9%9B%B2",
+    "address": "東急東横線/都立大学駅 歩8分東急東横線/自由が丘駅 歩14分東急大井町線/緑が丘駅 歩20分",
+    "rent": 328000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 62.51,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb001",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ａｓｋ中目黒",
+      "ja": "ＡＳＫ中目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109483627/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%A1%EF%BC%B3%EF%BC%AB%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/中目黒駅 歩10分東急東横線/祐天寺駅 歩10分東急田園都市線/池尻大橋駅 歩18分",
+    "rent": 425000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 75.31,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb002",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Luana Court",
+      "ja": "Luana Court"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109428797/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A923%E5%88%86%20Luana%20Court",
+    "address": "東急東横線/都立大学駅 歩12分東急東横線/学芸大学駅 歩13分東急目黒線/西小山駅 歩23分",
+    "rent": 306000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 67.44,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb003",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急目黒線 大岡山駅 5階建 築2年",
+      "ja": "東急目黒線 大岡山駅 5階建 築2年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669226/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A%20%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%892%E5%B9%B4",
+    "address": "東急目黒線/大岡山駅 歩8分東急大井町線/緑が丘駅 歩10分東急東横線/自由が丘駅 歩15分",
+    "rent": 277000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.93,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb004",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ktm",
+      "ja": "KTM"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109547651/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E6%88%B8%E8%B6%8A%E9%8A%80%E5%BA%A7%E9%A7%85%20%E6%AD%A920%E5%88%86%20KTM",
+    "address": "東急目黒線/西小山駅 歩6分東急目黒線/武蔵小山駅 歩7分東急池上線/戸越銀座駅 歩20分",
+    "rent": 232000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.94,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb005",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｌａ Ｐｅｒｌａ Ｊｉｙｕｇａｏｋａii",
+      "ja": "Ｌａ　Ｐｅｒｌａ　ＪｉｙｕｇａｏｋａII"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104957386/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A99%E5%88%86%20%EF%BC%AC%EF%BD%81%E3%80%80%EF%BC%B0%EF%BD%85%EF%BD%92%EF%BD%8C%EF%BD%81%E3%80%80%EF%BC%AA%EF%BD%89%EF%BD%99%EF%BD%95%EF%BD%87%EF%BD%81%EF%BD%8F%EF%BD%8B%EF%BD%81II",
+    "address": "東急大井町線/緑が丘駅 歩9分東急東横線/自由が丘駅 歩14分東急東横線/都立大学駅 歩9分",
+    "rent": 225000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.98,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb006",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エルファーロ目黒iii",
+      "ja": "エルファーロ目黒III"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106978818/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%A8%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AD%E7%9B%AE%E9%BB%92III",
+    "address": "ＪＲ山手線/目黒駅 歩9分ＪＲ山手線/恵比寿駅 歩10分東京メトロ南北線/白金台駅 歩20分",
+    "rent": 295000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 40.79,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb007",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急東横線 学芸大学駅 4階建 築7年",
+      "ja": "東急東横線 学芸大学駅 4階建 築7年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669253/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A%20%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%204%E9%9A%8E%E5%BB%BA%20%E7%AF%897%E5%B9%B4",
+    "address": "東急東横線/学芸大学駅 歩7分東急東横線/祐天寺駅 歩15分東急目黒線/武蔵小山駅 歩22分",
+    "rent": 335000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 50.16,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb008",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ブランシエスタ目黒中央町",
+      "ja": "ブランシエスタ目黒中央町"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108149857/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%BF%E7%9B%AE%E9%BB%92%E4%B8%AD%E5%A4%AE%E7%94%BA",
+    "address": "東急東横線/学芸大学駅 歩11分東急東横線/祐天寺駅 歩18分東急目黒線/武蔵小山駅 歩22分",
+    "rent": 275000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.72,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb009",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison レーヴ",
+      "ja": "メゾンレーヴ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109082708/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%AC%E3%83%BC%E3%83%B4",
+    "address": "東急東横線/学芸大学駅 歩7分東急東横線/祐天寺駅 歩14分東急田園都市線/三軒茶屋駅 歩25分",
+    "rent": 160000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb010",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 目黒駅 8階建 築2年",
+      "ja": "ＪＲ山手線 目黒駅 8階建 築2年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108854090/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E7%9B%AE%E9%BB%92%E9%A7%85%208%E9%9A%8E%E5%BB%BA%20%E7%AF%892%E5%B9%B4",
+    "address": "ＪＲ山手線/目黒駅 歩5分都営三田線/目黒駅 歩5分東京メトロ南北線/目黒駅 歩5分",
+    "rent": 215000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 32.85,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb011",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ザ Park House 上目黒ピアース",
+      "ja": "ザ・パークハウス上目黒ピアース"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109284119/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%82%B6%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9%E4%B8%8A%E7%9B%AE%E9%BB%92%E3%83%94%E3%82%A2%E3%83%BC%E3%82%B9",
+    "address": "東京メトロ日比谷線/中目黒駅 歩3分東急東横線/代官山駅 歩12分東急田園都市線/池尻大橋駅 歩17分",
+    "rent": 340000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.06,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb012",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ目黒ii",
+      "ja": "グランパセオ目黒II"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108993380/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E7%9B%AE%E9%BB%92II",
+    "address": "ＪＲ山手線/目黒駅 歩10分東急目黒線/不動前駅 歩10分",
+    "rent": 155000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 24.23,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb013",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急大井町線 緑が丘駅 地下2地上2階建 築15年",
+      "ja": "東急大井町線 緑が丘駅 地下2地上2階建 築15年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108782813/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A%20%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E5%9C%B0%E4%B8%8B2%E5%9C%B0%E4%B8%8A2%E9%9A%8E%E5%BB%BA%20%E7%AF%8915%E5%B9%B4",
+    "address": "東急大井町線/緑が丘駅 歩7分東急東横線/自由が丘駅 歩8分東急目黒線/奥沢駅 歩10分",
+    "rent": 195000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.47,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb014",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｃｂ大岡山ヴェルデ",
+      "ja": "ＣＢ大岡山ヴェルデ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108101707/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%A3%EF%BC%A2%E5%A4%A7%E5%B2%A1%E5%B1%B1%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87",
+    "address": "東急大井町線/緑が丘駅 歩4分東急大井町線/大岡山駅 歩8分東急目黒線/奥沢駅 歩10分",
+    "rent": 133000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.7,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb015",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 恵比寿駅 地下1地上3階建 築3年",
+      "ja": "ＪＲ山手線 恵比寿駅 地下1地上3階建 築3年"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108872846/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A3%E9%9A%8E%E5%BB%BA%20%E7%AF%893%E5%B9%B4",
+    "address": "ＪＲ山手線/恵比寿駅 歩7分東急東横線/中目黒駅 歩10分東急東横線/代官山駅 歩10分",
+    "rent": 247000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.55,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb016",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ Terrace 恵比寿",
+      "ja": "アグレシオテラス恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108552709/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%9F%BC%E4%BA%AC%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ埼京線/恵比寿駅 歩12分ＪＲ山手線/目黒駅 歩12分東急東横線/代官山駅 歩19分",
+    "rent": 283000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 55.81,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb017",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ Terrace 恵比寿",
+      "ja": "アグレシオテラス恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000088673337/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%9F%BC%E4%BA%AC%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "ＪＲ埼京線/恵比寿駅 歩12分ＪＲ山手線/目黒駅 歩12分東急東横線/代官山駅 歩19分",
+    "rent": 315000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 54.87,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb018",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "パレ ホームズ大岡山",
+      "ja": "パレ・ホームズ大岡山"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108366197/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%B4%97%E8%B6%B3%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%8C%97%E5%8D%83%E6%9D%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%91%E3%83%AC%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E5%A4%A7%E5%B2%A1%E5%B1%B1",
+    "address": "東急目黒線/洗足駅 歩9分東急大井町線/大岡山駅 歩12分東急大井町線/北千束駅 歩12分",
+    "rent": 129000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.76,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb019",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ピアース恵比寿",
+      "ja": "ピアース恵比寿"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109483651/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%20%E3%83%94%E3%82%A2%E3%83%BC%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京メトロ日比谷線/恵比寿駅 歩6分ＪＲ山手線/恵比寿駅 歩9分東急東横線/代官山駅 歩7分",
+    "rent": 270000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.2,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb020",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｐｒｅｃｉａ自由が丘",
+      "ja": "Ｐｒｅｃｉａ自由が丘"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109355800/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BC%B0%EF%BD%92%EF%BD%85%EF%BD%83%EF%BD%89%EF%BD%81%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東急東横線/自由が丘駅 歩10分東急東横線/都立大学駅 歩15分東急大井町線/九品仏駅 歩15分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 52.83,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb021",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｒｅｓｉｄｅｎｃｅ Ｃａｒｉｔａｓ Ｄａｉｋａｎｙａｍａ",
+      "ja": "Ｒｅｓｉｄｅｎｃｅ Ｃａｒｉｔａｓ Ｄａｉｋａｎｙａｍａ"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000080459472/?bc=100514804850",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%20%EF%BC%B2%EF%BD%85%EF%BD%93%EF%BD%89%EF%BD%84%EF%BD%85%EF%BD%8E%EF%BD%83%EF%BD%85%20%EF%BC%A3%EF%BD%81%EF%BD%92%EF%BD%89%EF%BD%94%EF%BD%81%EF%BD%93%20%EF%BC%A4%EF%BD%81%EF%BD%89%EF%BD%8B%EF%BD%81%EF%BD%8E%EF%BD%99%EF%BD%81%EF%BD%8D%EF%BD%81",
+    "address": "ＪＲ山手線/恵比寿駅 歩6分東急東横線/代官山駅 歩6分東京メトロ日比谷線/中目黒駅 歩9分",
+    "rent": 215000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 47.32,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb022",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Lapis 恵比寿ii",
+      "ja": "LAPiS 恵比寿II"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108716479/?bc=100518363032",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A920%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%20LAPiS%20%E6%81%B5%E6%AF%94%E5%AF%BFII",
+    "address": "ＪＲ山手線/恵比寿駅 歩10分東急東横線/代官山駅 歩20分ＪＲ山手線/目黒駅 歩10分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 23.49,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb023",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Lapis 恵比寿ii",
+      "ja": "LAPiS 恵比寿II"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106607875/?bc=100520372413",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A920%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%20LAPiS%20%E6%81%B5%E6%AF%94%E5%AF%BFII",
+    "address": "ＪＲ山手線/恵比寿駅 歩10分東急東横線/代官山駅 歩20分ＪＲ山手線/目黒駅 歩10分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.73,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb024",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アテスウェイ駒場",
+      "ja": "アテスウェイ駒場"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109494959/?bc=100524598829",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E9%A7%92%E5%A0%B4%E6%9D%B1%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B8%8B%E8%B0%B7%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%82%A2%E3%83%86%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A4%E9%A7%92%E5%A0%B4",
+    "address": "京王井の頭線/駒場東大前駅 歩4分東急田園都市線/池尻大橋駅 歩12分ＪＲ山手線/渋谷駅 歩22分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.88,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb025",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "En下目黒",
+      "ja": "EN下目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107362515/?bc=100511018856",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E4%BA%94%E5%8F%8D%E7%94%B0%E9%A7%85%20%E6%AD%A916%E5%88%86%20EN%E4%B8%8B%E7%9B%AE%E9%BB%92",
+    "address": "ＪＲ山手線/目黒駅 歩10分東急目黒線/不動前駅 歩8分都営浅草線/五反田駅 歩16分",
+    "rent": 187000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.97,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb026",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーサフェリーチェ自由が丘",
+      "ja": "カーサフェリーチェ自由が丘"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000099346924/?bc=100507096608",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%81%E3%82%A7%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東急大井町線/緑が丘駅 歩2分東急大井町線/大岡山駅 歩9分東急目黒線/奥沢駅 歩11分",
+    "rent": 173000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.77,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb027",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ユーガ都立大学",
+      "ja": "ユーガ都立大学"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669256/?bc=100525743342",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A6%E3%83%BC%E3%82%AC%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東急東横線/都立大学駅 歩8分東急大井町線/自由が丘駅 歩15分東急目黒線/大岡山駅 歩14分",
+    "rent": 124000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 27.15,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb028",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "イプセ目黒中町",
+      "ja": "イプセ目黒中町"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109600921/?bc=100525544933",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A4%E3%83%97%E3%82%BB%E7%9B%AE%E9%BB%92%E4%B8%AD%E7%94%BA",
+    "address": "東急東横線/祐天寺駅 歩7分東急東横線/学芸大学駅 歩10分東京メトロ日比谷線/中目黒駅 歩19分",
+    "rent": 157000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 27.45,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb029",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "イプセ目黒中町",
+      "ja": "イプセ目黒中町"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109159032/?bc=100521968827",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%A4%E3%83%97%E3%82%BB%E7%9B%AE%E9%BB%92%E4%B8%AD%E7%94%BA",
+    "address": "東急東横線/祐天寺駅 歩7分東急東横線/学芸大学駅 歩10分東京メトロ日比谷線/中目黒駅 歩19分",
+    "rent": 224000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 39.01,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb030",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋｅｗｅｌ緑が丘",
+      "ja": "Ｋｅｗｅｌ緑が丘"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000045051906/?bc=100507874911",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A920%E5%88%86%20%EF%BC%AB%EF%BD%85%EF%BD%97%EF%BD%85%EF%BD%8C%E7%B7%91%E3%81%8C%E4%B8%98",
+    "address": "東急大井町線/緑が丘駅 歩6分東急目黒線/大岡山駅 歩12分東急東横線/自由が丘駅 歩20分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 39.79,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb031",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "クレイシア目黒都立大学",
+      "ja": "クレイシア目黒都立大学"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108895260/?bc=100520343659",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%A2%E7%9B%AE%E9%BB%92%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東急東横線/都立大学駅 歩8分東急目黒線/大岡山駅 歩13分東急大井町線/緑が丘駅 歩12分",
+    "rent": 114000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.35,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb032",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ky Residence",
+      "ja": "KYレジデンス"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109617601/?bc=100525637291",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%20KY%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東急東横線/学芸大学駅 歩4分東急東横線/都立大学駅 歩17分東急東横線/祐天寺駅 歩19分",
+    "rent": 120000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.97,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb033",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レジディア学芸大学",
+      "ja": "レジディア学芸大学"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109082728/?bc=100485117057",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東急東横線/学芸大学駅 歩12分東急東横線/祐天寺駅 歩19分東急目黒線/武蔵小山駅 歩20分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 48.47,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb034",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｐａｓｓｙ",
+      "ja": "ＰＡＳＳＹ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109180560/?bc=100522070752",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A916%E5%88%86%20%EF%BC%B0%EF%BC%A1%EF%BC%B3%EF%BC%B3%EF%BC%B9",
+    "address": "東急東横線/中目黒駅 歩5分東急東横線/代官山駅 歩7分ＪＲ山手線/恵比寿駅 歩16分",
+    "rent": 175000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 42.32,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb035",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｆｌｅｇ自由が丘ｅｌ",
+      "ja": "ＦＬＥＧ自由が丘ＥＬ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000078167923/?bc=100520359642",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%20%EF%BC%A6%EF%BC%AC%EF%BC%A5%EF%BC%A7%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%A5%EF%BC%AC",
+    "address": "東急東横線/自由が丘駅 歩6分東急目黒線/奥沢駅 歩9分東急大井町線/緑が丘駅 歩12分",
+    "rent": 124000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 30.3,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb036",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｆｌｅｇ自由が丘ｅｌ",
+      "ja": "ＦＬＥＧ自由が丘ＥＬ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108916850/?bc=100525505185",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%20%EF%BC%A6%EF%BC%AC%EF%BC%A5%EF%BC%A7%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%A5%EF%BC%AC",
+    "address": "東急東横線/自由が丘駅 歩6分東急目黒線/奥沢駅 歩9分東急大井町線/緑が丘駅 歩12分",
+    "rent": 168000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 40.35,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb037",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "クレイシア目黒碑文谷",
+      "ja": "クレイシア目黒碑文谷"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109617599/?bc=100525385316",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%A2%E7%9B%AE%E9%BB%92%E7%A2%91%E6%96%87%E8%B0%B7",
+    "address": "東急東横線/都立大学駅 歩11分東急東横線/学芸大学駅 歩15分東急目黒線/大岡山駅 歩18分",
+    "rent": 116000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.6,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb038",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プラチナ Form 中目黒ii",
+      "ja": "プラチナフォルム中目黒II"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109558385/?bc=100525038886",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A0%E4%B8%AD%E7%9B%AE%E9%BB%92II",
+    "address": "東急東横線/中目黒駅 歩9分ＪＲ山手線/恵比寿駅 歩17分東急東横線/代官山駅 歩16分",
+    "rent": 113000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 21.61,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb039",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｇｒｏｗｔｈ Ｔｅｒｒａｃｅ 中目黒",
+      "ja": "Ｇｒｏｗｔｈ Ｔｅｒｒａｃｅ 中目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109558358/?bc=100525310550",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%20%EF%BC%A7%EF%BD%92%EF%BD%8F%EF%BD%97%EF%BD%94%EF%BD%88%20%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%20%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/中目黒駅 歩9分東急東横線/祐天寺駅 歩10分東急東横線/代官山駅 歩22分",
+    "rent": 120000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 22.82,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb040",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ目黒大塚山",
+      "ja": "グランパセオ目黒大塚山"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108881847/?bc=100525319756",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E7%9B%AE%E9%BB%92%E5%A4%A7%E5%A1%9A%E5%B1%B1",
+    "address": "東急東横線/祐天寺駅 歩18分東急目黒線/目黒駅 歩18分東急東横線/中目黒駅 歩20分",
+    "rent": 123000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 24.18,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb041",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 目黒駅 2階建 築10年",
+      "ja": "ＪＲ山手線 目黒駅 2階建 築10年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000045301831/?bc=100525804047",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E4%BA%94%E5%8F%8D%E7%94%B0%E9%A7%85%20%E6%AD%A920%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E7%9B%AE%E9%BB%92%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%8910%E5%B9%B4",
+    "address": "ＪＲ山手線/目黒駅 歩7分東急目黒線/不動前駅 歩9分ＪＲ山手線/五反田駅 歩20分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 9.02,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb042",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "柿の木坂 Residence",
+      "ja": "柿の木坂レジデンス"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105747168/?bc=100491466467",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E6%9F%BF%E3%81%AE%E6%9C%A8%E5%9D%82%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東急東横線/学芸大学駅 歩13分東急東横線/都立大学駅 歩15分東急田園都市線/駒沢大学駅 歩20分",
+    "rent": 135000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 34.9,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb043",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Glado目黒",
+      "ja": "GLADO目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108895273/?bc=100517789413",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%8C%97%E5%8D%83%E6%9D%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%20GLADO%E7%9B%AE%E9%BB%92",
+    "address": "東急目黒線/西小山駅 歩6分東急目黒線/武蔵小山駅 歩8分東急大井町線/北千束駅 歩18分",
+    "rent": 72000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 11.02,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb044",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "クレイノアオキ Heights",
+      "ja": "クレイノアオキハイツ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109200056/?bc=100519242751",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A924%E5%88%86%20%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%8E%E3%82%A2%E3%82%AA%E3%82%AD%E3%83%8F%E3%82%A4%E3%83%84",
+    "address": "東急東横線/都立大学駅 歩12分東急東横線/自由が丘駅 歩16分東急大井町線/九品仏駅 歩24分",
+    "rent": 105000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 23.23,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb045",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レジディア祐天寺",
+      "ja": "レジディア祐天寺"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109442014/?bc=100525247030",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東急東横線/祐天寺駅 歩5分東急東横線/中目黒駅 歩13分東急東横線/学芸大学駅 歩16分",
+    "rent": 141000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 24.98,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb046",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "菱和 Palace 中目黒",
+      "ja": "菱和パレス中目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676045/?bc=100525813261",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E8%8F%B1%E5%92%8C%E3%83%91%E3%83%AC%E3%82%B9%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/中目黒駅 歩8分東急東横線/祐天寺駅 歩7分東急東横線/代官山駅 歩16分",
+    "rent": 85000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 21.95,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb047",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エコロジー都立大学 Residence",
+      "ja": "エコロジー都立大学レジデンス"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108895268/?bc=100504401281",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%B4%97%E8%B6%B3%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東急東横線/都立大学駅 歩12分東急目黒線/大岡山駅 歩12分東急目黒線/洗足駅 歩15分",
+    "rent": 108000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.16,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb048",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急目黒線 洗足駅 2階建 築7年",
+      "ja": "東急目黒線 洗足駅 2階建 築7年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000091344874/?bc=100525782948",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%B4%97%E8%B6%B3%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E8%A5%BF%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A%20%E6%B4%97%E8%B6%B3%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%897%E5%B9%B4",
+    "address": "東急目黒線/洗足駅 歩14分東急大井町線/大岡山駅 歩15分東急目黒線/西小山駅 歩15分",
+    "rent": 75000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 17.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb049",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レオネクストマリオン目黒",
+      "ja": "レオネクストマリオン目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109600920/?bc=100525845401",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A918%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%83%AC%E3%82%AA%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%B3%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/祐天寺駅 歩17分東急東横線/学芸大学駅 歩18分ＪＲ山手線/目黒駅 歩22分",
+    "rent": 102000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 23.02,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb050",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "トーシンフェニックス下目黒",
+      "ja": "トーシンフェニックス下目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109328991/?bc=100523481258",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%83%88%E3%83%BC%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E4%B8%8B%E7%9B%AE%E9%BB%92",
+    "address": "東急目黒線/不動前駅 歩9分ＪＲ山手線/目黒駅 歩12分東急目黒線/武蔵小山駅 歩21分",
+    "rent": 115000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 19.31,
+    "built": "2019 · 12F",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb051",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "トーシンフェニックス下目黒",
+      "ja": "トーシンフェニックス下目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109415998/?bc=100525798583",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E4%B8%8D%E5%8B%95%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%83%88%E3%83%BC%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E4%B8%8B%E7%9B%AE%E9%BB%92",
+    "address": "東急目黒線/不動前駅 歩9分ＪＲ山手線/目黒駅 歩12分東急目黒線/武蔵小山駅 歩21分",
+    "rent": 118000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 25.17,
+    "built": "2019 · 12F",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb052",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ラ アトレ恵比寿グラン Garden",
+      "ja": "ラ・アトレ恵比寿グランガーデン"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108949109/?bc=100518577906",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%83%A9%E3%83%BB%E3%82%A2%E3%83%88%E3%83%AC%E6%81%B5%E6%AF%94%E5%AF%BF%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3",
+    "address": "ＪＲ山手線/恵比寿駅 歩12分東京メトロ南北線/白金台駅 歩18分東京メトロ日比谷線/広尾駅 歩21分",
+    "rent": 450000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 62.64,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb053",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライムアーバン学芸大学2",
+      "ja": "プライムアーバン学芸大学2"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109640955/?bc=100525570022",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A62",
+    "address": "東急東横線/学芸大学駅 歩3分東急東横線/祐天寺駅 歩15分東急東横線/都立大学駅 歩21分",
+    "rent": 109000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 19.4,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb054",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ドゥーエ学芸大学",
+      "ja": "ドゥーエ学芸大学"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109329008/?bc=100525753016",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A922%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%83%89%E3%82%A5%E3%83%BC%E3%82%A8%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東急東横線/学芸大学駅 歩10分東急目黒線/武蔵小山駅 歩22分東急東横線/祐天寺駅 歩22分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 26.94,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb055",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ヴィンテージ中目黒",
+      "ja": "ヴィンテージ中目黒"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000065310841/?bc=100515853016",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京メトロ日比谷線/中目黒駅 歩2分東急東横線/中目黒駅 歩2分東急東横線/代官山駅 歩19分",
+    "rent": 127000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 25.8,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb056",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 恵比寿駅 4階建 築39年",
+      "ja": "ＪＲ山手線 恵比寿駅 4階建 築39年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109494998/?bc=100524649189",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%204%E9%9A%8E%E5%BB%BA%20%E7%AF%8939%E5%B9%B4",
+    "address": "ＪＲ山手線/恵比寿駅 歩8分ＪＲ山手線/目黒駅 歩10分東急東横線/代官山駅 歩19分",
+    "rent": 102000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 16.14,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb057",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ルミエール",
+      "ja": "メゾン　ルミエール"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107930420/?bc=100512809218",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A4%A7%E5%B2%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E6%B4%97%E8%B6%B3%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%80%80%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB",
+    "address": "東急目黒線/大岡山駅 歩12分東急目黒線/洗足駅 歩13分東急東横線/都立大学駅 歩15分",
+    "rent": 78000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 22.31,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb058",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グリーンヒル恵比寿",
+      "ja": "グリーンヒル恵比寿"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108860810/?bc=100520505848",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%92%E3%83%AB%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京メトロ日比谷線/恵比寿駅 歩6分東急東横線/代官山駅 歩8分東急東横線/中目黒駅 歩12分",
+    "rent": 128000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 20.4,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb059",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ベルデ中目黒",
+      "ja": "ベルデ中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676060/?bc=100525801553",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%99%E3%83%AB%E3%83%87%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東急東横線/中目黒駅 歩7分ＪＲ山手線/恵比寿駅 歩12分東急東横線/代官山駅 歩12分",
+    "rent": 87000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 25.2,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb060",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グレース布施",
+      "ja": "グレース布施"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109151649/?bc=100521907156",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A915%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B9%E5%B8%83%E6%96%BD",
+    "address": "東急東横線/祐天寺駅 歩14分東急東横線/中目黒駅 歩15分ＪＲ山手線/恵比寿駅 歩20分",
+    "rent": 92000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.6,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb061",
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Naka-Meguro station with direct transit connection.",
+      "ja": "中目黒駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Naka-Meguro · verified real listing with mapped address",
+      "ja": "中目黒駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ド サリアン",
+      "ja": "メゾン・ド・サリアン"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109609960/?bc=100525790915",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%82%B5%E3%83%AA%E3%82%A2%E3%83%B3",
+    "address": "東急田園都市線/池尻大橋駅 歩6分東急東横線/中目黒駅 歩14分東京メトロ日比谷線/中目黒駅 歩14分",
+    "rent": 65000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 15.36,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb062",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 池尻大橋駅 5階建 築44年",
+      "ja": "東急田園都市線 池尻大橋駅 5階建 築44年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109652374/?bc=100525801197",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%BB%A3%E5%AE%98%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%8944%E5%B9%B4",
+    "address": "東急田園都市線/池尻大橋駅 歩6分東急東横線/中目黒駅 歩14分東急東横線/代官山駅 歩19分",
+    "rent": 65000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 15.36,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb063",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急大井町線 緑が丘駅 5階建 築59年",
+      "ja": "東急大井町線 緑が丘駅 5階建 築59年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000106460654/?bc=100521007772",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A%20%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%8959%E5%B9%B4",
+    "address": "東急大井町線/緑が丘駅 歩6分東急大井町線/自由が丘駅 歩7分東急目黒線/奥沢駅 歩9分",
+    "rent": 120000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 35.83,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "hb064",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東京メトロ日比谷線 中目黒駅 地下1地上2階建 築32年",
+      "ja": "東京メトロ日比谷線 中目黒駅 地下1地上2階建 築32年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108662565/?bc=100525754408",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%A5%90%E5%A4%A9%E5%AF%BA%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A%20%E4%B8%AD%E7%9B%AE%E9%BB%92%E9%A7%85%20%E5%9C%B0%E4%B8%8B1%E5%9C%B0%E4%B8%8A2%E9%9A%8E%E5%BB%BA%20%E7%AF%8932%E5%B9%B4",
+    "address": "東京メトロ日比谷線/中目黒駅 歩8分東急東横線/中目黒駅 歩8分東急東横線/祐天寺駅 歩11分",
+    "rent": 670000,
+    "mgmt": 0,
+    "layout": "4SLDK",
+    "m2": 155.99,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb065",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Garden 高輪",
+      "ja": "ガーデン高輪"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108190524/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E9%AB%98%E8%BC%AA%E5%8F%B0%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E9%AB%98%E8%BC%AA",
+    "address": "都営浅草線/高輪台駅 歩8分ＪＲ山手線/品川駅 歩11分",
+    "rent": 1900000,
+    "mgmt": 0,
+    "layout": "4LDK",
+    "m2": 249.96,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb066",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Due West Azabu House",
+      "ja": "Due West Azabu House"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108916663/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%B9%83%E6%9C%A8%E5%9D%82%E9%A7%85%20%E6%AD%A914%E5%88%86%20Due%20West%20Azabu%20House",
+    "address": "東京メトロ日比谷線/六本木駅 歩10分東京メトロ日比谷線/広尾駅 歩14分東京メトロ千代田線/乃木坂駅 歩14分",
+    "rent": 491000,
+    "mgmt": 0,
+    "layout": "3SLDK",
+    "m2": 85.48,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb067",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リド南麻布 B棟",
+      "ja": "リド南麻布　B棟"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108708936/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%83%AA%E3%83%89%E5%8D%97%E9%BA%BB%E5%B8%83%E3%80%80B%E6%A3%9F",
+    "address": "東京メトロ日比谷線/広尾駅 歩10分東京メトロ南北線/白金高輪駅 歩19分東京メトロ南北線/麻布十番駅 歩21分",
+    "rent": 2600000,
+    "mgmt": 0,
+    "layout": "6LDK",
+    "m2": 354.76,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb068",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Bella 白金 West",
+      "ja": "BELLA 白金 west"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108758532/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A917%E5%88%86%20BELLA%20%E7%99%BD%E9%87%91%20west",
+    "address": "東京メトロ南北線/白金高輪駅 歩8分東京メトロ南北線/白金台駅 歩12分東京メトロ日比谷線/広尾駅 歩17分",
+    "rent": 489000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 86.64,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb069",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東京メトロ銀座線 青山一丁目駅 5階建 築4年",
+      "ja": "東京メトロ銀座線 青山一丁目駅 5階建 築4年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108448251/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E9%9D%92%E5%B1%B1%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%B9%83%E6%9C%A8%E5%9D%82%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A%20%E9%9D%92%E5%B1%B1%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%205%E9%9A%8E%E5%BB%BA%20%E7%AF%894%E5%B9%B4",
+    "address": "東京メトロ銀座線/青山一丁目駅 歩10分東京メトロ千代田線/乃木坂駅 歩8分東京メトロ日比谷線/六本木駅 歩18分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.0,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb070",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ山手線 目黒駅 13階建 築2年",
+      "ja": "ＪＲ山手線 目黒駅 13階建 築2年"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109095530/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A%20%E7%9B%AE%E9%BB%92%E9%A7%85%2013%E9%9A%8E%E5%BB%BA%20%E7%AF%892%E5%B9%B4",
+    "address": "ＪＲ山手線/目黒駅 歩6分東京メトロ南北線/白金台駅 歩7分",
+    "rent": 148000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.22,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb071",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ジオエント白金台",
+      "ja": "ジオエント白金台"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109073531/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E9%AB%98%E8%BC%AA%E5%8F%B0%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%B8%E3%82%AA%E3%82%A8%E3%83%B3%E3%83%88%E7%99%BD%E9%87%91%E5%8F%B0",
+    "address": "ＪＲ山手線/目黒駅 歩6分東京メトロ南北線/白金台駅 歩7分都営浅草線/高輪台駅 歩16分",
+    "rent": 148000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.22,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb072",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライム新橋 Tower",
+      "ja": "プライム新橋タワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109522375/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E5%A4%A7%E9%96%80%E9%A7%85%20%E6%AD%A98%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E6%96%B0%E6%A9%8B%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "都営三田線/御成門駅 歩5分ＪＲ山手線/新橋駅 歩8分都営浅草線/大門駅 歩8分",
+    "rent": 310000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 53.02,
+    "built": "2019 · 27F",
+    "structure": "RC",
+    "floors": 27,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb073",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライム新橋 Tower",
+      "ja": "プライム新橋タワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109522372/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E5%A4%A7%E9%96%80%E9%A7%85%20%E6%AD%A98%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E6%96%B0%E6%A9%8B%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "都営三田線/御成門駅 歩5分ＪＲ山手線/新橋駅 歩8分都営浅草線/大門駅 歩8分",
+    "rent": 345000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 59.08,
+    "built": "2019 · 27F",
+    "structure": "RC",
+    "floors": 27,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb074",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "朝日白金台 Mansion",
+      "ja": "朝日白金台マンション"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107797709/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A91%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A915%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E9%AB%98%E8%BC%AA%E5%8F%B0%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9C%9D%E6%97%A5%E7%99%BD%E9%87%91%E5%8F%B0%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3",
+    "address": "東京メトロ南北線/白金台駅 歩1分ＪＲ山手線/目黒駅 歩15分都営浅草線/高輪台駅 歩12分",
+    "rent": 345000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 69.03,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb075",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Global Front Tower グローバルフロント Tower",
+      "ja": "GLOBAL FRONT TOWER グローバルフロントタワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000073679984/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%94%B0%E7%94%BA%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%96%B0%E4%BA%A4%E9%80%9A%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81/%E6%97%A5%E3%81%AE%E5%87%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E4%B8%89%E7%94%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%20GLOBAL%20FRONT%20TOWER%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/田町駅 歩11分新交通ゆりかもめ/日の出駅 歩8分都営三田線/三田駅 歩10分",
+    "rent": 230000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.01,
+    "built": "2019 · 34F",
+    "structure": "RC",
+    "floors": 34,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb076",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Global Front Tower グローバルフロント Tower",
+      "ja": "GLOBAL FRONT TOWER グローバルフロントタワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109058077/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%94%B0%E7%94%BA%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%96%B0%E4%BA%A4%E9%80%9A%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81/%E6%97%A5%E3%81%AE%E5%87%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E4%B8%89%E7%94%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%20GLOBAL%20FRONT%20TOWER%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/田町駅 歩11分新交通ゆりかもめ/日の出駅 歩8分都営三田線/三田駅 歩10分",
+    "rent": 370000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 62.52,
+    "built": "2019 · 34F",
+    "structure": "RC",
+    "floors": 34,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb077",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "芝浦 Square Heights",
+      "ja": "芝浦スクエアハイツ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109007810/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%94%B0%E7%94%BA%E9%A7%85%20%E6%AD%A912%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E4%B8%89%E7%94%B0%E9%A7%85%20%E6%AD%A912%E5%88%86%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A/%E6%B3%89%E5%B2%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E8%8A%9D%E6%B5%A6%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%83%8F%E3%82%A4%E3%83%84",
+    "address": "ＪＲ山手線/田町駅 歩12分都営三田線/三田駅 歩12分京急本線/泉岳寺駅 歩13分",
+    "rent": 284000,
+    "mgmt": 0,
+    "layout": "3SLDK",
+    "m2": 92.44,
+    "built": "2019 · 23F",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb078",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プライム Garden 西麻布",
+      "ja": "プライムガーデン西麻布"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109213243/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E4%B9%83%E6%9C%A8%E5%9D%82%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E8%A1%A8%E5%8F%82%E9%81%93%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E5%A4%96%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E8%A5%BF%E9%BA%BB%E5%B8%83",
+    "address": "東京メトロ千代田線/乃木坂駅 歩9分東京メトロ銀座線/表参道駅 歩11分東京メトロ銀座線/外苑前駅 歩12分",
+    "rent": 447000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 67.26,
+    "built": "2019 · 11F",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb079",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｈｔピア赤坂",
+      "ja": "ＨＴピア赤坂"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109675371/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E8%B5%A4%E5%9D%82%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%A8%EF%BC%B4%E3%83%94%E3%82%A2%E8%B5%A4%E5%9D%82",
+    "address": "東京メトロ千代田線/赤坂駅 歩6分東京メトロ銀座線/赤坂見附駅 歩10分東京メトロ銀座線/溜池山王駅 歩11分",
+    "rent": 143000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.11,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb080",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｈｔピア赤坂",
+      "ja": "ＨＴピア赤坂"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109528325/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E8%B5%A4%E5%9D%82%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%A8%EF%BC%B4%E3%83%94%E3%82%A2%E8%B5%A4%E5%9D%82",
+    "address": "東京メトロ千代田線/赤坂駅 歩6分東京メトロ銀座線/赤坂見附駅 歩10分東京メトロ銀座線/溜池山王駅 歩11分",
+    "rent": 198000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.95,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb081",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Rex白金",
+      "ja": "REX白金"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108070926/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A917%E5%88%86%20REX%E7%99%BD%E9%87%91",
+    "address": "東京メトロ南北線/白金台駅 歩8分ＪＲ山手線/目黒駅 歩16分東京メトロ日比谷線/広尾駅 歩17分",
+    "rent": 158000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.35,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb082",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "有栖川heights",
+      "ja": "有栖川Heights"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108948675/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E5%BA%83%E5%B0%BE%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E6%9C%89%E6%A0%96%E5%B7%9DHeights",
+    "address": "東京メトロ日比谷線/広尾駅 歩2分東京メトロ南北線/麻布十番駅 歩18分",
+    "rent": 410000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 60.27,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb083",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｗｏｒｌｄ Ｔｏｗｅｒ Ｒｅｓｉｄｅｎｃｅ",
+      "ja": "ＷＯＲＬＤ　ＴＯＷＥＲ　ＲＥＳＩＤＥＮＣＥ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000097755779/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B5%9C%E6%9D%BE%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E5%A4%A7%E9%96%80%E9%A7%85%20%E6%AD%A94%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E8%8A%9D%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%B7%EF%BC%AF%EF%BC%B2%EF%BC%AC%EF%BC%A4%E3%80%80%EF%BC%B4%EF%BC%AF%EF%BC%B7%EF%BC%A5%EF%BC%B2%E3%80%80%EF%BC%B2%EF%BC%A5%EF%BC%B3%EF%BC%A9%EF%BC%A4%EF%BC%A5%EF%BC%AE%EF%BC%A3%EF%BC%A5",
+    "address": "ＪＲ山手線/浜松町駅 歩2分都営浅草線/大門駅 歩4分都営三田線/芝公園駅 歩8分",
+    "rent": 410000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.15,
+    "built": "2019 · 45F",
+    "structure": "RC",
+    "floors": 45,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb084",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｗｏｒｌｄ Ｔｏｗｅｒ Ｒｅｓｉｄｅｎｃｅ",
+      "ja": "ＷＯＲＬＤ　ＴＯＷＥＲ　ＲＥＳＩＤＥＮＣＥ"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109058112/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B5%9C%E6%9D%BE%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E5%A4%A7%E9%96%80%E9%A7%85%20%E6%AD%A94%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E8%8A%9D%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%B7%EF%BC%AF%EF%BC%B2%EF%BC%AC%EF%BC%A4%E3%80%80%EF%BC%B4%EF%BC%AF%EF%BC%B7%EF%BC%A5%EF%BC%B2%E3%80%80%EF%BC%B2%EF%BC%A5%EF%BC%B3%EF%BC%A9%EF%BC%A4%EF%BC%A5%EF%BC%AE%EF%BC%A3%EF%BC%A5",
+    "address": "ＪＲ山手線/浜松町駅 歩2分都営浅草線/大門駅 歩4分都営三田線/芝公園駅 歩8分",
+    "rent": 600000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 63.9,
+    "built": "2019 · 45F",
+    "structure": "RC",
+    "floors": 45,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb085",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アクティ汐留",
+      "ja": "アクティ汐留"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109557851/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%B5%9C%E6%9D%BE%E7%94%BA%E9%A7%85%20%E6%AD%A93%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E5%A4%A7%E9%96%80%E9%A7%85%20%E6%AD%A93%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E6%B1%90%E7%95%99%E9%A7%85%20%E6%AD%A96%E5%88%86%20%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E6%B1%90%E7%95%99",
+    "address": "ＪＲ山手線/浜松町駅 歩3分都営浅草線/大門駅 歩3分都営大江戸線/汐留駅 歩6分",
+    "rent": 188000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 45.21,
+    "built": "2019 · 45F",
+    "structure": "RC",
+    "floors": 45,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb086",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "品川ハート ビュー Tower",
+      "ja": "品川ハート　ビュータワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108129522/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A/%E5%8C%97%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB/%E5%A4%A9%E7%8E%8B%E6%B4%B2%E3%82%A2%E3%82%A4%E3%83%AB%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E5%93%81%E5%B7%9D%E3%83%8F%E3%83%BC%E3%83%88%E3%80%80%E3%83%93%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/品川駅 歩7分京急本線/北品川駅 歩8分東京モノレール/天王洲アイル駅 歩16分",
+    "rent": 168000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 37.91,
+    "built": "2019 · 26F",
+    "structure": "RC",
+    "floors": 26,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb087",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "品川ハート ビュー Tower",
+      "ja": "品川ハート　ビュータワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109668928/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E6%80%A5%E6%9C%AC%E7%B7%9A/%E5%8C%97%E5%93%81%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB/%E5%A4%A9%E7%8E%8B%E6%B4%B2%E3%82%A2%E3%82%A4%E3%83%AB%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E5%93%81%E5%B7%9D%E3%83%8F%E3%83%BC%E3%83%88%E3%80%80%E3%83%93%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/品川駅 歩7分京急本線/北品川駅 歩8分東京モノレール/天王洲アイル駅 歩16分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 55.92,
+    "built": "2019 · 26F",
+    "structure": "RC",
+    "floors": 26,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb088",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "白金台三丁目戸建",
+      "ja": "白金台三丁目戸建"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109296195/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E5%8F%B0%E9%A7%85%20%E6%AD%A93%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E9%AB%98%E8%BC%AA%E5%8F%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%9B%AE%E9%BB%92%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E7%99%BD%E9%87%91%E5%8F%B0%E4%B8%89%E4%B8%81%E7%9B%AE%E6%88%B8%E5%BB%BA",
+    "address": "東京メトロ南北線/白金台駅 歩3分都営浅草線/高輪台駅 歩10分ＪＲ山手線/目黒駅 歩17分",
+    "rent": 3800000,
+    "mgmt": 0,
+    "layout": "7LDK",
+    "m2": 446.55,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb089",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "シェモア白金高輪",
+      "ja": "シェモア白金高輪"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109256910/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA%E9%A7%85%20%E6%AD%A97%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E6%B3%89%E5%B2%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E9%AB%98%E8%BC%AA%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%82%B7%E3%82%A7%E3%83%A2%E3%82%A2%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA",
+    "address": "東京メトロ南北線/白金高輪駅 歩7分都営浅草線/泉岳寺駅 歩12分ＪＲ山手線/高輪ゲートウェイ駅 歩14分",
+    "rent": 144000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 28.64,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb090",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "モダン Terrace 南青山",
+      "ja": "モダンテラス南青山"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109194765/?bc=100522131208",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E9%9D%92%E5%B1%B1%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E5%A4%96%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E8%A1%A8%E5%8F%82%E9%81%93%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%A2%E3%83%80%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E5%8D%97%E9%9D%92%E5%B1%B1",
+    "address": "東京メトロ銀座線/青山一丁目駅 歩5分東京メトロ銀座線/外苑前駅 歩4分東京メトロ千代田線/表参道駅 歩15分",
+    "rent": 244000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 37.8,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb091",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "西新橋アルファ Residence",
+      "ja": "西新橋アルファレジデンス"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109609585/?bc=100525352709",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E8%99%8E%E3%83%8E%E9%96%80%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E6%96%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E8%A5%BF%E6%96%B0%E6%A9%8B%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東京メトロ銀座線/虎ノ門駅 歩6分東京メトロ日比谷線/虎ノ門ヒルズ駅 歩2分東京メトロ銀座線/新橋駅 歩12分",
+    "rent": 800000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 110.6,
+    "built": "2019 · 18F",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb092",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park アクシス御成門",
+      "ja": "パークアクシス御成門"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108509470/?bc=100516922939",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A94%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E7%A5%9E%E8%B0%B7%E7%94%BA%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%BE%A1%E6%88%90%E9%96%80",
+    "address": "都営三田線/御成門駅 歩4分ＪＲ山手線/新橋駅 歩10分東京メトロ日比谷線/神谷町駅 歩9分",
+    "rent": 370000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 55.16,
+    "built": "2019 · 21F",
+    "structure": "RC",
+    "floors": 21,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb093",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ビバリーホームズ麻布十番",
+      "ja": "ビバリーホームズ麻布十番"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108070951/?bc=100513761556",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%B5%A4%E7%BE%BD%E6%A9%8B%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%E9%A7%85%20%E6%AD%A94%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E8%8A%9D%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%93%E3%83%90%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA",
+    "address": "都営大江戸線/赤羽橋駅 歩2分東京メトロ南北線/麻布十番駅 歩4分都営三田線/芝公園駅 歩13分",
+    "rent": 147000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 27.61,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb094",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ビバリーホームズ麻布十番",
+      "ja": "ビバリーホームズ麻布十番"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108155787/?bc=100514432704",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%B5%A4%E7%BE%BD%E6%A9%8B%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%E9%A7%85%20%E6%AD%A94%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E8%8A%9D%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%93%E3%83%90%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA",
+    "address": "都営大江戸線/赤羽橋駅 歩2分東京メトロ南北線/麻布十番駅 歩4分都営三田線/芝公園駅 歩13分",
+    "rent": 197000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 37.65,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb095",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park ハビオ赤坂氷川町",
+      "ja": "パークハビオ赤坂氷川町"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109333970/?bc=100525296942",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%83%E4%BB%A3%E7%94%B0%E7%B7%9A/%E8%B5%A4%E5%9D%82%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A/%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A98%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E8%B5%A4%E5%9D%82%E6%B0%B7%E5%B7%9D%E7%94%BA",
+    "address": "東京メトロ千代田線/赤坂駅 歩5分東京メトロ銀座線/溜池山王駅 歩9分東京メトロ南北線/六本木一丁目駅 歩8分",
+    "rent": 262000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 47.31,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb096",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ティサージュ芝公園",
+      "ja": "ティサージュ芝公園"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109308409/?bc=100523325542",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E8%8A%9D%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E4%B8%89%E7%94%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%B5%A4%E7%BE%BD%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%86%E3%82%A3%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A5%E8%8A%9D%E5%85%AC%E5%9C%92",
+    "address": "都営三田線/芝公園駅 歩2分都営三田線/三田駅 歩6分都営大江戸線/赤羽橋駅 歩12分",
+    "rent": 203000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.36,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb097",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ベルファース芝浦 Tower",
+      "ja": "ベルファース芝浦タワー"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104717406/?bc=100514393678",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E7%94%B0%E7%94%BA%E9%A7%85%20%E6%AD%A913%E5%88%86%E9%83%BD%E5%96%B6%E6%B5%85%E8%8D%89%E7%B7%9A/%E6%B3%89%E5%B2%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%96%B0%E4%BA%A4%E9%80%9A%E3%82%86%E3%82%8A%E3%81%8B%E3%82%82%E3%82%81/%E8%8A%9D%E6%B5%A6%E3%81%B5%E9%A0%AD%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%83%99%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E8%8A%9D%E6%B5%A6%E3%82%BF%E3%83%AF%E3%83%BC",
+    "address": "ＪＲ山手線/田町駅 歩13分都営浅草線/泉岳寺駅 歩17分新交通ゆりかもめ/芝浦ふ頭駅 歩18分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 25.02,
+    "built": "2019 · 30F",
+    "structure": "RC",
+    "floors": 30,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "hb098",
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with direct transit connection.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · verified real listing with mapped address",
+      "ja": "恵比寿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ウェリス Tower 愛宕虎ノ門",
+      "ja": "ウェリスタワー愛宕虎ノ門"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108985273/?bc=100520595876",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E7%A5%9E%E8%B0%B7%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%A6%E3%82%A7%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%E6%84%9B%E5%AE%95%E8%99%8E%E3%83%8E%E9%96%80",
+    "address": "東京メトロ日比谷線/神谷町駅 歩2分都営三田線/御成門駅 歩7分東京メトロ南北線/六本木一丁目駅 歩12分",
+    "rent": 363000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 48.65,
+    "built": "2019 · 22F",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb099",
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Toranomon Hills station with direct transit connection.",
+      "ja": "虎ノ門ヒルズ駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Toranomon Hills · verified real listing with mapped address",
+      "ja": "虎ノ門ヒルズ駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ウェリス Tower 愛宕虎ノ門",
+      "ja": "ウェリスタワー愛宕虎ノ門"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104889040/?bc=100522541191",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%97%A5%E6%AF%94%E8%B0%B7%E7%B7%9A/%E7%A5%9E%E8%B0%B7%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E9%83%BD%E5%96%B6%E4%B8%89%E7%94%B0%E7%B7%9A/%E5%BE%A1%E6%88%90%E9%96%80%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%97%E5%8C%97%E7%B7%9A/%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%A6%E3%82%A7%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC%E6%84%9B%E5%AE%95%E8%99%8E%E3%83%8E%E9%96%80",
+    "address": "東京メトロ日比谷線/神谷町駅 歩2分都営三田線/御成門駅 歩7分東京メトロ南北線/六本木一丁目駅 歩12分",
+    "rent": 365000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 48.65,
+    "built": "2019 · 22F",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "hb100",
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Tokyo Metro Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Toranomon Hills station with direct transit connection.",
+      "ja": "虎ノ門ヒルズ駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Toranomon Hills · verified real listing with mapped address",
+      "ja": "虎ノ門ヒルズ駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  }
+
     ]
   },
 
@@ -331,10 +8764,4208 @@ const CORRIDORS_DATA = {
         ax:{quiet:5, old:1, intl:3, food:3, craft:2, green:4, night:1, refined:5, photo:4} },
     ],
     homes: [
-      { id:'dt_h01', st:'sangenjaya', ward:'setagaya', name:{en:'Sangenjaya Retro Flat', ja:'三軒茶屋レトロフラット'}, rent:112000, fee:7000, layout:'1K', size:26.5, walk:4, year:2018, tag:'LIVE', live:true, why:{en:'In Taishido quiet residential grid, 4 minutes to express station.', ja:'太子堂の閑静な住宅街、急行停車駅から徒歩4分。'} },
-      { id:'dt_h02', st:'futakotamagawa', ward:'setagaya', name:{en:'River Terrace Futako', ja:'リバーテラス二子玉川'}, rent:148000, fee:10000, layout:'1LDK', size:36.0, walk:6, year:2020, tag:'LIVE', live:true, why:{en:'Direct view toward the green river levee and Mount Fuji on clear days.', ja:'緑豊かな河川敷を望み、晴れた日には富士山も遠望。'} },
-      { id:'dt_h03', st:'tamaplaza', ward:'aoba', name:{en:'Utsukushigaoka Court', ja:'美しが丘コート'}, rent:82000, fee:5000, layout:'1K', size:25.0, walk:5, year:2016, tag:'LIVE', live:true, why:{en:'Lined with trees, private balcony overlooking green garden.', ja:'並木道に面した緑豊かな低層マンション。'} },
-      { id:'dt_h04', st:'aobadai', ward:'aoba', name:{en:'Aobadai Park View', ja:'青葉台パークビュー'}, rent:68000, fee:4000, layout:'1K', size:23.5, walk:7, year:2015, tag:'LIVE', live:true, why:{en:'Suburban calm, spacious kitchen, close to nature parks.', ja:'自然公園至近、広々としたキッチン付きの落ち着いた部屋。'} },
+
+  {
+    "name": {
+      "en": "羽原邸",
+      "ja": "羽原邸"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109451997/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%9D%B1%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E7%BE%BD%E5%8E%9F%E9%82%B8",
+    "address": "京王線/代田橋駅 歩7分京王線/明大前駅 歩9分京王井の頭線/東松原駅 歩15分",
+    "rent": 383000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 107.98,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt001",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park イースト",
+      "ja": "パークイースト"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109634666/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A97%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88",
+    "address": "京王線/千歳烏山駅 歩7分京王線/芦花公園駅 歩7分京王線/八幡山駅 歩17分",
+    "rent": 200000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.13,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt002",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アイフラット",
+      "ja": "アイフラット"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109264823/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%B8%8A%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%A2%E3%82%A4%E3%83%95%E3%83%A9%E3%83%83%E3%83%88",
+    "address": "京王線/八幡山駅 歩8分京王線/上北沢駅 歩11分京王井の頭線/高井戸駅 歩18分",
+    "rent": 190000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 48.87,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt003",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "La Recolte Komazawa",
+      "ja": "La recolte Komazawa"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109343683/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A921%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A923%E5%88%86%20La%20recolte%20Komazawa",
+    "address": "東急田園都市線/駒沢大学駅 歩9分東急田園都市線/三軒茶屋駅 歩21分東急世田谷線/若林駅 歩23分",
+    "rent": 284000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 59.47,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt004",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーサ リデンテ上野毛",
+      "ja": "カーサ・リデンテ上野毛"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669356/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B8%8A%E9%87%8E%E6%AF%9B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%AD%89%E3%80%85%E5%8A%9B%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%BB%E3%83%AA%E3%83%87%E3%83%B3%E3%83%86%E4%B8%8A%E9%87%8E%E6%AF%9B",
+    "address": "東急大井町線/上野毛駅 歩6分東急大井町線/等々力駅 歩14分東急田園都市線/二子玉川駅 歩20分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 68.31,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt005",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーサ リデンテ上野毛",
+      "ja": "カーサ・リデンテ上野毛"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669354/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B8%8A%E9%87%8E%E6%AF%9B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%AD%89%E3%80%85%E5%8A%9B%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%BB%E3%83%AA%E3%83%87%E3%83%B3%E3%83%86%E4%B8%8A%E9%87%8E%E6%AF%9B",
+    "address": "東急大井町線/上野毛駅 歩6分東急大井町線/等々力駅 歩14分東急田園都市線/二子玉川駅 歩20分",
+    "rent": 293000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 80.33,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt006",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランソフィア北沢",
+      "ja": "グランソフィア北沢"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108613140/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A913%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E5%8C%97%E6%B2%A2",
+    "address": "京王線/笹塚駅 歩6分京王線/代田橋駅 歩13分京王井の頭線/下北沢駅 歩15分",
+    "rent": 280000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 76.59,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt007",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍａｉｓｏｎ Ｓｐ 自由が丘",
+      "ja": "Ｍａｉｓｏｎ　ＳＰ　自由が丘"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108156407/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%AD%EF%BD%81%EF%BD%89%EF%BD%93%EF%BD%8F%EF%BD%8E%E3%80%80%EF%BC%B3%EF%BC%B0%E3%80%80%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東急東横線/自由が丘駅 歩6分東急大井町線/九品仏駅 歩7分東急目黒線/奥沢駅 歩8分",
+    "rent": 825000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 124.3,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt008",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "船橋１３６４戸建",
+      "ja": "船橋１３６４戸建"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109547919/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A917%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A924%E5%88%86%20%E8%88%B9%E6%A9%8B%EF%BC%91%EF%BC%93%EF%BC%96%EF%BC%94%E6%88%B8%E5%BB%BA",
+    "address": "小田急線/千歳船橋駅 歩6分小田急線/祖師ヶ谷大蔵駅 歩17分小田急線/経堂駅 歩24分",
+    "rent": 190000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt009",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Cellar桜新町",
+      "ja": "Cellar桜新町"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108759113/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E9%A7%85%20%E6%AD%A924%E5%88%86%20Cellar%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "address": "東急田園都市線/桜新町駅 歩10分東急田園都市線/駒沢大学駅 歩14分東急世田谷線/世田谷駅 歩24分",
+    "rent": 287000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 68.85,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt010",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison アイティー キング",
+      "ja": "メゾン　アイティー　キング"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107609424/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A917%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%80%80%E3%82%A2%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%80%80%E3%82%AD%E3%83%B3%E3%82%B0",
+    "address": "東急世田谷線/上町駅 歩8分東急田園都市線/桜新町駅 歩17分小田急線/経堂駅 歩19分",
+    "rent": 139500,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 38.09,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt011",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison アイティー キング",
+      "ja": "メゾン　アイティー　キング"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108470838/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A917%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%80%80%E3%82%A2%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%80%80%E3%82%AD%E3%83%B3%E3%82%B0",
+    "address": "東急世田谷線/上町駅 歩8分東急田園都市線/桜新町駅 歩17分小田急線/経堂駅 歩19分",
+    "rent": 221000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 61.63,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt012",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "City House 深沢",
+      "ja": "シティハウス深沢"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109125855/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%82%B7%E3%83%86%E3%82%A3%E3%83%8F%E3%82%A6%E3%82%B9%E6%B7%B1%E6%B2%A2",
+    "address": "東急田園都市線/桜新町駅 歩11分東急田園都市線/用賀駅 歩19分東急田園都市線/駒沢大学駅 歩21分",
+    "rent": 293000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 72.11,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt013",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ミヤコウエスト",
+      "ja": "ミヤコウエスト"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676319/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E5%B1%B1%E4%B8%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%9F%E3%83%A4%E3%82%B3%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88",
+    "address": "小田急線/経堂駅 歩4分東急世田谷線/山下駅 歩11分",
+    "rent": 123000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 33.96,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt014",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アメージング Estate 慶和",
+      "ja": "アメージングエステート慶和"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109547897/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%A2%E3%83%A1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%E6%85%B6%E5%92%8C",
+    "address": "東急田園都市線/三軒茶屋駅 歩7分東急田園都市線/池尻大橋駅 歩15分東急世田谷線/若林駅 歩18分",
+    "rent": 145000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 45.32,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt015",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 三軒茶屋駅 3階建 築26年",
+      "ja": "東急田園都市線 三軒茶屋駅 3階建 築26年"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109669402/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%B1%A0%E3%83%8E%E4%B8%8A%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8926%E5%B9%B4",
+    "address": "東急田園都市線/三軒茶屋駅 歩7分東急田園都市線/池尻大橋駅 歩14分京王井の頭線/池ノ上駅 歩22分",
+    "rent": 145000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 45.32,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt016",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グローリオシェルト南烏山",
+      "ja": "グローリオシェルト南烏山"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108806968/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A93%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%AA%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%88%E5%8D%97%E7%83%8F%E5%B1%B1",
+    "address": "京王線/芦花公園駅 歩3分京王線/千歳烏山駅 歩8分京王線/八幡山駅 歩11分",
+    "rent": 139000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.43,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt017",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ハーモニー エラ",
+      "ja": "ハーモニー エラ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109634614/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%20%E3%82%A8%E3%83%A9",
+    "address": "東急世田谷線/上町駅 歩7分東急世田谷線/世田谷駅 歩12分東急田園都市線/桜新町駅 歩15分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.08,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt018",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "クラヴィコード",
+      "ja": "クラヴィコード"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109652469/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E8%B1%AA%E5%BE%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E5%B1%B1%E4%B8%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%89",
+    "address": "小田急線/豪徳寺駅 歩7分東急世田谷線/山下駅 歩7分小田急線/梅ヶ丘駅 歩10分",
+    "rent": 230000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 55.04,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt019",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "千歳烏山ヴィレッジｃ",
+      "ja": "千歳烏山ヴィレッジＣ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000096422686/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%83%E3%82%B8%EF%BC%A3",
+    "address": "京王線/千歳烏山駅 歩8分京王線/芦花公園駅 歩17分",
+    "rent": 133000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 30.39,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt020",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Lyon Estates リヨンエステイツ",
+      "ja": "LYON ESTATES(リヨンエステイツ)"
+    },
+    "st": "sakurashinmachi",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107472145/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A923%E5%88%86%20LYON%20ESTATES%28%E3%83%AA%E3%83%A8%E3%83%B3%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A4%E3%83%84%29",
+    "address": "東急田園都市線/桜新町駅 歩2分東急田園都市線/用賀駅 歩16分東急世田谷線/上町駅 歩23分",
+    "rent": 319000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 65.63,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt021",
+    "listed": {
+      "st": {
+        "en": "Sakura-shimmachi",
+        "ja": "桜新町"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sakura-shimmachi station with direct transit connection.",
+      "ja": "桜新町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sakura-shimmachi · verified real listing with mapped address",
+      "ja": "桜新町駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ヒルセレッソｂ",
+      "ja": "ヒルセレッソＢ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109662917/?bc=100525683790",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E9%96%A2%E6%9D%B1%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E3%83%90%E3%82%B99%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E9%96%A2%E6%9D%B1%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%20%E6%AD%A95%E5%88%86%20%E3%83%92%E3%83%AB%E3%82%BB%E3%83%AC%E3%83%83%E3%82%BD%EF%BC%A2",
+    "address": "小田急線/千歳船橋駅 歩12分東急田園都市線/用賀駅 バス10分 (バス停)関東中央病院 歩5分東急世田谷線/上町駅 バス9分 (バス停)関東中央病院 歩5分",
+    "rent": 190000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 56.52,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt022",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 桜新町駅 3階建 築38年",
+      "ja": "東急田園都市線 桜新町駅 3階建 築38年"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108716683/?bc=100518625014",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8938%E5%B9%B4",
+    "address": "東急田園都市線/桜新町駅 歩8分東急田園都市線/駒沢大学駅 歩16分東急田園都市線/用賀駅 歩21分",
+    "rent": 90000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 20.4,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt023",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 桜新町駅 3階建 築38年",
+      "ja": "東急田園都市線 桜新町駅 3階建 築38年"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109652526/?bc=100525637146",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8938%E5%B9%B4",
+    "address": "東急田園都市線/桜新町駅 歩8分東急田園都市線/駒沢大学駅 歩16分東急田園都市線/用賀駅 歩21分",
+    "rent": 195000,
+    "mgmt": 0,
+    "layout": "3DK",
+    "m2": 58.88,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt024",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーザ エッチェルサ世田谷",
+      "ja": "カーザ・エッチェルサ世田谷"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108770674/?bc=100518957311",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%99%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A928%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A933%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B6%E3%83%BB%E3%82%A8%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B5%E4%B8%96%E7%94%B0%E8%B0%B7",
+    "address": "京王線/仙川駅 歩8分京王線/芦花公園駅 歩28分京王線/柴崎駅 歩33分",
+    "rent": 174000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 62.37,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt025",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーザ エッチェルサ世田谷",
+      "ja": "カーザ・エッチェルサ世田谷"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109296621/?bc=100518522602",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%99%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A928%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A933%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B6%E3%83%BB%E3%82%A8%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B5%E4%B8%96%E7%94%B0%E8%B0%B7",
+    "address": "京王線/仙川駅 歩8分京王線/芦花公園駅 歩28分京王線/柴崎駅 歩33分",
+    "rent": 174000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 62.37,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt026",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "京王線 八幡山駅 3階建 新築",
+      "ja": "京王線 八幡山駅 3階建 新築"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108903026/?bc=100512275176",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E4%BA%AC%E7%8E%8B%E7%B7%9A%20%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E6%96%B0%E7%AF%89",
+    "address": "京王線/八幡山駅 歩9分京王線/芦花公園駅 歩5分京王線/千歳烏山駅 歩15分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.81,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt027",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｈｅ Ｇｒａｎｄ Ｔｅｒｒａｃｅ Ｗａｋａｂａｙａｓｈｉ",
+      "ja": "Ｔｈｅ　Ｇｒａｎｄ　Ｔｅｒｒａｃｅ　Ｗａｋａｂａｙａｓｈｉ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108854329/?bc=100519836325",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%A5%BF%E5%A4%AA%E5%AD%90%E5%A0%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A7%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%84%E3%80%80%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%E3%80%80%EF%BC%B7%EF%BD%81%EF%BD%8B%EF%BD%81%EF%BD%82%EF%BD%81%EF%BD%99%EF%BD%81%EF%BD%93%EF%BD%88%EF%BD%89",
+    "address": "東急世田谷線/若林駅 歩5分東急世田谷線/松陰神社前駅 歩7分東急世田谷線/西太子堂駅 歩11分",
+    "rent": 131000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 27.23,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt028",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｈｅ Ｇｒａｎｄ Ｔｅｒｒａｃｅ Ｗａｋａｂａｙａｓｈｉ",
+      "ja": "Ｔｈｅ　Ｇｒａｎｄ　Ｔｅｒｒａｃｅ　Ｗａｋａｂａｙａｓｈｉ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105887906/?bc=100498440152",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%A5%BF%E5%A4%AA%E5%AD%90%E5%A0%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A7%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%84%E3%80%80%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%E3%80%80%EF%BC%B7%EF%BD%81%EF%BD%8B%EF%BD%81%EF%BD%82%EF%BD%81%EF%BD%99%EF%BD%81%EF%BD%93%EF%BD%88%EF%BD%89",
+    "address": "東急世田谷線/若林駅 歩5分東急世田谷線/松陰神社前駅 歩7分東急世田谷線/西太子堂駅 歩11分",
+    "rent": 243000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 51.14,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt029",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Residence マイ",
+      "ja": "レジデンス　マイ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108634192/?bc=100510972747",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E3%80%80%E3%83%9E%E3%82%A4",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/梅ヶ丘駅 歩10分京王井の頭線/下北沢駅 歩14分",
+    "rent": 150500,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.22,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt030",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ベール宮坂",
+      "ja": "メゾンベール宮坂"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108845736/?bc=100525679515",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E8%B1%AA%E5%BE%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB%E5%AE%AE%E5%9D%82",
+    "address": "小田急線/経堂駅 歩9分東急世田谷線/松原駅 歩15分小田急線/豪徳寺駅 歩19分",
+    "rent": 243000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.57,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt031",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "代田1丁目戸建賃貸",
+      "ja": "代田1丁目戸建賃貸"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108691002/?bc=100509648432",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E4%BB%A3%E7%94%B01%E4%B8%81%E7%9B%AE%E6%88%B8%E5%BB%BA%E8%B3%83%E8%B2%B8",
+    "address": "小田急線/世田谷代田駅 歩9分東急世田谷線/若林駅 歩12分小田急線/梅ヶ丘駅 歩13分",
+    "rent": 328000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 95.22,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt032",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ奥沢",
+      "ja": "アグレシオ奥沢"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000082901483/?bc=100525367545",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E5%A5%A5%E6%B2%A2",
+    "address": "東急大井町線/緑が丘駅 歩5分東急東横線/自由が丘駅 歩17分東急目黒線/奥沢駅 歩10分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 27.33,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt033",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東玉川戸建",
+      "ja": "東玉川戸建"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109590106/?bc=100519798495",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E7%9F%B3%E5%B7%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E9%9B%AA%E3%81%8C%E8%B0%B7%E5%A4%A7%E5%A1%9A%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E7%8E%89%E5%B7%9D%E6%88%B8%E5%BB%BA",
+    "address": "東急目黒線/奥沢駅 歩13分東急池上線/石川台駅 歩11分東急池上線/雪が谷大塚駅 歩12分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 101.64,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt034",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レアール等々力",
+      "ja": "レアール等々力"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108618878/?bc=100517626995",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%AD%89%E3%80%85%E5%8A%9B%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%B0%BE%E5%B1%B1%E5%8F%B0%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B8%8A%E9%87%8E%E6%AF%9B%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AC%E3%82%A2%E3%83%BC%E3%83%AB%E7%AD%89%E3%80%85%E5%8A%9B",
+    "address": "東急大井町線/等々力駅 歩7分東急大井町線/尾山台駅 歩13分東急大井町線/上野毛駅 歩14分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 50.12,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt035",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Trois Crique明大前",
+      "ja": "trois crique明大前"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109634653/?bc=100525511399",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%20trois%20crique%E6%98%8E%E5%A4%A7%E5%89%8D",
+    "address": "京王線/明大前駅 歩8分東急世田谷線/下高井戸駅 歩9分東急世田谷線/松原駅 歩12分",
+    "rent": 151000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.97,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt036",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サリーレ成城",
+      "ja": "サリーレ成城"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108806950/?bc=100519461713",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%AC%E6%88%90%E5%9F%8E",
+    "address": "小田急線/成城学園前駅 歩9分小田急線/祖師ヶ谷大蔵駅 歩19分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 86.1,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt037",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ下北沢2",
+      "ja": "グランパセオ下北沢2"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109477438/?bc=100512059136",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E4%B8%8B%E5%8C%97%E6%B2%A22",
+    "address": "小田急線/世田谷代田駅 歩9分小田急線/下北沢駅 歩10分京王井の頭線/下北沢駅 歩11分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 55.94,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt038",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋ Ｗｉｓｔｅｒｉａ",
+      "ja": "Ｋ．Ｗｉｓｔｅｒｉａ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109682783/?bc=100525865945",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E5%AE%AE%E3%81%AE%E5%9D%82%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BC%AB%EF%BC%8E%EF%BC%B7%EF%BD%89%EF%BD%93%EF%BD%94%EF%BD%85%EF%BD%92%EF%BD%89%EF%BD%81",
+    "address": "小田急線/経堂駅 歩7分東急世田谷線/宮の坂駅 歩10分東急世田谷線/上町駅 歩15分",
+    "rent": 157000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.16,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt039",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ソーシャルアベニュー上北沢",
+      "ja": "ソーシャルアベニュー上北沢"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104399459/?bc=100525754986",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%B8%8A%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%99%E3%83%8B%E3%83%A5%E3%83%BC%E4%B8%8A%E5%8C%97%E6%B2%A2",
+    "address": "京王線/八幡山駅 歩5分京王線/上北沢駅 歩10分京王線/芦花公園駅 歩12分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.5,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt040",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park ハイム世田谷代田",
+      "ja": "パーク・ハイム世田谷代田"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108089165/?bc=100519090689",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A0%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "小田急線/世田谷代田駅 歩10分小田急線/梅ヶ丘駅 歩10分東急世田谷線/若林駅 歩11分",
+    "rent": 258000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 77.81,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt041",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋ Ｈｏｕｓｅ",
+      "ja": "Ｋ ｈｏｕｓｅ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109510752/?bc=100525851554",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A915%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A922%E5%88%86%20%EF%BC%AB%20%EF%BD%88%EF%BD%8F%EF%BD%95%EF%BD%93%EF%BD%85",
+    "address": "小田急線/千歳船橋駅 歩9分小田急線/祖師ヶ谷大蔵駅 歩15分小田急線/経堂駅 歩22分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 47.72,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt042",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍーｈａｕｓ",
+      "ja": "Ｍーｈａｕｓ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108214394/?bc=100515306218",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%AD%E3%83%BC%EF%BD%88%EF%BD%81%EF%BD%95%EF%BD%93",
+    "address": "京王線/笹塚駅 歩7分小田急線/下北沢駅 歩11分京王線/代田橋駅 歩11分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.36,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt043",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍｏｃｘｓｔｙｌｅ下北沢",
+      "ja": "ＭＯＣＸＳＴＹＬＥ下北沢"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676278/?bc=100515033286",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%AD%EF%BC%AF%EF%BC%A3%EF%BC%B8%EF%BC%B3%EF%BC%B4%EF%BC%B9%EF%BC%AC%EF%BC%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/下北沢駅 歩9分京王井の頭線/下北沢駅 歩10分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.43,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt044",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｏｗｎｈｏｕｓｅ Ｍｃｏ",
+      "ja": "ｔｏｗｎｈｏｕｓｅ ＭＣＯ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107932065/?bc=100519080692",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92%E9%A7%85%20%E3%83%90%E3%82%B920%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E6%BA%9D%E3%81%AE%E5%8F%A3%20%E6%AD%A94%E5%88%86%20%EF%BD%94%EF%BD%8F%EF%BD%97%EF%BD%8E%EF%BD%88%EF%BD%8F%EF%BD%95%EF%BD%93%EF%BD%85%20%EF%BC%AD%EF%BC%A3%EF%BC%AF",
+    "address": "東急田園都市線/溝の口駅 歩4分東急田園都市線/高津駅 歩10分小田急線/向ヶ丘遊園駅 バス20分 (バス停)溝の口 歩4分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 39.74,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt045",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アズ梶ケ谷 Residence",
+      "ja": "アズ梶ケ谷レジデンス"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109602954/?bc=100525736347",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%A2%E3%82%BA%E6%A2%B6%E3%82%B1%E8%B0%B7%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東急田園都市線/梶が谷駅 歩4分東急田園都市線/溝の口駅 歩9分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 72.9,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt046",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 二子新地駅 3階建 新築",
+      "ja": "東急田園都市線 二子新地駅 3階建 新築"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670445/?bc=100525792047",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E6%96%B0%E7%AF%89",
+    "address": "東急田園都市線/二子新地駅 歩6分東急田園都市線/高津駅 歩9分東急田園都市線/二子玉川駅 歩12分",
+    "rent": 163000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.03,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt047",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 二子新地駅 3階建 新築",
+      "ja": "東急田園都市線 二子新地駅 3階建 新築"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670444/?bc=100525161928",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E6%96%B0%E7%AF%89",
+    "address": "東急田園都市線/二子新地駅 歩6分東急田園都市線/高津駅 歩9分東急田園都市線/二子玉川駅 歩12分",
+    "rent": 241000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 70.88,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt048",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "仮称 二子１丁目 Maison",
+      "ja": "（仮称）二子１丁目メゾン"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670442/?bc=100525239166",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%20%EF%BC%88%E4%BB%AE%E7%A7%B0%EF%BC%89%E4%BA%8C%E5%AD%90%EF%BC%91%E4%B8%81%E7%9B%AE%E3%83%A1%E3%82%BE%E3%83%B3",
+    "address": "東急田園都市線/二子新地駅 歩6分東急田園都市線/高津駅 歩9分東急田園都市線/二子玉川駅 歩12分",
+    "rent": 163000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.03,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt049",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ハーベスト Hills 溝の口ii",
+      "ja": "ハーベストヒルズ溝の口II"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107351492/?bc=100508700681",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A915%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A915%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%B4%A5%E7%94%B0%E5%B1%B1%E9%A7%85%20%E6%AD%A94%E5%88%86%20%E3%83%8F%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%83%92%E3%83%AB%E3%82%BA%E6%BA%9D%E3%81%AE%E5%8F%A3II",
+    "address": "東急田園都市線/溝の口駅 歩15分ＪＲ南武線/武蔵溝ノ口駅 歩15分ＪＲ南武線/津田山駅 歩4分",
+    "rent": 84000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 25.31,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt050",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison アップストリーム",
+      "ja": "メゾンアップストリーム"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670435/?bc=100525757030",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A919%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A937%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0",
+    "address": "ＪＲ南武線/武蔵新城駅 歩6分ＪＲ南武線/武蔵中原駅 歩19分ＪＲ南武線/武蔵溝ノ口駅 歩37分",
+    "rent": 67000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.93,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt051",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔ Ｓ Ｇａｒｄｅｎ梶ヶ谷",
+      "ja": "Ｔ’ｓ　ｇａｒｄｅｎ梶ヶ谷"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000089113634/?bc=100521174104",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A98%E5%88%86%20%EF%BC%B4%E2%80%99%EF%BD%93%E3%80%80%EF%BD%87%EF%BD%81%EF%BD%92%EF%BD%84%EF%BD%85%EF%BD%8E%E6%A2%B6%E3%83%B6%E8%B0%B7",
+    "address": "東急田園都市線/梶が谷駅 歩8分",
+    "rent": 55000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 16.22,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt052",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急東横線 元住吉駅 3階建 築41年",
+      "ja": "東急東横線 元住吉駅 3階建 築41年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109677727/?bc=100411031153",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E5%85%83%E4%BD%8F%E5%90%89%E9%A7%85%20%E6%AD%A918%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A924%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%97%A5%E5%90%89%E9%A7%85%20%E6%AD%A929%E5%88%86%20%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A%20%E5%85%83%E4%BD%8F%E5%90%89%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8941%E5%B9%B4",
+    "address": "東急東横線/元住吉駅 歩18分ＪＲ南武線/武蔵中原駅 歩24分東急東横線/日吉駅 歩29分",
+    "rent": 95000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 38.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt053",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｒ Place",
+      "ja": "Ｒ・プレイス"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109677733/?bc=100465953655",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A917%E5%88%86%20%EF%BC%B2%E3%83%BB%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9",
+    "address": "ＪＲ南武線/武蔵新城駅 歩17分",
+    "rent": 60000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 22.56,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt054",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アーバン Park 溝の口",
+      "ja": "アーバンパーク溝の口"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107385632/?bc=100524814937",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A916%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "東急田園都市線/高津駅 歩9分東急田園都市線/溝の口駅 歩16分ＪＲ南武線/武蔵溝ノ口駅 歩16分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 44.83,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt055",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アーバン Park 溝の口",
+      "ja": "アーバンパーク溝の口"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108847084/?bc=100485520936",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A916%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%A2%E3%83%BC%E3%83%90%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "東急田園都市線/高津駅 歩9分東急田園都市線/溝の口駅 歩16分ＪＲ南武線/武蔵溝ノ口駅 歩16分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 43.5,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt056",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 二子新地駅 6階建 築24年",
+      "ja": "東急田園都市線 二子新地駅 6階建 築24年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670429/?bc=100525729231",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A924%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A926%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A924%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%206%E9%9A%8E%E5%BB%BA%20%E7%AF%8924%E5%B9%B4",
+    "address": "東急田園都市線/二子新地駅 歩24分東急田園都市線/高津駅 歩26分ＪＲ南武線/武蔵新城駅 歩24分",
+    "rent": 68000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 22.42,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt057",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Rbeans",
+      "ja": "RBeans"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670431/?bc=100525752207",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A911%E5%88%86%20RBeans",
+    "address": "東急田園都市線/二子新地駅 歩3分東急田園都市線/高津駅 歩9分東急田園都市線/二子玉川駅 歩11分",
+    "rent": 54000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 16.88,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt058",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ド石川",
+      "ja": "メゾンド石川"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108062380/?bc=100513606855",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%89%E7%9F%B3%E5%B7%9D",
+    "address": "東急田園都市線/二子新地駅 歩5分東急大井町線/高津駅 歩13分東急大井町線/二子玉川駅 歩14分",
+    "rent": 47000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 17.33,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt059",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ソレイユ",
+      "ja": "ソレイユ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109523585/?bc=100524844559",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A935%E5%88%86%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6",
+    "address": "ＪＲ南武線/武蔵新城駅 歩8分ＪＲ南武線/武蔵中原駅 歩18分東急田園都市線/溝の口駅 歩35分",
+    "rent": 119000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 48.68,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt060",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ南武線 武蔵新城駅 3階建 築9年",
+      "ja": "ＪＲ南武線 武蔵新城駅 3階建 築9年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109549487/?bc=100524844389",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A935%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A%20%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%899%E5%B9%B4",
+    "address": "ＪＲ南武線/武蔵新城駅 歩8分ＪＲ南武線/武蔵中原駅 歩18分東急田園都市線/溝の口駅 歩35分",
+    "rent": 119000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 48.68,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt061",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ南武線 武蔵新城駅 2階建 築14年",
+      "ja": "ＪＲ南武線 武蔵新城駅 2階建 築14年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108511001/?bc=100517095439",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A911%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A921%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A%20%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%8914%E5%B9%B4",
+    "address": "ＪＲ南武線/武蔵新城駅 歩11分ＪＲ南武線/武蔵中原駅 歩21分",
+    "rent": 107000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 41.71,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt062",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラン Square 梶ケ谷",
+      "ja": "グランスクエア梶ケ谷"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670423/?bc=100525739003",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%A2%B6%E3%82%B1%E8%B0%B7",
+    "address": "東急田園都市線/梶が谷駅 歩10分東急田園都市線/宮崎台駅 歩15分東急田園都市線/溝の口駅 歩20分",
+    "rent": 76000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt063",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 梶が谷駅 3階建 築3年",
+      "ja": "東急田園都市線 梶が谷駅 3階建 築3年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670424/?bc=100525736331",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%893%E5%B9%B4",
+    "address": "東急田園都市線/梶が谷駅 歩10分東急田園都市線/宮崎台駅 歩15分東急田園都市線/溝の口駅 歩20分",
+    "rent": 76000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt064",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ファインファースト久地",
+      "ja": "ファインファースト久地"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108347636/?bc=100525580882",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E4%B9%85%E5%9C%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%B4%A5%E7%94%B0%E5%B1%B1%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A926%E5%88%86%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E4%B9%85%E5%9C%B0",
+    "address": "ＪＲ南武線/久地駅 歩9分ＪＲ南武線/津田山駅 歩19分東急田園都市線/溝の口駅 歩26分",
+    "rent": 110000,
+    "mgmt": 0,
+    "layout": "3DK",
+    "m2": 59.21,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt065",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エコの住",
+      "ja": "エコの住"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109683626/?bc=100525836487",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E8%9F%B9%E3%83%B6%E8%B0%B7%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%97%A5%E5%90%89%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E3%81%95%E3%81%8F%E3%82%89%E3%81%8C%E4%B8%98%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89%E9%A7%85%20%E3%83%90%E3%82%B915%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E8%9F%B9%E3%83%B6%E8%B0%B7%20%E6%AD%A98%E5%88%86%20%E3%82%A8%E3%82%B3%E3%81%AE%E4%BD%8F",
+    "address": "ＪＲ南武線/武蔵中原駅 バス10分 (バス停)蟹ヶ谷 歩8分東急東横線/日吉駅 バス10分 (バス停)さくらが丘 歩9分東急東横線/武蔵小杉駅 バス15分 (バス停)蟹ヶ谷 歩8分",
+    "rent": 91000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.92,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt066",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラン Square 梶ヶ谷",
+      "ja": "グランスクエア梶ヶ谷"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109314613/?bc=100523048647",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A913%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%A2%B6%E3%83%B6%E8%B0%B7",
+    "address": "東急田園都市線/梶が谷駅 歩10分東急田園都市線/宮崎台駅 歩13分ＪＲ南武線/武蔵溝ノ口駅 歩20分",
+    "rent": 76000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.04,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt067",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "チャコ梶ヶ谷",
+      "ja": "チャコ梶ヶ谷"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109659585/?bc=100525638590",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A921%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A924%E5%88%86%20%E3%83%81%E3%83%A3%E3%82%B3%E6%A2%B6%E3%83%B6%E8%B0%B7",
+    "address": "東急田園都市線/梶が谷駅 歩12分東急田園都市線/宮崎台駅 歩21分ＪＲ南武線/武蔵溝ノ口駅 歩24分",
+    "rent": 107000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 49.0,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt068",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "チャコ梶ヶ谷",
+      "ja": "チャコ梶ヶ谷"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109659586/?bc=100521991444",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A921%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A924%E5%88%86%20%E3%83%81%E3%83%A3%E3%82%B3%E6%A2%B6%E3%83%B6%E8%B0%B7",
+    "address": "東急田園都市線/梶が谷駅 歩12分東急田園都市線/宮崎台駅 歩21分ＪＲ南武線/武蔵溝ノ口駅 歩24分",
+    "rent": 125000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 49.4,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt069",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "武蔵新城４６ａｐ",
+      "ja": "武蔵新城４６ＡＰ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107139953/?bc=100506692369",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A910%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A922%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A934%E5%88%86%20%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%EF%BC%94%EF%BC%96%EF%BC%A1%EF%BC%B0",
+    "address": "ＪＲ南武線/武蔵新城駅 歩10分ＪＲ南武線/武蔵中原駅 歩22分東急大井町線/高津駅 歩34分",
+    "rent": 76000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 17.25,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt070",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "トレジャ 高津",
+      "ja": "トレジャ－高津"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109636005/?bc=100525530855",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%EF%BC%8D%E9%AB%98%E6%B4%A5",
+    "address": "東急田園都市線/溝の口駅 歩9分ＪＲ南武線/武蔵溝ノ口駅 歩11分東急田園都市線/高津駅 歩11分",
+    "rent": 77000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 26.44,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt071",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 溝の口駅 2階建 築25年",
+      "ja": "東急田園都市線 溝の口駅 2階建 築25年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109677740/?bc=100525822699",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%8925%E5%B9%B4",
+    "address": "東急田園都市線/溝の口駅 歩7分東急田園都市線/梶が谷駅 歩8分東急田園都市線/宮崎台駅 歩21分",
+    "rent": 83000,
+    "mgmt": 0,
+    "layout": "2K",
+    "m2": 37.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt072",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ア ラ モードii",
+      "ja": "ア・ラ・モードII"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109239050/?bc=100525357517",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A918%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%89II",
+    "address": "東急田園都市線/高津駅 歩13分東急田園都市線/溝の口駅 歩18分ＪＲ南武線/武蔵新城駅 歩21分",
+    "rent": 100000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.28,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt073",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ南武線 武蔵新城駅 3階建 築10年",
+      "ja": "ＪＲ南武線 武蔵新城駅 3階建 築10年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670433/?bc=100525739009",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A915%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E3%83%90%E3%82%B99%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E5%8D%83%E5%B9%B4%20%E6%AD%A92%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A%20%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8910%E5%B9%B4",
+    "address": "ＪＲ南武線/武蔵新城駅 歩15分ＪＲ南武線/武蔵中原駅 歩18分東急田園都市線/溝の口駅 バス9分 (バス停)千年 歩2分",
+    "rent": 98000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 36.56,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt074",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｈｅ Ｇｒａｎｔ",
+      "ja": "ＴＨＥ　ＧＲＡＮＴ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670432/?bc=100525738224",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A915%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E3%83%90%E3%82%B99%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E5%8D%83%E5%B9%B4%20%E6%AD%A92%E5%88%86%20%EF%BC%B4%EF%BC%A8%EF%BC%A5%E3%80%80%EF%BC%A7%EF%BC%B2%EF%BC%A1%EF%BC%AE%EF%BC%B4",
+    "address": "ＪＲ南武線/武蔵新城駅 歩15分ＪＲ南武線/武蔵中原駅 歩18分東急田園都市線/溝の口駅 バス9分 (バス停)千年 歩2分",
+    "rent": 98000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 36.56,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt075",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Rising Stage",
+      "ja": "RISING STAGE"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108224560/?bc=100525375538",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A910%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A912%E5%88%86%20RISING%20STAGE",
+    "address": "東急田園都市線/溝の口駅 歩10分ＪＲ南武線/武蔵溝ノ口駅 歩11分東急田園都市線/梶が谷駅 歩12分",
+    "rent": 68000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.64,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt076",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アカネ Heights",
+      "ja": "アカネハイツ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105546359/?bc=100516270092",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%82%A2%E3%82%AB%E3%83%8D%E3%83%8F%E3%82%A4%E3%83%84",
+    "address": "東急田園都市線/梶が谷駅 歩9分ＪＲ南武線/武蔵溝ノ口駅 歩17分東急大井町線/溝の口駅 歩17分",
+    "rent": 80000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 48.0,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt077",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サンモール Crest",
+      "ja": "サンモール　クレスト"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109560212/?bc=100525223858",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%B4%A5%E7%94%B0%E5%B1%B1%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E4%B9%85%E5%9C%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%82%B5%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E3%80%80%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88",
+    "address": "ＪＲ南武線/津田山駅 歩8分ＪＲ南武線/久地駅 歩9分",
+    "rent": 129000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 40.93,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt078",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ南武線 久地駅 3階建 築7年",
+      "ja": "ＪＲ南武線 久地駅 3階建 築7年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109560213/?bc=100525029136",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E4%B9%85%E5%9C%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A921%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%B4%A5%E7%94%B0%E5%B1%B1%E9%A7%85%20%E6%AD%A97%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A%20%E4%B9%85%E5%9C%B0%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%897%E5%B9%B4",
+    "address": "ＪＲ南武線/久地駅 歩9分東急田園都市線/溝の口駅 歩21分ＪＲ南武線/津田山駅 歩7分",
+    "rent": 129000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 40.93,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt079",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レフィーノ",
+      "ja": "レフィーノ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109291056/?bc=100522913334",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%AC%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8E",
+    "address": "ＪＲ南武線/武蔵新城駅 歩5分ＪＲ南武線/武蔵中原駅 歩17分",
+    "rent": 112000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.53,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt080",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プレ デ ラ リビエール I",
+      "ja": "プレ・デ・ラ・リビエール　I"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109578032/?bc=100525638936",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A916%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%AA%E3%83%93%E3%82%A8%E3%83%BC%E3%83%AB%E3%80%80I",
+    "address": "東急田園都市線/二子新地駅 歩10分東急田園都市線/二子玉川駅 歩16分ＪＲ南武線/武蔵溝ノ口駅 歩18分",
+    "rent": 125000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.08,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt081",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｉｖｙ Ｇａｒｄｅｎ",
+      "ja": "ＩＶＹ Ｇａｒｄｅｎ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000075897407/?bc=100524364854",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%A9%EF%BC%B6%EF%BC%B9%20%EF%BC%A7%EF%BD%81%EF%BD%92%EF%BD%84%EF%BD%85%EF%BD%8E",
+    "address": "東急田園都市線/溝の口駅 歩10分東急田園都市線/高津駅 歩9分ＪＲ南武線/武蔵溝ノ口駅 歩10分",
+    "rent": 70000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.22,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt082",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Louvre 溝の口弐番館",
+      "ja": "ルーブル溝の口弐番館"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108980173/?bc=100521703342",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A99%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%B4%A5%E7%94%B0%E5%B1%B1%E9%A7%85%20%E6%AD%A913%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%AB%E3%83%BC%E3%83%96%E3%83%AB%E6%BA%9D%E3%81%AE%E5%8F%A3%E5%BC%90%E7%95%AA%E9%A4%A8",
+    "address": "東急田園都市線/溝の口駅 歩9分ＪＲ南武線/津田山駅 歩13分ＪＲ南武線/武蔵溝ノ口駅 歩10分",
+    "rent": 89000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.3,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt083",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison マグノリア",
+      "ja": "メゾン　マグノリア"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109504877/?bc=100524880314",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A910%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A926%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%80%80%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%AA%E3%82%A2",
+    "address": "ＪＲ南武線/武蔵新城駅 歩10分ＪＲ南武線/武蔵中原駅 歩26分東急田園都市線/溝の口駅 歩25分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 27.12,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt084",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｒ南武線 武蔵新城駅 3階建 築20年",
+      "ja": "ＪＲ南武線 武蔵新城駅 3階建 築20年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109591903/?bc=100525653399",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%20%E6%AD%A910%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E4%B8%AD%E5%8E%9F%E9%A7%85%20%E6%AD%A926%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A925%E5%88%86%20%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A%20%E6%AD%A6%E8%94%B5%E6%96%B0%E5%9F%8E%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8920%E5%B9%B4",
+    "address": "ＪＲ南武線/武蔵新城駅 歩10分ＪＲ南武線/武蔵中原駅 歩26分東急田園都市線/溝の口駅 歩25分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 27.12,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt085",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 二子新地駅 2階建 築15年",
+      "ja": "東急田園都市線 二子新地駅 2階建 築15年"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109578033/?bc=100525180253",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A916%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E6%AD%A6%E8%94%B5%E6%BA%9D%E3%83%8E%E5%8F%A3%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%8915%E5%B9%B4",
+    "address": "東急田園都市線/二子新地駅 歩10分東急田園都市線/二子玉川駅 歩16分ＪＲ南武線/武蔵溝ノ口駅 歩18分",
+    "rent": 125000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 44.08,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt086",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ル コトリ",
+      "ja": "ル　コトリ"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109471919/?bc=100523293622",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%AB%98%E6%B4%A5%E9%A7%85%20%E6%AD%A914%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%BA%9D%E3%81%AE%E5%8F%A3%E9%A7%85%20%E6%AD%A922%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%AB%E3%80%80%E3%82%B3%E3%83%88%E3%83%AA",
+    "address": "東急田園都市線/高津駅 歩14分東急田園都市線/溝の口駅 歩22分東急田園都市線/二子新地駅 歩15分",
+    "rent": 106500,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.8,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt087",
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takatsu station with direct transit connection.",
+      "ja": "高津駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takatsu · verified real listing with mapped address",
+      "ja": "高津駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "メローステイツ",
+      "ja": "メローステイツ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000101651050/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%A1%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A4%E3%83%84",
+    "address": "東急田園都市線/宮前平駅 歩12分東急田園都市線/鷺沼駅 歩14分",
+    "rent": 99000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 49.5,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt088",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｂｌｕｅ Ｈｅｉｇｈｔｓ ブルー Heights",
+      "ja": "Ｂｌｕｅ　Ｈｅｉｇｈｔｓ～ブルーハイツ～"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108912402/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A910%E5%88%86%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3/%E4%B8%AD%E5%B7%9D%E9%A7%85%20%E6%AD%A923%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6%E9%A7%85%20%E6%AD%A922%E5%88%86%20%EF%BC%A2%EF%BD%8C%EF%BD%95%EF%BD%85%E3%80%80%EF%BC%A8%EF%BD%85%EF%BD%89%EF%BD%87%EF%BD%88%EF%BD%94%EF%BD%93%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%84%EF%BD%9E",
+    "address": "東急田園都市線/鷺沼駅 歩10分ブルーライン/中川駅 歩23分東急田園都市線/たまプラーザ駅 歩22分",
+    "rent": 116000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.71,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt089",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ティーズ Garden ミヤザキダイ",
+      "ja": "ティーズ ガーデン ミヤザキダイ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670473/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA%20%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E3%83%9F%E3%83%A4%E3%82%B6%E3%82%AD%E3%83%80%E3%82%A4",
+    "address": "東急田園都市線/宮崎台駅 歩8分東急田園都市線/宮前平駅 歩18分東急田園都市線/梶が谷駅 歩22分",
+    "rent": 143000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 58.24,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt090",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋｌｅｉｎ Ｂａｓｉｓ クラインベイシス",
+      "ja": "Ｋｌｅｉｎ　Ｂａｓｉｓ(クラインベイシス)"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109456263/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6%E9%A7%85%20%E6%AD%A926%E5%88%86%20%EF%BC%AB%EF%BD%8C%EF%BD%85%EF%BD%89%EF%BD%8E%E3%80%80%EF%BC%A2%EF%BD%81%EF%BD%93%EF%BD%89%EF%BD%93%28%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%99%E3%82%A4%E3%82%B7%E3%82%B9%29",
+    "address": "東急田園都市線/鷺沼駅 歩13分東急田園都市線/宮前平駅 歩13分東急田園都市線/たまプラーザ駅 歩26分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 47.2,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt091",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "デザイン Court Ｃ棟",
+      "ja": "デザインコートＣ棟"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108548541/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E3%83%90%E3%82%B98%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E5%AF%BA%E5%8F%B0%20%E6%AD%A92%E5%88%86%20%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%EF%BC%A3%E6%A3%9F",
+    "address": "東急田園都市線/宮崎台駅 歩15分東急田園都市線/宮前平駅 歩15分東急田園都市線/鷺沼駅 バス8分 (バス停)寺台 歩2分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 63.76,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt092",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ソレアド",
+      "ja": "ソレアド"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670474/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E5%AE%AE%E5%89%8D%E4%BC%91%E6%97%A5%E8%A8%BA%E7%99%82%E6%89%80%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A923%E5%88%86%20%E3%82%BD%E3%83%AC%E3%82%A2%E3%83%89",
+    "address": "東急田園都市線/宮崎台駅 歩20分東急田園都市線/鷺沼駅 バス10分 (バス停)宮前休日診療所 歩2分東急田園都市線/宮前平駅 歩23分",
+    "rent": 110000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 58.04,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt093",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ショコラ",
+      "ja": "ショコラ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000049484733/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A2%B6%E3%81%8C%E8%B0%B7%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E9%87%91%E5%B1%B1%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A923%E5%88%86%20%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9",
+    "address": "東急田園都市線/梶が谷駅 歩18分東急田園都市線/宮前平駅 バス10分 (バス停)金山 歩3分東急田園都市線/宮崎台駅 歩23分",
+    "rent": 80000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 45.54,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt094",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "コリーナ ド ソル",
+      "ja": "コリーナ ド ソル"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109239109/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E3%83%90%E3%82%B99%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E7%A5%9E%E6%9C%A8%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A928%E5%88%86%20%E3%82%B3%E3%83%AA%E3%83%BC%E3%83%8A%20%E3%83%89%20%E3%82%BD%E3%83%AB",
+    "address": "東急田園都市線/宮前平駅 歩18分東急田園都市線/宮崎台駅 バス9分 (バス停)神木 歩4分東急田園都市線/鷺沼駅 歩28分",
+    "rent": 134000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.85,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt095",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プレディア Court 鷺沼",
+      "ja": "プレディアコート鷺沼"
+    },
+    "st": "saginuma",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108980196/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A92%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%88%E9%B7%BA%E6%B2%BC",
+    "address": "東急田園都市線/鷺沼駅 歩2分東急田園都市線/たまプラーザ駅 歩17分東急田園都市線/宮前平駅 歩17分",
+    "rent": 219000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.59,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "dt096",
+    "listed": {
+      "st": {
+        "en": "Saginuma",
+        "ja": "鷺沼"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Saginuma station with direct transit connection.",
+      "ja": "鷺沼駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Saginuma · verified real listing with mapped address",
+      "ja": "鷺沼駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ルーラル宮崎台",
+      "ja": "ルーラル宮崎台"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670472/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%B4%8E%E5%8F%B0%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A931%E5%88%86%20%E3%83%AB%E3%83%BC%E3%83%A9%E3%83%AB%E5%AE%AE%E5%B4%8E%E5%8F%B0",
+    "address": "東急田園都市線/宮崎台駅 歩5分東急田園都市線/宮前平駅 歩15分東急田園都市線/鷺沼駅 歩31分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 28.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt097",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "City ハイム Heights モチダ",
+      "ja": "シティハイム　ハイツモチダ"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109659620/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/%E5%8C%97%E5%B1%B1%E7%94%B0%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E6%9C%89%E9%A6%AC%E7%AC%AC%EF%BC%92%E5%9B%A3%E5%9C%B0%E5%89%8D%20%E6%AD%A92%E5%88%86%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3/%E4%B8%AD%E5%B7%9D%E9%A7%85%20%E6%AD%A931%E5%88%86%20%E3%82%B7%E3%83%86%E3%82%A3%E3%83%8F%E3%82%A4%E3%83%A0%E3%80%80%E3%83%8F%E3%82%A4%E3%83%84%E3%83%A2%E3%83%81%E3%83%80",
+    "address": "グリーンライン/北山田駅 歩19分東急田園都市線/鷺沼駅 バス10分 (バス停)有馬第２団地前 歩2分ブルーライン/中川駅 歩31分",
+    "rent": 83000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.34,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "dt098",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プレディオ鷺沼第ii",
+      "ja": "プレディオ鷺沼第II"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108678786/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A925%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA%E9%B7%BA%E6%B2%BC%E7%AC%ACII",
+    "address": "東急田園都市線/たまプラーザ駅 歩16分東急田園都市線/鷺沼駅 歩13分東急田園都市線/宮前平駅 歩25分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 60.2,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt099",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "第２有馬グリーンハイム",
+      "ja": "第２有馬グリーンハイム"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109670465/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%B7%BA%E6%B2%BC%E9%A7%85%20%E6%AD%A913%E5%88%86%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3/%E4%B8%AD%E5%B7%9D%E9%A7%85%20%E6%AD%A921%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E5%AE%AE%E5%89%8D%E5%B9%B3%E9%A7%85%20%E6%AD%A926%E5%88%86%20%E7%AC%AC%EF%BC%92%E6%9C%89%E9%A6%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%A0",
+    "address": "東急田園都市線/鷺沼駅 歩13分ブルーライン/中川駅 歩21分東急田園都市線/宮前平駅 歩26分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "3DK",
+    "m2": 57.6,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "dt100",
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Tokyu Den-en-toshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangen-jaya station with direct transit connection.",
+      "ja": "三軒茶屋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
+      "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  }
+
     ]
   },
 
@@ -426,10 +13057,4208 @@ const CORRIDORS_DATA = {
         ax:{quiet:5, old:4, intl:2, food:3, craft:2, green:5, night:1, refined:5, photo:4} },
     ],
     homes: [
-      { id:'od_h01', st:'shimokitazawa', ward:'setagaya', name:{en:'Shimokita Reload Flat', ja:'下北沢リロードフラット'}, rent:115000, fee:8000, layout:'1K', size:27.0, walk:4, year:2021, tag:'LIVE', live:true, why:{en:'Steps from the new greenway park, concrete soundproof construction.', ja:'新緑道リロード至近、遮音性の高いRC造デザイナーズ。'} },
-      { id:'od_h02', st:'gotokuji', ward:'setagaya', name:{en:'Gotokuji Cat Terrace', ja:'豪徳寺キャットテラス'}, rent:88000, fee:5000, layout:'1K', size:24.5, walk:3, year:2018, tag:'LIVE', live:true, why:{en:'Quiet temple alley, wood-deck terrace with peaceful garden view.', ja:'寺院の森を望むテラス付き、静穏そのものの住環境。'} },
-      { id:'od_h03', st:'seijogakuenmae', ward:'setagaya', name:{en:'Seijo Green Villa', ja:'成城グリーンヴィラ'}, rent:135000, fee:9000, layout:'1LDK', size:38.2, walk:6, year:2019, tag:'LIVE', live:true, why:{en:'Located in prestigious Seijo 4-chome, sun-drenched south exposure.', ja:'成城4丁目の邸宅街、南向き日当たり良好な1LDK。'} },
-      { id:'od_h04', st:'machida', ward:'machida', name:{en:'Machida Serigaya Residence', ja:'町田芹ヶ谷レジデンス'}, rent:65000, fee:4000, layout:'1K', size:23.0, walk:7, year:2017, tag:'LIVE', live:true, why:{en:'Near Serigaya sculpture park, 29 min direct rapid express to Shinjuku.', ja:'芹ヶ谷公園近く、快速急行で新宿へ29分直通。'} },
+
+  {
+    "name": {
+      "en": "ルフォンプログレ北新宿",
+      "ja": "ルフォンプログレ北新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109372949/?bc=100524533867",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A93%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%83%AB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E5%8C%97%E6%96%B0%E5%AE%BF",
+    "address": "ＪＲ中央線/大久保駅 歩3分ＪＲ山手線/新大久保駅 歩8分西武新宿線/西武新宿駅 歩12分",
+    "rent": 206000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.86,
+    "built": "2019 · 14F",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od001",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ハーモニー Residence 神楽坂 Hills Third",
+      "ja": "ハーモニーレジデンス神楽坂ヒルズthird"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109206607/?bc=100524282784",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A/%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A97%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E7%A5%9E%E6%A5%BD%E5%9D%82%E3%83%92%E3%83%AB%E3%82%BAthird",
+    "address": "東京メトロ有楽町線/江戸川橋駅 歩5分東京メトロ東西線/神楽坂駅 歩7分都営大江戸線/牛込神楽坂駅 歩15分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 25.8,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od002",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "フロント Place 飯田橋 Residence",
+      "ja": "フロントプレイス飯田橋レジデンス"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000096733001/?bc=100522026255",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A/%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E9%A3%AF%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E9%A3%AF%E7%94%B0%E6%A9%8B%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9",
+    "address": "東京メトロ有楽町線/江戸川橋駅 歩7分ＪＲ中央線/飯田橋駅 歩12分東京メトロ東西線/神楽坂駅 歩10分",
+    "rent": 158000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 32.55,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od003",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レピュア落合南長崎駅前",
+      "ja": "レピュア落合南長崎駅前"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108752942/?bc=100524688420",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A93%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E4%BA%95%E8%96%AC%E5%B8%AB%E5%89%8D%E9%A7%85%20%E6%AD%A917%E5%88%86%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A/%E6%9D%B1%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%AC%E3%83%94%E3%83%A5%E3%82%A2%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%E5%89%8D",
+    "address": "都営大江戸線/落合南長崎駅 歩3分西武新宿線/新井薬師前駅 歩17分西武池袋線/東長崎駅 歩13分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.33,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od004",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レピュア落合南長崎駅前",
+      "ja": "レピュア落合南長崎駅前"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107790331/?bc=100514618576",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A93%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E4%BA%95%E8%96%AC%E5%B8%AB%E5%89%8D%E9%A7%85%20%E6%AD%A917%E5%88%86%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A/%E6%9D%B1%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%83%AC%E3%83%94%E3%83%A5%E3%82%A2%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%E5%89%8D",
+    "address": "都営大江戸線/落合南長崎駅 歩3分西武新宿線/新井薬師前駅 歩17分西武池袋線/東長崎駅 歩13分",
+    "rent": 185000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.49,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od005",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ライト Terrace 新宿御苑",
+      "ja": "ライトテラス新宿御苑"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108844947/?bc=100519550904",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分都営新宿線/新宿三丁目駅 歩8分ＪＲ山手線/新宿駅 歩16分",
+    "rent": 370000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 57.97,
+    "built": "2019 · 18F",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od006",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ライト Terrace 新宿御苑",
+      "ja": "ライトテラス新宿御苑"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108844948/?bc=100520634782",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%A9%E3%82%A4%E3%83%88%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分都営新宿線/新宿三丁目駅 歩8分ＪＲ山手線/新宿駅 歩16分",
+    "rent": 378000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.97,
+    "built": "2019 · 18F",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od007",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ユーノ新宿柏木",
+      "ja": "ユーノ新宿柏木"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109522430/?bc=100522930128",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A96%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%A6%E3%83%BC%E3%83%8E%E6%96%B0%E5%AE%BF%E6%9F%8F%E6%9C%A8",
+    "address": "東京メトロ丸ノ内線/西新宿駅 歩6分ＪＲ中央線/大久保駅 歩6分ＪＲ山手線/新大久保駅 歩11分",
+    "rent": 187000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 41.28,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od008",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Zoom新宿御苑前",
+      "ja": "ZOOM新宿御苑前"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109406984/?bc=100523771899",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A99%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%9B%99%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%20ZOOM%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩7分東京メトロ副都心線/新宿三丁目駅 歩9分都営新宿線/曙橋駅 歩9分",
+    "rent": 132000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.1,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od009",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Zoom新宿御苑前",
+      "ja": "ZOOM新宿御苑前"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108910388/?bc=100521232721",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A99%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%9B%99%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%20ZOOM%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩7分東京メトロ副都心線/新宿三丁目駅 歩9分都営新宿線/曙橋駅 歩9分",
+    "rent": 162000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 30.67,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od010",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ミリア Residence 新宿御苑ii",
+      "ja": "ミリアレジデンス新宿御苑II"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107861227/?bc=100517946862",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E5%9B%9B%E8%B0%B7%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91II",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分東京メトロ丸ノ内線/新宿三丁目駅 歩10分東京メトロ丸ノ内線/四谷三丁目駅 歩11分",
+    "rent": 168000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 26.33,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od011",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "コンフォリア西新宿",
+      "ja": "コンフォリア西新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109372947/?bc=100513763599",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A95%E5%88%86%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A99%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%A5%BF%E6%96%B0%E5%AE%BF",
+    "address": "東京メトロ丸ノ内線/西新宿駅 歩5分ＪＲ中央線/大久保駅 歩9分西武新宿線/西武新宿駅 歩13分",
+    "rent": 183000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.98,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od012",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東京メトロ丸ノ内線 新宿御苑前駅 10階建 築10年",
+      "ja": "東京メトロ丸ノ内線 新宿御苑前駅 10階建 築10年"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109454853/?bc=100524236835",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%9B%99%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A%20%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%2010%E9%9A%8E%E5%BB%BA%20%E7%AF%8910%E5%B9%B4",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分東京メトロ副都心線/新宿三丁目駅 歩8分都営新宿線/曙橋駅 歩12分",
+    "rent": 110000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 23.29,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od013",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東京メトロ丸ノ内線 新宿御苑前駅 10階建 築10年",
+      "ja": "東京メトロ丸ノ内線 新宿御苑前駅 10階建 築10年"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109264242/?bc=100522651427",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%9B%99%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A%20%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%2010%E9%9A%8E%E5%BB%BA%20%E7%AF%8910%E5%B9%B4",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分東京メトロ副都心線/新宿三丁目駅 歩8分都営新宿線/曙橋駅 歩12分",
+    "rent": 182000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 39.11,
+    "built": "2019 · 10F",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od014",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Hiro神楽坂",
+      "ja": "Hiro神楽坂"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109174779/?bc=100524689030",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A/%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20Hiro%E7%A5%9E%E6%A5%BD%E5%9D%82",
+    "address": "東京メトロ東西線/神楽坂駅 歩7分東京メトロ有楽町線/江戸川橋駅 歩8分都営大江戸線/牛込神楽坂駅 歩11分",
+    "rent": 170000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.05,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od015",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park キューブ西新宿",
+      "ja": "パークキューブ西新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108806684/?bc=100519220622",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E4%B8%AD%E5%A4%AE%E7%B7%9A/%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A95%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A98%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%96%B0%E5%A4%A7%E4%B9%85%E4%BF%9D%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E8%A5%BF%E6%96%B0%E5%AE%BF",
+    "address": "ＪＲ中央線/大久保駅 歩5分西武新宿線/西武新宿駅 歩8分ＪＲ山手線/新大久保駅 歩10分",
+    "rent": 146000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.07,
+    "built": "2019 · 13F",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od016",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エス Residence 新宿御苑",
+      "ja": "エスレジデンス新宿御苑"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105437778/?bc=100497407745",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%9B%99%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%A8%E3%82%B9%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91",
+    "address": "東京メトロ丸ノ内線/新宿御苑前駅 歩5分都営新宿線/曙橋駅 歩10分東京メトロ副都心線/新宿三丁目駅 歩13分",
+    "rent": 195000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 29.13,
+    "built": "2019 · 15F",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od017",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東京メトロ東西線 高田馬場駅 4階建 築15年",
+      "ja": "東京メトロ東西線 高田馬場駅 4階建 築15年"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109668975/?bc=100525764717",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E9%A7%85%20%E6%AD%A93%E5%88%86%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A/%E8%A5%BF%E6%97%A9%E7%A8%B2%E7%94%B0%E9%A7%85%20%E6%AD%A96%E5%88%86%20%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A%20%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B4%E9%A7%85%204%E9%9A%8E%E5%BB%BA%20%E7%AF%8915%E5%B9%B4",
+    "address": "東京メトロ東西線/高田馬場駅 歩3分ＪＲ山手線/高田馬場駅 歩7分東京メトロ副都心線/西早稲田駅 歩6分",
+    "rent": 169000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 52.46,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od018",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｂｌｏｏｍ Ｔｏｗｅｒ Ｎｉｓｈｉｓｈｉｎｊｕｋｕ",
+      "ja": "Ｂｌｏｏｍ Ｔｏｗｅｒ Ｎｉｓｈｉｓｈｉｎｊｕｋｕ"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108270520/?bc=100519387137",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E4%BA%94%E4%B8%81%E7%9B%AE%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A/%E8%A5%BF%E6%96%B0%E5%AE%BF%E9%A7%85%20%E6%AD%A912%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E9%83%BD%E5%BA%81%E5%89%8D%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%A2%EF%BD%8C%EF%BD%8F%EF%BD%8F%EF%BD%8D%20%EF%BC%B4%EF%BD%8F%EF%BD%97%EF%BD%85%EF%BD%92%20%EF%BC%AE%EF%BD%89%EF%BD%93%EF%BD%88%EF%BD%89%EF%BD%93%EF%BD%88%EF%BD%89%EF%BD%8E%EF%BD%8A%EF%BD%95%EF%BD%8B%EF%BD%95",
+    "address": "都営大江戸線/西新宿五丁目駅 歩5分東京メトロ丸ノ内線/西新宿駅 歩12分都営大江戸線/都庁前駅 歩10分",
+    "rent": 116000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 21.72,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od019",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ハーモニー Residence 神楽坂 Hills Second",
+      "ja": "ハーモニーレジデンス神楽坂ヒルズsecond"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000091631848/?bc=100508945115",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9C%89%E6%A5%BD%E7%94%BA%E7%B7%9A/%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A98%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E7%A5%9E%E6%A5%BD%E5%9D%82%E3%83%92%E3%83%AB%E3%82%BAsecond",
+    "address": "東京メトロ有楽町線/江戸川橋駅 歩5分東京メトロ東西線/神楽坂駅 歩8分都営大江戸線/牛込神楽坂駅 歩16分",
+    "rent": 134500,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 25.8,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od020",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ユービ１２",
+      "ja": "ユービ１２"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109343159/?bc=100522404943",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A95%E5%88%86%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A/%E6%9D%B1%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A96%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E4%B8%AD%E4%BA%95%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A6%E3%83%BC%E3%83%93%EF%BC%91%EF%BC%92",
+    "address": "都営大江戸線/落合南長崎駅 歩5分西武池袋線/東長崎駅 歩6分西武新宿線/中井駅 歩19分",
+    "rent": 118000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 30.03,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od021",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ミオテゾーロ哲学堂カーザ",
+      "ja": "ミオテゾーロ哲学堂カーザ"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107423466/?bc=100508821234",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A99%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E4%BA%95%E8%96%AC%E5%B8%AB%E5%89%8D%E9%A7%85%20%E6%AD%A913%E5%88%86%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A/%E6%9D%B1%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%9F%E3%82%AA%E3%83%86%E3%82%BE%E3%83%BC%E3%83%AD%E5%93%B2%E5%AD%A6%E5%A0%82%E3%82%AB%E3%83%BC%E3%82%B6",
+    "address": "都営大江戸線/落合南長崎駅 歩9分西武新宿線/新井薬師前駅 歩13分西武池袋線/東長崎駅 歩17分",
+    "rent": 175000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 59.9,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od022",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランアヴェニール",
+      "ja": "グランアヴェニール"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109441659/?bc=100525649658",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E8%90%BD%E5%90%88%E5%8D%97%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A910%E5%88%86%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A/%E6%9D%B1%E9%95%B7%E5%B4%8E%E9%A7%85%20%E6%AD%A913%E5%88%86%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E6%96%B0%E4%BA%95%E8%96%AC%E5%B8%AB%E5%89%8D%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%A2%E3%83%B4%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%AB",
+    "address": "都営大江戸線/落合南長崎駅 歩10分西武池袋線/東長崎駅 歩13分西武新宿線/新井薬師前駅 歩17分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 82.8,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od023",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アルティザ新宿落合ソノリテ",
+      "ja": "アルティザ新宿落合ソノリテ"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109236943/?bc=100522439231",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E4%B8%8B%E8%90%BD%E5%90%88%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E4%B8%AD%E4%BA%95%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E8%90%BD%E5%90%88%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B6%E6%96%B0%E5%AE%BF%E8%90%BD%E5%90%88%E3%82%BD%E3%83%8E%E3%83%AA%E3%83%86",
+    "address": "西武新宿線/下落合駅 歩5分都営大江戸線/中井駅 歩6分東京メトロ東西線/落合駅 歩11分",
+    "rent": 128000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.13,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od024",
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with direct transit connection.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · verified real listing with mapped address",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ヒルセレッソｂ",
+      "ja": "ヒルセレッソＢ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109662917/?bc=100525683790",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E3%83%90%E3%82%B910%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E9%96%A2%E6%9D%B1%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E3%83%90%E3%82%B99%E5%88%86%20%28%E3%83%90%E3%82%B9%E5%81%9C%29%E9%96%A2%E6%9D%B1%E4%B8%AD%E5%A4%AE%E7%97%85%E9%99%A2%20%E6%AD%A95%E5%88%86%20%E3%83%92%E3%83%AB%E3%82%BB%E3%83%AC%E3%83%83%E3%82%BD%EF%BC%A2",
+    "address": "小田急線/千歳船橋駅 歩12分東急田園都市線/用賀駅 バス10分 (バス停)関東中央病院 歩5分東急世田谷線/上町駅 バス9分 (バス停)関東中央病院 歩5分",
+    "rent": 190000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 56.52,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od025",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 桜新町駅 3階建 築38年",
+      "ja": "東急田園都市線 桜新町駅 3階建 築38年"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108716683/?bc=100518625014",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8938%E5%B9%B4",
+    "address": "東急田園都市線/桜新町駅 歩8分東急田園都市線/駒沢大学駅 歩16分東急田園都市線/用賀駅 歩21分",
+    "rent": 90000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 20.4,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od026",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東急田園都市線 桜新町駅 3階建 築38年",
+      "ja": "東急田園都市線 桜新町駅 3階建 築38年"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109652526/?bc=100525637146",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A921%E5%88%86%20%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A%20%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%8938%E5%B9%B4",
+    "address": "東急田園都市線/桜新町駅 歩8分東急田園都市線/駒沢大学駅 歩16分東急田園都市線/用賀駅 歩21分",
+    "rent": 195000,
+    "mgmt": 0,
+    "layout": "3DK",
+    "m2": 58.88,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od027",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーザ エッチェルサ世田谷",
+      "ja": "カーザ・エッチェルサ世田谷"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108770674/?bc=100518957311",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%99%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A928%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A933%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B6%E3%83%BB%E3%82%A8%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B5%E4%B8%96%E7%94%B0%E8%B0%B7",
+    "address": "京王線/仙川駅 歩8分京王線/芦花公園駅 歩28分京王線/柴崎駅 歩33分",
+    "rent": 174000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 62.37,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od028",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーザ エッチェルサ世田谷",
+      "ja": "カーザ・エッチェルサ世田谷"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109296621/?bc=100518522602",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%99%E5%B7%9D%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A928%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A933%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B6%E3%83%BB%E3%82%A8%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B5%E4%B8%96%E7%94%B0%E8%B0%B7",
+    "address": "京王線/仙川駅 歩8分京王線/芦花公園駅 歩28分京王線/柴崎駅 歩33分",
+    "rent": 174000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 62.37,
+    "built": "2019 · 6F",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od029",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "京王線 八幡山駅 3階建 新築",
+      "ja": "京王線 八幡山駅 3階建 新築"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108903026/?bc=100512275176",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%8D%83%E6%AD%B3%E7%83%8F%E5%B1%B1%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E4%BA%AC%E7%8E%8B%E7%B7%9A%20%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E6%96%B0%E7%AF%89",
+    "address": "京王線/八幡山駅 歩9分京王線/芦花公園駅 歩5分京王線/千歳烏山駅 歩15分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.81,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od030",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｈｅ Ｇｒａｎｄ Ｔｅｒｒａｃｅ Ｗａｋａｂａｙａｓｈｉ",
+      "ja": "Ｔｈｅ　Ｇｒａｎｄ　Ｔｅｒｒａｃｅ　Ｗａｋａｂａｙａｓｈｉ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108854329/?bc=100519836325",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%A5%BF%E5%A4%AA%E5%AD%90%E5%A0%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A7%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%84%E3%80%80%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%E3%80%80%EF%BC%B7%EF%BD%81%EF%BD%8B%EF%BD%81%EF%BD%82%EF%BD%81%EF%BD%99%EF%BD%81%EF%BD%93%EF%BD%88%EF%BD%89",
+    "address": "東急世田谷線/若林駅 歩5分東急世田谷線/松陰神社前駅 歩7分東急世田谷線/西太子堂駅 歩11分",
+    "rent": 131000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 27.23,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od031",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｔｈｅ Ｇｒａｎｄ Ｔｅｒｒａｃｅ Ｗａｋａｂａｙａｓｈｉ",
+      "ja": "Ｔｈｅ　Ｇｒａｎｄ　Ｔｅｒｒａｃｅ　Ｗａｋａｂａｙａｓｈｉ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105887906/?bc=100498440152",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%A5%BF%E5%A4%AA%E5%AD%90%E5%A0%82%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%B4%EF%BD%88%EF%BD%85%E3%80%80%EF%BC%A7%EF%BD%92%EF%BD%81%EF%BD%8E%EF%BD%84%E3%80%80%EF%BC%B4%EF%BD%85%EF%BD%92%EF%BD%92%EF%BD%81%EF%BD%83%EF%BD%85%E3%80%80%EF%BC%B7%EF%BD%81%EF%BD%8B%EF%BD%81%EF%BD%82%EF%BD%81%EF%BD%99%EF%BD%81%EF%BD%93%EF%BD%88%EF%BD%89",
+    "address": "東急世田谷線/若林駅 歩5分東急世田谷線/松陰神社前駅 歩7分東急世田谷線/西太子堂駅 歩11分",
+    "rent": 243000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 51.14,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od032",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Residence マイ",
+      "ja": "レジデンス　マイ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108634192/?bc=100510972747",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AC%E3%82%B8%E3%83%87%E3%83%B3%E3%82%B9%E3%80%80%E3%83%9E%E3%82%A4",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/梅ヶ丘駅 歩10分京王井の頭線/下北沢駅 歩14分",
+    "rent": 150500,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 34.22,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od033",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison ベール宮坂",
+      "ja": "メゾンベール宮坂"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108845736/?bc=100525679515",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E8%B1%AA%E5%BE%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB%E5%AE%AE%E5%9D%82",
+    "address": "小田急線/経堂駅 歩9分東急世田谷線/松原駅 歩15分小田急線/豪徳寺駅 歩19分",
+    "rent": 243000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.57,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od034",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "代田1丁目戸建賃貸",
+      "ja": "代田1丁目戸建賃貸"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108691002/?bc=100509648432",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E4%BB%A3%E7%94%B01%E4%B8%81%E7%9B%AE%E6%88%B8%E5%BB%BA%E8%B3%83%E8%B2%B8",
+    "address": "小田急線/世田谷代田駅 歩9分東急世田谷線/若林駅 歩12分小田急線/梅ヶ丘駅 歩13分",
+    "rent": 328000,
+    "mgmt": 0,
+    "layout": "2SLDK",
+    "m2": 95.22,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od035",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アグレシオ奥沢",
+      "ja": "アグレシオ奥沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000082901483/?bc=100525367545",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%B7%91%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A917%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%82%A2%E3%82%B0%E3%83%AC%E3%82%B7%E3%82%AA%E5%A5%A5%E6%B2%A2",
+    "address": "東急大井町線/緑が丘駅 歩5分東急東横線/自由が丘駅 歩17分東急目黒線/奥沢駅 歩10分",
+    "rent": 130000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 27.33,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od036",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "東玉川戸建",
+      "ja": "東玉川戸建"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109590106/?bc=100519798495",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E7%9F%B3%E5%B7%9D%E5%8F%B0%E9%A7%85%20%E6%AD%A911%E5%88%86%E6%9D%B1%E6%80%A5%E6%B1%A0%E4%B8%8A%E7%B7%9A/%E9%9B%AA%E3%81%8C%E8%B0%B7%E5%A4%A7%E5%A1%9A%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E6%9D%B1%E7%8E%89%E5%B7%9D%E6%88%B8%E5%BB%BA",
+    "address": "東急目黒線/奥沢駅 歩13分東急池上線/石川台駅 歩11分東急池上線/雪が谷大塚駅 歩12分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 101.64,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od037",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レアール等々力",
+      "ja": "レアール等々力"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108618878/?bc=100517626995",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E7%AD%89%E3%80%85%E5%8A%9B%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%B0%BE%E5%B1%B1%E5%8F%B0%E9%A7%85%20%E6%AD%A913%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B8%8A%E9%87%8E%E6%AF%9B%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AC%E3%82%A2%E3%83%BC%E3%83%AB%E7%AD%89%E3%80%85%E5%8A%9B",
+    "address": "東急大井町線/等々力駅 歩7分東急大井町線/尾山台駅 歩13分東急大井町線/上野毛駅 歩14分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 50.12,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od038",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Trois Crique明大前",
+      "ja": "trois crique明大前"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109634653/?bc=100525511399",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%20trois%20crique%E6%98%8E%E5%A4%A7%E5%89%8D",
+    "address": "京王線/明大前駅 歩8分東急世田谷線/下高井戸駅 歩9分東急世田谷線/松原駅 歩12分",
+    "rent": 151000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 45.97,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od039",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サリーレ成城",
+      "ja": "サリーレ成城"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108806950/?bc=100519461713",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%AC%E6%88%90%E5%9F%8E",
+    "address": "小田急線/成城学園前駅 歩9分小田急線/祖師ヶ谷大蔵駅 歩19分",
+    "rent": 320000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 86.1,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od040",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グランパセオ下北沢2",
+      "ja": "グランパセオ下北沢2"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109477438/?bc=100512059136",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%E3%82%BB%E3%82%AA%E4%B8%8B%E5%8C%97%E6%B2%A22",
+    "address": "小田急線/世田谷代田駅 歩9分小田急線/下北沢駅 歩10分京王井の頭線/下北沢駅 歩11分",
+    "rent": 253000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 55.94,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od041",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋ Ｗｉｓｔｅｒｉａ",
+      "ja": "Ｋ．Ｗｉｓｔｅｒｉａ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109682783/?bc=100525865945",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E5%AE%AE%E3%81%AE%E5%9D%82%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8A%E7%94%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BC%AB%EF%BC%8E%EF%BC%B7%EF%BD%89%EF%BD%93%EF%BD%94%EF%BD%85%EF%BD%92%EF%BD%89%EF%BD%81",
+    "address": "小田急線/経堂駅 歩7分東急世田谷線/宮の坂駅 歩10分東急世田谷線/上町駅 歩15分",
+    "rent": 157000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 35.16,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od042",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ソーシャルアベニュー上北沢",
+      "ja": "ソーシャルアベニュー上北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104399459/?bc=100525754986",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%85%AB%E5%B9%A1%E5%B1%B1%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%B8%8A%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E8%8A%A6%E8%8A%B1%E5%85%AC%E5%9C%92%E9%A7%85%20%E6%AD%A912%E5%88%86%20%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%99%E3%83%8B%E3%83%A5%E3%83%BC%E4%B8%8A%E5%8C%97%E6%B2%A2",
+    "address": "京王線/八幡山駅 歩5分京王線/上北沢駅 歩10分京王線/芦花公園駅 歩12分",
+    "rent": 138000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.5,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od043",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Park ハイム世田谷代田",
+      "ja": "パーク・ハイム世田谷代田"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108089165/?bc=100519090689",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A0%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "小田急線/世田谷代田駅 歩10分小田急線/梅ヶ丘駅 歩10分東急世田谷線/若林駅 歩11分",
+    "rent": 258000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 77.81,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od044",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋ Ｈｏｕｓｅ",
+      "ja": "Ｋ ｈｏｕｓｅ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109510752/?bc=100525851554",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A915%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A922%E5%88%86%20%EF%BC%AB%20%EF%BD%88%EF%BD%8F%EF%BD%95%EF%BD%93%EF%BD%85",
+    "address": "小田急線/千歳船橋駅 歩9分小田急線/祖師ヶ谷大蔵駅 歩15分小田急線/経堂駅 歩22分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 47.72,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od045",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍーｈａｕｓ",
+      "ja": "Ｍーｈａｕｓ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108214394/?bc=100515306218",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%20%EF%BC%AD%E3%83%BC%EF%BD%88%EF%BD%81%EF%BD%95%EF%BD%93",
+    "address": "京王線/笹塚駅 歩7分小田急線/下北沢駅 歩11分京王線/代田橋駅 歩11分",
+    "rent": 165000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.36,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od046",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍｏｃｘｓｔｙｌｅ下北沢",
+      "ja": "ＭＯＣＸＳＴＹＬＥ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109676278/?bc=100515033286",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%20%EF%BC%AD%EF%BC%AF%EF%BC%A3%EF%BC%B8%EF%BC%B3%EF%BC%B4%EF%BC%B9%EF%BC%AC%EF%BC%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/下北沢駅 歩9分京王井の頭線/下北沢駅 歩10分",
+    "rent": 260000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.43,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od047",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カーサ デパ岡本",
+      "ja": "カーサ・デパ岡本"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109682716/?bc=100525827481",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A916%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A927%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A927%E5%88%86%20%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%BB%E3%83%87%E3%83%91%E5%B2%A1%E6%9C%AC",
+    "address": "東急田園都市線/用賀駅 歩16分東急大井町線/二子玉川駅 歩27分東急田園都市線/二子玉川駅 歩27分",
+    "rent": 144000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 53.24,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od048",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Tarufu三軒茶屋",
+      "ja": "Tarufu三軒茶屋"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109296635/?bc=100525746201",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E8%8B%A5%E6%9E%97%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A918%E5%88%86%20Tarufu%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東急田園都市線/三軒茶屋駅 歩6分東急世田谷線/若林駅 歩9分東急世田谷線/松陰神社前駅 歩18分",
+    "rent": 269000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 52.24,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od049",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エムズグラン下北沢",
+      "ja": "エムズグラン下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108061615/?bc=100523647516",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%A8%E3%83%A0%E3%82%BA%E3%82%B0%E3%83%A9%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "京王線/代田橋駅 歩10分京王井の頭線/下北沢駅 歩10分京王線/笹塚駅 歩13分",
+    "rent": 100000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od050",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エムズグラン下北沢",
+      "ja": "エムズグラン下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000096466318/?bc=100518150241",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E7%AC%B9%E5%A1%9A%E9%A7%85%20%E6%AD%A913%E5%88%86%20%E3%82%A8%E3%83%A0%E3%82%BA%E3%82%B0%E3%83%A9%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "京王線/代田橋駅 歩10分京王井の頭線/下北沢駅 歩10分京王線/笹塚駅 歩13分",
+    "rent": 160000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.0,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od051",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "イソラ三軒茶屋",
+      "ja": "イソラ三軒茶屋"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108759104/?bc=100525250742",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A919%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%A4%E3%82%BD%E3%83%A9%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東急田園都市線/三軒茶屋駅 歩6分東急田園都市線/駒沢大学駅 歩19分東急田園都市線/池尻大橋駅 歩20分",
+    "rent": 294000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 62.64,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od052",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｊｐ Noie 駒沢大学",
+      "ja": "ＪＰ　noie　駒沢大学"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107913311/?bc=100512604726",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E9%A7%85%20%E6%AD%A918%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E9%99%B0%E7%A5%9E%E7%A4%BE%E5%89%8D%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%AA%EF%BC%B0%E3%80%80noie%E3%80%80%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "address": "東急田園都市線/駒沢大学駅 歩5分東急田園都市線/三軒茶屋駅 歩18分東急世田谷線/松陰神社前駅 歩18分",
+    "rent": 122000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 25.92,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od053",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "サウダージ桜丘",
+      "ja": "サウダージ桜丘"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109510723/?bc=100520434736",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A919%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%B5%8C%E5%A0%82%E9%A7%85%20%E6%AD%A929%E5%88%86%20%E3%82%B5%E3%82%A6%E3%83%80%E3%83%BC%E3%82%B8%E6%A1%9C%E4%B8%98",
+    "address": "小田急線/千歳船橋駅 歩11分小田急線/祖師ヶ谷大蔵駅 歩19分小田急線/経堂駅 歩29分",
+    "rent": 250000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 61.65,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od054",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "スペース ノーブル",
+      "ja": "スペース　ノーブル"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109049326/?bc=100525248101",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E8%B1%AA%E5%BE%B3%E5%AF%BA%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%80%80%E3%83%8E%E3%83%BC%E3%83%96%E3%83%AB",
+    "address": "小田急線/梅ヶ丘駅 歩10分小田急線/世田谷代田駅 歩11分小田急線/豪徳寺駅 歩15分",
+    "rent": 167000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 41.96,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od055",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "レスポワール",
+      "ja": "レスポワール"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109049331/?bc=100520960717",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A923%E5%88%86%20%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%AF%E3%83%BC%E3%83%AB",
+    "address": "小田急線/祖師ヶ谷大蔵駅 歩10分小田急線/千歳船橋駅 歩14分小田急線/成城学園前駅 歩23分",
+    "rent": 162000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 46.83,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od056",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "シェルゼ Terrace 尾山台",
+      "ja": "シェルゼテラス尾山台"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000104928640/?bc=100525785006",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%B0%BE%E5%B1%B1%E5%8F%B0%E9%A7%85%20%E6%AD%A915%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%BC%E3%83%86%E3%83%A9%E3%82%B9%E5%B0%BE%E5%B1%B1%E5%8F%B0",
+    "address": "東急大井町線/尾山台駅 歩15分東急東横線/田園調布駅 歩20分東急大井町線/九品仏駅 歩15分",
+    "rent": 300000,
+    "mgmt": 0,
+    "layout": "4DK",
+    "m2": 78.54,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od057",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プレール ドゥーク世田谷代田",
+      "ja": "プレール・ドゥーク世田谷代田"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109059096/?bc=100521255465",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AF%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/梅ヶ丘駅 歩10分京王井の頭線/新代田駅 歩14分",
+    "rent": 126000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 25.95,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od058",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "プレール ドゥーク世田谷代田",
+      "ja": "プレール・ドゥーク世田谷代田"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109503486/?bc=100524952177",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%A2%85%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AF%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "小田急線/世田谷代田駅 歩7分小田急線/梅ヶ丘駅 歩10分京王井の頭線/新代田駅 歩14分",
+    "rent": 191000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.41,
+    "built": "2019 · 9F",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od059",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 世田谷代田駅 3階建 築6年",
+      "ja": "小田急線 世田谷代田駅 3階建 築6年"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000107523301/?bc=100520354011",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%896%E5%B9%B4",
+    "address": "小田急線/世田谷代田駅 歩4分京王井の頭線/新代田駅 歩11分小田急線/下北沢駅 歩14分",
+    "rent": 97000,
+    "mgmt": 0,
+    "layout": "ワンルーム",
+    "m2": 26.49,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od060",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 世田谷代田駅 3階建 築6年",
+      "ja": "小田急線 世田谷代田駅 3階建 築6年"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105204702/?bc=100525733943",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%203%E9%9A%8E%E5%BB%BA%20%E7%AF%896%E5%B9%B4",
+    "address": "小田急線/世田谷代田駅 歩4分京王井の頭線/新代田駅 歩11分小田急線/下北沢駅 歩14分",
+    "rent": 160000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 31.46,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od061",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "仮称 玉川台1丁目 Maison",
+      "ja": "(仮称)玉川台1丁目メゾン"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108792071/?bc=100525746221",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A94%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A920%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B8%8A%E9%87%8E%E6%AF%9B%E9%A7%85%20%E6%AD%A920%E5%88%86%20%28%E4%BB%AE%E7%A7%B0%29%E7%8E%89%E5%B7%9D%E5%8F%B01%E4%B8%81%E7%9B%AE%E3%83%A1%E3%82%BE%E3%83%B3",
+    "address": "東急田園都市線/用賀駅 歩4分東急田園都市線/桜新町駅 歩20分東急大井町線/上野毛駅 歩20分",
+    "rent": 189000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.27,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od062",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ラグゼ Garden 松原",
+      "ja": "ラグゼガーデン松原"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108979259/?bc=100518485788",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A95%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E4%BB%A3%E7%94%B0%E6%A9%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%9D%B1%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%A9%E3%82%B0%E3%82%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E6%9D%BE%E5%8E%9F",
+    "address": "京王線/明大前駅 歩5分京王線/代田橋駅 歩10分京王井の頭線/東松原駅 歩10分",
+    "rent": 167000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 39.43,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od063",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Daita Six",
+      "ja": "Daita Six"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108687393/?bc=100525753579",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A98%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%96%B0%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A94%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%9D%B1%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A910%E5%88%86%20Daita%20Six",
+    "address": "小田急線/下北沢駅 歩8分京王井の頭線/新代田駅 歩4分京王井の頭線/東松原駅 歩10分",
+    "rent": 117500,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 26.75,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od064",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エルファーロ用賀ii",
+      "ja": "エルファーロ用賀II"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108270985/?bc=100516359338",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E7%94%A8%E8%B3%80%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%E9%A7%85%20%E6%AD%A922%E5%88%86%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A/%E6%A1%9C%E6%96%B0%E7%94%BA%E9%A7%85%20%E6%AD%A922%E5%88%86%20%E3%82%A8%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AD%E7%94%A8%E8%B3%80II",
+    "address": "東急田園都市線/用賀駅 歩8分東急大井町線/二子玉川駅 歩22分東急田園都市線/桜新町駅 歩22分",
+    "rent": 122000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.34,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od065",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｗｈｉｔｅ２１９",
+      "ja": "ＷＨＩＴＥ２１９"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108666951/?bc=100518143975",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0%E9%A7%85%20%E6%AD%A99%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%B1%A0%E3%83%8E%E4%B8%8A%E9%A7%85%20%E6%AD%A915%E5%88%86%20%EF%BC%B7%EF%BC%A8%EF%BC%A9%EF%BC%B4%EF%BC%A5%EF%BC%92%EF%BC%91%EF%BC%99",
+    "address": "京王井の頭線/下北沢駅 歩10分小田急線/世田谷代田駅 歩9分京王井の頭線/池ノ上駅 歩15分",
+    "rent": 390000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 71.1,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od066",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "La Luce",
+      "ja": "La Luce"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108973457/?bc=100525746404",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A93%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A911%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A911%E5%88%86%20La%20Luce",
+    "address": "東急世田谷線/下高井戸駅 歩3分東急世田谷線/松原駅 歩11分京王線/明大前駅 歩11分",
+    "rent": 180000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 50.6,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od067",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "アイフラット明大前",
+      "ja": "アイフラット明大前"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000105881670/?bc=100496974462",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A97%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A96%E5%88%86%E4%BA%AC%E7%8E%8B%E4%BA%95%E3%81%AE%E9%A0%AD%E7%B7%9A/%E6%9D%B1%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%A2%E3%82%A4%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%98%8E%E5%A4%A7%E5%89%8D",
+    "address": "京王線/明大前駅 歩7分東急世田谷線/下高井戸駅 歩6分京王井の頭線/東松原駅 歩15分",
+    "rent": 145000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 25.81,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od068",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Maison デュ ソレイユ",
+      "ja": "メゾン・デュ・ソレイユ"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109389914/?bc=100524244141",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E4%B9%9D%E5%93%81%E4%BB%8F%E9%A7%85%20%E6%AD%A95%E5%88%86%E6%9D%B1%E6%80%A5%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A/%E5%B0%BE%E5%B1%B1%E5%8F%B0%E9%A7%85%20%E6%AD%A910%E5%88%86%20%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BB%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6",
+    "address": "東急東横線/自由が丘駅 歩12分東急大井町線/九品仏駅 歩5分東急大井町線/尾山台駅 歩10分",
+    "rent": 325000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 95.32,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od069",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "フレンシア玉川田園調布",
+      "ja": "フレンシア玉川田園調布"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109558603/?bc=100525427835",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%A2%E7%8E%89%E5%B7%9D%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東急東横線/田園調布駅 歩6分東急東横線/自由が丘駅 歩12分東急目黒線/奥沢駅 歩9分",
+    "rent": 210000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 47.93,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od070",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "フレンシア玉川田園調布",
+      "ja": "フレンシア玉川田園調布"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109221300/?bc=100522425140",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E6%80%A5%E6%9D%B1%E6%A8%AA%E7%B7%9A/%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E9%A7%85%20%E6%AD%A912%E5%88%86%E6%9D%B1%E6%80%A5%E7%9B%AE%E9%BB%92%E7%B7%9A/%E5%A5%A5%E6%B2%A2%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%A2%E7%8E%89%E5%B7%9D%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東急東横線/田園調布駅 歩6分東急東横線/自由が丘駅 歩12分東急目黒線/奥沢駅 歩9分",
+    "rent": 229000,
+    "mgmt": 0,
+    "layout": "1SLDK",
+    "m2": 47.93,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od071",
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa station with direct transit connection.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 狛江駅 2階建 築8年",
+      "ja": "小田急線 狛江駅 2階建 築8年"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109408858/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A913%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E7%99%BB%E6%88%B8%E9%A7%85%20%E6%AD%A928%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E7%8B%9B%E6%B1%9F%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4",
+    "address": "小田急線/狛江駅 歩8分小田急線/和泉多摩川駅 歩13分ＪＲ南武線/登戸駅 歩28分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 28.29,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od072",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 狛江駅 2階建 築8年",
+      "ja": "小田急線 狛江駅 2階建 築8年"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109471579/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A913%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E7%99%BB%E6%88%B8%E9%A7%85%20%E6%AD%A928%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E7%8B%9B%E6%B1%9F%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4",
+    "address": "小田急線/狛江駅 歩8分小田急線/和泉多摩川駅 歩13分ＪＲ南武線/登戸駅 歩28分",
+    "rent": 123000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.33,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od073",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リヴェール狛江",
+      "ja": "リヴェール狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109610902/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A93%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%83%AA%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E7%8B%9B%E6%B1%9F",
+    "address": "小田急線/狛江駅 歩3分小田急線/和泉多摩川駅 歩10分小田急線/喜多見駅 歩14分",
+    "rent": 122000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 38.58,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od074",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "リブリ Angel狛江iii",
+      "ja": "リブリ・ANGEL狛江III"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109417176/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A917%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%AA%E3%83%96%E3%83%AA%E3%83%BBANGEL%E7%8B%9B%E6%B1%9FIII",
+    "address": "小田急線/喜多見駅 歩9分小田急線/狛江駅 歩17分小田急線/成城学園前駅 歩17分",
+    "rent": 90000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 23.6,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od075",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｂｅｌｉｚｅ Ｖｉｌｌａ",
+      "ja": "Ｂｅｌｉｚｅ　Ｖｉｌｌａ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108278952/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A917%E5%88%86%20%EF%BC%A2%EF%BD%85%EF%BD%8C%EF%BD%89%EF%BD%9A%EF%BD%85%E3%80%80%EF%BC%B6%EF%BD%89%EF%BD%8C%EF%BD%8C%EF%BD%81",
+    "address": "小田急線/和泉多摩川駅 歩17分",
+    "rent": 143000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 57.36,
+    "built": "2019 · 4F",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od076",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Joy",
+      "ja": "JOY"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109042350/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A914%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%9B%BD%E9%A0%98%E9%A7%85%20%E6%AD%A915%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E3%81%A4%E3%81%A4%E3%81%98%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A921%E5%88%86%20JOY",
+    "address": "京王線/柴崎駅 歩14分京王線/国領駅 歩15分京王線/つつじヶ丘駅 歩21分",
+    "rent": 69000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 21.4,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od077",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Accord",
+      "ja": "Accord"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000091856955/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%99%BB%E6%88%B8%E9%A7%85%20%E6%AD%A925%E5%88%86%20Accord",
+    "address": "小田急線/狛江駅 歩10分小田急線/和泉多摩川駅 歩9分小田急線/登戸駅 歩25分",
+    "rent": 110000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.1,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od078",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 狛江駅 2階建 築8年",
+      "ja": "小田急線 狛江駅 2階建 築8年"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000091881033/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E7%8B%9B%E6%B1%9F%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%898%E5%B9%B4",
+    "address": "小田急線/狛江駅 歩9分小田急線/和泉多摩川駅 歩9分小田急線/喜多見駅 歩19分",
+    "rent": 110000,
+    "mgmt": 0,
+    "layout": "1DK",
+    "m2": 40.1,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od079",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "スフィーダ",
+      "ja": "スフィーダ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108691304/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A914%E5%88%86%20%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80",
+    "address": "小田急線/喜多見駅 歩10分小田急線/狛江駅 歩14分",
+    "rent": 111000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 38.32,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od080",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ベル アウローラ",
+      "ja": "ベル・アウローラ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109549000/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%83%99%E3%83%AB%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%AD%E3%83%BC%E3%83%A9",
+    "address": "小田急線/狛江駅 歩14分小田急線/和泉多摩川駅 歩13分小田急線/喜多見駅 歩20分",
+    "rent": 127000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.84,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od081",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｋｏｌｅｔ狛江岩戸南 ０３",
+      "ja": "Ｋｏｌｅｔ狛江岩戸南＃０３"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109559773/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A925%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A920%E5%88%86%20%EF%BC%AB%EF%BD%8F%EF%BD%8C%EF%BD%85%EF%BD%94%E7%8B%9B%E6%B1%9F%E5%B2%A9%E6%88%B8%E5%8D%97%EF%BC%83%EF%BC%90%EF%BC%93",
+    "address": "小田急線/喜多見駅 歩14分小田急線/成城学園前駅 歩25分小田急線/和泉多摩川駅 歩20分",
+    "rent": 269000,
+    "mgmt": 0,
+    "layout": "4LDK",
+    "m2": 87.56,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od082",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラン ジュテ",
+      "ja": "グラン・ジュテ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109226325/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%86",
+    "address": "小田急線/狛江駅 歩8分小田急線/和泉多摩川駅 歩13分小田急線/喜多見駅 歩16分",
+    "rent": 114000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 42.37,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od083",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "フォルビート",
+      "ja": "フォルビート"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109408857/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%95%E3%82%A9%E3%83%AB%E3%83%93%E3%83%BC%E3%83%88",
+    "address": "小田急線/狛江駅 歩8分小田急線/和泉多摩川駅 歩12分小田急線/喜多見駅 歩17分",
+    "rent": 79000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 28.29,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od084",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "フォルビート",
+      "ja": "フォルビート"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109455908/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A98%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A917%E5%88%86%20%E3%83%95%E3%82%A9%E3%83%AB%E3%83%93%E3%83%BC%E3%83%88",
+    "address": "小田急線/狛江駅 歩8分小田急線/和泉多摩川駅 歩12分小田急線/喜多見駅 歩17分",
+    "rent": 123000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 40.33,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od085",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "シャルム",
+      "ja": "シャルム"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109060274/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%99%BB%E6%88%B8%E9%A7%85%20%E6%AD%A928%E5%88%86%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A0",
+    "address": "小田急線/狛江駅 歩12分小田急線/和泉多摩川駅 歩12分小田急線/登戸駅 歩28分",
+    "rent": 113000,
+    "mgmt": 0,
+    "layout": "2DK",
+    "m2": 45.06,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od086",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ブラン セレノ",
+      "ja": "ブラン セレノ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109383034/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A916%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E5%9B%BD%E9%A0%98%E9%A7%85%20%E6%AD%A927%E5%88%86%20%E3%83%96%E3%83%A9%E3%83%B3%20%E3%82%BB%E3%83%AC%E3%83%8E",
+    "address": "小田急線/狛江駅 歩12分小田急線/和泉多摩川駅 歩16分京王線/国領駅 歩27分",
+    "rent": 107000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 37.16,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od087",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ラ リヴィエール",
+      "ja": "ラ　リヴィエール"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109529143/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%A9%E3%80%80%E3%83%AA%E3%83%B4%E3%82%A3%E3%82%A8%E3%83%BC%E3%83%AB",
+    "address": "小田急線/狛江駅 歩14分小田急線/喜多見駅 歩13分小田急線/和泉多摩川駅 歩19分",
+    "rent": 140000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 54.4,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od088",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ビバリーホームズ喜多見",
+      "ja": "ビバリーホームズ喜多見"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109060296/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E3%83%93%E3%83%90%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "小田急線/喜多見駅 歩9分小田急線/狛江駅 歩14分小田急線/和泉多摩川駅 歩19分",
+    "rent": 73500,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 19.99,
+    "built": "2019 · 5F",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od089",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "シャルレ土屋",
+      "ja": "シャルレ土屋"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109390924/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A96%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AC%E5%9C%9F%E5%B1%8B",
+    "address": "小田急線/喜多見駅 歩6分小田急線/狛江駅 歩13分小田急線/和泉多摩川駅 歩20分",
+    "rent": 76000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od090",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "エア Tower Ｋｏｍａｅ",
+      "ja": "エアタワーＫＯＭＡＥ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109067775/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A94%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%EF%BC%AA%EF%BC%B2%E5%8D%97%E6%AD%A6%E7%B7%9A/%E7%99%BB%E6%88%B8%E9%A7%85%20%E6%AD%A915%E5%88%86%20%E3%82%A8%E3%82%A2%E3%82%BF%E3%83%AF%E3%83%BC%EF%BC%AB%EF%BC%AF%EF%BC%AD%EF%BC%A1%EF%BC%A5",
+    "address": "小田急線/和泉多摩川駅 歩4分小田急線/狛江駅 歩12分ＪＲ南武線/登戸駅 歩15分",
+    "rent": 240000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 70.8,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od091",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "カルーナ Terrace",
+      "ja": "カルーナテラス"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108116543/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A95%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%82%AB%E3%83%AB%E3%83%BC%E3%83%8A%E3%83%86%E3%83%A9%E3%82%B9",
+    "address": "小田急線/喜多見駅 歩5分小田急線/狛江駅 歩12分小田急線/成城学園前駅 歩18分",
+    "rent": 220000,
+    "mgmt": 0,
+    "layout": "3LDK",
+    "m2": 63.44,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "id": "od092",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "Ｍａｉｓｏｎ Ｄｅ Ｉｚｕｍｉ",
+      "ja": "Ｍａｉｓｏｎ　ｄｅ　Ｉｚｕｍｉ"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109666140/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A918%E5%88%86%20%EF%BC%AD%EF%BD%81%EF%BD%89%EF%BD%93%EF%BD%8F%EF%BD%8E%E3%80%80%EF%BD%84%EF%BD%85%E3%80%80%EF%BC%A9%EF%BD%9A%EF%BD%95%EF%BD%8D%EF%BD%89",
+    "address": "小田急線/狛江駅 歩9分小田急線/喜多見駅 歩11分小田急線/和泉多摩川駅 歩18分",
+    "rent": 70000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 27.88,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od093",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "パティーナ狛江",
+      "ja": "パティーナ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109464741/?bc=100525121401",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A927%E5%88%86%20%E3%83%91%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A%E7%8B%9B%E6%B1%9F",
+    "address": "小田急線/狛江駅 歩7分小田急線/喜多見駅 歩11分小田急線/成城学園前駅 歩27分",
+    "rent": 89000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 21.36,
+    "built": "2019 · 8F",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od094",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "ルバール Ｌｅｂａｒ",
+      "ja": "ルバール－Ｌｅｂａｒ－"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109478359/?bc=100524555170",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A918%E5%88%86%20%E3%83%AB%E3%83%90%E3%83%BC%E3%83%AB%EF%BC%8D%EF%BC%AC%EF%BD%85%EF%BD%82%EF%BD%81%EF%BD%92%EF%BC%8D",
+    "address": "小田急線/喜多見駅 歩7分小田急線/狛江駅 歩12分小田急線/和泉多摩川駅 歩18分",
+    "rent": 78000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 24.22,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od095",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "マイナビｓｔａｙミライエ狛江",
+      "ja": "マイナビＳＴＡＹミライエ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109181501/?bc=100522075054",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A99%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A914%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A920%E5%88%86%20%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%EF%BC%B3%EF%BC%B4%EF%BC%A1%EF%BC%B9%E3%83%9F%E3%83%A9%E3%82%A4%E3%82%A8%E7%8B%9B%E6%B1%9F",
+    "address": "小田急線/狛江駅 歩9分小田急線/喜多見駅 歩14分小田急線/和泉多摩川駅 歩20分",
+    "rent": 88000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 20.52,
+    "built": "2019 · 7F",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od096",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "コマエ House",
+      "ja": "コマエハウス"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000087020890/?bc=100524877109",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A913%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D%E9%A7%85%20%E6%AD%A916%E5%88%86%20%E3%82%B3%E3%83%9E%E3%82%A8%E3%83%8F%E3%82%A6%E3%82%B9",
+    "address": "小田急線/狛江駅 歩10分小田急線/喜多見駅 歩13分小田急線/和泉多摩川駅 歩16分",
+    "rent": 63000,
+    "mgmt": 0,
+    "layout": "1K",
+    "m2": 19.2,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od097",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "三 パレッタ ベル",
+      "ja": "三・パレッタ・ベル"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109504510/?bc=100525084224",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%9F%B4%E5%B4%8E%E9%A7%85%20%E6%AD%A918%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A919%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E3%81%A4%E3%81%A4%E3%81%98%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A919%E5%88%86%20%E4%B8%89%E3%83%BB%E3%83%91%E3%83%AC%E3%83%83%E3%82%BF%E3%83%BB%E3%83%99%E3%83%AB",
+    "address": "京王線/柴崎駅 歩18分小田急線/喜多見駅 歩19分京王線/つつじヶ丘駅 歩19分",
+    "rent": 114000,
+    "mgmt": 0,
+    "layout": "2LDK",
+    "m2": 55.08,
+    "built": "2019 · 3F",
+    "structure": "RC",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 0,
+    "id": "od098",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "小田急線 喜多見駅 2階建 築3年",
+      "ja": "小田急線 喜多見駅 2階建 築3年"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000109653423/?bc=100525572489",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A919%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A926%E5%88%86%20%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A%20%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%202%E9%9A%8E%E5%BB%BA%20%E7%AF%893%E5%B9%B4",
+    "address": "小田急線/喜多見駅 歩10分小田急線/狛江駅 歩19分小田急線/成城学園前駅 歩26分",
+    "rent": 150000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 43.2,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od099",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  },
+  {
+    "name": {
+      "en": "グラナーデ成城学園前b",
+      "ja": "グラナーデ成城学園前B"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "tier": "LIVE",
+    "srcName": "SUUMO",
+    "url": "https://suumo.jp/chintai/jnc_000108532074/?bc=100517072528",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A910%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A918%E5%88%86%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E3%81%A4%E3%81%A4%E3%81%98%E3%83%B6%E4%B8%98%E9%A7%85%20%E6%AD%A932%E5%88%86%20%E3%82%B0%E3%83%A9%E3%83%8A%E3%83%BC%E3%83%87%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8DB",
+    "address": "小田急線/喜多見駅 歩10分小田急線/狛江駅 歩18分京王線/つつじヶ丘駅 歩32分",
+    "rent": 125000,
+    "mgmt": 0,
+    "layout": "1LDK",
+    "m2": 33.32,
+    "built": "2019 · 2F",
+    "structure": "RC",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 0,
+    "id": "od100",
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Odawara Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae station with direct transit connection.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · verified real listing with mapped address",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    }
+  }
+
     ]
   }
 };

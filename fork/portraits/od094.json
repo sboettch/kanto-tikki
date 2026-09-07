@@ -1,0 +1,20 @@
+{
+  "id": "od094",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 小田急線/狛江駅 歩7分小田急線/喜多見駅 歩11分小田急線/成城学園前駅 歩27分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od094.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109464741/?bc=100525121401",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E7%8B%9B%E6%B1%9F%E9%A7%85%20%E6%AD%A97%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E5%96%9C%E5%A4%9A%E8%A6%8B%E9%A7%85%20%E6%AD%A911%E5%88%86%E5%B0%8F%E7%94%B0%E6%80%A5%E7%B7%9A/%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D%E9%A7%85%20%E6%AD%A927%E5%88%86%20%E3%83%91%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8A%E7%8B%9B%E6%B1%9F"
+}

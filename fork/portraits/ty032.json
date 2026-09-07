@@ -1,0 +1,20 @@
+{
+  "id": "ty032",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address ＪＲ山手線/恵比寿駅 歩9分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/ty032.webp",
+  "source": "https://suumo.jp/chintai/jnc_000108691026/?bc=100525862169",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B2%E5%B1%B1%E6%89%8B%E7%B7%9A/%E6%81%B5%E6%AF%94%E5%AF%BF%E9%A7%85%20%E6%AD%A99%E5%88%86%20%E6%81%B5%E6%AF%94%E5%AF%BF%E6%88%B8%E5%BB%BA"
+}

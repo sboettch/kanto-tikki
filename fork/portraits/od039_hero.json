@@ -1,0 +1,20 @@
+{
+  "id": "od039",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 京王線/明大前駅 歩8分東急世田谷線/下高井戸駅 歩9分東急世田谷線/松原駅 歩12分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od039_hero.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109634653/?bc=100525511399",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E7%8E%8B%E7%B7%9A/%E6%98%8E%E5%A4%A7%E5%89%8D%E9%A7%85%20%E6%AD%A98%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E4%B8%8B%E9%AB%98%E4%BA%95%E6%88%B8%E9%A7%85%20%E6%AD%A99%E5%88%86%E6%9D%B1%E6%80%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A/%E6%9D%BE%E5%8E%9F%E9%A7%85%20%E6%AD%A912%E5%88%86%20trois%20crique%E6%98%8E%E5%A4%A7%E5%89%8D"
+}

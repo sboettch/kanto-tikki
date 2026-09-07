@@ -1,0 +1,20 @@
+{
+  "id": "od024",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "5 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 西武新宿線/下落合駅 歩5分都営大江戸線/中井駅 歩6分東京メトロ東西線/落合駅 歩11分 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 5,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/od024_hero.webp",
+  "source": "https://suumo.jp/chintai/jnc_000109236943/?bc=100522439231",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E6%96%B0%E5%AE%BF%E7%B7%9A/%E4%B8%8B%E8%90%BD%E5%90%88%E9%A7%85%20%E6%AD%A95%E5%88%86%E9%83%BD%E5%96%B6%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A/%E4%B8%AD%E4%BA%95%E9%A7%85%20%E6%AD%A96%E5%88%86%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E6%9D%B1%E8%A5%BF%E7%B7%9A/%E8%90%BD%E5%90%88%E9%A7%85%20%E6%AD%A911%E5%88%86%20%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B6%E6%96%B0%E5%AE%BF%E8%90%BD%E5%90%88%E3%82%BD%E3%83%8E%E3%83%AA%E3%83%86"
+}
