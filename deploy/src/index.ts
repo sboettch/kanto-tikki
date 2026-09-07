@@ -10,7 +10,26 @@ const SEC: Record<string, string> = {
 };
 export default {
   async fetch(request: Request, env: any): Promise<Response> {
-    const res = await env.ASSETS.fetch(request);
+    const url = new URL(request.url);
+
+    // Redirect /fork to /fork/ for clean directory serving
+    if (url.pathname === '/fork') {
+      return Response.redirect(`${url.origin}/fork/`, 301);
+    }
+
+    let res = await env.ASSETS.fetch(request);
+
+    // If an asset in /fork/ is not found (e.g. shared essence/* or portraits/*), fall back to root asset
+    if (res.status === 404 && url.pathname.startsWith('/fork/')) {
+      const fallbackUrl = new URL(request.url);
+      fallbackUrl.pathname = fallbackUrl.pathname.replace(/^\/fork/, '');
+      const fallbackReq = new Request(fallbackUrl.toString(), request);
+      const fallbackRes = await env.ASSETS.fetch(fallbackReq);
+      if (fallbackRes.status < 400) {
+        res = fallbackRes;
+      }
+    }
+
     const out = new Response(res.body, res);
     for (const [k, v] of Object.entries(SEC)) out.headers.set(k, v);
     return out;

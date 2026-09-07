@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="HomeTikki ODAKYU — Shinjuku to Machida rentals. Shimokitazawa, Seijo, Komae. English first, 日本語も.">
+<title>HomeTikki · ODAKYU</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗻</text></svg>">
+<link rel="stylesheet" href="kanto.css?v=r9">
+<script src="kanto_i18n.js?v=r7" defer></script>
+<script src="odakyu_data.js?v=r1" defer></script>
+<script src="odakyu_live.js?v=r1" defer></script>
+<script src="odakyu_areas.js?v=r1" defer></script>
+<script src="kanto_topology.js?v=r7" defer></script>
+<script src="odakyu_pockets.js?v=r1" defer></script>
+<script src="kanto_essence_meta.js?v=r7" defer></script>
+<script src="kanto_visuals.js?v=r7" defer></script>
+<script src="kanto.js?v=r7" defer></script>
+</head>
+<body>
+<header>
+  <div class="brand"><span class="word">Home<b>Tikki</b></span><span class="ja" id="brandtag">Shinjuku → Machida · rentals</span></div>
+  <div class="corrpick">
+    <select id="corridorpick" aria-label="Choose corridor">
+      <option value="keikyu">⛩ Keikyu · 京急</option>
+      <option value="toyoko">🌸 Toyoko · 東横</option>
+      <option value="hibiya">🌹 Hibiya · 日比谷</option>
+      <option value="denentoshi">🌿 Den-en-toshi · 田園都市</option>
+      <option value="odakyu" selected>🗻 Odakyu · 小田急</option>
+    </select>
+  </div>
+  <nav aria-label="Views">
+    <a href="#corridor" data-v="corridor" id="navcorr">Corridor <small>沿線</small></a>
+    <a href="#lines" data-v="lines" id="navlines">Lines <small>路線</small></a>
+    <a href="#homes" data-v="homes" id="navhomes">Homes <small>物件</small></a>
+    <a href="#pockets" data-v="pockets" id="navpockets">Pockets <small>街角</small></a>
+    <a href="#radio" data-v="radio" id="navradio">Tikki Radio <small>電波</small></a>
+  </nav>
+  <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="search: vinyl · quiet · shitamachi…" aria-label="Search">
+  <div class="destbox"><label for="dest" id="destlabel">COMMUTE TO</label><select id="dest"></select><select id="goalpick" class="goalchip" aria-label="Commute boundary goal"><option value="25">goal 25′</option><option value="40">limit 40′</option><option value="60">limit 60′ (1h)</option></select><span class="goalchip" id="goalchip" style="display:none">goal 25′</span></div>
+  <button id="langbtn" type="button" aria-label="Switch language">日本語</button>
+</header>
+<main id="main" tabindex="-1"></main>
+<div id="overlay" hidden></div><div id="toast" hidden role="status"></div>
+<footer><span id="foot1"></span><span id="foot2"></span></footer>
+</body>
+</html>

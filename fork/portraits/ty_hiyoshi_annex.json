@@ -1,0 +1,37 @@
+{
+ "asset_id": "kanto-ty_hiyoshi_annex-massing-portrait-v1",
+ "state": "COMMUNITY_STUDY",
+ "display_label": "Massing portrait — 2 storeys lightweight steel from field listing; facade style typologized. Not a photograph.",
+ "card_label": "VISUAL STUDY · 外観図",
+ "detail_label": "INTERPRETIVE ILLUSTRATION · massing portrait — 2 floors, lightweight steel structure and 1981 build year from verified records; quiet residential hillside setting",
+ "generated_at": "2026-09-07",
+ "generator": "procedural elevation & washi watercolor study (renders/PACKETS.json)",
+ "method": "field-verified massing: countable floors, lightweight steel framing, residential balcony bays",
+ "output": {
+  "local_path": "kanto/portraits/ty_hiyoshi_annex.webp",
+  "format": "WEBP",
+  "width_px": 1024,
+  "height_px": 420
+ },
+ "visual_proximity": {
+  "status": "FIELD_VERIFIED_MASSING",
+  "grade": "COMMUNITY_STUDY",
+  "score_basis": "field-verified against Google Maps pin https://maps.app.goo.gl/cJMiGzpkunkw1E439?g_st=ac; listed facts asserted",
+  "matched_attributes": [
+   "2 storeys — as listed / observed",
+   "built 1981 — as listed",
+   "structure lightweight steel (軽量鉄骨造) — as listed",
+   "area: Hiyoshihonchō 3-chome, Kōhoku-ku, Yokohama",
+   "sloped residential street context"
+  ],
+  "not_asserted": [
+   "current tenant interior condition",
+   "exact weathering patina"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled interpretive illustration / visual study at display surfaces.",
+  "Asserts field-verified facts: 2 storeys, lightweight steel structure, built 1981, 1K layout scale.",
+  "Direct source map link preserved for open verification."
+ ]
+}

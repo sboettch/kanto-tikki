@@ -1,0 +1,38 @@
+{
+ "asset_id": "kanto-ty_hiyoshi_annex-hero-portrait-v1",
+ "state": "COMMUNITY_STUDY",
+ "display_label": "Park Heights Annex washi/sumi illustrated hero — 2 storeys lightweight steel from field listing; sloped residential setting in Hiyoshihoncho.",
+ "card_label": "VISUAL STUDY · 外観イメージ",
+ "detail_label": "INTERPRETIVE ILLUSTRATION · washi/sumi illustrated hero — 2-storey scale, lightweight steel structure and 1981 build year drawn from verified records; street scene reflects Hiyoshihoncho residential character",
+ "generated_at": "2026-09-07",
+ "generator": "washi/sumi architectural study (renders/PACKETS.json)",
+ "method": "listed-fact architectural portrait with washi paper texture, deckled border, sumi-ink contour linework, and warm twilight illumination",
+ "output": {
+  "local_path": "kanto/portraits/ty_hiyoshi_annex_hero.webp",
+  "format": "WEBP",
+  "width_px": 1376,
+  "height_px": 768
+ },
+ "visual_proximity": {
+  "status": "FIELD_VERIFIED_MASSING_AND_MATERIAL_STUDY",
+  "grade": "COMMUNITY_STUDY",
+  "score_basis": "field-verified against Google Maps pin https://maps.app.goo.gl/cJMiGzpkunkw1E439?g_st=ac; listed facts asserted",
+  "matched_attributes": [
+   "2 storeys — as listed / observed",
+   "built 1981 — as listed",
+   "structure lightweight steel (軽量鉄骨造) — as listed",
+   "area: Hiyoshihonchō 3-chome, Kōhoku-ku, Yokohama",
+   "sloped residential street context",
+   "44 min commute to Yokosuka-Chūō (1 transfer at Yokohama)"
+  ],
+  "not_asserted": [
+   "current tenant interior condition",
+   "exact weathering patina"
+  ]
+ },
+ "expectation_contract": [
+  "Labeled interpretive illustration / visual study at display surfaces.",
+  "Asserts field-verified facts: 2 storeys, lightweight steel structure, built 1981, 1K layout scale.",
+  "Direct source map link preserved for open verification."
+ ]
+}
