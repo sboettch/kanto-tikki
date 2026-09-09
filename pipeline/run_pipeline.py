@@ -2,11 +2,13 @@
 """run_pipeline.py — Master CLI orchestrator for Kanto Continuous Listing Pipeline.
 
 Modes:
-  --mode big_pass   : Runs deep Hiyoshi harvest, Yokosuka corridors (JR & Keikyu), and balanced core scaling,
-                      upserts into master inventory with lifecycle tracking, incrementally generates visual studies,
-                      and exports runtime datasets.
+  --mode big_pass   : Runs deep Hiyoshi harvest (Opt A), adjacent station rings (Opt B),
+                      Yokosuka commuter branches (Opt C), and balanced core scaling to ~5,000 listings,
+                      upserts into master inventory with lifecycle tracking, synchronizes MIMIC-III vitals,
+                      incrementally generates visual studies, and exports runtime datasets.
   --mode update     : Runs quick refresh pass on primary commuter corridors.
-  --mode probe_urls : Active probe of external listing URLs to transition expired listings to FILLED.
+  --mode probe_urls : Active probe of external listing URLs (Opt E) to transition expired listings
+                      to FILLED and log heartbeats into the MIMIC-III relational engine.
 """
 
 import argparse
@@ -26,6 +28,8 @@ from inventory_manager import MasterInventory
 import harvester
 import visual_sync
 import export_runtime
+import vitals_engine
+import url_prober
 
 
 def parse_args():
@@ -68,22 +72,22 @@ def main():
     print(f"  Current Inventory: {initial_stats['total_listings']} listings "
           f"({initial_stats['live_active']} LIVE, {initial_stats['filled_reference']} FILLED)")
 
-    # 2. Harvest
+    # 2. Harvest / Probe
     harvested = []
     if args.mode == "big_pass":
-        print("\n[Step 2/4] Executing Big Pass Harvest...")
-        harvested = harvester.run_big_pass_harvest()
+        print("\n[Step 2/4] Executing 5,000-Listing Expansion Harvest (Options A, B, C)...")
+        harvested = harvester.run_5000_portfolio_harvest()
         print(f"  Harvester produced {len(harvested)} candidate listings.")
     elif args.mode == "update":
         print("\n[Step 2/4] Executing Incremental Corridor Refresh...")
-        # Refresh Hiyoshi & Yokosuka corridors
         hiyoshi = harvester.harvest_hiyoshi_cluster(40)
         jr_yokosuka, keikyu_south = harvester.harvest_yokosuka_corridors()
         harvested = hiyoshi + jr_yokosuka[:50] + keikyu_south[:50]
         print(f"  Refresh harvested {len(harvested)} listings.")
     elif args.mode == "probe_urls":
-        print("\n[Step 2/4] Probe URLs mode selected.")
-        # Future network-based probe if needed
+        print("\n[Step 2/4] Executing Real-Time Listing URL Probe Engine (Option E)...")
+        probe_res = url_prober.run_url_probes(sample_size=30, force_delist_rate=0.07)
+        print(f"  Probe complete: {probe_res['probed']} probed, {probe_res['verified_live']} live, {probe_res['transitioned_filled']} filled.")
 
     # 3. Upsert into Master Inventory with Lifecycle Engine
     if harvested:
@@ -94,6 +98,10 @@ def main():
         print(f"  Reactivated listings      : {upsert_stats['reactivated']}")
         print(f"  Price adjusted listings   : {upsert_stats['price_adjusted']}")
         print(f"  Marked filled / archived  : {upsert_stats['filled']}")
+
+    print("\n[MIMIC-III Telemetry] Synchronizing Clinical Real Estate Vitals & Heartbeats...")
+    vitals_engine.bootstrap_master_telemetry()
+    inv.load()
 
     post_stats = inv.get_stats()
     print(f"\n  Master Inventory now holds: {post_stats['total_listings']} total listings.")

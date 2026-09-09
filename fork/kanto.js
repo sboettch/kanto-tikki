@@ -1470,11 +1470,42 @@ function filteredHomes(){
   if (state.sort==='rent') hs.sort((a,b) => (a.rent||9e9)-(b.rent||9e9));
   else if (state.sort==='size') hs.sort((a,b) => (b.m2||0)-(a.m2||0));
   else if (state.sort==='radio' && state.taste) hs.sort((a,b) => tasteScore(b)-tasteScore(a));
+  else if (state.sort==='dom') {
+    hs.sort((a,b) => ((a.vitals?.days_on_market_days ?? 999) - (b.vitals?.days_on_market_days ?? 999)));
+  }
   else if (state.sort==='pocket') {
     hs.sort((a,b) => {
-      const pa = (pocketForListing(a)?.name?.[LANG.cur==='ja'?'ja':'en'] || '');
-      const pb = (pocketForListing(b)?.name?.[LANG.cur==='ja'?'ja':'en'] || '');
+      const pa = (pocketForListing(a)?.name?.[LANG.cur==='ja'?'ja':'en'] || pocketForListing(a)?.[LANG.cur==='ja'?'ja':'en'] || '');
+      const pb = (pocketForListing(b)?.name?.[LANG.cur==='ja'?'ja':'en'] || pocketForListing(b)?.[LANG.cur==='ja'?'ja':'en'] || '');
       return pa.localeCompare(pb);
+    });
+  }
+  else if (state.sort==='pocket_quiet') {
+    hs.sort((a,b) => {
+      const qa = pocketForListing(a)?.ax?.quiet ?? pocketForListing(a)?.axes?.quiet ?? 3;
+      const qb = pocketForListing(b)?.ax?.quiet ?? pocketForListing(b)?.axes?.quiet ?? 3;
+      return qb - qa || (a.rent||0) - (b.rent||0);
+    });
+  }
+  else if (state.sort==='pocket_food') {
+    hs.sort((a,b) => {
+      const fa = pocketForListing(a)?.ax?.food ?? pocketForListing(a)?.axes?.food ?? 3;
+      const fb = pocketForListing(b)?.ax?.food ?? pocketForListing(b)?.axes?.food ?? 3;
+      return fb - fa || (a.rent||0) - (b.rent||0);
+    });
+  }
+  else if (state.sort==='pocket_green') {
+    hs.sort((a,b) => {
+      const ga = pocketForListing(a)?.ax?.green ?? pocketForListing(a)?.axes?.green ?? 3;
+      const gb = pocketForListing(b)?.ax?.green ?? pocketForListing(b)?.axes?.green ?? 3;
+      return gb - ga || (a.rent||0) - (b.rent||0);
+    });
+  }
+  else if (state.sort==='pocket_retro') {
+    hs.sort((a,b) => {
+      const ra = pocketForListing(a)?.ax?.old ?? pocketForListing(a)?.axes?.old ?? 3;
+      const rb = pocketForListing(b)?.ax?.old ?? pocketForListing(b)?.axes?.old ?? 3;
+      return rb - ra || (a.rent||0) - (b.rent||0);
     });
   }
   else hs.sort((a,b) => key(a)-key(b));
@@ -1622,12 +1653,57 @@ function homesView(){
       <option value="LUXURY" ${state.fTier==='LUXURY'?'selected':''}>${esc(t('tier_luxury'))}</option>
     </select>
     <select id="fsort" aria-label="${esc(t('f_sort'))}">
-      ${[['goal',t('sort_goal')],['rent',t('sort_rent')],['size',t('sort_size')],['pocket',LANG.cur==='ja'?'街角順':'By Pocket']]
+      ${[
+        ['goal', t('sort_goal')],
+        ['dom', LANG.cur==='ja' ? '🟢 掲載期間（新着順）' : '🟢 Freshness (DoM)'],
+        ['rent', t('sort_rent')],
+        ['size', t('sort_size')],
+        ['pocket', LANG.cur==='ja' ? '街角順' : 'By Pocket'],
+        ['pocket_quiet', LANG.cur==='ja' ? '🌿 静穏スコア順' : '🌿 Pocket Quiet Score'],
+        ['pocket_food', LANG.cur==='ja' ? '🍜 飲食・商店街順' : '🍜 Pocket Food & Dining'],
+        ['pocket_green', LANG.cur==='ja' ? '🌳 緑地・公園スコア順' : '🌳 Pocket Greenery'],
+        ['pocket_retro', LANG.cur==='ja' ? '🏮 昭和レトロ・風情順' : '🏮 Pocket Retro Charm']
+      ]
         .concat(state.taste?[['radio',t('sort_radio')]]:[])
         .map(([v,lab])=>`<option value="${v}" ${state.sort===v?'selected':''}>${esc(t('f_sort'))}: ${esc(lab)}</option>`).join('')}
     </select>
     <span class="count">${hs.length} ${esc(t('n_homes'))}</span>
   </div>
+  ${(() => {
+    const pkObj = (state.fPocket !== 'all') ? activePockets().find(p => p.id === state.fPocket) : null;
+    if (!pkObj) return '';
+    const stObj = activeStations().find(s => s.id === pkObj.st);
+    const pName = LANG.cur === 'ja' ? (pkObj.name?.ja || pkObj.ja) : (pkObj.name?.en || pkObj.en);
+    const pGem = LANG.cur === 'ja' ? (pkObj.gem?.ja || pkObj.gem) : (pkObj.gem?.en || pkObj.gem);
+    const pNoise = pkObj.noiseWatch ? (LANG.cur === 'ja' ? (pkObj.noiseWatch?.ja || pkObj.noiseWatch) : (pkObj.noiseWatch?.en || pkObj.noiseWatch)) : null;
+    const ax = pkObj.ax || pkObj.axes;
+    return `
+    <div class="pocket-dossier-card" style="margin:16px 0;padding:16px 20px;background:var(--card-bg, #ffffff);border:1px solid var(--border,#e0e0e0);border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04);">
+      <div style="display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+        <h3 style="margin:0;font-size:18px;font-weight:700;display:flex;align-items:center;gap:8px;">
+          <span>🏮</span> ${esc(pName)}
+          ${stObj ? `<span style="font-size:12px;font-weight:normal;color:var(--muted);background:var(--tag-bg,#f3f4f6);padding:2px 8px;border-radius:4px;">${esc(LANG.cur==='ja'?stObj.ja:stObj.en)}</span>` : ''}
+        </h3>
+        <div style="display:flex;gap:12px;font-size:13px;color:var(--muted);flex-wrap:wrap;">
+          <span><b>${hs.length}</b> ${esc(t('n_homes'))}</span>
+          ${ax ? `
+            <span>🌿 ${LANG.cur==='ja'?'静穏':'Quiet'} <b>${ax.quiet}/5</b></span>
+            <span>🍜 ${LANG.cur==='ja'?'飲食':'Food'} <b>${ax.food}/5</b></span>
+            <span>🌳 ${LANG.cur==='ja'?'緑地':'Green'} <b>${ax.green}/5</b></span>
+            <span>🏮 ${LANG.cur==='ja'?'レトロ':'Retro'} <b>${ax.old}/5</b></span>
+          ` : ''}
+        </div>
+      </div>
+      <p style="margin:0 0 8px 0;font-size:14px;line-height:1.5;color:var(--ink);">
+        ${esc(pGem)}
+      </p>
+      ${pNoise ? `
+        <div style="font-size:12px;color:var(--muted);background:rgba(217,119,6,0.08);border-left:3px solid #d97706;padding:6px 12px;border-radius:0 6px 6px 0;">
+          🔊 ${esc(pNoise)}
+        </div>
+      ` : ''}
+    </div>`;
+  })()}
   ${hs._crossMatch ? `
     <div class="cross-match-banner">
       <div>

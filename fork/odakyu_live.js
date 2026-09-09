@@ -44,7 +44,7 @@ const LIVE = [
     "fingerprint": "c7e6a1e854999795",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:27:50.002442+00:00",
+    "last_verified": "2026-09-09T11:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -54,12 +54,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 370,
-      "survival_probability_pct": 20.9,
+      "survival_probability_pct": 20.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -107,7 +107,7 @@ const LIVE = [
     "fingerprint": "b87937a0f5995c08",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:37:50.002442+00:00",
+    "last_verified": "2026-09-09T11:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -117,12 +117,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.2,
+      "days_on_market": 9.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 360,
-      "survival_probability_pct": 53.2,
+      "survival_probability_pct": 52.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -170,7 +170,7 @@ const LIVE = [
     "fingerprint": "a7be047da01f6dd2",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:24:50.002442+00:00",
+    "last_verified": "2026-09-09T15:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -180,12 +180,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 133,
-      "survival_probability_pct": 40.3,
+      "survival_probability_pct": 40.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -233,7 +233,7 @@ const LIVE = [
     "fingerprint": "64e39090abf4bd7f",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:52:50.002442+00:00",
+    "last_verified": "2026-09-09T14:57:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -243,12 +243,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 165,
-      "survival_probability_pct": 31.4,
+      "survival_probability_pct": 31.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -296,7 +296,7 @@ const LIVE = [
     "fingerprint": "a007452411f66862",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:27:50.002442+00:00",
+    "last_verified": "2026-09-09T10:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -306,12 +306,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 430,
-      "survival_probability_pct": 29.9,
+      "survival_probability_pct": 29.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -359,7 +359,7 @@ const LIVE = [
     "fingerprint": "2b6f2f0d98b35757",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:26:50.002442+00:00",
+    "last_verified": "2026-09-09T10:31:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -369,12 +369,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.2,
+      "days_on_market": 17.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 431,
-      "survival_probability_pct": 30.7,
+      "survival_probability_pct": 30.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -422,7 +422,7 @@ const LIVE = [
     "fingerprint": "f6a74f58193e801e",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:42:50.002442+00:00",
+    "last_verified": "2026-09-09T12:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -432,12 +432,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 295,
-      "survival_probability_pct": 85.0,
+      "survival_probability_pct": 84.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -485,7 +485,7 @@ const LIVE = [
     "fingerprint": "e98f267c744ff72c",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:12:50.002442+00:00",
+    "last_verified": "2026-09-09T14:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -495,12 +495,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 205,
-      "survival_probability_pct": 42.8,
+      "survival_probability_pct": 42.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -548,7 +548,7 @@ const LIVE = [
     "fingerprint": "88f95d7dd8cfd49c",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:37:50.002442+00:00",
+    "last_verified": "2026-09-09T16:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -558,12 +558,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 60,
-      "survival_probability_pct": 31.4,
+      "survival_probability_pct": 31.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -611,7 +611,7 @@ const LIVE = [
     "fingerprint": "cb7a10c809a10b8e",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:06:50.002442+00:00",
+    "last_verified": "2026-09-09T10:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -621,12 +621,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 451,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -674,7 +674,7 @@ const LIVE = [
     "fingerprint": "5bc86f782aa2218b",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:16:50.002442+00:00",
+    "last_verified": "2026-09-09T12:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -684,12 +684,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 321,
-      "survival_probability_pct": 19.9,
+      "survival_probability_pct": 19.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -737,7 +737,7 @@ const LIVE = [
     "fingerprint": "b2d3a6c9803eb2b6",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:12:50.002442+00:00",
+    "last_verified": "2026-09-09T11:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -747,12 +747,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 385,
-      "survival_probability_pct": 33.7,
+      "survival_probability_pct": 33.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -800,7 +800,7 @@ const LIVE = [
     "fingerprint": "923529f38c15c53e",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:08:50.002442+00:00",
+    "last_verified": "2026-09-09T14:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -810,12 +810,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 209,
-      "survival_probability_pct": 17.1,
+      "survival_probability_pct": 16.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -863,7 +863,7 @@ const LIVE = [
     "fingerprint": "28889d0614fde29d",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:45:50.002442+00:00",
+    "last_verified": "2026-09-09T15:50:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -873,12 +873,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 112,
-      "survival_probability_pct": 22.2,
+      "survival_probability_pct": 22.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -926,7 +926,7 @@ const LIVE = [
     "fingerprint": "776c4f80e439cee3",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:38:50.002442+00:00",
+    "last_verified": "2026-09-09T09:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -936,12 +936,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 479,
-      "survival_probability_pct": 87.7,
+      "survival_probability_pct": 87.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -989,7 +989,7 @@ const LIVE = [
     "fingerprint": "3d1fbc8b3b6d7b10",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:58:50.002442+00:00",
+    "last_verified": "2026-09-09T17:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -999,12 +999,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 39,
-      "survival_probability_pct": 17.1,
+      "survival_probability_pct": 16.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1052,7 +1052,7 @@ const LIVE = [
     "fingerprint": "39756a15689b399a",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:06:50.002442+00:00",
+    "last_verified": "2026-09-09T16:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1062,12 +1062,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 91,
-      "survival_probability_pct": 37.7,
+      "survival_probability_pct": 37.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1115,7 +1115,7 @@ const LIVE = [
     "fingerprint": "518df1a6b2af0e79",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:01:50.002442+00:00",
+    "last_verified": "2026-09-09T16:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1125,12 +1125,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 96,
-      "survival_probability_pct": 22.2,
+      "survival_probability_pct": 22.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1178,7 +1178,7 @@ const LIVE = [
     "fingerprint": "3bd4a243fd6e374c",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:26:50.002442+00:00",
+    "last_verified": "2026-09-09T13:31:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1188,12 +1188,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 251,
-      "survival_probability_pct": 21.5,
+      "survival_probability_pct": 21.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1241,7 +1241,7 @@ const LIVE = [
     "fingerprint": "7d2a9b8aec737cae",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:36:50.002442+00:00",
+    "last_verified": "2026-09-09T14:41:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1251,12 +1251,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 181,
-      "survival_probability_pct": 26.8,
+      "survival_probability_pct": 26.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1304,7 +1304,7 @@ const LIVE = [
     "fingerprint": "ba9ea5ad22b230a8",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:52:50.002442+00:00",
+    "last_verified": "2026-09-09T09:57:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1314,12 +1314,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 465,
-      "survival_probability_pct": 67.3,
+      "survival_probability_pct": 66.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1367,7 +1367,7 @@ const LIVE = [
     "fingerprint": "845f97abaa9a13db",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:45:50.002442+00:00",
+    "last_verified": "2026-09-09T09:50:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1377,12 +1377,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 472,
-      "survival_probability_pct": 15.5,
+      "survival_probability_pct": 15.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1430,7 +1430,7 @@ const LIVE = [
     "fingerprint": "784781e5b26f8d97",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:40:50.002442+00:00",
+    "last_verified": "2026-09-09T12:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1440,12 +1440,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 297,
-      "survival_probability_pct": 38.5,
+      "survival_probability_pct": 38.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1493,7 +1493,7 @@ const LIVE = [
     "fingerprint": "f6125227b4431f91",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:44:50.002442+00:00",
+    "last_verified": "2026-09-09T15:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1503,12 +1503,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 113,
-      "survival_probability_pct": 33.9,
+      "survival_probability_pct": 33.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1556,7 +1556,7 @@ const LIVE = [
     "fingerprint": "bc612d6d5c9c4580",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:24:50.002442+00:00",
+    "last_verified": "2026-09-09T10:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1566,12 +1566,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.2,
+      "days_on_market": 7.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 433,
-      "survival_probability_pct": 69.3,
+      "survival_probability_pct": 68.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1619,7 +1619,7 @@ const LIVE = [
     "fingerprint": "b73112c6e35f9a57",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:14:50.002442+00:00",
+    "last_verified": "2026-09-09T10:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1629,12 +1629,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 443,
-      "survival_probability_pct": 23.3,
+      "survival_probability_pct": 23.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1682,7 +1682,7 @@ const LIVE = [
     "fingerprint": "5f4434a0c6c1d9fb",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:13:50.002442+00:00",
+    "last_verified": "2026-09-09T10:18:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1692,12 +1692,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 444,
-      "survival_probability_pct": 20.3,
+      "survival_probability_pct": 20.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1745,7 +1745,7 @@ const LIVE = [
     "fingerprint": "6d0647b717311e06",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:01:50.002442+00:00",
+    "last_verified": "2026-09-09T15:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1755,12 +1755,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 156,
-      "survival_probability_pct": 46.4,
+      "survival_probability_pct": 46.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1808,7 +1808,7 @@ const LIVE = [
     "fingerprint": "e0a4425354c484a4",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:58:50.002442+00:00",
+    "last_verified": "2026-09-09T10:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1818,12 +1818,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 459,
-      "survival_probability_pct": 40.1,
+      "survival_probability_pct": 39.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1871,7 +1871,7 @@ const LIVE = [
     "fingerprint": "720e35d12f6fec48",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:24:50.002442+00:00",
+    "last_verified": "2026-09-09T16:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1881,12 +1881,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 73,
-      "survival_probability_pct": 23.8,
+      "survival_probability_pct": 23.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1934,7 +1934,7 @@ const LIVE = [
     "fingerprint": "728b8b12f598ba6b",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:29:50.002442+00:00",
+    "last_verified": "2026-09-09T12:34:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1944,12 +1944,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 308,
-      "survival_probability_pct": 87.7,
+      "survival_probability_pct": 87.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -1997,7 +1997,7 @@ const LIVE = [
     "fingerprint": "d4c726ecf698a33f",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:17:50.002442+00:00",
+    "last_verified": "2026-09-09T12:22:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2007,12 +2007,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 320,
-      "survival_probability_pct": 49.7,
+      "survival_probability_pct": 49.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2060,7 +2060,7 @@ const LIVE = [
     "fingerprint": "356667d02d0f9cac",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:20:50.002442+00:00",
+    "last_verified": "2026-09-09T16:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2070,12 +2070,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 77,
-      "survival_probability_pct": 54.4,
+      "survival_probability_pct": 53.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2123,7 +2123,7 @@ const LIVE = [
     "fingerprint": "7feb37aee2c2a000",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:04:50.002442+00:00",
+    "last_verified": "2026-09-09T16:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2133,12 +2133,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 93,
-      "survival_probability_pct": 89.4,
+      "survival_probability_pct": 88.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2186,7 +2186,7 @@ const LIVE = [
     "fingerprint": "0079e1e76b57cd78",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:37:50.002442+00:00",
+    "last_verified": "2026-09-09T09:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2196,12 +2196,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.2,
+      "days_on_market": 6.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 480,
-      "survival_probability_pct": 65.3,
+      "survival_probability_pct": 64.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2249,7 +2249,7 @@ const LIVE = [
     "fingerprint": "222b8d83e006df78",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:10:50.002442+00:00",
+    "last_verified": "2026-09-09T13:15:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2259,12 +2259,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 267,
-      "survival_probability_pct": 19.7,
+      "survival_probability_pct": 19.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2312,7 +2312,7 @@ const LIVE = [
     "fingerprint": "e087d3fa1179029d",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:48:50.002442+00:00",
+    "last_verified": "2026-09-09T16:53:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2322,12 +2322,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 49,
-      "survival_probability_pct": 45.7,
+      "survival_probability_pct": 45.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2375,7 +2375,7 @@ const LIVE = [
     "fingerprint": "23631735817dd7e4",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:09:50.002442+00:00",
+    "last_verified": "2026-09-09T16:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2385,12 +2385,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 88,
-      "survival_probability_pct": 20.9,
+      "survival_probability_pct": 20.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2438,7 +2438,7 @@ const LIVE = [
     "fingerprint": "cda9f3a925e68901",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:59:50.002442+00:00",
+    "last_verified": "2026-09-09T11:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2448,12 +2448,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 398,
-      "survival_probability_pct": 93.1,
+      "survival_probability_pct": 92.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2501,7 +2501,7 @@ const LIVE = [
     "fingerprint": "ac569a3f806d853b",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:32:50.002442+00:00",
+    "last_verified": "2026-09-09T13:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2511,12 +2511,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 245,
-      "survival_probability_pct": 87.1,
+      "survival_probability_pct": 86.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2564,7 +2564,7 @@ const LIVE = [
     "fingerprint": "2e3ecd229e35de35",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:32:50.002442+00:00",
+    "last_verified": "2026-09-09T16:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2574,12 +2574,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 65,
-      "survival_probability_pct": 92.1,
+      "survival_probability_pct": 91.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2627,7 +2627,7 @@ const LIVE = [
     "fingerprint": "93acd22e1c3e6e30",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:04:50.002442+00:00",
+    "last_verified": "2026-09-09T13:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2637,12 +2637,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.2,
+      "days_on_market": 7.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 65.0,
+      "survival_probability_pct": 64.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2690,7 +2690,7 @@ const LIVE = [
     "fingerprint": "c4b0ccffccab2d66",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:52:50.002442+00:00",
+    "last_verified": "2026-09-09T14:57:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2700,12 +2700,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 165,
-      "survival_probability_pct": 26.5,
+      "survival_probability_pct": 26.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2753,7 +2753,7 @@ const LIVE = [
     "fingerprint": "eeedf33785cf30c7",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:16:50.002442+00:00",
+    "last_verified": "2026-09-09T17:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2763,12 +2763,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 21,
-      "survival_probability_pct": 35.3,
+      "survival_probability_pct": 35.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2816,7 +2816,7 @@ const LIVE = [
     "fingerprint": "f0e50a381398f71d",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:30:50.002442+00:00",
+    "last_verified": "2026-09-09T13:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2826,12 +2826,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 247,
-      "survival_probability_pct": 87.7,
+      "survival_probability_pct": 87.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2879,7 +2879,7 @@ const LIVE = [
     "fingerprint": "69b347e759641ebb",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:12:50.002442+00:00",
+    "last_verified": "2026-09-09T13:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2889,12 +2889,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 265,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -2942,7 +2942,7 @@ const LIVE = [
     "fingerprint": "52a987c832901060",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:29:50.002442+00:00",
+    "last_verified": "2026-09-09T16:34:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2952,12 +2952,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 68,
-      "survival_probability_pct": 56.5,
+      "survival_probability_pct": 56.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3005,7 +3005,7 @@ const LIVE = [
     "fingerprint": "2b7fab77b07cff16",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:21:50.002442+00:00",
+    "last_verified": "2026-09-09T11:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3015,12 +3015,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 376,
-      "survival_probability_pct": 32.3,
+      "survival_probability_pct": 32.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3068,7 +3068,7 @@ const LIVE = [
     "fingerprint": "d260ccef8f301ce1",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:24:50.002442+00:00",
+    "last_verified": "2026-09-09T15:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3078,12 +3078,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 133,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3131,7 +3131,7 @@ const LIVE = [
     "fingerprint": "1e6fa5370b34be0f",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:51:50.002442+00:00",
+    "last_verified": "2026-09-09T16:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3141,12 +3141,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 46,
-      "survival_probability_pct": 91.3,
+      "survival_probability_pct": 90.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3194,7 +3194,7 @@ const LIVE = [
     "fingerprint": "9edb7b16fef13776",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:06:50.002442+00:00",
+    "last_verified": "2026-09-09T11:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3204,12 +3204,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 391,
-      "survival_probability_pct": 33.7,
+      "survival_probability_pct": 33.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3257,7 +3257,7 @@ const LIVE = [
     "fingerprint": "35846fd9f2d51b84",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:13:50.002442+00:00",
+    "last_verified": "2026-09-09T13:18:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3267,12 +3267,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.2,
+      "days_on_market": 8.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 264,
-      "survival_probability_pct": 65.8,
+      "survival_probability_pct": 65.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3320,7 +3320,7 @@ const LIVE = [
     "fingerprint": "1ac25e7c9ba0ee7b",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:35:50.002442+00:00",
+    "last_verified": "2026-09-09T14:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3330,12 +3330,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 182,
-      "survival_probability_pct": 37.7,
+      "survival_probability_pct": 37.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3383,7 +3383,7 @@ const LIVE = [
     "fingerprint": "40c76ce1f305936d",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:01:50.002442+00:00",
+    "last_verified": "2026-09-09T11:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3393,12 +3393,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 396,
-      "survival_probability_pct": 33.9,
+      "survival_probability_pct": 33.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3446,7 +3446,7 @@ const LIVE = [
     "fingerprint": "1f03227813b52c4f",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:35:50.002442+00:00",
+    "last_verified": "2026-09-09T16:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3456,12 +3456,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 62,
-      "survival_probability_pct": 19.7,
+      "survival_probability_pct": 19.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3509,7 +3509,7 @@ const LIVE = [
     "fingerprint": "c115486d4a4a0870",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:51:50.002442+00:00",
+    "last_verified": "2026-09-09T12:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3519,12 +3519,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 286,
-      "survival_probability_pct": 19.7,
+      "survival_probability_pct": 19.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3572,7 +3572,7 @@ const LIVE = [
     "fingerprint": "f18a1a9bcb0c635f",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:17:50.002442+00:00",
+    "last_verified": "2026-09-09T12:22:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3582,12 +3582,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 320,
-      "survival_probability_pct": 28.7,
+      "survival_probability_pct": 28.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3635,7 +3635,7 @@ const LIVE = [
     "fingerprint": "b1f0731e123267f9",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:01:50.002442+00:00",
+    "last_verified": "2026-09-09T14:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3645,12 +3645,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 216,
-      "survival_probability_pct": 15.8,
+      "survival_probability_pct": 15.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3698,7 +3698,7 @@ const LIVE = [
     "fingerprint": "393fd307c2d57f75",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:41:50.002442+00:00",
+    "last_verified": "2026-09-09T15:46:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3708,12 +3708,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 116,
-      "survival_probability_pct": 87.7,
+      "survival_probability_pct": 87.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3761,7 +3761,7 @@ const LIVE = [
     "fingerprint": "3f7c1784a423c8bf",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:35:50.002442+00:00",
+    "last_verified": "2026-09-09T16:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3771,12 +3771,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.2,
+      "days_on_market": 4.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 62,
-      "survival_probability_pct": 75.0,
+      "survival_probability_pct": 74.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3824,7 +3824,7 @@ const LIVE = [
     "fingerprint": "c0fda997bfb741d5",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:04:50.002442+00:00",
+    "last_verified": "2026-09-09T17:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3834,12 +3834,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 33,
-      "survival_probability_pct": 45.4,
+      "survival_probability_pct": 45.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3887,7 +3887,7 @@ const LIVE = [
     "fingerprint": "e9b20d73e4a977f9",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:31:50.002442+00:00",
+    "last_verified": "2026-09-09T10:36:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3897,12 +3897,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 426,
-      "survival_probability_pct": 18.5,
+      "survival_probability_pct": 18.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -3950,7 +3950,7 @@ const LIVE = [
     "fingerprint": "4175acce0ba91684",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:14:50.002442+00:00",
+    "last_verified": "2026-09-09T13:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3960,12 +3960,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 263,
-      "survival_probability_pct": 31.7,
+      "survival_probability_pct": 31.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4013,7 +4013,7 @@ const LIVE = [
     "fingerprint": "a8e1c0c9b2383b0f",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:33:50.002442+00:00",
+    "last_verified": "2026-09-09T11:38:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4023,12 +4023,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 364,
-      "survival_probability_pct": 15.8,
+      "survival_probability_pct": 15.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4076,7 +4076,7 @@ const LIVE = [
     "fingerprint": "4463e1fa59de44aa",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:15:50.002442+00:00",
+    "last_verified": "2026-09-09T16:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4086,12 +4086,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 82,
-      "survival_probability_pct": 67.3,
+      "survival_probability_pct": 66.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4139,7 +4139,7 @@ const LIVE = [
     "fingerprint": "96c1ab9eac833589",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:21:50.002442+00:00",
+    "last_verified": "2026-09-09T14:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4149,12 +4149,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.2,
+      "days_on_market": 4.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 196,
-      "survival_probability_pct": 80.7,
+      "survival_probability_pct": 80.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4202,7 +4202,7 @@ const LIVE = [
     "fingerprint": "1e3e3cd12c668bce",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:07:50.002442+00:00",
+    "last_verified": "2026-09-09T15:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4212,12 +4212,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 150,
-      "survival_probability_pct": 82.6,
+      "survival_probability_pct": 82.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4265,7 +4265,7 @@ const LIVE = [
     "fingerprint": "859cc13679c2c209",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:20:50.002442+00:00",
+    "last_verified": "2026-09-09T11:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4275,12 +4275,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.2,
+      "days_on_market": 17.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 377,
-      "survival_probability_pct": 30.7,
+      "survival_probability_pct": 30.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4328,7 +4328,7 @@ const LIVE = [
     "fingerprint": "5bae3c2b6a6db297",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:30:50.002442+00:00",
+    "last_verified": "2026-09-09T12:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4338,12 +4338,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 307,
-      "survival_probability_pct": 64.5,
+      "survival_probability_pct": 64.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4391,7 +4391,7 @@ const LIVE = [
     "fingerprint": "e0dd850f1a3021cc",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:11:50.002442+00:00",
+    "last_verified": "2026-09-09T15:16:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4401,12 +4401,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.2,
+      "days_on_market": 6.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 146,
-      "survival_probability_pct": 69.0,
+      "survival_probability_pct": 68.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4454,7 +4454,7 @@ const LIVE = [
     "fingerprint": "64366baa2c8ff93f",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:17:50.002442+00:00",
+    "last_verified": "2026-09-09T17:22:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4464,12 +4464,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 20,
-      "survival_probability_pct": 16.6,
+      "survival_probability_pct": 16.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4517,7 +4517,7 @@ const LIVE = [
     "fingerprint": "924721f04ca3405f",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:07:50.002442+00:00",
+    "last_verified": "2026-09-09T16:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4527,12 +4527,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 90,
-      "survival_probability_pct": 33.9,
+      "survival_probability_pct": 33.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4580,7 +4580,7 @@ const LIVE = [
     "fingerprint": "bc42d18e10bc0d10",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:03:50.002442+00:00",
+    "last_verified": "2026-09-09T13:08:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4590,12 +4590,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 274,
-      "survival_probability_pct": 87.7,
+      "survival_probability_pct": 87.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4643,7 +4643,7 @@ const LIVE = [
     "fingerprint": "0dfaff9240b26eb9",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:00:50.002442+00:00",
+    "last_verified": "2026-09-09T17:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4653,12 +4653,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 37,
-      "survival_probability_pct": 26.5,
+      "survival_probability_pct": 26.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4706,7 +4706,7 @@ const LIVE = [
     "fingerprint": "560127960d7c2f36",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:46:50.002442+00:00",
+    "last_verified": "2026-09-09T13:51:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4716,12 +4716,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 231,
-      "survival_probability_pct": 36.6,
+      "survival_probability_pct": 36.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4769,7 +4769,7 @@ const LIVE = [
     "fingerprint": "13cc3215f3c15bb4",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:03:50.002442+00:00",
+    "last_verified": "2026-09-09T10:08:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4779,12 +4779,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 454,
-      "survival_probability_pct": 33.9,
+      "survival_probability_pct": 33.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4832,7 +4832,7 @@ const LIVE = [
     "fingerprint": "e7b7f0fe70e876aa",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:11:50.002442+00:00",
+    "last_verified": "2026-09-09T16:16:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4842,12 +4842,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 86,
-      "survival_probability_pct": 78.4,
+      "survival_probability_pct": 77.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4895,7 +4895,7 @@ const LIVE = [
     "fingerprint": "5c3c304d9e9a9ec3",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:13:50.002442+00:00",
+    "last_verified": "2026-09-09T10:18:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4905,12 +4905,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.2,
+      "days_on_market": 16.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 444,
-      "survival_probability_pct": 38.0,
+      "survival_probability_pct": 37.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -4958,7 +4958,7 @@ const LIVE = [
     "fingerprint": "fd38308203b49640",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:30:50.002442+00:00",
+    "last_verified": "2026-09-09T15:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4968,12 +4968,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 127,
-      "survival_probability_pct": 40.4,
+      "survival_probability_pct": 40.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5021,7 +5021,7 @@ const LIVE = [
     "fingerprint": "61c27eb543e16764",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:59:50.002442+00:00",
+    "last_verified": "2026-09-09T10:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5031,12 +5031,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 458,
-      "survival_probability_pct": 93.1,
+      "survival_probability_pct": 92.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5084,7 +5084,7 @@ const LIVE = [
     "fingerprint": "9237d5c39421135b",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:30:50.002442+00:00",
+    "last_verified": "2026-09-09T14:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5094,12 +5094,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 187,
-      "survival_probability_pct": 30.7,
+      "survival_probability_pct": 30.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5147,7 +5147,7 @@ const LIVE = [
     "fingerprint": "b74cd4d10371d9cf",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:09:50.002442+00:00",
+    "last_verified": "2026-09-09T17:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5157,12 +5157,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.2,
+      "days_on_market": 16.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 32.9,
+      "survival_probability_pct": 32.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5210,7 +5210,7 @@ const LIVE = [
     "fingerprint": "0782ac33c2c233a1",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:09:50.002442+00:00",
+    "last_verified": "2026-09-09T14:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5220,12 +5220,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.2,
+      "days_on_market": 7.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 208,
-      "survival_probability_pct": 65.0,
+      "survival_probability_pct": 64.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5273,7 +5273,7 @@ const LIVE = [
     "fingerprint": "0ddae86b4e28feb0",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:57:50.002442+00:00",
+    "last_verified": "2026-09-09T12:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5283,12 +5283,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 340,
-      "survival_probability_pct": 18.4,
+      "survival_probability_pct": 18.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5336,7 +5336,7 @@ const LIVE = [
     "fingerprint": "7844c8537aab1fca",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:08:50.002442+00:00",
+    "last_verified": "2026-09-09T13:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5346,12 +5346,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 269,
-      "survival_probability_pct": 82.6,
+      "survival_probability_pct": 82.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5399,7 +5399,7 @@ const LIVE = [
     "fingerprint": "02dcff7f83789144",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:32:50.002442+00:00",
+    "last_verified": "2026-09-09T12:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5409,12 +5409,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 305,
-      "survival_probability_pct": 92.1,
+      "survival_probability_pct": 91.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5462,7 +5462,7 @@ const LIVE = [
     "fingerprint": "90abe5e88aef18f6",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:34:50.002442+00:00",
+    "last_verified": "2026-09-09T13:39:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5472,12 +5472,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 243,
-      "survival_probability_pct": 20.9,
+      "survival_probability_pct": 20.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5525,7 +5525,7 @@ const LIVE = [
     "fingerprint": "2503799bb101ee77",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:04:50.002442+00:00",
+    "last_verified": "2026-09-09T15:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5535,12 +5535,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.2,
+      "days_on_market": 8.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 153,
-      "survival_probability_pct": 65.8,
+      "survival_probability_pct": 65.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5588,7 +5588,7 @@ const LIVE = [
     "fingerprint": "389f4d074b9e14e0",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:09:50.002442+00:00",
+    "last_verified": "2026-09-09T12:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5598,12 +5598,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 328,
-      "survival_probability_pct": 84.6,
+      "survival_probability_pct": 83.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5651,7 +5651,7 @@ const LIVE = [
     "fingerprint": "0d97a642a05df68f",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:09:50.002442+00:00",
+    "last_verified": "2026-09-09T14:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5661,12 +5661,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.2,
+      "days_on_market": 4.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 208,
-      "survival_probability_pct": 77.8,
+      "survival_probability_pct": 77.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5714,7 +5714,7 @@ const LIVE = [
     "fingerprint": "9051f2301c954e6c",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:15:50.002442+00:00",
+    "last_verified": "2026-09-09T10:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5724,12 +5724,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 442,
-      "survival_probability_pct": 43.8,
+      "survival_probability_pct": 43.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5777,7 +5777,7 @@ const LIVE = [
     "fingerprint": "7595859183a090a2",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:59:50.002442+00:00",
+    "last_verified": "2026-09-09T16:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5787,12 +5787,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 98,
-      "survival_probability_pct": 87.1,
+      "survival_probability_pct": 86.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5840,7 +5840,7 @@ const LIVE = [
     "fingerprint": "7262854e766e6336",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:05:50.002442+00:00",
+    "last_verified": "2026-09-09T11:10:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5850,12 +5850,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 392,
-      "survival_probability_pct": 42.6,
+      "survival_probability_pct": 42.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5903,7 +5903,7 @@ const LIVE = [
     "fingerprint": "433a12e389032c46",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:57:50.002442+00:00",
+    "last_verified": "2026-09-09T15:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5913,12 +5913,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.2,
+      "days_on_market": 4.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 160,
-      "survival_probability_pct": 72.6,
+      "survival_probability_pct": 71.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -5966,7 +5966,7 @@ const LIVE = [
     "fingerprint": "b8e454593bb8609e",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:57:50.002442+00:00",
+    "last_verified": "2026-09-09T11:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5976,12 +5976,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 400,
-      "survival_probability_pct": 19.9,
+      "survival_probability_pct": 19.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6029,7 +6029,7 @@ const LIVE = [
     "fingerprint": "f2a9ea3b8a6ffbfb",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:18:50.002442+00:00",
+    "last_verified": "2026-09-09T10:23:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6039,12 +6039,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 439,
-      "survival_probability_pct": 14.7,
+      "survival_probability_pct": 14.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6092,7 +6092,7 @@ const LIVE = [
     "fingerprint": "2a763eee10cc0372",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:24:50.002442+00:00",
+    "last_verified": "2026-09-09T14:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6102,12 +6102,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 193,
-      "survival_probability_pct": 42.6,
+      "survival_probability_pct": 42.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6155,7 +6155,7 @@ const LIVE = [
     "fingerprint": "edf4ba716f33a318",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:09:50.002442+00:00",
+    "last_verified": "2026-09-09T11:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6165,12 +6165,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 388,
-      "survival_probability_pct": 33.9,
+      "survival_probability_pct": 33.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6218,7 +6218,7 @@ const LIVE = [
     "fingerprint": "5db0ca1b736bbabb",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:54:50.002442+00:00",
+    "last_verified": "2026-09-09T15:59:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6228,12 +6228,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 26.5,
+      "survival_probability_pct": 26.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6281,7 +6281,7 @@ const LIVE = [
     "fingerprint": "11c75e7c3ff0553f",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:21:50.002442+00:00",
+    "last_verified": "2026-09-09T10:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6291,12 +6291,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 436,
-      "survival_probability_pct": 23.5,
+      "survival_probability_pct": 23.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6345,7 +6345,7 @@ const LIVE = [
     "fingerprint": "019d2daddb564e19",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:41:50.002442+00:00",
+    "last_verified": "2026-09-09T09:46:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6355,12 +6355,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.2,
+      "days_on_market": 7.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 476,
-      "survival_probability_pct": 61.0,
+      "survival_probability_pct": 60.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6409,7 +6409,7 @@ const LIVE = [
     "fingerprint": "0c8f7979538b6093",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:21:50.002442+00:00",
+    "last_verified": "2026-09-09T16:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6419,12 +6419,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 76,
-      "survival_probability_pct": 54.4,
+      "survival_probability_pct": 53.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6473,7 +6473,7 @@ const LIVE = [
     "fingerprint": "d27c545121af6651",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:51:50.002442+00:00",
+    "last_verified": "2026-09-09T11:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6483,12 +6483,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 346,
-      "survival_probability_pct": 51.0,
+      "survival_probability_pct": 50.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6537,7 +6537,7 @@ const LIVE = [
     "fingerprint": "7bcbb4dba2f6023e",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:06:50.002442+00:00",
+    "last_verified": "2026-09-09T14:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6547,12 +6547,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 211,
-      "survival_probability_pct": 36.3,
+      "survival_probability_pct": 36.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6601,7 +6601,7 @@ const LIVE = [
     "fingerprint": "d3b851ed27fde6b2",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:20:50.002442+00:00",
+    "last_verified": "2026-09-09T11:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6611,12 +6611,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 377,
-      "survival_probability_pct": 11.7,
+      "survival_probability_pct": 11.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6665,7 +6665,7 @@ const LIVE = [
     "fingerprint": "5b3a1c1a73598949",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:58:50.002442+00:00",
+    "last_verified": "2026-09-09T10:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6675,12 +6675,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 459,
-      "survival_probability_pct": 65.8,
+      "survival_probability_pct": 65.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6729,7 +6729,7 @@ const LIVE = [
     "fingerprint": "0ed5745e26158bc7",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:44:50.002442+00:00",
+    "last_verified": "2026-09-09T13:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6739,12 +6739,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 233,
-      "survival_probability_pct": 35.2,
+      "survival_probability_pct": 34.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6793,7 +6793,7 @@ const LIVE = [
     "fingerprint": "26eeeddd9812fb98",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:40:50.002442+00:00",
+    "last_verified": "2026-09-09T13:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6803,12 +6803,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 237,
-      "survival_probability_pct": 51.2,
+      "survival_probability_pct": 50.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6857,7 +6857,7 @@ const LIVE = [
     "fingerprint": "6a5b26a5885c981d",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:01:50.002442+00:00",
+    "last_verified": "2026-09-09T12:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6867,12 +6867,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 336,
-      "survival_probability_pct": 37.6,
+      "survival_probability_pct": 37.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6921,7 +6921,7 @@ const LIVE = [
     "fingerprint": "520a43e0be6c8387",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:16:50.002442+00:00",
+    "last_verified": "2026-09-09T11:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6931,12 +6931,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 381,
-      "survival_probability_pct": 34.9,
+      "survival_probability_pct": 34.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -6985,7 +6985,7 @@ const LIVE = [
     "fingerprint": "399a2b252ef7e52d",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:00:50.002442+00:00",
+    "last_verified": "2026-09-09T13:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6995,12 +6995,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.2,
+      "days_on_market": 6.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 277,
-      "survival_probability_pct": 65.3,
+      "survival_probability_pct": 64.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7049,7 +7049,7 @@ const LIVE = [
     "fingerprint": "790e3fe3a05b99ac",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:21:50.002442+00:00",
+    "last_verified": "2026-09-09T13:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7059,12 +7059,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.2,
+      "days_on_market": 16.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 256,
-      "survival_probability_pct": 27.1,
+      "survival_probability_pct": 26.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7113,7 +7113,7 @@ const LIVE = [
     "fingerprint": "c1a95dd828666a7c",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:38:50.002442+00:00",
+    "last_verified": "2026-09-09T09:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7123,12 +7123,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 479,
-      "survival_probability_pct": 80.3,
+      "survival_probability_pct": 79.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7177,7 +7177,7 @@ const LIVE = [
     "fingerprint": "5d99a4f59dab8db9",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:28:50.002442+00:00",
+    "last_verified": "2026-09-09T16:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7187,12 +7187,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.2,
+      "days_on_market": 16.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 69,
-      "survival_probability_pct": 38.0,
+      "survival_probability_pct": 37.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7241,7 +7241,7 @@ const LIVE = [
     "fingerprint": "0451f03e22695155",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:12:50.002442+00:00",
+    "last_verified": "2026-09-09T11:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7251,12 +7251,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 385,
-      "survival_probability_pct": 89.4,
+      "survival_probability_pct": 88.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7305,7 +7305,7 @@ const LIVE = [
     "fingerprint": "f1941078fd432ca4",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:39:50.002442+00:00",
+    "last_verified": "2026-09-09T15:44:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7315,12 +7315,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 118,
-      "survival_probability_pct": 64.5,
+      "survival_probability_pct": 64.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7369,7 +7369,7 @@ const LIVE = [
     "fingerprint": "07fc8f9dea8498e3",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:07:50.002442+00:00",
+    "last_verified": "2026-09-09T13:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7379,12 +7379,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 270,
-      "survival_probability_pct": 40.4,
+      "survival_probability_pct": 40.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7433,7 +7433,7 @@ const LIVE = [
     "fingerprint": "b015900befdf18be",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:57:50.002442+00:00",
+    "last_verified": "2026-09-09T16:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7443,12 +7443,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 100,
-      "survival_probability_pct": 34.5,
+      "survival_probability_pct": 34.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7497,7 +7497,7 @@ const LIVE = [
     "fingerprint": "c50c9d47dc47c0cd",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:08:50.002442+00:00",
+    "last_verified": "2026-09-09T11:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7507,12 +7507,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.2,
+      "days_on_market": 9.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 389,
-      "survival_probability_pct": 53.2,
+      "survival_probability_pct": 52.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7561,7 +7561,7 @@ const LIVE = [
     "fingerprint": "b36c6b67b3d2d77e",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:54:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7571,12 +7571,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.2,
+      "days_on_market": 17.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 228,
-      "survival_probability_pct": 35.8,
+      "survival_probability_pct": 35.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7625,7 +7625,7 @@ const LIVE = [
     "fingerprint": "db09416688bfd74d",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:06:50.002442+00:00",
+    "last_verified": "2026-09-09T10:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7635,12 +7635,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 451,
-      "survival_probability_pct": 51.0,
+      "survival_probability_pct": 50.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7689,7 +7689,7 @@ const LIVE = [
     "fingerprint": "fe22036e2a7d4ee8",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:26:50.002442+00:00",
+    "last_verified": "2026-09-09T15:31:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7699,12 +7699,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 131,
-      "survival_probability_pct": 41.9,
+      "survival_probability_pct": 41.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7753,7 +7753,7 @@ const LIVE = [
     "fingerprint": "aeaa27a785655d3b",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:53:50.002442+00:00",
+    "last_verified": "2026-09-09T11:58:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7763,12 +7763,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 344,
-      "survival_probability_pct": 11.7,
+      "survival_probability_pct": 11.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7817,7 +7817,7 @@ const LIVE = [
     "fingerprint": "d252df8d6c47c0bd",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:38:50.002442+00:00",
+    "last_verified": "2026-09-09T15:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7827,12 +7827,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 119,
-      "survival_probability_pct": 33.0,
+      "survival_probability_pct": 32.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7881,7 +7881,7 @@ const LIVE = [
     "fingerprint": "f446e59e40276a57",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:11:50.002442+00:00",
+    "last_verified": "2026-09-09T13:16:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7891,12 +7891,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 266,
-      "survival_probability_pct": 46.4,
+      "survival_probability_pct": 46.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -7945,7 +7945,7 @@ const LIVE = [
     "fingerprint": "1c8d908f24d88abe",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:10:50.002442+00:00",
+    "last_verified": "2026-09-09T12:15:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7955,12 +7955,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.2,
+      "days_on_market": 17.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 327,
-      "survival_probability_pct": 35.8,
+      "survival_probability_pct": 35.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8009,7 +8009,7 @@ const LIVE = [
     "fingerprint": "8e8f0fcc3c75624e",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:06:50.002442+00:00",
+    "last_verified": "2026-09-09T15:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8019,12 +8019,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 151,
-      "survival_probability_pct": 56.5,
+      "survival_probability_pct": 56.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8073,7 +8073,7 @@ const LIVE = [
     "fingerprint": "58ead2760b689baa",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:57:50.002442+00:00",
+    "last_verified": "2026-09-09T13:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8083,12 +8083,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 280,
-      "survival_probability_pct": 79.9,
+      "survival_probability_pct": 79.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8137,7 +8137,7 @@ const LIVE = [
     "fingerprint": "ba604c8455f4431c",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:28:50.002442+00:00",
+    "last_verified": "2026-09-09T12:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8147,12 +8147,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 309,
-      "survival_probability_pct": 91.3,
+      "survival_probability_pct": 90.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8201,7 +8201,7 @@ const LIVE = [
     "fingerprint": "55833af92bc8b6eb",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:47:50.002442+00:00",
+    "last_verified": "2026-09-09T12:52:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8211,12 +8211,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.2,
+      "days_on_market": 12.3,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 290,
-      "survival_probability_pct": 41.1,
+      "survival_probability_pct": 40.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8265,7 +8265,7 @@ const LIVE = [
     "fingerprint": "871767e3bd8cdeb1",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:08:50.002442+00:00",
+    "last_verified": "2026-09-09T11:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8275,12 +8275,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 389,
-      "survival_probability_pct": 32.4,
+      "survival_probability_pct": 32.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8329,7 +8329,7 @@ const LIVE = [
     "fingerprint": "707e910bb562c841",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:08:50.002442+00:00",
+    "last_verified": "2026-09-09T14:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8339,12 +8339,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 209,
-      "survival_probability_pct": 22.2,
+      "survival_probability_pct": 22.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8393,7 +8393,7 @@ const LIVE = [
     "fingerprint": "3a558ca07d773cf4",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:13:50.002442+00:00",
+    "last_verified": "2026-09-09T12:18:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8403,12 +8403,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 324,
-      "survival_probability_pct": 48.5,
+      "survival_probability_pct": 48.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8457,7 +8457,7 @@ const LIVE = [
     "fingerprint": "36a8685adc4adfb3",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:58:50.002442+00:00",
+    "last_verified": "2026-09-09T15:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8467,12 +8467,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 159,
-      "survival_probability_pct": 61.7,
+      "survival_probability_pct": 61.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8521,7 +8521,7 @@ const LIVE = [
     "fingerprint": "015d8fe45b83c488",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:35:50.002442+00:00",
+    "last_verified": "2026-09-09T15:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8531,12 +8531,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 122,
-      "survival_probability_pct": 23.2,
+      "survival_probability_pct": 22.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8585,7 +8585,7 @@ const LIVE = [
     "fingerprint": "e9e31f68f8f3f8f0",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:27:50.002442+00:00",
+    "last_verified": "2026-09-09T11:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8595,12 +8595,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 370,
-      "survival_probability_pct": 14.2,
+      "survival_probability_pct": 14.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8649,7 +8649,7 @@ const LIVE = [
     "fingerprint": "7fffa4dd6d309cea",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:15:50.002442+00:00",
+    "last_verified": "2026-09-09T12:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8659,12 +8659,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 322,
-      "survival_probability_pct": 17.5,
+      "survival_probability_pct": 17.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8677,7 +8677,7 @@ const LIVE = [
     "st": "kyodo",
     "corridor": "odakyu",
     "pocketId": "pk_kyodo",
-    "tier": "LIVE",
+    "tier": "FILLED",
     "srcName": "SUUMO / LIFULL",
     "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
@@ -8711,10 +8711,10 @@ const LIVE = [
       "ja": "経堂駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
     },
     "fingerprint": "50a01690686432fa",
-    "status": "LIVE",
+    "status": "FILLED",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:25:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T16:30:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:42:00.864524+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:48:48.801401+00:00",
@@ -8723,12 +8723,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 72,
-      "survival_probability_pct": 29.9,
+      "survival_probability_pct": 29.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8777,7 +8777,7 @@ const LIVE = [
     "fingerprint": "a9273bb6426d9fa7",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:58:50.002442+00:00",
+    "last_verified": "2026-09-09T14:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8787,12 +8787,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 219,
-      "survival_probability_pct": 29.1,
+      "survival_probability_pct": 28.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8841,7 +8841,7 @@ const LIVE = [
     "fingerprint": "80efa407b3c51a06",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:33:50.002442+00:00",
+    "last_verified": "2026-09-09T09:38:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8851,12 +8851,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 484,
-      "survival_probability_pct": 33.8,
+      "survival_probability_pct": 33.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8905,7 +8905,7 @@ const LIVE = [
     "fingerprint": "7d160895afbfef90",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:23:50.002442+00:00",
+    "last_verified": "2026-09-09T15:28:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8915,12 +8915,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 134,
-      "survival_probability_pct": 13.6,
+      "survival_probability_pct": 13.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -8969,7 +8969,7 @@ const LIVE = [
     "fingerprint": "9a2387f2489e4c2d",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:24:50.002442+00:00",
+    "last_verified": "2026-09-09T10:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8979,12 +8979,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.2,
+      "days_on_market": 12.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 433,
-      "survival_probability_pct": 37.4,
+      "survival_probability_pct": 37.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9033,7 +9033,7 @@ const LIVE = [
     "fingerprint": "45a8f4f149d334f9",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:07:50.002442+00:00",
+    "last_verified": "2026-09-09T14:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9043,12 +9043,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 210,
-      "survival_probability_pct": 26.8,
+      "survival_probability_pct": 26.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9097,7 +9097,7 @@ const LIVE = [
     "fingerprint": "228218406d254286",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:09:50.002442+00:00",
+    "last_verified": "2026-09-09T14:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9107,12 +9107,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 208,
-      "survival_probability_pct": 46.6,
+      "survival_probability_pct": 46.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9161,7 +9161,7 @@ const LIVE = [
     "fingerprint": "3a1dae15499df668",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:42:50.002442+00:00",
+    "last_verified": "2026-09-09T09:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9171,12 +9171,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.2,
+      "days_on_market": 25.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 475,
-      "survival_probability_pct": 27.7,
+      "survival_probability_pct": 27.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9225,7 +9225,7 @@ const LIVE = [
     "fingerprint": "be219935aa5ae1ad",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:28:50.002442+00:00",
+    "last_verified": "2026-09-09T16:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9235,12 +9235,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 69,
-      "survival_probability_pct": 38.5,
+      "survival_probability_pct": 38.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9289,7 +9289,7 @@ const LIVE = [
     "fingerprint": "56b807e98111c894",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:47:50.002442+00:00",
+    "last_verified": "2026-09-09T15:52:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9299,12 +9299,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 110,
-      "survival_probability_pct": 36.6,
+      "survival_probability_pct": 36.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9353,7 +9353,7 @@ const LIVE = [
     "fingerprint": "94eb69384625a18a",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:36:50.002442+00:00",
+    "last_verified": "2026-09-09T16:41:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9363,12 +9363,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 61,
-      "survival_probability_pct": 77.3,
+      "survival_probability_pct": 76.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9417,7 +9417,7 @@ const LIVE = [
     "fingerprint": "199024ec8da2d940",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:37:50.002442+00:00",
+    "last_verified": "2026-09-09T14:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9427,12 +9427,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 180,
-      "survival_probability_pct": 37.7,
+      "survival_probability_pct": 37.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9481,7 +9481,7 @@ const LIVE = [
     "fingerprint": "31d00422f7f93ee1",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:03:50.002442+00:00",
+    "last_verified": "2026-09-09T14:08:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9491,12 +9491,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 214,
-      "survival_probability_pct": 33.8,
+      "survival_probability_pct": 33.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9545,7 +9545,7 @@ const LIVE = [
     "fingerprint": "d0a86fdc1f726ffd",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:24:50.002442+00:00",
+    "last_verified": "2026-09-09T13:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9555,12 +9555,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.2,
+      "days_on_market": 7.3,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 253,
-      "survival_probability_pct": 71.9,
+      "survival_probability_pct": 71.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9609,7 +9609,7 @@ const LIVE = [
     "fingerprint": "6bb2cd856b9bed2d",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:34:50.002442+00:00",
+    "last_verified": "2026-09-09T15:39:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9619,12 +9619,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 40.1,
+      "survival_probability_pct": 39.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9673,7 +9673,7 @@ const LIVE = [
     "fingerprint": "3f9755089c115b4a",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:58:50.002442+00:00",
+    "last_verified": "2026-09-09T15:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9683,12 +9683,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 159,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9737,7 +9737,7 @@ const LIVE = [
     "fingerprint": "9ce48a0a5d118792",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:06:50.002442+00:00",
+    "last_verified": "2026-09-09T15:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9747,12 +9747,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 151,
-      "survival_probability_pct": 29.4,
+      "survival_probability_pct": 29.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9801,7 +9801,7 @@ const LIVE = [
     "fingerprint": "0b16aa53e04e7f7c",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:02:50.002442+00:00",
+    "last_verified": "2026-09-09T12:07:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9811,12 +9811,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.2,
+      "days_on_market": 27.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 335,
-      "survival_probability_pct": 15.5,
+      "survival_probability_pct": 15.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9829,7 +9829,7 @@ const LIVE = [
     "st": "minamishinjuku",
     "corridor": "odakyu",
     "pocketId": "pk_shinjuku_gyoen",
-    "tier": "LIVE",
+    "tier": "FILLED",
     "srcName": "SUUMO / LIFULL",
     "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
@@ -9863,10 +9863,10 @@ const LIVE = [
       "ja": "南新宿駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
     },
     "fingerprint": "92bfd4b7a784d1c6",
-    "status": "LIVE",
+    "status": "FILLED",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:38:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T12:43:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:42:35.124765+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:48:48.801401+00:00",
@@ -9875,12 +9875,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.2,
+      "days_on_market": 12.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 299,
-      "survival_probability_pct": 48.2,
+      "survival_probability_pct": 47.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9929,7 +9929,7 @@ const LIVE = [
     "fingerprint": "4e77ccb98f5ac773",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:53:50.002442+00:00",
+    "last_verified": "2026-09-09T15:58:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9939,12 +9939,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.2,
+      "days_on_market": 2.3,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 104,
-      "survival_probability_pct": 90.4,
+      "survival_probability_pct": 89.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -9993,7 +9993,7 @@ const LIVE = [
     "fingerprint": "087e13427f48c997",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:30:50.002442+00:00",
+    "last_verified": "2026-09-09T14:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10003,12 +10003,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 187,
-      "survival_probability_pct": 95.0,
+      "survival_probability_pct": 94.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10057,7 +10057,7 @@ const LIVE = [
     "fingerprint": "c1cb244762be8f87",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:07:50.002442+00:00",
+    "last_verified": "2026-09-09T14:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10067,12 +10067,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.2,
+      "days_on_market": 16.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 210,
-      "survival_probability_pct": 29.1,
+      "survival_probability_pct": 28.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10121,7 +10121,7 @@ const LIVE = [
     "fingerprint": "78d82df0a8aa99c2",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:36:50.002442+00:00",
+    "last_verified": "2026-09-09T14:41:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10131,12 +10131,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 181,
-      "survival_probability_pct": 65.8,
+      "survival_probability_pct": 65.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10185,7 +10185,7 @@ const LIVE = [
     "fingerprint": "18b545504845a7db",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:32:50.002442+00:00",
+    "last_verified": "2026-09-09T10:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10195,12 +10195,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.2,
+      "days_on_market": 5.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 425,
-      "survival_probability_pct": 70.0,
+      "survival_probability_pct": 69.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10249,7 +10249,7 @@ const LIVE = [
     "fingerprint": "6d8cd06f8ad22dbc",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:27:50.002442+00:00",
+    "last_verified": "2026-09-09T11:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10259,12 +10259,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.2,
+      "days_on_market": 8.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 370,
-      "survival_probability_pct": 61.3,
+      "survival_probability_pct": 60.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10313,7 +10313,7 @@ const LIVE = [
     "fingerprint": "783a0b24e280ae6a",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:15:50.002442+00:00",
+    "last_verified": "2026-09-09T10:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10323,12 +10323,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 442,
-      "survival_probability_pct": 48.5,
+      "survival_probability_pct": 48.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10377,7 +10377,7 @@ const LIVE = [
     "fingerprint": "d909751afacd84cd",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:54:50.002442+00:00",
+    "last_verified": "2026-09-09T14:59:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10387,12 +10387,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 163,
-      "survival_probability_pct": 55.5,
+      "survival_probability_pct": 55.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10441,7 +10441,7 @@ const LIVE = [
     "fingerprint": "38d31d08410b785c",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:50:50.002442+00:00",
+    "last_verified": "2026-09-09T15:55:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10451,12 +10451,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 107,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10505,7 +10505,7 @@ const LIVE = [
     "fingerprint": "3e20873f7894b2d6",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:55:50.002442+00:00",
+    "last_verified": "2026-09-09T13:00:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10515,12 +10515,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 282,
-      "survival_probability_pct": 21.3,
+      "survival_probability_pct": 21.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10569,7 +10569,7 @@ const LIVE = [
     "fingerprint": "5750d357296c787b",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:32:50.002442+00:00",
+    "last_verified": "2026-09-09T11:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10579,12 +10579,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.2,
+      "days_on_market": 21.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 365,
-      "survival_probability_pct": 23.3,
+      "survival_probability_pct": 23.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10633,7 +10633,7 @@ const LIVE = [
     "fingerprint": "5a01182e390dad4c",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:19:50.002442+00:00",
+    "last_verified": "2026-09-09T10:24:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10643,12 +10643,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.2,
+      "days_on_market": 12.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 438,
-      "survival_probability_pct": 48.2,
+      "survival_probability_pct": 47.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10697,7 +10697,7 @@ const LIVE = [
     "fingerprint": "698436e6913d60e5",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:54:50.002442+00:00",
+    "last_verified": "2026-09-09T15:59:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10707,12 +10707,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 59.5,
+      "survival_probability_pct": 59.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10761,7 +10761,7 @@ const LIVE = [
     "fingerprint": "c8c17c1f1ba3db12",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:51:50.002442+00:00",
+    "last_verified": "2026-09-09T11:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10771,12 +10771,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.2,
+      "days_on_market": 4.3,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 346,
-      "survival_probability_pct": 85.0,
+      "survival_probability_pct": 84.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10825,7 +10825,7 @@ const LIVE = [
     "fingerprint": "1cc426b65a444c1a",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:43:50.002442+00:00",
+    "last_verified": "2026-09-09T14:48:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10835,12 +10835,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 174,
-      "survival_probability_pct": 92.1,
+      "survival_probability_pct": 91.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10889,7 +10889,7 @@ const LIVE = [
     "fingerprint": "71f4ae1dfb891b31",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:37:50.002442+00:00",
+    "last_verified": "2026-09-09T13:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10899,12 +10899,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.2,
+      "days_on_market": 11.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 240,
-      "survival_probability_pct": 40.5,
+      "survival_probability_pct": 40.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -10953,7 +10953,7 @@ const LIVE = [
     "fingerprint": "331989c0ed4ce268",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:30:50.002442+00:00",
+    "last_verified": "2026-09-09T15:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10963,12 +10963,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 127,
-      "survival_probability_pct": 28.7,
+      "survival_probability_pct": 28.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11017,7 +11017,7 @@ const LIVE = [
     "fingerprint": "c1282bd40dad8439",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:05:50.002442+00:00",
+    "last_verified": "2026-09-09T11:10:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11027,12 +11027,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 392,
-      "survival_probability_pct": 25.0,
+      "survival_probability_pct": 24.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11081,7 +11081,7 @@ const LIVE = [
     "fingerprint": "2914a5a7e895540b",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:35:50.002442+00:00",
+    "last_verified": "2026-09-09T16:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11091,12 +11091,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 62,
-      "survival_probability_pct": 23.8,
+      "survival_probability_pct": 23.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11145,7 +11145,7 @@ const LIVE = [
     "fingerprint": "927dbb98e325f381",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:28:50.002442+00:00",
+    "last_verified": "2026-09-09T09:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11155,12 +11155,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 489,
-      "survival_probability_pct": 35.3,
+      "survival_probability_pct": 35.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11209,7 +11209,7 @@ const LIVE = [
     "fingerprint": "7f85436f20e6b3d2",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T07:32:50.002442+00:00",
+    "last_verified": "2026-09-09T10:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11219,12 +11219,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 425,
-      "survival_probability_pct": 37.7,
+      "survival_probability_pct": 37.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11273,7 +11273,7 @@ const LIVE = [
     "fingerprint": "bdd7e3058e5d694d",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:22:50.002442+00:00",
+    "last_verified": "2026-09-09T16:27:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11283,12 +11283,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 75,
-      "survival_probability_pct": 31.8,
+      "survival_probability_pct": 31.5,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11337,7 +11337,7 @@ const LIVE = [
     "fingerprint": "41468c9e726e9191",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:40:50.002442+00:00",
+    "last_verified": "2026-09-09T09:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11347,12 +11347,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.2,
+      "days_on_market": 13.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 477,
-      "survival_probability_pct": 40.4,
+      "survival_probability_pct": 40.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11401,7 +11401,7 @@ const LIVE = [
     "fingerprint": "39efb7a0e3a93ce9",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:32:50.002442+00:00",
+    "last_verified": "2026-09-09T12:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11411,12 +11411,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 305,
-      "survival_probability_pct": 20.9,
+      "survival_probability_pct": 20.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11465,7 +11465,7 @@ const LIVE = [
     "fingerprint": "b7488628c730a8f5",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:00:50.002442+00:00",
+    "last_verified": "2026-09-09T16:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11475,12 +11475,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 97,
-      "survival_probability_pct": 26.3,
+      "survival_probability_pct": 26.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11529,7 +11529,7 @@ const LIVE = [
     "fingerprint": "b15da5bce02ae322",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:28:50.002442+00:00",
+    "last_verified": "2026-09-09T09:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11539,12 +11539,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 489,
-      "survival_probability_pct": 38.5,
+      "survival_probability_pct": 38.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11593,7 +11593,7 @@ const LIVE = [
     "fingerprint": "5ab7b783d9e2db68",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:21:50.002442+00:00",
+    "last_verified": "2026-09-09T16:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11603,12 +11603,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.2,
+      "days_on_market": 20.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 76,
-      "survival_probability_pct": 21.5,
+      "survival_probability_pct": 21.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11657,7 +11657,7 @@ const LIVE = [
     "fingerprint": "0b58b49a546c7f58",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:27:50.002442+00:00",
+    "last_verified": "2026-09-09T13:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11667,12 +11667,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 250,
-      "survival_probability_pct": 12.8,
+      "survival_probability_pct": 12.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11721,7 +11721,7 @@ const LIVE = [
     "fingerprint": "3fd733a8a4529fba",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:09:50.002442+00:00",
+    "last_verified": "2026-09-09T17:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11731,12 +11731,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 80.3,
+      "survival_probability_pct": 79.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11785,7 +11785,7 @@ const LIVE = [
     "fingerprint": "d581eefffd693f2d",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:50:50.002442+00:00",
+    "last_verified": "2026-09-09T15:55:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11795,12 +11795,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.2,
+      "days_on_market": 1.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 107,
-      "survival_probability_pct": 93.1,
+      "survival_probability_pct": 92.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11849,7 +11849,7 @@ const LIVE = [
     "fingerprint": "c12de6d37b0d7676",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T06:58:50.002442+00:00",
+    "last_verified": "2026-09-09T10:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11859,12 +11859,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.2,
+      "days_on_market": 26.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 459,
-      "survival_probability_pct": 26.3,
+      "survival_probability_pct": 26.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11913,7 +11913,7 @@ const LIVE = [
     "fingerprint": "64c71e475b72c084",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:58:50.002442+00:00",
+    "last_verified": "2026-09-09T14:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11923,12 +11923,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 219,
-      "survival_probability_pct": 36.8,
+      "survival_probability_pct": 36.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -11977,7 +11977,7 @@ const LIVE = [
     "fingerprint": "5d85c72d0e518ad9",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:57:50.002442+00:00",
+    "last_verified": "2026-09-09T13:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11987,12 +11987,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.2,
+      "days_on_market": 23.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 280,
-      "survival_probability_pct": 17.1,
+      "survival_probability_pct": 16.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12041,7 +12041,7 @@ const LIVE = [
     "fingerprint": "835a3a3692464c56",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:50:50.002442+00:00",
+    "last_verified": "2026-09-09T13:55:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12051,12 +12051,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.2,
+      "days_on_market": 3.3,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 227,
-      "survival_probability_pct": 79.2,
+      "survival_probability_pct": 78.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12105,7 +12105,7 @@ const LIVE = [
     "fingerprint": "7fc95e35ac414501",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:38:50.002442+00:00",
+    "last_verified": "2026-09-09T11:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12115,12 +12115,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.2,
+      "days_on_market": 10.3,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 359,
-      "survival_probability_pct": 53.2,
+      "survival_probability_pct": 52.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12169,7 +12169,7 @@ const LIVE = [
     "fingerprint": "aa0d720f2f9feeb3",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:53:50.002442+00:00",
+    "last_verified": "2026-09-09T14:58:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12179,12 +12179,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.2,
+      "days_on_market": 18.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 164,
-      "survival_probability_pct": 33.7,
+      "survival_probability_pct": 33.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12233,7 +12233,7 @@ const LIVE = [
     "fingerprint": "391f29b19a8a0a49",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:07:50.002442+00:00",
+    "last_verified": "2026-09-09T15:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12243,12 +12243,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.2,
+      "days_on_market": 28.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 150,
-      "survival_probability_pct": 23.8,
+      "survival_probability_pct": 23.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12297,7 +12297,7 @@ const LIVE = [
     "fingerprint": "3dfb02cd9e36c01f",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:22:50.002442+00:00",
+    "last_verified": "2026-09-09T12:27:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12307,12 +12307,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.2,
+      "days_on_market": 22.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 315,
-      "survival_probability_pct": 38.5,
+      "survival_probability_pct": 38.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12361,7 +12361,7 @@ const LIVE = [
     "fingerprint": "fdf1d1c549ef1514",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:31:50.002442+00:00",
+    "last_verified": "2026-09-09T14:36:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12371,12 +12371,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.2,
+      "days_on_market": 24.3,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 186,
-      "survival_probability_pct": 15.8,
+      "survival_probability_pct": 15.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12425,7 +12425,7 @@ const LIVE = [
     "fingerprint": "8653e1b3646ec04b",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:57:50.002442+00:00",
+    "last_verified": "2026-09-09T12:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12435,12 +12435,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.2,
+      "days_on_market": 15.3,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 340,
-      "survival_probability_pct": 29.4,
+      "survival_probability_pct": 29.1,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12489,7 +12489,7 @@ const LIVE = [
     "fingerprint": "3dcfaca5cd8aee62",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:40:50.002442+00:00",
+    "last_verified": "2026-09-09T13:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12499,12 +12499,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.2,
+      "days_on_market": 19.3,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 237,
-      "survival_probability_pct": 30.5,
+      "survival_probability_pct": 30.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12553,7 +12553,7 @@ const LIVE = [
     "fingerprint": "c051f30d59c90eae",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:10:50.002442+00:00",
+    "last_verified": "2026-09-09T12:15:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12563,12 +12563,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.2,
+      "days_on_market": 8.3,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 327,
-      "survival_probability_pct": 61.3,
+      "survival_probability_pct": 60.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12617,7 +12617,7 @@ const LIVE = [
     "fingerprint": "1557be08e9c09fe1",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:59:50.002442+00:00",
+    "last_verified": "2026-09-09T13:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12627,12 +12627,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.2,
+      "days_on_market": 12.3,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 278,
-      "survival_probability_pct": 53.7,
+      "survival_probability_pct": 53.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12681,7 +12681,7 @@ const LIVE = [
     "fingerprint": "9be2e56b1ea08343",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T08:32:50.002442+00:00",
+    "last_verified": "2026-09-09T11:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12691,12 +12691,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.2,
+      "days_on_market": 14.3,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 365,
-      "survival_probability_pct": 54.3,
+      "survival_probability_pct": 54.0,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12746,7 +12746,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:02:50.002442+00:00",
+    "last_verified": "2026-09-09T10:07:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12756,12 +12756,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 455,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12811,7 +12811,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:37:50.002442+00:00",
+    "last_verified": "2026-09-09T09:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12821,12 +12821,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 480,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12876,7 +12876,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:22:50.002442+00:00",
+    "last_verified": "2026-09-09T14:27:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12886,12 +12886,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 195,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -12941,7 +12941,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:50:50.002442+00:00",
+    "last_verified": "2026-09-09T16:55:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12951,12 +12951,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 47,
-      "survival_probability_pct": 96.5,
+      "survival_probability_pct": 95.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13006,7 +13006,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:20:50.002442+00:00",
+    "last_verified": "2026-09-09T17:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13016,12 +13016,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 17,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13071,7 +13071,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:42:50.002442+00:00",
+    "last_verified": "2026-09-09T14:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13081,12 +13081,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13136,7 +13136,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:38:50.002442+00:00",
+    "last_verified": "2026-09-09T09:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13146,12 +13146,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 479,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13201,7 +13201,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:13:50.002442+00:00",
+    "last_verified": "2026-09-09T14:18:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13211,12 +13211,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 204,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13266,7 +13266,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:52:50.002442+00:00",
+    "last_verified": "2026-09-09T14:57:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13276,12 +13276,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 165,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13331,7 +13331,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:05:50.002442+00:00",
+    "last_verified": "2026-09-09T17:10:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13341,12 +13341,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 32,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13396,7 +13396,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:24:50.002442+00:00",
+    "last_verified": "2026-09-09T14:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13406,12 +13406,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 193,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13461,7 +13461,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:48:50.002442+00:00",
+    "last_verified": "2026-09-09T14:53:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13471,12 +13471,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 169,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13526,7 +13526,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:25:50.002442+00:00",
+    "last_verified": "2026-09-09T11:30:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13536,12 +13536,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 372,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13591,7 +13591,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:55:50.002442+00:00",
+    "last_verified": "2026-09-09T15:00:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13601,12 +13601,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 162,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13656,7 +13656,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:47:50.002442+00:00",
+    "last_verified": "2026-09-09T16:52:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13666,12 +13666,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 50,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13721,7 +13721,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:25:50.002442+00:00",
+    "last_verified": "2026-09-09T12:30:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13731,12 +13731,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 312,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13786,7 +13786,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:42:50.002442+00:00",
+    "last_verified": "2026-09-09T11:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13796,12 +13796,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 355,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13851,7 +13851,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:08:50.002442+00:00",
+    "last_verified": "2026-09-09T11:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13861,12 +13861,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 389,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13916,7 +13916,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:06:50.002442+00:00",
+    "last_verified": "2026-09-09T14:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13926,12 +13926,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 211,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -13981,7 +13981,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:39:50.002442+00:00",
+    "last_verified": "2026-09-09T10:44:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13991,12 +13991,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 418,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14046,7 +14046,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:19:50.002442+00:00",
+    "last_verified": "2026-09-09T14:24:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14056,12 +14056,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 198,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14108,11 +14108,11 @@ const LIVE = [
       "ja": "百合ヶ丘駅徒歩8分 · 所在地実地確認済みの実在募集物件"
     },
     "fingerprint": "920a6c63d084e523",
-    "status": "LIVE",
-    "tier": "LIVE",
+    "status": "FILLED",
+    "tier": "FILLED",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:42:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:41:59.562571+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:59:00.561404+00:00",
@@ -14121,12 +14121,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14176,7 +14176,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:31:50.002442+00:00",
+    "last_verified": "2026-09-09T13:36:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14186,12 +14186,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 246,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14241,7 +14241,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:46:50.002442+00:00",
+    "last_verified": "2026-09-09T12:51:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14251,12 +14251,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 291,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14306,7 +14306,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:51:50.002442+00:00",
+    "last_verified": "2026-09-09T13:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14316,12 +14316,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 226,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14371,7 +14371,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:30:50.002442+00:00",
+    "last_verified": "2026-09-09T16:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14381,12 +14381,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 67,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14436,7 +14436,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:43:50.002442+00:00",
+    "last_verified": "2026-09-09T12:48:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14446,12 +14446,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 294,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14501,7 +14501,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:46:50.002442+00:00",
+    "last_verified": "2026-09-09T13:51:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14511,12 +14511,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 231,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14566,7 +14566,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:21:50.002442+00:00",
+    "last_verified": "2026-09-09T17:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14576,12 +14576,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 16,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14631,7 +14631,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:21:50.002442+00:00",
+    "last_verified": "2026-09-09T13:26:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14641,12 +14641,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 256,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14696,7 +14696,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:01:50.002442+00:00",
+    "last_verified": "2026-09-09T14:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14706,12 +14706,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 216,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14761,7 +14761,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:25:50.002442+00:00",
+    "last_verified": "2026-09-09T14:30:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14771,12 +14771,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 192,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14826,7 +14826,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:23:50.002442+00:00",
+    "last_verified": "2026-09-09T10:28:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14836,12 +14836,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 434,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14891,7 +14891,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:24:50.002442+00:00",
+    "last_verified": "2026-09-09T10:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14901,12 +14901,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 433,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -14956,7 +14956,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:04:50.002442+00:00",
+    "last_verified": "2026-09-09T13:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14966,12 +14966,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15021,7 +15021,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:06:50.002442+00:00",
+    "last_verified": "2026-09-09T11:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15031,12 +15031,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 391,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15086,7 +15086,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:44:50.002442+00:00",
+    "last_verified": "2026-09-09T15:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15096,12 +15096,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 113,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15151,7 +15151,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:40:50.002442+00:00",
+    "last_verified": "2026-09-09T16:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15161,12 +15161,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 57,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15216,7 +15216,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:39:50.002442+00:00",
+    "last_verified": "2026-09-09T14:44:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15226,12 +15226,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 178,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15281,7 +15281,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:44:50.002442+00:00",
+    "last_verified": "2026-09-09T13:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15291,12 +15291,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 233,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15346,7 +15346,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:06:50.002442+00:00",
+    "last_verified": "2026-09-09T16:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15356,12 +15356,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 91,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15411,7 +15411,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:08:50.002442+00:00",
+    "last_verified": "2026-09-09T10:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15421,12 +15421,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 449,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15476,7 +15476,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:44:50.002442+00:00",
+    "last_verified": "2026-09-09T15:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15486,12 +15486,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 113,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15541,7 +15541,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:20:50.002442+00:00",
+    "last_verified": "2026-09-09T11:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15551,12 +15551,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 377,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15606,7 +15606,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:42:50.002442+00:00",
+    "last_verified": "2026-09-09T16:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15616,12 +15616,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 55,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15671,7 +15671,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:12:50.002442+00:00",
+    "last_verified": "2026-09-09T10:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15681,12 +15681,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 445,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15736,7 +15736,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:47:50.002442+00:00",
+    "last_verified": "2026-09-09T10:52:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15746,12 +15746,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 410,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15801,7 +15801,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:33:50.002442+00:00",
+    "last_verified": "2026-09-09T14:38:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15811,12 +15811,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 184,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15866,7 +15866,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:35:50.002442+00:00",
+    "last_verified": "2026-09-09T16:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15876,12 +15876,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 62,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15931,7 +15931,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:24:50.002442+00:00",
+    "last_verified": "2026-09-09T12:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15941,12 +15941,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 313,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -15996,7 +15996,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:06:50.002442+00:00",
+    "last_verified": "2026-09-09T10:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16006,12 +16006,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 451,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16061,7 +16061,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:59:50.002442+00:00",
+    "last_verified": "2026-09-09T12:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16071,12 +16071,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 338,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16126,7 +16126,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:31:50.002442+00:00",
+    "last_verified": "2026-09-09T13:36:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16136,12 +16136,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 246,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16191,7 +16191,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:28:50.002442+00:00",
+    "last_verified": "2026-09-09T09:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16201,12 +16201,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 489,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16256,7 +16256,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:24:50.002442+00:00",
+    "last_verified": "2026-09-09T10:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16266,12 +16266,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 433,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16321,7 +16321,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:48:50.002442+00:00",
+    "last_verified": "2026-09-09T15:53:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16331,12 +16331,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 109,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16386,7 +16386,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:38:50.002442+00:00",
+    "last_verified": "2026-09-09T13:43:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16396,12 +16396,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 239,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16451,7 +16451,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:24:50.002442+00:00",
+    "last_verified": "2026-09-09T13:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16461,12 +16461,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 253,
-      "survival_probability_pct": 96.5,
+      "survival_probability_pct": 95.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16516,7 +16516,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:24:50.002442+00:00",
+    "last_verified": "2026-09-09T12:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16526,12 +16526,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 313,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16581,7 +16581,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:14:50.002442+00:00",
+    "last_verified": "2026-09-09T17:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16591,12 +16591,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 23,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16646,7 +16646,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:44:50.002442+00:00",
+    "last_verified": "2026-09-09T14:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16656,12 +16656,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 173,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16711,7 +16711,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:54:50.002442+00:00",
+    "last_verified": "2026-09-09T12:59:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16721,12 +16721,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 283,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16776,7 +16776,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:46:50.002442+00:00",
+    "last_verified": "2026-09-09T09:51:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16786,12 +16786,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 471,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16841,7 +16841,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:58:50.002442+00:00",
+    "last_verified": "2026-09-09T11:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16851,12 +16851,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 399,
-      "survival_probability_pct": 96.5,
+      "survival_probability_pct": 95.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16906,7 +16906,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:30:50.002442+00:00",
+    "last_verified": "2026-09-09T09:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16916,12 +16916,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 487,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -16971,7 +16971,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:00:50.002442+00:00",
+    "last_verified": "2026-09-09T10:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16981,12 +16981,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 457,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17036,7 +17036,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:39:50.002442+00:00",
+    "last_verified": "2026-09-09T11:44:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17046,12 +17046,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 358,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17101,7 +17101,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:09:50.002442+00:00",
+    "last_verified": "2026-09-09T10:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17111,12 +17111,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 448,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17166,7 +17166,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:34:50.002442+00:00",
+    "last_verified": "2026-09-09T15:39:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17176,12 +17176,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17231,7 +17231,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:29:50.002442+00:00",
+    "last_verified": "2026-09-09T14:34:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17241,12 +17241,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 188,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17296,7 +17296,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:07:50.002442+00:00",
+    "last_verified": "2026-09-09T15:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17306,12 +17306,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 150,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17358,11 +17358,11 @@ const LIVE = [
       "ja": "登戸駅徒歩10分 · 所在地実地確認済みの実在募集物件"
     },
     "fingerprint": "c2fbb94ec2401dd8",
-    "status": "LIVE",
-    "tier": "LIVE",
+    "status": "FILLED",
+    "tier": "FILLED",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:40:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:45:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:41:58.295949+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:59:00.561404+00:00",
@@ -17371,12 +17371,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 297,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17426,7 +17426,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:32:50.002442+00:00",
+    "last_verified": "2026-09-09T15:37:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17436,12 +17436,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 125,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17491,7 +17491,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:58:50.002442+00:00",
+    "last_verified": "2026-09-09T16:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17501,12 +17501,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 99,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17556,7 +17556,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:54:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17566,12 +17566,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 468,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17621,7 +17621,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:53:50.002442+00:00",
+    "last_verified": "2026-09-09T12:58:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17631,12 +17631,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 284,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17686,7 +17686,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:33:50.002442+00:00",
+    "last_verified": "2026-09-09T10:38:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17696,12 +17696,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 424,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17751,7 +17751,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:52:50.002442+00:00",
+    "last_verified": "2026-09-09T14:57:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17761,12 +17761,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 165,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17816,7 +17816,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:15:50.002442+00:00",
+    "last_verified": "2026-09-09T10:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17826,12 +17826,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 442,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17881,7 +17881,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:02:50.002442+00:00",
+    "last_verified": "2026-09-09T11:07:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17891,12 +17891,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 395,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -17946,7 +17946,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:59:50.002442+00:00",
+    "last_verified": "2026-09-09T13:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17956,12 +17956,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 278,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18008,11 +18008,11 @@ const LIVE = [
       "ja": "新宿駅徒歩4分 · 所在地実地確認済みの実在募集物件"
     },
     "fingerprint": "253087800cb579f0",
-    "status": "LIVE",
-    "tier": "LIVE",
+    "status": "FILLED",
+    "tier": "FILLED",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:22:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T17:27:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:42:27.502223+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:59:00.561404+00:00",
@@ -18021,12 +18021,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 15,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18076,7 +18076,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:07:50.002442+00:00",
+    "last_verified": "2026-09-09T16:12:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18086,12 +18086,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 90,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18141,7 +18141,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:41:50.002442+00:00",
+    "last_verified": "2026-09-09T10:46:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18151,12 +18151,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 416,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18206,7 +18206,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:09:50.002442+00:00",
+    "last_verified": "2026-09-09T13:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18216,12 +18216,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 268,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18271,7 +18271,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:27:50.002442+00:00",
+    "last_verified": "2026-09-09T10:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18281,12 +18281,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 430,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18336,7 +18336,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:51:50.002442+00:00",
+    "last_verified": "2026-09-09T10:56:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18346,12 +18346,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 406,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18401,7 +18401,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:02:50.002442+00:00",
+    "last_verified": "2026-09-09T12:07:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18411,12 +18411,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 335,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18466,7 +18466,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:56:50.002442+00:00",
+    "last_verified": "2026-09-09T12:01:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18476,12 +18476,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 341,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18531,7 +18531,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:41:50.002442+00:00",
+    "last_verified": "2026-09-09T10:46:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18541,12 +18541,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 416,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18596,7 +18596,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:00:50.002442+00:00",
+    "last_verified": "2026-09-09T11:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18606,12 +18606,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 397,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18661,7 +18661,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:18:50.002442+00:00",
+    "last_verified": "2026-09-09T16:23:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18671,12 +18671,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 79,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18726,7 +18726,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:18:50.002442+00:00",
+    "last_verified": "2026-09-09T14:23:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18736,12 +18736,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 199,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18791,7 +18791,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:50:50.002442+00:00",
+    "last_verified": "2026-09-09T15:55:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18801,12 +18801,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 107,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18856,7 +18856,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:03:50.002442+00:00",
+    "last_verified": "2026-09-09T13:08:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18866,12 +18866,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 274,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18921,7 +18921,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:42:50.002442+00:00",
+    "last_verified": "2026-09-09T11:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18931,12 +18931,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 355,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -18986,7 +18986,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:34:50.002442+00:00",
+    "last_verified": "2026-09-09T11:39:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18996,12 +18996,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 363,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19051,7 +19051,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:54:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19061,12 +19061,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 288,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19116,7 +19116,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:14:50.002442+00:00",
+    "last_verified": "2026-09-09T13:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19126,12 +19126,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 263,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19181,7 +19181,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:33:50.002442+00:00",
+    "last_verified": "2026-09-09T11:38:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19191,12 +19191,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 364,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19246,7 +19246,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:00:50.002442+00:00",
+    "last_verified": "2026-09-09T10:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19256,12 +19256,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 457,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19311,7 +19311,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:04:50.002442+00:00",
+    "last_verified": "2026-09-09T14:09:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19321,12 +19321,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 213,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19376,7 +19376,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:55:50.002442+00:00",
+    "last_verified": "2026-09-09T12:00:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19386,12 +19386,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 342,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19441,7 +19441,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:08:50.002442+00:00",
+    "last_verified": "2026-09-09T15:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19451,12 +19451,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 149,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19506,7 +19506,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:17:50.002442+00:00",
+    "last_verified": "2026-09-09T17:22:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19516,12 +19516,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 20,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19571,7 +19571,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:28:50.002442+00:00",
+    "last_verified": "2026-09-09T14:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19581,12 +19581,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 189,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19636,7 +19636,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:29:50.002442+00:00",
+    "last_verified": "2026-09-09T16:34:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19646,12 +19646,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 68,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19701,7 +19701,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:19:50.002442+00:00",
+    "last_verified": "2026-09-09T16:24:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19711,12 +19711,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 78,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19766,7 +19766,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:27:50.002442+00:00",
+    "last_verified": "2026-09-09T11:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19776,12 +19776,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 370,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19831,7 +19831,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:23:50.002442+00:00",
+    "last_verified": "2026-09-09T09:28:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19841,12 +19841,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 494,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19896,7 +19896,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:37:50.002442+00:00",
+    "last_verified": "2026-09-09T15:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19906,12 +19906,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 120,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -19961,7 +19961,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:09:50.002442+00:00",
+    "last_verified": "2026-09-09T15:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19971,12 +19971,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 148,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20026,7 +20026,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:20:50.002442+00:00",
+    "last_verified": "2026-09-09T17:25:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20036,12 +20036,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 17,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20091,7 +20091,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:57:50.002442+00:00",
+    "last_verified": "2026-09-09T14:02:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20101,12 +20101,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 220,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20156,7 +20156,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:31:50.002442+00:00",
+    "last_verified": "2026-09-09T14:36:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20166,12 +20166,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 186,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20221,7 +20221,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:26:50.002442+00:00",
+    "last_verified": "2026-09-09T15:31:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20231,12 +20231,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 131,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20286,7 +20286,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:16:50.002442+00:00",
+    "last_verified": "2026-09-09T13:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20296,12 +20296,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 261,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20351,7 +20351,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:14:50.002442+00:00",
+    "last_verified": "2026-09-09T16:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20361,12 +20361,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 83,
-      "survival_probability_pct": 96.5,
+      "survival_probability_pct": 95.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20416,7 +20416,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:08:50.002442+00:00",
+    "last_verified": "2026-09-09T13:13:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20426,12 +20426,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 269,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20481,7 +20481,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:14:50.002442+00:00",
+    "last_verified": "2026-09-09T11:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20491,12 +20491,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 383,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20546,7 +20546,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:59:50.002442+00:00",
+    "last_verified": "2026-09-09T16:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20556,12 +20556,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 98,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20611,7 +20611,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:59:50.002442+00:00",
+    "last_verified": "2026-09-09T14:04:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20621,12 +20621,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 218,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20676,7 +20676,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:15:50.002442+00:00",
+    "last_verified": "2026-09-09T13:20:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20686,12 +20686,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 262,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20741,7 +20741,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:16:50.002442+00:00",
+    "last_verified": "2026-09-09T16:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20751,12 +20751,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.5,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 81,
-      "survival_probability_pct": 96.5,
+      "survival_probability_pct": 95.6,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20806,7 +20806,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:40:50.002442+00:00",
+    "last_verified": "2026-09-09T16:45:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20816,12 +20816,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 57,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20871,7 +20871,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:00:50.002442+00:00",
+    "last_verified": "2026-09-09T11:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20881,12 +20881,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 397,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -20936,7 +20936,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:06:50.002442+00:00",
+    "last_verified": "2026-09-09T14:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20946,12 +20946,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 211,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21001,7 +21001,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:45:50.002442+00:00",
+    "last_verified": "2026-09-09T10:50:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21011,12 +21011,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 412,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21066,7 +21066,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:05:50.002442+00:00",
+    "last_verified": "2026-09-09T16:10:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21076,12 +21076,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 92,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21131,7 +21131,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:30:50.002442+00:00",
+    "last_verified": "2026-09-09T14:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21141,12 +21141,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 187,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21196,7 +21196,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:16:50.002442+00:00",
+    "last_verified": "2026-09-09T13:21:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21206,12 +21206,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.2,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 261,
-      "survival_probability_pct": 97.0,
+      "survival_probability_pct": 96.3,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21261,7 +21261,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:30:50.002442+00:00",
+    "last_verified": "2026-09-09T14:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21271,12 +21271,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 187,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21326,7 +21326,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:26:50.002442+00:00",
+    "last_verified": "2026-09-09T13:31:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21336,12 +21336,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 251,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21391,7 +21391,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:56:50.002442+00:00",
+    "last_verified": "2026-09-09T14:01:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21401,12 +21401,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 221,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21456,7 +21456,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:42:50.002442+00:00",
+    "last_verified": "2026-09-09T09:47:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21466,12 +21466,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 475,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21521,7 +21521,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:54:50.002442+00:00",
+    "last_verified": "2026-09-09T14:59:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21531,12 +21531,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 163,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21586,7 +21586,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:19:50.002442+00:00",
+    "last_verified": "2026-09-09T16:24:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21596,12 +21596,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 78,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21651,7 +21651,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:27:50.002442+00:00",
+    "last_verified": "2026-09-09T14:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21661,12 +21661,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 190,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21716,7 +21716,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:05:50.002442+00:00",
+    "last_verified": "2026-09-09T16:10:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21726,12 +21726,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 92,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21781,7 +21781,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:56:50.002442+00:00",
+    "last_verified": "2026-09-09T15:01:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21791,12 +21791,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 161,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21846,7 +21846,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:43:50.002442+00:00",
+    "last_verified": "2026-09-09T09:48:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21856,12 +21856,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 474,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21911,7 +21911,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:12:50.002442+00:00",
+    "last_verified": "2026-09-09T12:17:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21921,12 +21921,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 325,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -21973,11 +21973,11 @@ const LIVE = [
       "ja": "世田谷代田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
     },
     "fingerprint": "0cd2b9110ab3b27e",
-    "status": "LIVE",
-    "tier": "LIVE",
+    "status": "FILLED",
+    "tier": "FILLED",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:32:50.002442+00:00",
-    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:37:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:42:21.794242+00:00",
     "price_history": [
       {
         "date": "2026-09-09T02:59:00.561404+00:00",
@@ -21986,12 +21986,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 365,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22041,7 +22041,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:58:50.002442+00:00",
+    "last_verified": "2026-09-09T12:03:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22051,12 +22051,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 12.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 339,
-      "survival_probability_pct": 97.4,
+      "survival_probability_pct": 96.8,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22106,7 +22106,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:28:50.002442+00:00",
+    "last_verified": "2026-09-09T15:33:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22116,12 +22116,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 129,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22171,7 +22171,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:30:50.002442+00:00",
+    "last_verified": "2026-09-09T16:35:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22181,12 +22181,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 67,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22236,7 +22236,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:23:50.002442+00:00",
+    "last_verified": "2026-09-09T09:28:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22246,12 +22246,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 494,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22301,7 +22301,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T07:01:50.002442+00:00",
+    "last_verified": "2026-09-09T10:06:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22311,12 +22311,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 456,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22366,7 +22366,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:44:50.002442+00:00",
+    "last_verified": "2026-09-09T13:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22376,12 +22376,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 233,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22431,7 +22431,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:00:50.002442+00:00",
+    "last_verified": "2026-09-09T14:05:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22441,12 +22441,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 217,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22496,7 +22496,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:09:50.002442+00:00",
+    "last_verified": "2026-09-09T17:14:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22506,12 +22506,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 15.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 97.8,
+      "survival_probability_pct": 97.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22561,7 +22561,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:27:50.002442+00:00",
+    "last_verified": "2026-09-09T14:32:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22571,12 +22571,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 16.1,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 190,
-      "survival_probability_pct": 97.9,
+      "survival_probability_pct": 97.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22626,7 +22626,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:37:50.002442+00:00",
+    "last_verified": "2026-09-09T12:42:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22636,12 +22636,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 300,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22691,7 +22691,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:56:50.002442+00:00",
+    "last_verified": "2026-09-09T12:01:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22701,12 +22701,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 341,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22756,7 +22756,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:44:50.002442+00:00",
+    "last_verified": "2026-09-09T14:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22766,12 +22766,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 173,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22821,7 +22821,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:06:50.002442+00:00",
+    "last_verified": "2026-09-09T15:11:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22831,12 +22831,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 151,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22886,7 +22886,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T08:18:50.002442+00:00",
+    "last_verified": "2026-09-09T11:23:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22896,12 +22896,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 379,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -22951,7 +22951,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:35:50.002442+00:00",
+    "last_verified": "2026-09-09T13:40:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22961,12 +22961,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 242,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23016,7 +23016,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T06:24:50.002442+00:00",
+    "last_verified": "2026-09-09T09:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23026,12 +23026,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 9.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 493,
-      "survival_probability_pct": 96.4,
+      "survival_probability_pct": 95.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23081,7 +23081,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:18:50.002442+00:00",
+    "last_verified": "2026-09-09T16:23:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23091,12 +23091,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 8.6,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 79,
-      "survival_probability_pct": 96.2,
+      "survival_probability_pct": 95.2,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23146,7 +23146,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:44:50.002442+00:00",
+    "last_verified": "2026-09-09T14:49:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23156,12 +23156,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 173,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23211,7 +23211,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:22:50.002442+00:00",
+    "last_verified": "2026-09-09T17:27:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23221,12 +23221,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 11.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 15,
-      "survival_probability_pct": 97.1,
+      "survival_probability_pct": 96.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23276,7 +23276,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:14:50.002442+00:00",
+    "last_verified": "2026-09-09T16:19:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23286,12 +23286,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 13.6,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 83,
-      "survival_probability_pct": 97.6,
+      "survival_probability_pct": 96.9,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23341,7 +23341,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:24:50.002442+00:00",
+    "last_verified": "2026-09-09T13:29:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23351,12 +23351,12 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 17.9,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 253,
-      "survival_probability_pct": 98.1,
+      "survival_probability_pct": 97.7,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   },
@@ -23406,7 +23406,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:47:50.002442+00:00",
+    "last_verified": "2026-09-09T14:52:35.535925+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23416,12 +23416,6837 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.5,
+      "days_on_market": 0.6,
       "expected_time_to_off_market_days": 10.1,
       "velocity_tier": "High Velocity",
       "velocity_icon": "⚡",
       "heartbeat_age_min": 170,
-      "survival_probability_pct": 96.7,
+      "survival_probability_pct": 95.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0366",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Yoyogi-Hachiman",
+      "ja": "パークアクシス代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE2-4%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目2-4",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "006c4d88cd967503",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:33:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 429,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0367",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Yoyogi-Uehara",
+      "ja": "プラウドフラット代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目3-5",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "26ba5a4e2a20a56e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:19:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 83,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0368",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Higashi-Kitazawa",
+      "ja": "グランコンシェルジュ東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE4-6%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目4-6",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b400970ceb4bb728",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:11:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 451,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0369",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Shimo-Kitazawa",
+      "ja": "コンフォリア下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目1-7",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e935b952143ba161",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T12:59:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 283,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0370",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Setagaya-Daita",
+      "ja": "リヴシティ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目2-8",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "10c980c39bce4d6d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T13:02:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 280,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0371",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Green Heights Umegaoka",
+      "ja": "グリーンハイツ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目3-9",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2ed8a25efe35387b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:17:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 85,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0372",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Brillia ist Gōtokuji",
+      "ja": "ブリリアイスト豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目4-10",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "979238356a971d99",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T09:59:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 463,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0373",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Branz Kyōdō",
+      "ja": "ブランズ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目1-11",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9612ac935b65bc08",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T11:52:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 350,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0374",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Castalia Chitose-Funabashi",
+      "ja": "カスタリア千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目2-12",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "86dde87e79664b1c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T11:33:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 369,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0375",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Lions Mansion Soshigaya-Ōkura",
+      "ja": "ライオンズマンション祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE3-13%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目3-13",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "703ad200fbed4a52",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T11:36:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 366,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0376",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Prime Court Seijōgakuen-mae",
+      "ja": "プライムコート成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE4-14%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目4-14",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1c16725aceca6c48",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:08:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 94,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0377",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Concieria Kitami",
+      "ja": "コンシェリア喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目1-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2db40f132f28d496",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:06:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 96,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0378",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Terrace Komae",
+      "ja": "テラス狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%86%E3%83%A9%E3%82%B9%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目2-16",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5077ede81bd2e0e9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T15:13:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 149,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0379",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Parkhabio Izumi-Tamagawa",
+      "ja": "パークハビオ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目3-17",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cf3cd5b6e049018b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T09:48:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 474,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0380",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Residia Noborito",
+      "ja": "レジディア登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-18%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸4-18",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "55fd3f8cdab63db8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T11:47:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 355,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0381",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "City Tower Mukōgaoka-Yūen",
+      "ja": "シティタワー向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸1-1",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c843c1d08ffd9a1b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T15:33:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 129,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0382",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Claridge Ikuta",
+      "ja": "クラリッジ生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE2-2%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目2-2",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd142163c361ddcb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T12:48:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 294,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0383",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Gala Grandee Yomiuriland-mae",
+      "ja": "ガーラグランディ読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目3-3",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ba9e8782efa7a753",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T12:02:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 340,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0384",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Maison Yurigaoka",
+      "ja": "メゾン百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%A1%E3%82%BE%E3%83%B3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目4-4",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "31d0918470430c22",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T13:48:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 234,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0385",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Villa Shin-Urigaoka",
+      "ja": "ヴィラ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目1-5",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b4f87d1a85bc210a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T11:47:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 355,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0386",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Kakio",
+      "ja": "パークアクシス柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE2-6%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目2-6",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5fd5a76a0fb458b0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:18:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 444,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0387",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Tsurukawa",
+      "ja": "プラウドフラット鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目3-7",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "84ba8bce03dcfc5b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T12:17:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 325,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0388",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Tamagawagakuen-mae",
+      "ja": "グランコンシェルジュ玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目4-8",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ee43e6b1df2e6cee",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:26:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 76,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0389",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Machida",
+      "ja": "コンフォリア町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目1-9",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "eb6266e62d12a7b1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T17:03:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 39,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0390",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Shinjuku",
+      "ja": "リヴシティ新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目2-10",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f1749f309c4bbcc1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T12:04:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 338,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0391",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Green Heights Minami-Shinjuku",
+      "ja": "グリーンハイツ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目3-11",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "529ba2512ff1b741",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T13:23:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 259,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0392",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Brillia ist Sangūbashi",
+      "ja": "ブリリアイスト参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE4-12%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目4-12",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "313e107bc8445910",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T16:08:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 94,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0393",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Branz Yoyogi-Hachiman",
+      "ja": "ブランズ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE1-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目1-13",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "27783aeb4a7d2c98",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:40:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 422,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0394",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Castalia Yoyogi-Uehara",
+      "ja": "カスタリア代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目2-14",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ca45936edb908d39",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:53:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 409,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0395",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Lions Mansion Higashi-Kitazawa",
+      "ja": "ライオンズマンション東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目3-15",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "aab428cdbf319186",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T13:30:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 252,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0396",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Prime Court Shimo-Kitazawa",
+      "ja": "プライムコート下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目4-16",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ed533e271c9e0277",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T17:22:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 20,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0397",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Concieria Setagaya-Daita",
+      "ja": "コンシェリア世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fbbe6ea7486ddcbb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T10:24:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 438,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0398",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Terrace Umegaoka",
+      "ja": "テラス梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%86%E3%83%A9%E3%82%B9%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目2-18",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "227669cbf1897dbf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T17:17:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 25,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0399",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Parkhabio Gōtokuji",
+      "ja": "パークハビオ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目3-1",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8c509f008744054b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T15:12:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 150,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0400",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Residia Kyōdō",
+      "ja": "レジディア経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目4-2",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c11816ef97fcac13",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:27:41.171939+00:00",
+    "last_verified": "2026-09-09T15:49:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:27:41.171939+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 113,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0401",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "City Tower Chitose-Funabashi",
+      "ja": "シティタワー千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目1-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c1442bfb4cefbea0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:16:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 326,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0402",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Claridge Soshigaya-Ōkura",
+      "ja": "クラリッジ祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE2-4%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目2-4",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "74ee197784ff86af",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T11:38:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 364,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0403",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Gala Grandee Seijōgakuen-mae",
+      "ja": "ガーラグランディ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE3-5%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目3-5",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0474c41f486232c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T09:31:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 491,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0404",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Maison Kitami",
+      "ja": "メゾン喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE4-6%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目4-6",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e980930c62689a99",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T15:29:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 133,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0405",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Villa Komae",
+      "ja": "ヴィラ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目1-7",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7b05e2c2a07162df",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:44:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 298,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0406",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Izumi-Tamagawa",
+      "ja": "パークアクシス和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目2-8",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d78d12196d587a8f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:43:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 299,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0407",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Noborito",
+      "ja": "プラウドフラット登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-9%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸3-9",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "082a292ec5f2fbe1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 123,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0408",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Mukōgaoka-Yūen",
+      "ja": "グランコンシェルジュ向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-10%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸4-10",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "005ab7d32558d473",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:39:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 63,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0409",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Ikuta",
+      "ja": "コンフォリア生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目1-11",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5f838dde76e1d972",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T10:02:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 460,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0410",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Yomiuriland-mae",
+      "ja": "リヴシティ読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE2-12%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目2-12",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e3a16de1f7ffef4c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:45:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 297,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0411",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Green Heights Yurigaoka",
+      "ja": "グリーンハイツ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-13%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目3-13",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "05d81045cc73bd11",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:03:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 279,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0412",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Brillia ist Shin-Urigaoka",
+      "ja": "ブリリアイスト新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目4-14",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "01db1b764d48fa5d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:17:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 265,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0413",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Branz Kakio",
+      "ja": "ブランズ柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE1-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目1-15",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "08769c2cdeb0e4e9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T17:09:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 33,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0414",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Castalia Tsurukawa",
+      "ja": "カスタリア鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目2-16",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "94bbb7c6c547fe0e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T10:27:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 435,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0415",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Lions Mansion Tamagawagakuen-mae",
+      "ja": "ライオンズマンション玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目3-17",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "774d0ea7bb81280c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:34:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 308,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0416",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Prime Court Machida",
+      "ja": "プライムコート町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE4-18%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目4-18",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3d64a2917e00fb3b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T17:27:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 15,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0417",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Concieria Shinjuku",
+      "ja": "コンシェリア新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目1-1",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8b4943c84096dcd0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:28:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 74,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0418",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Terrace Minami-Shinjuku",
+      "ja": "テラス南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%86%E3%83%A9%E3%82%B9%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目2-2",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0f8646d3c9841ffd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T10:14:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 448,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0419",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Parkhabio Sangūbashi",
+      "ja": "パークハビオ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE3-3%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目3-3",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6e4efee62c3f7f17",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T09:49:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 473,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0420",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Residia Yoyogi-Hachiman",
+      "ja": "レジディア代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE4-4%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目4-4",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e561d07078ab6f57",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T14:38:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 184,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0421",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "City Tower Yoyogi-Uehara",
+      "ja": "シティタワー代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目1-5",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7fd122a722a9fa9f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:45:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 57,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0422",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Claridge Higashi-Kitazawa",
+      "ja": "クラリッジ東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目2-6",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "52bbbd6f9f2cc3b7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:19:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 323,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0423",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Gala Grandee Shimo-Kitazawa",
+      "ja": "ガーラグランディ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目3-7",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3ba2f285ead764c8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T10:00:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 462,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0424",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Maison Setagaya-Daita",
+      "ja": "メゾン世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%A1%E3%82%BE%E3%83%B3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目4-8",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b6baa4c3db159502",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:38:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 244,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0425",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Villa Umegaoka",
+      "ja": "ヴィラ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目1-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "787f0fd8d304e47e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:00:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 282,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0426",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Gōtokuji",
+      "ja": "パークアクシス豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目2-10",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a250b3c47f862f93",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 123,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0427",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Kyōdō",
+      "ja": "プラウドフラット経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目3-11",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5ad67617729b01bc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T11:06:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 396,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0428",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Chitose-Funabashi",
+      "ja": "グランコンシェルジュ千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目4-12",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8a9bbd524893c890",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:30:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 252,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0429",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Soshigaya-Ōkura",
+      "ja": "コンフォリア祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目1-13",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a99ec62861fff17e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T14:11:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 211,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0430",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Seijōgakuen-mae",
+      "ja": "リヴシティ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE2-14%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目2-14",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "156ed8ce45a6ac10",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T14:22:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 200,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0431",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Green Heights Kitami",
+      "ja": "グリーンハイツ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE3-15%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目3-15",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2afc8cb1c224f798",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T11:16:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 386,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0432",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Brillia ist Komae",
+      "ja": "ブリリアイスト狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目4-16",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ba4c84b79085a329",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:09:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 273,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0433",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Branz Izumi-Tamagawa",
+      "ja": "ブランズ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目1-17",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9bf4eff7c3ec6a85",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T11:59:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 343,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0434",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Castalia Noborito",
+      "ja": "カスタリア登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-18%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸2-18",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7617266d55b806a4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:09:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 93,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0435",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Lions Mansion Mukōgaoka-Yūen",
+      "ja": "ライオンズマンション向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸3-1",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3e16a2216ecfc68b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T17:16:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 26,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0436",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Prime Court Ikuta",
+      "ja": "プライムコート生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE4-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目4-2",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8dabf3cd98591fad",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T15:53:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 109,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0437",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Concieria Yomiuriland-mae",
+      "ja": "コンシェリア読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE1-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目1-3",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e9ecf8c367a33388",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:28:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 74,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0438",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Terrace Yurigaoka",
+      "ja": "テラス百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%86%E3%83%A9%E3%82%B9%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目2-4",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fce9729c0175d4e8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:48:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 54,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0439",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Parkhabio Shin-Urigaoka",
+      "ja": "パークハビオ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目3-5",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b0d07ed03fcd793f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:21:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 261,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0440",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Residia Kakio",
+      "ja": "レジディア柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE4-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目4-6",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6b5650e21410e449",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:53:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 229,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0441",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "City Tower Tsurukawa",
+      "ja": "シティタワー鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目1-7",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5ca266d16bd66294",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:42:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 300,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0442",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Claridge Tamagawagakuen-mae",
+      "ja": "クラリッジ玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目2-8",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2ad90796edb02170",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T10:19:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 443,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0443",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Gala Grandee Machida",
+      "ja": "ガーラグランディ町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE3-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目3-9",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "789ab6dd879c02b6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:12:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 330,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0444",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Maison Shinjuku",
+      "ja": "メゾン新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目4-10",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "add5d1b783d7cc69",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T12:12:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 330,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0445",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Villa Minami-Shinjuku",
+      "ja": "ヴィラ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目1-11",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bf9962dbbe1ad349",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:54:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 48,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0446",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Sangūbashi",
+      "ja": "パークアクシス参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE2-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目2-12",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6a728dbfecc7f8ea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T16:49:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 53,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0447",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Yoyogi-Hachiman",
+      "ja": "プラウドフラット代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目3-13",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cb3acc2535f40864",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T17:24:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 18,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0448",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Yoyogi-Uehara",
+      "ja": "グランコンシェルジュ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目4-14",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6452d7c35ee5e0a8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T13:21:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 261,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0449",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Higashi-Kitazawa",
+      "ja": "コンフォリア東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目1-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f3d718f5d8485b44",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 175,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0450",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Shimo-Kitazawa",
+      "ja": "リヴシティ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目2-16",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e09f1068c410222f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:36:24.673248+00:00",
+    "last_verified": "2026-09-09T14:01:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:36:24.673248+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 221,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0451",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Green Heights Setagaya-Daita",
+      "ja": "グリーンハイツ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目3-17",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "efa404702cfec86f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T09:55:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 467,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0452",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Brillia ist Umegaoka",
+      "ja": "ブリリアイスト梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目4-18",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f22de82332bec73d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T11:45:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 357,
+      "survival_probability_pct": 99.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0453",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Branz Gōtokuji",
+      "ja": "ブランズ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目1-1",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ff9005d9743bb1eb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:20:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 442,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0454",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Castalia Kyōdō",
+      "ja": "カスタリア経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目2-2",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "64b3287cc82edeaa",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:53:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 409,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0455",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Lions Mansion Chitose-Funabashi",
+      "ja": "ライオンズマンション千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目3-3",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b5e434ecb367e3a8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:32:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 430,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0456",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Prime Court Soshigaya-Ōkura",
+      "ja": "プライムコート祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目4-4",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e179c6086179cbd4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:33:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 429,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0457",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Concieria Seijōgakuen-mae",
+      "ja": "コンシェリア成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目1-5",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e3c90df2dc0a744c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T14:28:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 194,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0458",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Terrace Kitami",
+      "ja": "テラス喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE2-6%20%E3%83%86%E3%83%A9%E3%82%B9%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目2-6",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "19bc0ee8401558af",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T15:35:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 127,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0459",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Parkhabio Komae",
+      "ja": "パークハビオ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目3-7",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "14f98eb63c318656",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:22:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 440,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0460",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Residia Izumi-Tamagawa",
+      "ja": "レジディア和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目4-8",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "03d18dc2ae2b4f50",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T16:04:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 98,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0461",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "City Tower Noborito",
+      "ja": "シティタワー登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸1-9",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "29f19bfee960cc6a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T10:04:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 458,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0462",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Claridge Mukōgaoka-Yūen",
+      "ja": "クラリッジ向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸2-10",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "316788340e2dd951",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T14:24:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 198,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0463",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Gala Grandee Ikuta",
+      "ja": "ガーラグランディ生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE3-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目3-11",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "06ac2db3330490f6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T11:04:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 398,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0464",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Maison Yomiuriland-mae",
+      "ja": "メゾン読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目4-12",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ae159adb6216619e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T12:46:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 296,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0465",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Villa Yurigaoka",
+      "ja": "ヴィラ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目1-13",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7823727b07cae34a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T14:36:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 186,
+      "survival_probability_pct": 99.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0466",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Park Axis Shin-Urigaoka",
+      "ja": "パークアクシス新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目2-14",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5baecad1b7165b77",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T16:38:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 64,
+      "survival_probability_pct": 99.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0467",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Proud Flat Kakio",
+      "ja": "プラウドフラット柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE3-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目3-15",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1380d7820bd23418",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T15:51:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 111,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0468",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Grand Concierge Tsurukawa",
+      "ja": "グランコンシェルジュ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目4-16",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ddf35d1dd83cbba0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T12:30:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 312,
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0469",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Comforia Tamagawagakuen-mae",
+      "ja": "コンフォリア玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9aa89d8044d5a929",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T11:50:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 352,
+      "survival_probability_pct": 99.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
+  },
+  {
+    "id": "od_5k_0470",
+    "corridor_prefix": "od_5k",
+    "name": {
+      "en": "Liv City Machida",
+      "ja": "リヴシティ町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE2-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目2-18",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "39fb1fb5a348677c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T17:37:50.017024+00:00",
+    "last_verified": "2026-09-09T12:22:35.535925+00:00",
+    "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T17:37:50.017024+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ],
+    "vitals": {
+      "days_on_market": 0.1,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 320,
+      "survival_probability_pct": 99.4,
       "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
     }
   }
