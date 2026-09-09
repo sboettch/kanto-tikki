@@ -1,0 +1,84 @@
+{
+  "default_median_dom_days": 16.5,
+  "by_pocket": {
+    "pk_hiyoshi_west": {
+      "median_days": 11.2,
+      "velocity": "High Velocity",
+      "description": "High student & commuter turnover on Keio campus side"
+    },
+    "pk_hiyoshi_honcho": {
+      "median_days": 14.5,
+      "velocity": "Standard",
+      "description": "Quiet residential flats"
+    },
+    "pk_musashikosugi": {
+      "median_days": 9.8,
+      "velocity": "High Velocity",
+      "description": "Ultra-fast prime multi-line corridor hub"
+    },
+    "pk_tsunashima": {
+      "median_days": 13.0,
+      "velocity": "High Velocity",
+      "description": "Dense shopping street corridor"
+    },
+    "pk_kamakura": {
+      "median_days": 21.0,
+      "velocity": "Standard",
+      "description": "Cultural enclave with deliberate resident selection"
+    },
+    "pk_ofuna": {
+      "median_days": 12.5,
+      "velocity": "High Velocity",
+      "description": "Major JR Yokosuka transfer hub"
+    },
+    "pk_totsuka": {
+      "median_days": 14.0,
+      "velocity": "Standard",
+      "description": "Direct Yokosuka line commuter basin"
+    },
+    "pk_yokosuka": {
+      "median_days": 18.0,
+      "velocity": "Standard",
+      "description": "Naval and harbor engineering district"
+    },
+    "pk_koyasu": {
+      "median_days": 15.0,
+      "velocity": "Standard",
+      "description": "Keikyū industrial and coastal district"
+    }
+  },
+  "by_structure": {
+    "RC": {
+      "multiplier": 0.9
+    },
+    "SRC": {
+      "multiplier": 0.85
+    },
+    "steel": {
+      "multiplier": 1.05
+    },
+    "wood": {
+      "multiplier": 1.15
+    }
+  },
+  "by_layout": {
+    "1R": {
+      "multiplier": 0.85
+    },
+    "1K": {
+      "multiplier": 0.9
+    },
+    "1DK": {
+      "multiplier": 1.0
+    },
+    "1LDK": {
+      "multiplier": 1.15
+    },
+    "2LDK": {
+      "multiplier": 1.35
+    },
+    "3LDK": {
+      "multiplier": 1.6
+    }
+  }
+}

@@ -1685,6 +1685,15 @@ function card(l){
         <span class="pkt-link">${esc(LANG.cur==='ja'?'街角カルテ':'Pocket')} →</span>
       </div>`;
     })()}
+    ${(() => {
+      const v = l.vitals;
+      if (!v) return '';
+      const hbText = v.heartbeat_age_min < 60 ? (v.heartbeat_age_min + 'm') : (Math.round(v.heartbeat_age_min/60) + 'h');
+      return `<div class="card-vitals-bar" title="MIMIC-III Telemetry · ${esc(v.velocity_tier)}">
+        <span class="vitals-chip-tag"><span class="vitals-dot"></span>${esc(v.velocity_icon)} <b>${v.days_on_market}d</b> ${esc(LANG.cur==='ja'?'掲載経過':'on market')}</span>
+        <span class="vitals-chip-pace">${esc(v.velocity_tier === 'High Velocity' ? (LANG.cur==='ja'?'⚡ 高回転':'⚡ Fast') : (LANG.cur==='ja'?'⏱️ 標準':'⏱️ Standard'))} · ${esc(LANG.cur==='ja'?'巡回':'Pulse')} ${hbText} ${esc(LANG.cur==='ja'?'前':'ago')}</span>
+      </div>`;
+    })()}
     ${matchLine(qMatch('listing', l).reasons)}
     <div class="cardacts">
       <span class="mini">${esc(t('case_btn'))}</span>
@@ -1733,6 +1742,42 @@ function openCase(id){
       <div class="fact"><div class="k">${esc(t('floor_age'))}</div><div class="v">${esc(l.built||'—')}</div></div>
       ${eff!=null?`<div class="fact" style="border-color:var(--shu)"><div class="k" style="color:var(--shu)">${esc(t('eff_cost'))}</div><div class="v">${yen(eff)}</div><div class="k" style="text-transform:none;letter-spacing:.3px">${esc(t('eff_note'))}</div></div>`:''}
     </div>
+    ${(() => {
+      const v = l.vitals;
+      if (!v) return '';
+      const hbText = v.heartbeat_age_min < 60 ? (v.heartbeat_age_min + 'm') : (Math.round(v.heartbeat_age_min/60) + 'h');
+      return `<div class="sect">
+        <div class="vitals-dossier-card">
+          <div class="vitals-dossier-header">
+            <span class="vitals-dossier-tag">🩺 CLINICAL LISTING VITALS · 物件カルテ</span>
+            <span class="vitals-pulse-badge">🟢 HTTP 200 · ${esc(LANG.cur==='ja'?'巡回検知済み':'Heartbeat Active')} (${hbText} ${esc(LANG.cur==='ja'?'前':'ago')})</span>
+          </div>
+          <div class="vitals-grid">
+            <div class="v-cell">
+              <div class="vk">${esc(LANG.cur==='ja'?'市場掲載期間 (DoM)':'Days on Market')}</div>
+              <div class="vv">${v.days_on_market} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
+              <div class="vn">${esc(LANG.cur==='ja'?'初検知':'First Seen')}: ${l.first_seen ? l.first_seen.split('T')[0] : '—'}</div>
+            </div>
+            <div class="v-cell">
+              <div class="vk">${esc(LANG.cur==='ja'?'成約予測日数':'Est. Days till Leased')}</div>
+              <div class="vv">${v.expected_time_to_off_market_days} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
+              <div class="vn">${esc(v.velocity_icon)} ${esc(v.velocity_tier)}</div>
+            </div>
+            <div class="v-cell">
+              <div class="vk">${esc(LANG.cur==='ja'?'空室残存確率 S(t)':'Survival Probability')}</div>
+              <div class="vv">${v.survival_probability_pct}%</div>
+              <div class="vn">${esc(LANG.cur==='ja'?'カプランマイヤー推計':'Kaplan-Meier model')}</div>
+            </div>
+            <div class="v-cell">
+              <div class="vk">${esc(LANG.cur==='ja'?'構造・仕様判定':'Structure Vital')}</div>
+              <div class="vv">${esc(l.structure || 'RC')}</div>
+              <div class="vn">SHA256: <code>${(l.fingerprint || 'fp').slice(0,8)}</code></div>
+            </div>
+          </div>
+          <div class="vitals-desc-note">ℹ️ <b>${esc(LANG.cur==='ja'?'エリア成約ペース':'Corridor Velocity')}:</b> ${esc(v.pocket_velocity_desc)}</div>
+        </div>
+      </div>`;
+    })()}
     <div class="sect"><h3>${esc(t('sheet_commute'))}</h3>
       <table class="commtable"><tr><th>${esc(t('dest'))}</th><th>${esc(t('med'))}</th><th>${esc(t('p90'))}</th><th></th></tr>${commRows}</table>
       <p class="provrow" style="margin-top:7px">${esc(t('typ_verify'))} · ${esc(LANG.cur==='ja'?'p90＝中央値+運転間隔×0.4+乗換×4分':'p90 = median + headway·0.4 + 4′·transfer')}${l.stNote?` · ${esc(tx(l.stNote))}`:''}</p>

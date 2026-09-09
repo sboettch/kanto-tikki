@@ -43,8 +43,8 @@ const LIVE = [
     },
     "fingerprint": "c7e6a1e854999795",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -52,7 +52,16 @@ const LIVE = [
         "rent": 206000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 370,
+      "survival_probability_pct": 20.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -97,8 +106,8 @@ const LIVE = [
     },
     "fingerprint": "b87937a0f5995c08",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-31T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -106,7 +115,16 @@ const LIVE = [
         "rent": 130000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 9.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 360,
+      "survival_probability_pct": 53.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -151,8 +169,8 @@ const LIVE = [
     },
     "fingerprint": "a7be047da01f6dd2",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -160,7 +178,16 @@ const LIVE = [
         "rent": 158000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 133,
+      "survival_probability_pct": 40.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -205,8 +232,8 @@ const LIVE = [
     },
     "fingerprint": "64e39090abf4bd7f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:52:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -214,7 +241,16 @@ const LIVE = [
         "rent": 138000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 165,
+      "survival_probability_pct": 31.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -259,8 +295,8 @@ const LIVE = [
     },
     "fingerprint": "a007452411f66862",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -268,7 +304,16 @@ const LIVE = [
         "rent": 185000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 430,
+      "survival_probability_pct": 29.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -313,8 +358,8 @@ const LIVE = [
     },
     "fingerprint": "2b6f2f0d98b35757",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-23T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:26:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -322,7 +367,16 @@ const LIVE = [
         "rent": 370000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 17.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 431,
+      "survival_probability_pct": 30.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -367,8 +421,8 @@ const LIVE = [
     },
     "fingerprint": "f6a74f58193e801e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -376,7 +430,16 @@ const LIVE = [
         "rent": 378000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 295,
+      "survival_probability_pct": 85.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -421,8 +484,8 @@ const LIVE = [
     },
     "fingerprint": "e98f267c744ff72c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -430,7 +493,16 @@ const LIVE = [
         "rent": 187000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 205,
+      "survival_probability_pct": 42.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -475,8 +547,8 @@ const LIVE = [
     },
     "fingerprint": "88f95d7dd8cfd49c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -484,7 +556,16 @@ const LIVE = [
         "rent": 132000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 60,
+      "survival_probability_pct": 31.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -529,8 +610,8 @@ const LIVE = [
     },
     "fingerprint": "cb7a10c809a10b8e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -538,7 +619,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 451,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -583,8 +673,8 @@ const LIVE = [
     },
     "fingerprint": "5bc86f782aa2218b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -592,7 +682,16 @@ const LIVE = [
         "rent": 168000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 321,
+      "survival_probability_pct": 19.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -637,8 +736,8 @@ const LIVE = [
     },
     "fingerprint": "b2d3a6c9803eb2b6",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -646,7 +745,16 @@ const LIVE = [
         "rent": 183000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 385,
+      "survival_probability_pct": 33.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -691,8 +799,8 @@ const LIVE = [
     },
     "fingerprint": "923529f38c15c53e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -700,7 +808,16 @@ const LIVE = [
         "rent": 110000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 209,
+      "survival_probability_pct": 17.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -745,8 +862,8 @@ const LIVE = [
     },
     "fingerprint": "28889d0614fde29d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:45:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -754,7 +871,16 @@ const LIVE = [
         "rent": 182000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 112,
+      "survival_probability_pct": 22.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -799,8 +925,8 @@ const LIVE = [
     },
     "fingerprint": "776c4f80e439cee3",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -808,7 +934,16 @@ const LIVE = [
         "rent": 170000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 479,
+      "survival_probability_pct": 87.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -853,8 +988,8 @@ const LIVE = [
     },
     "fingerprint": "3d1fbc8b3b6d7b10",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -862,7 +997,16 @@ const LIVE = [
         "rent": 146000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 39,
+      "survival_probability_pct": 17.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -907,8 +1051,8 @@ const LIVE = [
     },
     "fingerprint": "39756a15689b399a",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -916,7 +1060,16 @@ const LIVE = [
         "rent": 195000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 91,
+      "survival_probability_pct": 37.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -961,8 +1114,8 @@ const LIVE = [
     },
     "fingerprint": "518df1a6b2af0e79",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -970,7 +1123,16 @@ const LIVE = [
         "rent": 169000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 96,
+      "survival_probability_pct": 22.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1015,8 +1177,8 @@ const LIVE = [
     },
     "fingerprint": "3bd4a243fd6e374c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:26:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1024,7 +1186,16 @@ const LIVE = [
         "rent": 116000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 251,
+      "survival_probability_pct": 21.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1069,8 +1240,8 @@ const LIVE = [
     },
     "fingerprint": "7d2a9b8aec737cae",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:36:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1078,7 +1249,16 @@ const LIVE = [
         "rent": 134500,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 181,
+      "survival_probability_pct": 26.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1123,8 +1303,8 @@ const LIVE = [
     },
     "fingerprint": "ba9ea5ad22b230a8",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:52:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1132,7 +1312,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 465,
+      "survival_probability_pct": 67.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1177,8 +1366,8 @@ const LIVE = [
     },
     "fingerprint": "845f97abaa9a13db",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:45:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1186,7 +1375,16 @@ const LIVE = [
         "rent": 175000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 472,
+      "survival_probability_pct": 15.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1231,8 +1429,8 @@ const LIVE = [
     },
     "fingerprint": "784781e5b26f8d97",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1240,7 +1438,16 @@ const LIVE = [
         "rent": 320000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 297,
+      "survival_probability_pct": 38.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1285,8 +1492,8 @@ const LIVE = [
     },
     "fingerprint": "f6125227b4431f91",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1294,7 +1501,16 @@ const LIVE = [
         "rent": 128000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 113,
+      "survival_probability_pct": 33.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1339,8 +1555,8 @@ const LIVE = [
     },
     "fingerprint": "bc612d6d5c9c4580",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-02T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1348,7 +1564,16 @@ const LIVE = [
         "rent": 190000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 7.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 433,
+      "survival_probability_pct": 69.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1393,8 +1618,8 @@ const LIVE = [
     },
     "fingerprint": "b73112c6e35f9a57",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1402,7 +1627,16 @@ const LIVE = [
         "rent": 90000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 443,
+      "survival_probability_pct": 23.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1447,8 +1681,8 @@ const LIVE = [
     },
     "fingerprint": "5f4434a0c6c1d9fb",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:13:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1456,7 +1690,16 @@ const LIVE = [
         "rent": 195000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 444,
+      "survival_probability_pct": 20.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1501,8 +1744,8 @@ const LIVE = [
     },
     "fingerprint": "6d0647b717311e06",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1510,7 +1753,16 @@ const LIVE = [
         "rent": 174000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 156,
+      "survival_probability_pct": 46.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1555,8 +1807,8 @@ const LIVE = [
     },
     "fingerprint": "e0a4425354c484a4",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1564,7 +1816,16 @@ const LIVE = [
         "rent": 174000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 459,
+      "survival_probability_pct": 40.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1609,8 +1870,8 @@ const LIVE = [
     },
     "fingerprint": "720e35d12f6fec48",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1618,7 +1879,16 @@ const LIVE = [
         "rent": 220000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 73,
+      "survival_probability_pct": 23.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1663,8 +1933,8 @@ const LIVE = [
     },
     "fingerprint": "728b8b12f598ba6b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:29:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1672,7 +1942,16 @@ const LIVE = [
         "rent": 131000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 308,
+      "survival_probability_pct": 87.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1717,8 +1996,8 @@ const LIVE = [
     },
     "fingerprint": "d4c726ecf698a33f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:17:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1726,7 +2005,16 @@ const LIVE = [
         "rent": 243000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 320,
+      "survival_probability_pct": 49.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1771,8 +2059,8 @@ const LIVE = [
     },
     "fingerprint": "356667d02d0f9cac",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1780,7 +2068,16 @@ const LIVE = [
         "rent": 150500,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 77,
+      "survival_probability_pct": 54.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1825,8 +2122,8 @@ const LIVE = [
     },
     "fingerprint": "7feb37aee2c2a000",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1834,7 +2131,16 @@ const LIVE = [
         "rent": 243000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 93,
+      "survival_probability_pct": 89.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1879,8 +2185,8 @@ const LIVE = [
     },
     "fingerprint": "0079e1e76b57cd78",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-03T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1888,7 +2194,16 @@ const LIVE = [
         "rent": 328000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 6.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 480,
+      "survival_probability_pct": 65.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1933,8 +2248,8 @@ const LIVE = [
     },
     "fingerprint": "222b8d83e006df78",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:10:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1942,7 +2257,16 @@ const LIVE = [
         "rent": 130000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 267,
+      "survival_probability_pct": 19.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -1987,8 +2311,8 @@ const LIVE = [
     },
     "fingerprint": "e087d3fa1179029d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:48:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1996,7 +2320,16 @@ const LIVE = [
         "rent": 320000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 49,
+      "survival_probability_pct": 45.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2041,8 +2374,8 @@ const LIVE = [
     },
     "fingerprint": "23631735817dd7e4",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2050,7 +2383,16 @@ const LIVE = [
         "rent": 150000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 88,
+      "survival_probability_pct": 20.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2095,8 +2437,8 @@ const LIVE = [
     },
     "fingerprint": "cda9f3a925e68901",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2104,7 +2446,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 398,
+      "survival_probability_pct": 93.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2149,8 +2500,8 @@ const LIVE = [
     },
     "fingerprint": "ac569a3f806d853b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2158,7 +2509,16 @@ const LIVE = [
         "rent": 320000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 245,
+      "survival_probability_pct": 87.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2203,8 +2563,8 @@ const LIVE = [
     },
     "fingerprint": "2e3ecd229e35de35",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2212,7 +2572,16 @@ const LIVE = [
         "rent": 253000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 65,
+      "survival_probability_pct": 92.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2257,8 +2626,8 @@ const LIVE = [
     },
     "fingerprint": "93acd22e1c3e6e30",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-02T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2266,7 +2635,16 @@ const LIVE = [
         "rent": 157000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 7.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 273,
+      "survival_probability_pct": 65.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2311,8 +2689,8 @@ const LIVE = [
     },
     "fingerprint": "c4b0ccffccab2d66",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:52:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2320,7 +2698,16 @@ const LIVE = [
         "rent": 138000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 165,
+      "survival_probability_pct": 26.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2365,8 +2752,8 @@ const LIVE = [
     },
     "fingerprint": "eeedf33785cf30c7",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2374,7 +2761,16 @@ const LIVE = [
         "rent": 258000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 21,
+      "survival_probability_pct": 35.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2419,8 +2815,8 @@ const LIVE = [
     },
     "fingerprint": "f0e50a381398f71d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2428,7 +2824,16 @@ const LIVE = [
         "rent": 150000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 247,
+      "survival_probability_pct": 87.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2473,8 +2878,8 @@ const LIVE = [
     },
     "fingerprint": "69b347e759641ebb",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2482,7 +2887,16 @@ const LIVE = [
         "rent": 165000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 265,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2527,8 +2941,8 @@ const LIVE = [
     },
     "fingerprint": "52a987c832901060",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:29:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2536,7 +2950,16 @@ const LIVE = [
         "rent": 260000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 68,
+      "survival_probability_pct": 56.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2581,8 +3004,8 @@ const LIVE = [
     },
     "fingerprint": "2b7fab77b07cff16",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2590,7 +3013,16 @@ const LIVE = [
         "rent": 144000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 376,
+      "survival_probability_pct": 32.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2635,8 +3067,8 @@ const LIVE = [
     },
     "fingerprint": "d260ccef8f301ce1",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2644,7 +3076,16 @@ const LIVE = [
         "rent": 269000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 133,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2689,8 +3130,8 @@ const LIVE = [
     },
     "fingerprint": "1e6fa5370b34be0f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2698,7 +3139,16 @@ const LIVE = [
         "rent": 100000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 46,
+      "survival_probability_pct": 91.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2743,8 +3193,8 @@ const LIVE = [
     },
     "fingerprint": "9edb7b16fef13776",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2752,7 +3202,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 391,
+      "survival_probability_pct": 33.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2797,8 +3256,8 @@ const LIVE = [
     },
     "fingerprint": "35846fd9f2d51b84",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-01T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:13:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2806,7 +3265,16 @@ const LIVE = [
         "rent": 294000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 8.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 264,
+      "survival_probability_pct": 65.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2851,8 +3319,8 @@ const LIVE = [
     },
     "fingerprint": "1ac25e7c9ba0ee7b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2860,7 +3328,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 182,
+      "survival_probability_pct": 37.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2905,8 +3382,8 @@ const LIVE = [
     },
     "fingerprint": "40c76ce1f305936d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2914,7 +3391,16 @@ const LIVE = [
         "rent": 250000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 396,
+      "survival_probability_pct": 33.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -2959,8 +3445,8 @@ const LIVE = [
     },
     "fingerprint": "1f03227813b52c4f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2968,7 +3454,16 @@ const LIVE = [
         "rent": 167000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 62,
+      "survival_probability_pct": 19.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3013,8 +3508,8 @@ const LIVE = [
     },
     "fingerprint": "c115486d4a4a0870",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3022,7 +3517,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 286,
+      "survival_probability_pct": 19.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3067,8 +3571,8 @@ const LIVE = [
     },
     "fingerprint": "f18a1a9bcb0c635f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:17:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3076,7 +3580,16 @@ const LIVE = [
         "rent": 300000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 320,
+      "survival_probability_pct": 28.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3121,8 +3634,8 @@ const LIVE = [
     },
     "fingerprint": "b1f0731e123267f9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3130,7 +3643,16 @@ const LIVE = [
         "rent": 126000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 216,
+      "survival_probability_pct": 15.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3175,8 +3697,8 @@ const LIVE = [
     },
     "fingerprint": "393fd307c2d57f75",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:41:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3184,7 +3706,16 @@ const LIVE = [
         "rent": 191000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 116,
+      "survival_probability_pct": 87.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3229,8 +3760,8 @@ const LIVE = [
     },
     "fingerprint": "3f7c1784a423c8bf",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-05T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3238,7 +3769,16 @@ const LIVE = [
         "rent": 97000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 4.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 62,
+      "survival_probability_pct": 75.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3283,8 +3823,8 @@ const LIVE = [
     },
     "fingerprint": "c0fda997bfb741d5",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3292,7 +3832,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 33,
+      "survival_probability_pct": 45.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3337,8 +3886,8 @@ const LIVE = [
     },
     "fingerprint": "e9b20d73e4a977f9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:31:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3346,7 +3895,16 @@ const LIVE = [
         "rent": 189000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 426,
+      "survival_probability_pct": 18.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3391,8 +3949,8 @@ const LIVE = [
     },
     "fingerprint": "4175acce0ba91684",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3400,7 +3958,16 @@ const LIVE = [
         "rent": 167000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 263,
+      "survival_probability_pct": 31.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3445,8 +4012,8 @@ const LIVE = [
     },
     "fingerprint": "a8e1c0c9b2383b0f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:33:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3454,7 +4021,16 @@ const LIVE = [
         "rent": 117500,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 364,
+      "survival_probability_pct": 15.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3499,8 +4075,8 @@ const LIVE = [
     },
     "fingerprint": "4463e1fa59de44aa",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3508,7 +4084,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 82,
+      "survival_probability_pct": 67.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3553,8 +4138,8 @@ const LIVE = [
     },
     "fingerprint": "96c1ab9eac833589",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-05T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3562,7 +4147,16 @@ const LIVE = [
         "rent": 390000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 4.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 196,
+      "survival_probability_pct": 80.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3607,8 +4201,8 @@ const LIVE = [
     },
     "fingerprint": "1e3e3cd12c668bce",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3616,7 +4210,16 @@ const LIVE = [
         "rent": 180000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 150,
+      "survival_probability_pct": 82.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3661,8 +4264,8 @@ const LIVE = [
     },
     "fingerprint": "859cc13679c2c209",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-23T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3670,7 +4273,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 17.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 377,
+      "survival_probability_pct": 30.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3715,8 +4327,8 @@ const LIVE = [
     },
     "fingerprint": "5bae3c2b6a6db297",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3724,7 +4336,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 307,
+      "survival_probability_pct": 64.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3769,8 +4390,8 @@ const LIVE = [
     },
     "fingerprint": "e0dd850f1a3021cc",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-03T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:11:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3778,7 +4399,16 @@ const LIVE = [
         "rent": 210000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 6.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 146,
+      "survival_probability_pct": 69.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3823,8 +4453,8 @@ const LIVE = [
     },
     "fingerprint": "64366baa2c8ff93f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:17:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3832,7 +4462,16 @@ const LIVE = [
         "rent": 229000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 20,
+      "survival_probability_pct": 16.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3877,8 +4516,8 @@ const LIVE = [
     },
     "fingerprint": "924721f04ca3405f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3886,7 +4525,16 @@ const LIVE = [
         "rent": 79000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 90,
+      "survival_probability_pct": 33.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3931,8 +4579,8 @@ const LIVE = [
     },
     "fingerprint": "bc42d18e10bc0d10",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:03:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3940,7 +4588,16 @@ const LIVE = [
         "rent": 123000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 274,
+      "survival_probability_pct": 87.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -3985,8 +4642,8 @@ const LIVE = [
     },
     "fingerprint": "0dfaff9240b26eb9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3994,7 +4651,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 37,
+      "survival_probability_pct": 26.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4039,8 +4705,8 @@ const LIVE = [
     },
     "fingerprint": "560127960d7c2f36",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:46:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4048,7 +4714,16 @@ const LIVE = [
         "rent": 90000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 231,
+      "survival_probability_pct": 36.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4093,8 +4768,8 @@ const LIVE = [
     },
     "fingerprint": "13cc3215f3c15bb4",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:03:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4102,7 +4777,16 @@ const LIVE = [
         "rent": 143000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 454,
+      "survival_probability_pct": 33.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4147,8 +4831,8 @@ const LIVE = [
     },
     "fingerprint": "e7b7f0fe70e876aa",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:11:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4156,7 +4840,16 @@ const LIVE = [
         "rent": 69000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 86,
+      "survival_probability_pct": 78.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4201,8 +4894,8 @@ const LIVE = [
     },
     "fingerprint": "5c3c304d9e9a9ec3",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-24T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:13:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4210,7 +4903,16 @@ const LIVE = [
         "rent": 110000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 16.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 444,
+      "survival_probability_pct": 38.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4255,8 +4957,8 @@ const LIVE = [
     },
     "fingerprint": "fd38308203b49640",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4264,7 +4966,16 @@ const LIVE = [
         "rent": 110000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 127,
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4309,8 +5020,8 @@ const LIVE = [
     },
     "fingerprint": "61c27eb543e16764",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4318,7 +5029,16 @@ const LIVE = [
         "rent": 111000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 458,
+      "survival_probability_pct": 93.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4363,8 +5083,8 @@ const LIVE = [
     },
     "fingerprint": "9237d5c39421135b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4372,7 +5092,16 @@ const LIVE = [
         "rent": 127000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 187,
+      "survival_probability_pct": 30.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4417,8 +5146,8 @@ const LIVE = [
     },
     "fingerprint": "b74cd4d10371d9cf",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-24T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4426,7 +5155,16 @@ const LIVE = [
         "rent": 269000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 16.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 28,
+      "survival_probability_pct": 32.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4471,8 +5209,8 @@ const LIVE = [
     },
     "fingerprint": "0782ac33c2c233a1",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-02T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4480,7 +5218,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 7.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 208,
+      "survival_probability_pct": 65.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4525,8 +5272,8 @@ const LIVE = [
     },
     "fingerprint": "0ddae86b4e28feb0",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4534,7 +5281,16 @@ const LIVE = [
         "rent": 79000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 340,
+      "survival_probability_pct": 18.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4579,8 +5335,8 @@ const LIVE = [
     },
     "fingerprint": "7844c8537aab1fca",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4588,7 +5344,16 @@ const LIVE = [
         "rent": 123000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 269,
+      "survival_probability_pct": 82.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4633,8 +5398,8 @@ const LIVE = [
     },
     "fingerprint": "02dcff7f83789144",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4642,7 +5407,16 @@ const LIVE = [
         "rent": 113000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 305,
+      "survival_probability_pct": 92.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4687,8 +5461,8 @@ const LIVE = [
     },
     "fingerprint": "90abe5e88aef18f6",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:34:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4696,7 +5470,16 @@ const LIVE = [
         "rent": 107000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 243,
+      "survival_probability_pct": 20.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4741,8 +5524,8 @@ const LIVE = [
     },
     "fingerprint": "2503799bb101ee77",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-01T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4750,7 +5533,16 @@ const LIVE = [
         "rent": 140000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 8.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 153,
+      "survival_probability_pct": 65.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4795,8 +5587,8 @@ const LIVE = [
     },
     "fingerprint": "389f4d074b9e14e0",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4804,7 +5596,16 @@ const LIVE = [
         "rent": 73500,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 328,
+      "survival_probability_pct": 84.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4849,8 +5650,8 @@ const LIVE = [
     },
     "fingerprint": "0d97a642a05df68f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-05T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4858,7 +5659,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 4.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 208,
+      "survival_probability_pct": 77.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4903,8 +5713,8 @@ const LIVE = [
     },
     "fingerprint": "9051f2301c954e6c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4912,7 +5722,16 @@ const LIVE = [
         "rent": 240000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 442,
+      "survival_probability_pct": 43.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -4957,8 +5776,8 @@ const LIVE = [
     },
     "fingerprint": "7595859183a090a2",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4966,7 +5785,16 @@ const LIVE = [
         "rent": 220000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 98,
+      "survival_probability_pct": 87.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5011,8 +5839,8 @@ const LIVE = [
     },
     "fingerprint": "7262854e766e6336",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:05:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5020,7 +5848,16 @@ const LIVE = [
         "rent": 70000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 392,
+      "survival_probability_pct": 42.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5065,8 +5902,8 @@ const LIVE = [
     },
     "fingerprint": "433a12e389032c46",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-05T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5074,7 +5911,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 4.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 160,
+      "survival_probability_pct": 72.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5119,8 +5965,8 @@ const LIVE = [
     },
     "fingerprint": "b8e454593bb8609e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5128,7 +5974,16 @@ const LIVE = [
         "rent": 78000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 400,
+      "survival_probability_pct": 19.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5173,8 +6028,8 @@ const LIVE = [
     },
     "fingerprint": "f2a9ea3b8a6ffbfb",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:18:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5182,7 +6037,16 @@ const LIVE = [
         "rent": 88000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 439,
+      "survival_probability_pct": 14.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5227,8 +6091,8 @@ const LIVE = [
     },
     "fingerprint": "2a763eee10cc0372",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5236,7 +6100,16 @@ const LIVE = [
         "rent": 63000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 193,
+      "survival_probability_pct": 42.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5281,8 +6154,8 @@ const LIVE = [
     },
     "fingerprint": "edf4ba716f33a318",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5290,7 +6163,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 388,
+      "survival_probability_pct": 33.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5335,8 +6217,8 @@ const LIVE = [
     },
     "fingerprint": "5db0ca1b736bbabb",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:54:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5344,7 +6226,16 @@ const LIVE = [
         "rent": 150000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 103,
+      "survival_probability_pct": 26.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "name": {
@@ -5389,8 +6280,8 @@ const LIVE = [
     },
     "fingerprint": "11c75e7c3ff0553f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5398,7 +6289,16 @@ const LIVE = [
         "rent": 125000,
         "mgmt": 0
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 436,
+      "survival_probability_pct": 23.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od101",
@@ -5444,8 +6344,8 @@ const LIVE = [
     },
     "fingerprint": "019d2daddb564e19",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-02T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:41:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5453,7 +6353,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 7.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 476,
+      "survival_probability_pct": 61.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od102",
@@ -5499,8 +6408,8 @@ const LIVE = [
     },
     "fingerprint": "0c8f7979538b6093",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5508,7 +6417,16 @@ const LIVE = [
         "rent": 166000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 76,
+      "survival_probability_pct": 54.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od103",
@@ -5554,8 +6472,8 @@ const LIVE = [
     },
     "fingerprint": "d27c545121af6651",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5563,7 +6481,16 @@ const LIVE = [
         "rent": 236000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 346,
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od104",
@@ -5609,8 +6536,8 @@ const LIVE = [
     },
     "fingerprint": "7bcbb4dba2f6023e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5618,7 +6545,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 211,
+      "survival_probability_pct": 36.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od105",
@@ -5664,8 +6600,8 @@ const LIVE = [
     },
     "fingerprint": "d3b851ed27fde6b2",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5673,7 +6609,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 377,
+      "survival_probability_pct": 11.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od106",
@@ -5719,8 +6664,8 @@ const LIVE = [
     },
     "fingerprint": "5b3a1c1a73598949",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5728,7 +6673,16 @@ const LIVE = [
         "rent": 81000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 459,
+      "survival_probability_pct": 65.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od107",
@@ -5774,8 +6728,8 @@ const LIVE = [
     },
     "fingerprint": "0ed5745e26158bc7",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5783,7 +6737,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 233,
+      "survival_probability_pct": 35.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od108",
@@ -5829,8 +6792,8 @@ const LIVE = [
     },
     "fingerprint": "26eeeddd9812fb98",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5838,7 +6801,16 @@ const LIVE = [
         "rent": 148000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 237,
+      "survival_probability_pct": 51.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od109",
@@ -5884,8 +6856,8 @@ const LIVE = [
     },
     "fingerprint": "6a5b26a5885c981d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5893,7 +6865,16 @@ const LIVE = [
         "rent": 244000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 336,
+      "survival_probability_pct": 37.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od110",
@@ -5939,8 +6920,8 @@ const LIVE = [
     },
     "fingerprint": "520a43e0be6c8387",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5948,7 +6929,16 @@ const LIVE = [
         "rent": 337000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 381,
+      "survival_probability_pct": 34.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od111",
@@ -5994,8 +6984,8 @@ const LIVE = [
     },
     "fingerprint": "399a2b252ef7e52d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-03T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6003,7 +6993,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 6.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 277,
+      "survival_probability_pct": 65.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od112",
@@ -6049,8 +7048,8 @@ const LIVE = [
     },
     "fingerprint": "790e3fe3a05b99ac",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-24T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6058,7 +7057,16 @@ const LIVE = [
         "rent": 84000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 16.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 256,
+      "survival_probability_pct": 27.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od113",
@@ -6104,8 +7112,8 @@ const LIVE = [
     },
     "fingerprint": "c1a95dd828666a7c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6113,7 +7121,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 479,
+      "survival_probability_pct": 80.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od114",
@@ -6159,8 +7176,8 @@ const LIVE = [
     },
     "fingerprint": "5d99a4f59dab8db9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-24T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6168,7 +7185,16 @@ const LIVE = [
         "rent": 154000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 16.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 69,
+      "survival_probability_pct": 38.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od115",
@@ -6214,8 +7240,8 @@ const LIVE = [
     },
     "fingerprint": "0451f03e22695155",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6223,7 +7249,16 @@ const LIVE = [
         "rent": 218000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 385,
+      "survival_probability_pct": 89.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od116",
@@ -6269,8 +7304,8 @@ const LIVE = [
     },
     "fingerprint": "f1941078fd432ca4",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:39:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6278,7 +7313,16 @@ const LIVE = [
         "rent": 301000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 118,
+      "survival_probability_pct": 64.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od117",
@@ -6324,8 +7368,8 @@ const LIVE = [
     },
     "fingerprint": "07fc8f9dea8498e3",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6333,7 +7377,16 @@ const LIVE = [
         "rent": 99000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 270,
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od118",
@@ -6379,8 +7432,8 @@ const LIVE = [
     },
     "fingerprint": "b015900befdf18be",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6388,7 +7441,16 @@ const LIVE = [
         "rent": 87000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 100,
+      "survival_probability_pct": 34.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od119",
@@ -6434,8 +7496,8 @@ const LIVE = [
     },
     "fingerprint": "c50c9d47dc47c0cd",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-31T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6443,7 +7505,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 9.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 389,
+      "survival_probability_pct": 53.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od120",
@@ -6489,8 +7560,8 @@ const LIVE = [
     },
     "fingerprint": "b36c6b67b3d2d77e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-23T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:49:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6498,7 +7569,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 17.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 228,
+      "survival_probability_pct": 35.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od121",
@@ -6544,8 +7624,8 @@ const LIVE = [
     },
     "fingerprint": "db09416688bfd74d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6553,7 +7633,16 @@ const LIVE = [
         "rent": 227000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 451,
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od122",
@@ -6599,8 +7688,8 @@ const LIVE = [
     },
     "fingerprint": "fe22036e2a7d4ee8",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:26:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6608,7 +7697,16 @@ const LIVE = [
         "rent": 313000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 131,
+      "survival_probability_pct": 41.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od123",
@@ -6654,8 +7752,8 @@ const LIVE = [
     },
     "fingerprint": "aeaa27a785655d3b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:53:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6663,7 +7761,16 @@ const LIVE = [
         "rent": 88000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 344,
+      "survival_probability_pct": 11.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od124",
@@ -6709,8 +7816,8 @@ const LIVE = [
     },
     "fingerprint": "d252df8d6c47c0bd",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6718,7 +7825,16 @@ const LIVE = [
         "rent": 78000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 119,
+      "survival_probability_pct": 33.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od125",
@@ -6764,8 +7880,8 @@ const LIVE = [
     },
     "fingerprint": "f446e59e40276a57",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:11:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6773,7 +7889,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 266,
+      "survival_probability_pct": 46.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od126",
@@ -6819,8 +7944,8 @@ const LIVE = [
     },
     "fingerprint": "1c8d908f24d88abe",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-23T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:10:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6828,7 +7953,16 @@ const LIVE = [
         "rent": 166000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 17.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 327,
+      "survival_probability_pct": 35.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od127",
@@ -6874,8 +8008,8 @@ const LIVE = [
     },
     "fingerprint": "8e8f0fcc3c75624e",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6883,7 +8017,16 @@ const LIVE = [
         "rent": 236000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 151,
+      "survival_probability_pct": 56.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od128",
@@ -6929,8 +8072,8 @@ const LIVE = [
     },
     "fingerprint": "58ead2760b689baa",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6938,7 +8081,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 280,
+      "survival_probability_pct": 79.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od129",
@@ -6984,8 +8136,8 @@ const LIVE = [
     },
     "fingerprint": "ba604c8455f4431c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6993,7 +8145,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 309,
+      "survival_probability_pct": 91.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od130",
@@ -7039,8 +8200,8 @@ const LIVE = [
     },
     "fingerprint": "55833af92bc8b6eb",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-28T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:47:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7048,7 +8209,16 @@ const LIVE = [
         "rent": 81000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 12.2,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 290,
+      "survival_probability_pct": 41.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od131",
@@ -7094,8 +8264,8 @@ const LIVE = [
     },
     "fingerprint": "871767e3bd8cdeb1",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7103,7 +8273,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 389,
+      "survival_probability_pct": 32.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od132",
@@ -7149,8 +8328,8 @@ const LIVE = [
     },
     "fingerprint": "707e910bb562c841",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7158,7 +8337,16 @@ const LIVE = [
         "rent": 148000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 209,
+      "survival_probability_pct": 22.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od133",
@@ -7204,8 +8392,8 @@ const LIVE = [
     },
     "fingerprint": "3a558ca07d773cf4",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:13:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7213,7 +8401,16 @@ const LIVE = [
         "rent": 244000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 324,
+      "survival_probability_pct": 48.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od134",
@@ -7259,8 +8456,8 @@ const LIVE = [
     },
     "fingerprint": "36a8685adc4adfb3",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7268,7 +8465,16 @@ const LIVE = [
         "rent": 337000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 159,
+      "survival_probability_pct": 61.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od135",
@@ -7314,8 +8520,8 @@ const LIVE = [
     },
     "fingerprint": "015d8fe45b83c488",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7323,7 +8529,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 122,
+      "survival_probability_pct": 23.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od136",
@@ -7369,8 +8584,8 @@ const LIVE = [
     },
     "fingerprint": "e9e31f68f8f3f8f0",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7378,7 +8593,16 @@ const LIVE = [
         "rent": 84000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 370,
+      "survival_probability_pct": 14.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od137",
@@ -7424,8 +8648,8 @@ const LIVE = [
     },
     "fingerprint": "7fffa4dd6d309cea",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7433,7 +8657,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 322,
+      "survival_probability_pct": 17.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od138",
@@ -7479,8 +8712,8 @@ const LIVE = [
     },
     "fingerprint": "50a01690686432fa",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:25:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7488,7 +8721,16 @@ const LIVE = [
         "rent": 154000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 72,
+      "survival_probability_pct": 29.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od139",
@@ -7534,8 +8776,8 @@ const LIVE = [
     },
     "fingerprint": "a9273bb6426d9fa7",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7543,7 +8785,16 @@ const LIVE = [
         "rent": 218000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 219,
+      "survival_probability_pct": 29.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od140",
@@ -7589,8 +8840,8 @@ const LIVE = [
     },
     "fingerprint": "80efa407b3c51a06",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:33:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7598,7 +8849,16 @@ const LIVE = [
         "rent": 301000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 484,
+      "survival_probability_pct": 33.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od141",
@@ -7644,8 +8904,8 @@ const LIVE = [
     },
     "fingerprint": "7d160895afbfef90",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:23:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7653,7 +8913,16 @@ const LIVE = [
         "rent": 99000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 134,
+      "survival_probability_pct": 13.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od142",
@@ -7699,8 +8968,8 @@ const LIVE = [
     },
     "fingerprint": "9a2387f2489e4c2d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-28T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7708,7 +8977,16 @@ const LIVE = [
         "rent": 87000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 12.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 433,
+      "survival_probability_pct": 37.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od143",
@@ -7754,8 +9032,8 @@ const LIVE = [
     },
     "fingerprint": "45a8f4f149d334f9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7763,7 +9041,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 210,
+      "survival_probability_pct": 26.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od144",
@@ -7809,8 +9096,8 @@ const LIVE = [
     },
     "fingerprint": "228218406d254286",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7818,7 +9105,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 208,
+      "survival_probability_pct": 46.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od145",
@@ -7864,8 +9160,8 @@ const LIVE = [
     },
     "fingerprint": "3a1dae15499df668",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-15T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7873,7 +9169,16 @@ const LIVE = [
         "rent": 227000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 25.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 475,
+      "survival_probability_pct": 27.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od146",
@@ -7919,8 +9224,8 @@ const LIVE = [
     },
     "fingerprint": "be219935aa5ae1ad",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7928,7 +9233,16 @@ const LIVE = [
         "rent": 313000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 69,
+      "survival_probability_pct": 38.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od147",
@@ -7974,8 +9288,8 @@ const LIVE = [
     },
     "fingerprint": "56b807e98111c894",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:47:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7983,7 +9297,16 @@ const LIVE = [
         "rent": 88000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 110,
+      "survival_probability_pct": 36.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od148",
@@ -8029,8 +9352,8 @@ const LIVE = [
     },
     "fingerprint": "94eb69384625a18a",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:36:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8038,7 +9361,16 @@ const LIVE = [
         "rent": 78000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 61,
+      "survival_probability_pct": 77.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od149",
@@ -8084,8 +9416,8 @@ const LIVE = [
     },
     "fingerprint": "199024ec8da2d940",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8093,7 +9425,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 180,
+      "survival_probability_pct": 37.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od150",
@@ -8139,8 +9480,8 @@ const LIVE = [
     },
     "fingerprint": "31d00422f7f93ee1",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:03:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8148,7 +9489,16 @@ const LIVE = [
         "rent": 166000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 214,
+      "survival_probability_pct": 33.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od151",
@@ -8194,8 +9544,8 @@ const LIVE = [
     },
     "fingerprint": "d0a86fdc1f726ffd",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-02T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8203,7 +9553,16 @@ const LIVE = [
         "rent": 236000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 7.2,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 253,
+      "survival_probability_pct": 71.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od152",
@@ -8249,8 +9608,8 @@ const LIVE = [
     },
     "fingerprint": "6bb2cd856b9bed2d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:34:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8258,7 +9617,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 123,
+      "survival_probability_pct": 40.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od153",
@@ -8304,8 +9672,8 @@ const LIVE = [
     },
     "fingerprint": "3f9755089c115b4a",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8313,7 +9681,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 159,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od154",
@@ -8359,8 +9736,8 @@ const LIVE = [
     },
     "fingerprint": "9ce48a0a5d118792",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8368,7 +9745,16 @@ const LIVE = [
         "rent": 81000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 151,
+      "survival_probability_pct": 29.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od155",
@@ -8414,8 +9800,8 @@ const LIVE = [
     },
     "fingerprint": "0b16aa53e04e7f7c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-13T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:02:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8423,7 +9809,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 27.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 335,
+      "survival_probability_pct": 15.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od156",
@@ -8469,8 +9864,8 @@ const LIVE = [
     },
     "fingerprint": "92bfd4b7a784d1c6",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-28T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8478,7 +9873,16 @@ const LIVE = [
         "rent": 148000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 12.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 299,
+      "survival_probability_pct": 48.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od157",
@@ -8524,8 +9928,8 @@ const LIVE = [
     },
     "fingerprint": "4e77ccb98f5ac773",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-07T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:53:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8533,7 +9937,16 @@ const LIVE = [
         "rent": 244000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 2.2,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 104,
+      "survival_probability_pct": 90.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od158",
@@ -8579,8 +9992,8 @@ const LIVE = [
     },
     "fingerprint": "087e13427f48c997",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8588,7 +10001,16 @@ const LIVE = [
         "rent": 337000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 187,
+      "survival_probability_pct": 95.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od159",
@@ -8634,8 +10056,8 @@ const LIVE = [
     },
     "fingerprint": "c1cb244762be8f87",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-24T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8643,7 +10065,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 16.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 210,
+      "survival_probability_pct": 29.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od160",
@@ -8689,8 +10120,8 @@ const LIVE = [
     },
     "fingerprint": "78d82df0a8aa99c2",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:36:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8698,7 +10129,16 @@ const LIVE = [
         "rent": 84000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 181,
+      "survival_probability_pct": 65.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od161",
@@ -8744,8 +10184,8 @@ const LIVE = [
     },
     "fingerprint": "18b545504845a7db",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-04T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8753,7 +10193,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 5.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 425,
+      "survival_probability_pct": 70.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od162",
@@ -8799,8 +10248,8 @@ const LIVE = [
     },
     "fingerprint": "6d8cd06f8ad22dbc",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-01T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8808,7 +10257,16 @@ const LIVE = [
         "rent": 154000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 8.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 370,
+      "survival_probability_pct": 61.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od163",
@@ -8854,8 +10312,8 @@ const LIVE = [
     },
     "fingerprint": "783a0b24e280ae6a",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8863,7 +10321,16 @@ const LIVE = [
         "rent": 218000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 442,
+      "survival_probability_pct": 48.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od164",
@@ -8909,8 +10376,8 @@ const LIVE = [
     },
     "fingerprint": "d909751afacd84cd",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:54:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8918,7 +10385,16 @@ const LIVE = [
         "rent": 301000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 163,
+      "survival_probability_pct": 55.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od165",
@@ -8964,8 +10440,8 @@ const LIVE = [
     },
     "fingerprint": "38d31d08410b785c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:50:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8973,7 +10449,16 @@ const LIVE = [
         "rent": 99000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 107,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od166",
@@ -9019,8 +10504,8 @@ const LIVE = [
     },
     "fingerprint": "3e20873f7894b2d6",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:55:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9028,7 +10513,16 @@ const LIVE = [
         "rent": 87000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 282,
+      "survival_probability_pct": 21.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od167",
@@ -9074,8 +10568,8 @@ const LIVE = [
     },
     "fingerprint": "5750d357296c787b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-19T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9083,7 +10577,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 21.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 365,
+      "survival_probability_pct": 23.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od168",
@@ -9129,8 +10632,8 @@ const LIVE = [
     },
     "fingerprint": "5a01182e390dad4c",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-28T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:19:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9138,7 +10641,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 12.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 438,
+      "survival_probability_pct": 48.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od169",
@@ -9184,8 +10696,8 @@ const LIVE = [
     },
     "fingerprint": "698436e6913d60e5",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:54:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9193,7 +10705,16 @@ const LIVE = [
         "rent": 227000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 103,
+      "survival_probability_pct": 59.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od170",
@@ -9239,8 +10760,8 @@ const LIVE = [
     },
     "fingerprint": "c8c17c1f1ba3db12",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-05T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9248,7 +10769,16 @@ const LIVE = [
         "rent": 313000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 4.2,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 346,
+      "survival_probability_pct": 85.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od171",
@@ -9294,8 +10824,8 @@ const LIVE = [
     },
     "fingerprint": "1cc426b65a444c1a",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:43:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9303,7 +10833,16 @@ const LIVE = [
         "rent": 88000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 174,
+      "survival_probability_pct": 92.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od172",
@@ -9349,8 +10888,8 @@ const LIVE = [
     },
     "fingerprint": "71f4ae1dfb891b31",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-29T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9358,7 +10897,16 @@ const LIVE = [
         "rent": 78000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 11.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 240,
+      "survival_probability_pct": 40.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od173",
@@ -9404,8 +10952,8 @@ const LIVE = [
     },
     "fingerprint": "331989c0ed4ce268",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9413,7 +10961,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 127,
+      "survival_probability_pct": 28.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od174",
@@ -9459,8 +11016,8 @@ const LIVE = [
     },
     "fingerprint": "c1282bd40dad8439",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:05:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9468,7 +11025,16 @@ const LIVE = [
         "rent": 166000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 392,
+      "survival_probability_pct": 25.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od175",
@@ -9514,8 +11080,8 @@ const LIVE = [
     },
     "fingerprint": "2914a5a7e895540b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9523,7 +11089,16 @@ const LIVE = [
         "rent": 236000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 62,
+      "survival_probability_pct": 23.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od176",
@@ -9569,8 +11144,8 @@ const LIVE = [
     },
     "fingerprint": "927dbb98e325f381",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9578,7 +11153,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 489,
+      "survival_probability_pct": 35.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od177",
@@ -9624,8 +11208,8 @@ const LIVE = [
     },
     "fingerprint": "7f85436f20e6b3d2",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T07:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9633,7 +11217,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 425,
+      "survival_probability_pct": 37.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od178",
@@ -9679,8 +11272,8 @@ const LIVE = [
     },
     "fingerprint": "bdd7e3058e5d694d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:22:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9688,7 +11281,16 @@ const LIVE = [
         "rent": 81000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 75,
+      "survival_probability_pct": 31.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od179",
@@ -9734,8 +11336,8 @@ const LIVE = [
     },
     "fingerprint": "41468c9e726e9191",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-27T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9743,7 +11345,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 13.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 477,
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od180",
@@ -9789,8 +11400,8 @@ const LIVE = [
     },
     "fingerprint": "39efb7a0e3a93ce9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9798,7 +11409,16 @@ const LIVE = [
         "rent": 148000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 305,
+      "survival_probability_pct": 20.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od181",
@@ -9844,8 +11464,8 @@ const LIVE = [
     },
     "fingerprint": "b7488628c730a8f5",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9853,7 +11473,16 @@ const LIVE = [
         "rent": 244000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 97,
+      "survival_probability_pct": 26.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od182",
@@ -9899,8 +11528,8 @@ const LIVE = [
     },
     "fingerprint": "b15da5bce02ae322",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9908,7 +11537,16 @@ const LIVE = [
         "rent": 337000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 489,
+      "survival_probability_pct": 38.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od183",
@@ -9954,8 +11592,8 @@ const LIVE = [
     },
     "fingerprint": "5ab7b783d9e2db68",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-20T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T13:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9963,7 +11601,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 20.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 76,
+      "survival_probability_pct": 21.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od184",
@@ -10009,8 +11656,8 @@ const LIVE = [
     },
     "fingerprint": "0b58b49a546c7f58",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10018,7 +11665,16 @@ const LIVE = [
         "rent": 84000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 250,
+      "survival_probability_pct": 12.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od185",
@@ -10064,8 +11720,8 @@ const LIVE = [
     },
     "fingerprint": "3fd733a8a4529fba",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T14:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10073,7 +11729,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 28,
+      "survival_probability_pct": 80.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od186",
@@ -10119,8 +11784,8 @@ const LIVE = [
     },
     "fingerprint": "d581eefffd693f2d",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-08T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:50:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10128,7 +11793,16 @@ const LIVE = [
         "rent": 154000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 1.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 107,
+      "survival_probability_pct": 93.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od187",
@@ -10174,8 +11848,8 @@ const LIVE = [
     },
     "fingerprint": "c12de6d37b0d7676",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-14T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T06:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10183,7 +11857,16 @@ const LIVE = [
         "rent": 218000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 26.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 459,
+      "survival_probability_pct": 26.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od188",
@@ -10229,8 +11912,8 @@ const LIVE = [
     },
     "fingerprint": "64c71e475b72c084",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10238,7 +11921,16 @@ const LIVE = [
         "rent": 301000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 219,
+      "survival_probability_pct": 36.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od189",
@@ -10284,8 +11976,8 @@ const LIVE = [
     },
     "fingerprint": "5d85c72d0e518ad9",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-17T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10293,7 +11985,16 @@ const LIVE = [
         "rent": 99000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 23.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 280,
+      "survival_probability_pct": 17.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od190",
@@ -10339,8 +12040,8 @@ const LIVE = [
     },
     "fingerprint": "835a3a3692464c56",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-06T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:50:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10348,7 +12049,16 @@ const LIVE = [
         "rent": 87000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 3.2,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 227,
+      "survival_probability_pct": 79.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od191",
@@ -10394,8 +12104,8 @@ const LIVE = [
     },
     "fingerprint": "7fc95e35ac414501",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-30T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10403,7 +12113,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 10.2,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 359,
+      "survival_probability_pct": 53.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od192",
@@ -10449,8 +12168,8 @@ const LIVE = [
     },
     "fingerprint": "aa0d720f2f9feeb3",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-22T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:53:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10458,7 +12177,16 @@ const LIVE = [
         "rent": 160000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 18.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 164,
+      "survival_probability_pct": 33.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od193",
@@ -10504,8 +12232,8 @@ const LIVE = [
     },
     "fingerprint": "391f29b19a8a0a49",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-12T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T12:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10513,7 +12241,16 @@ const LIVE = [
         "rent": 227000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 28.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 150,
+      "survival_probability_pct": 23.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od194",
@@ -10559,8 +12296,8 @@ const LIVE = [
     },
     "fingerprint": "3dfb02cd9e36c01f",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-18T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:22:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10568,7 +12305,16 @@ const LIVE = [
         "rent": 313000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 22.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 315,
+      "survival_probability_pct": 38.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od195",
@@ -10614,8 +12360,8 @@ const LIVE = [
     },
     "fingerprint": "fdf1d1c549ef1514",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-16T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T11:31:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10623,7 +12369,16 @@ const LIVE = [
         "rent": 88000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 24.2,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 186,
+      "survival_probability_pct": 15.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od196",
@@ -10669,8 +12424,8 @@ const LIVE = [
     },
     "fingerprint": "8653e1b3646ec04b",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-25T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10678,7 +12433,16 @@ const LIVE = [
         "rent": 78000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 15.2,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 340,
+      "survival_probability_pct": 29.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od197",
@@ -10724,8 +12488,8 @@ const LIVE = [
     },
     "fingerprint": "3dcfaca5cd8aee62",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-21T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T10:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10733,7 +12497,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 19.2,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 237,
+      "survival_probability_pct": 30.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od198",
@@ -10779,8 +12552,8 @@ const LIVE = [
     },
     "fingerprint": "c051f30d59c90eae",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-09-01T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:10:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10788,7 +12561,16 @@ const LIVE = [
         "rent": 166000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 8.2,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 327,
+      "survival_probability_pct": 61.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od199",
@@ -10834,8 +12616,8 @@ const LIVE = [
     },
     "fingerprint": "1557be08e9c09fe1",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-28T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T09:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10843,7 +12625,16 @@ const LIVE = [
         "rent": 236000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 12.2,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 278,
+      "survival_probability_pct": 53.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od200",
@@ -10889,8 +12680,8 @@ const LIVE = [
     },
     "fingerprint": "9be2e56b1ea08343",
     "status": "LIVE",
-    "first_seen": "2026-09-09T02:48:48.801401+00:00",
-    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "first_seen": "2026-08-26T09:49:50.002442+00:00",
+    "last_verified": "2026-09-09T08:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10898,7 +12689,16 @@ const LIVE = [
         "rent": 325000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 14.2,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 365,
+      "survival_probability_pct": 54.3,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od201",
@@ -10946,7 +12746,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:02:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -10954,7 +12754,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 455,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od202",
@@ -11002,7 +12811,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11010,7 +12819,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 480,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od203",
@@ -11058,7 +12876,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:22:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11066,7 +12884,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 195,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od204",
@@ -11114,7 +12941,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:50:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11122,7 +12949,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 47,
+      "survival_probability_pct": 96.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od205",
@@ -11170,7 +13006,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11178,7 +13014,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 17,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od206",
@@ -11226,7 +13071,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11234,7 +13079,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 175,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od207",
@@ -11282,7 +13136,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11290,7 +13144,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 479,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od208",
@@ -11338,7 +13201,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:13:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11346,7 +13209,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 204,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od209",
@@ -11394,7 +13266,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:52:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11402,7 +13274,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 165,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od210",
@@ -11450,7 +13331,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:05:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11458,7 +13339,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 32,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od211",
@@ -11506,7 +13396,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11514,7 +13404,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 193,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od212",
@@ -11562,7 +13461,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:48:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11570,7 +13469,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 169,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od213",
@@ -11618,7 +13526,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:25:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11626,7 +13534,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 372,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od214",
@@ -11674,7 +13591,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:55:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11682,7 +13599,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 162,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od215",
@@ -11730,7 +13656,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:47:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11738,7 +13664,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 50,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od216",
@@ -11786,7 +13721,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:25:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11794,7 +13729,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 312,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od217",
@@ -11842,7 +13786,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11850,7 +13794,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 355,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od218",
@@ -11898,7 +13851,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11906,7 +13859,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 389,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od219",
@@ -11954,7 +13916,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -11962,7 +13924,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 211,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od220",
@@ -12010,7 +13981,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:39:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12018,7 +13989,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 418,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od221",
@@ -12066,7 +14046,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:19:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12074,7 +14054,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 198,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od222",
@@ -12122,7 +14111,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12130,7 +14119,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 175,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od223",
@@ -12178,7 +14176,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:31:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12186,7 +14184,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 246,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od224",
@@ -12234,7 +14241,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:46:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12242,7 +14249,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 291,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od225",
@@ -12290,7 +14306,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12298,7 +14314,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 226,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od226",
@@ -12346,7 +14371,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12354,7 +14379,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 67,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od227",
@@ -12402,7 +14436,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:43:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12410,7 +14444,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 294,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od228",
@@ -12458,7 +14501,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:46:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12466,7 +14509,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 231,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od229",
@@ -12514,7 +14566,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12522,7 +14574,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 16,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od230",
@@ -12570,7 +14631,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:21:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12578,7 +14639,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 256,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od231",
@@ -12626,7 +14696,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12634,7 +14704,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 216,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od232",
@@ -12682,7 +14761,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:25:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12690,7 +14769,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 192,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od233",
@@ -12738,7 +14826,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:23:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12746,7 +14834,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 434,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od234",
@@ -12794,7 +14891,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12802,7 +14899,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 433,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od235",
@@ -12850,7 +14956,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12858,7 +14964,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 273,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od236",
@@ -12906,7 +15021,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12914,7 +15029,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 391,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od237",
@@ -12962,7 +15086,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12970,7 +15094,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 113,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od238",
@@ -13018,7 +15151,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13026,7 +15159,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 57,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od239",
@@ -13074,7 +15216,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:39:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13082,7 +15224,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 178,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od240",
@@ -13130,7 +15281,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13138,7 +15289,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 233,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od241",
@@ -13186,7 +15346,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13194,7 +15354,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 91,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od242",
@@ -13242,7 +15411,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13250,7 +15419,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 449,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od243",
@@ -13298,7 +15476,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13306,7 +15484,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 113,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od244",
@@ -13354,7 +15541,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13362,7 +15549,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 377,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od245",
@@ -13410,7 +15606,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13418,7 +15614,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 55,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od246",
@@ -13466,7 +15671,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13474,7 +15679,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 445,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od247",
@@ -13522,7 +15736,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:47:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13530,7 +15744,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 410,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od248",
@@ -13578,7 +15801,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:33:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13586,7 +15809,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 184,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od249",
@@ -13634,7 +15866,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13642,7 +15874,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 62,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od250",
@@ -13690,7 +15931,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13698,7 +15939,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 313,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od251",
@@ -13746,7 +15996,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13754,7 +16004,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 451,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od252",
@@ -13802,7 +16061,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13810,7 +16069,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 338,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od253",
@@ -13858,7 +16126,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:31:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13866,7 +16134,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 246,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od254",
@@ -13914,7 +16191,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13922,7 +16199,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 489,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od255",
@@ -13970,7 +16256,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13978,7 +16264,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 433,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od256",
@@ -14026,7 +16321,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:48:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14034,7 +16329,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 109,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od257",
@@ -14082,7 +16386,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:38:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14090,7 +16394,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 239,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od258",
@@ -14138,7 +16451,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14146,7 +16459,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 253,
+      "survival_probability_pct": 96.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od259",
@@ -14194,7 +16516,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14202,7 +16524,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 313,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od260",
@@ -14250,7 +16581,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14258,7 +16589,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 23,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od261",
@@ -14306,7 +16646,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14314,7 +16654,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 173,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od262",
@@ -14362,7 +16711,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:54:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14370,7 +16719,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 283,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od263",
@@ -14418,7 +16776,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:46:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14426,7 +16784,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 471,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od264",
@@ -14474,7 +16841,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14482,7 +16849,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 399,
+      "survival_probability_pct": 96.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od265",
@@ -14530,7 +16906,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14538,7 +16914,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 487,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od266",
@@ -14586,7 +16971,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14594,7 +16979,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 457,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od267",
@@ -14642,7 +17036,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:39:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14650,7 +17044,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 358,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od268",
@@ -14698,7 +17101,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14706,7 +17109,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 448,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od269",
@@ -14754,7 +17166,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:34:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14762,7 +17174,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 123,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od270",
@@ -14810,7 +17231,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:29:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14818,7 +17239,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 188,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od271",
@@ -14866,7 +17296,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14874,7 +17304,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 150,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od272",
@@ -14922,7 +17361,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14930,7 +17369,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 297,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od273",
@@ -14978,7 +17426,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14986,7 +17434,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 125,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od274",
@@ -15034,7 +17491,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15042,7 +17499,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 99,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od275",
@@ -15090,7 +17556,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:49:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15098,7 +17564,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 468,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od276",
@@ -15146,7 +17621,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:53:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15154,7 +17629,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 284,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od277",
@@ -15202,7 +17686,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:33:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15210,7 +17694,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 424,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od278",
@@ -15258,7 +17751,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:52:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15266,7 +17759,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 165,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od279",
@@ -15314,7 +17816,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15322,7 +17824,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 442,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od280",
@@ -15370,7 +17881,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:02:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15378,7 +17889,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 395,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od281",
@@ -15426,7 +17946,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15434,7 +17954,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 278,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od282",
@@ -15482,7 +18011,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:22:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15490,7 +18019,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 15,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od283",
@@ -15538,7 +18076,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:07:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15546,7 +18084,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 90,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od284",
@@ -15594,7 +18141,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:41:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15602,7 +18149,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 416,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od285",
@@ -15650,7 +18206,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15658,7 +18214,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 268,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od286",
@@ -15706,7 +18271,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15714,7 +18279,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 430,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od287",
@@ -15762,7 +18336,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:51:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15770,7 +18344,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 406,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od288",
@@ -15818,7 +18401,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:02:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15826,7 +18409,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 335,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od289",
@@ -15874,7 +18466,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:56:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15882,7 +18474,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 341,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od290",
@@ -15930,7 +18531,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:41:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15938,7 +18539,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 416,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od291",
@@ -15986,7 +18596,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15994,7 +18604,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 397,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od292",
@@ -16042,7 +18661,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:18:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16050,7 +18669,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 79,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od293",
@@ -16098,7 +18726,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:18:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16106,7 +18734,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 199,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od294",
@@ -16154,7 +18791,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:50:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16162,7 +18799,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 107,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od295",
@@ -16210,7 +18856,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:03:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16218,7 +18864,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 274,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od296",
@@ -16266,7 +18921,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16274,7 +18929,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 355,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od297",
@@ -16322,7 +18986,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:34:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16330,7 +18994,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 363,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od298",
@@ -16378,7 +19051,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:49:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16386,7 +19059,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 288,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od299",
@@ -16434,7 +19116,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16442,7 +19124,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 263,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od300",
@@ -16490,7 +19181,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:33:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16498,7 +19189,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 364,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od301",
@@ -16546,7 +19246,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16554,7 +19254,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 457,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od302",
@@ -16602,7 +19311,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:04:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16610,7 +19319,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 213,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od303",
@@ -16658,7 +19376,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:55:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16666,7 +19384,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 342,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od304",
@@ -16714,7 +19441,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16722,7 +19449,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 149,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od305",
@@ -16770,7 +19506,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:17:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16778,7 +19514,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 20,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od306",
@@ -16826,7 +19571,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16834,7 +19579,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 189,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od307",
@@ -16882,7 +19636,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:29:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16890,7 +19644,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 68,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od308",
@@ -16938,7 +19701,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:19:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16946,7 +19709,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 78,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od309",
@@ -16994,7 +19766,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17002,7 +19774,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 370,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od310",
@@ -17050,7 +19831,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:23:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17058,7 +19839,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 494,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od311",
@@ -17106,7 +19896,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17114,7 +19904,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 120,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od312",
@@ -17162,7 +19961,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17170,7 +19969,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 148,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od313",
@@ -17218,7 +20026,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:20:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17226,7 +20034,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 17,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od314",
@@ -17274,7 +20091,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:57:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17282,7 +20099,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 220,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od315",
@@ -17330,7 +20156,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:31:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17338,7 +20164,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 186,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od316",
@@ -17386,7 +20221,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:26:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17394,7 +20229,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 131,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od317",
@@ -17442,7 +20286,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17450,7 +20294,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 261,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od318",
@@ -17498,7 +20351,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17506,7 +20359,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 83,
+      "survival_probability_pct": 96.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od319",
@@ -17554,7 +20416,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:08:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17562,7 +20424,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 269,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od320",
@@ -17610,7 +20481,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17618,7 +20489,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 383,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od321",
@@ -17666,7 +20546,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17674,7 +20554,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 98,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od322",
@@ -17722,7 +20611,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:59:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17730,7 +20619,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 218,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od323",
@@ -17778,7 +20676,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:15:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17786,7 +20684,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 262,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od324",
@@ -17834,7 +20741,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17842,7 +20749,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.5,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 81,
+      "survival_probability_pct": 96.5,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od325",
@@ -17890,7 +20806,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:40:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17898,7 +20814,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 57,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od326",
@@ -17946,7 +20871,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17954,7 +20879,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 397,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od327",
@@ -18002,7 +20936,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18010,7 +20944,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 211,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od328",
@@ -18058,7 +21001,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:45:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18066,7 +21009,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 412,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od329",
@@ -18114,7 +21066,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:05:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18122,7 +21074,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 92,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od330",
@@ -18170,7 +21131,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18178,7 +21139,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 187,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od331",
@@ -18226,7 +21196,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:16:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18234,7 +21204,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.2,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 261,
+      "survival_probability_pct": 97.0,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od332",
@@ -18282,7 +21261,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18290,7 +21269,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 187,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od333",
@@ -18338,7 +21326,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:26:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18346,7 +21334,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 251,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od334",
@@ -18394,7 +21391,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:56:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18402,7 +21399,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 221,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od335",
@@ -18450,7 +21456,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:42:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18458,7 +21464,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 475,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od336",
@@ -18506,7 +21521,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:54:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18514,7 +21529,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 163,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od337",
@@ -18562,7 +21586,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:19:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18570,7 +21594,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 78,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od338",
@@ -18618,7 +21651,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18626,7 +21659,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 190,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od339",
@@ -18674,7 +21716,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:05:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18682,7 +21724,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 92,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od340",
@@ -18730,7 +21781,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:56:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18738,7 +21789,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 161,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od341",
@@ -18786,7 +21846,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:43:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18794,7 +21854,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 474,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od342",
@@ -18842,7 +21911,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:12:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18850,7 +21919,16 @@ const LIVE = [
         "rent": 80000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 325,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od343",
@@ -18898,7 +21976,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:32:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18906,7 +21984,16 @@ const LIVE = [
         "rent": 109000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 365,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od344",
@@ -18954,7 +22041,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:58:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18962,7 +22049,16 @@ const LIVE = [
         "rent": 145000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 12.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 339,
+      "survival_probability_pct": 97.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od345",
@@ -19010,7 +22106,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:28:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19018,7 +22114,16 @@ const LIVE = [
         "rent": 238000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 129,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od346",
@@ -19066,7 +22171,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:30:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19074,7 +22179,16 @@ const LIVE = [
         "rent": 331000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 67,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od347",
@@ -19122,7 +22236,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:23:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19130,7 +22244,16 @@ const LIVE = [
         "rent": 92000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 494,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od348",
@@ -19178,7 +22301,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T07:01:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19186,7 +22309,16 @@ const LIVE = [
         "rent": 83000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 456,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od349",
@@ -19234,7 +22366,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19242,7 +22374,16 @@ const LIVE = [
         "rent": 114000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 233,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od350",
@@ -19290,7 +22431,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:00:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19298,7 +22439,16 @@ const LIVE = [
         "rent": 151000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 217,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od351",
@@ -19346,7 +22496,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:09:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19354,7 +22504,16 @@ const LIVE = [
         "rent": 213000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 15.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 28,
+      "survival_probability_pct": 97.8,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od352",
@@ -19402,7 +22561,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:27:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19410,7 +22569,16 @@ const LIVE = [
         "rent": 296000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 16.1,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 190,
+      "survival_probability_pct": 97.9,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od353",
@@ -19458,7 +22626,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T09:37:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19466,7 +22634,16 @@ const LIVE = [
         "rent": 95000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 300,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od354",
@@ -19514,7 +22691,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:56:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19522,7 +22699,16 @@ const LIVE = [
         "rent": 86000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 341,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od355",
@@ -19570,7 +22756,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19578,7 +22764,16 @@ const LIVE = [
         "rent": 118000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 173,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od356",
@@ -19626,7 +22821,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T12:06:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19634,7 +22829,16 @@ const LIVE = [
         "rent": 156000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 151,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od357",
@@ -19682,7 +22886,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T08:18:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19690,7 +22894,16 @@ const LIVE = [
         "rent": 222000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 379,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od358",
@@ -19738,7 +22951,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:35:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19746,7 +22959,16 @@ const LIVE = [
         "rent": 308000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 242,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od359",
@@ -19794,7 +23016,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T06:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19802,7 +23024,16 @@ const LIVE = [
         "rent": 85000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 9.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 493,
+      "survival_probability_pct": 96.4,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od360",
@@ -19850,7 +23081,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:18:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19858,7 +23089,16 @@ const LIVE = [
         "rent": 76000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 8.6,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 79,
+      "survival_probability_pct": 96.2,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od361",
@@ -19906,7 +23146,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:44:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19914,7 +23154,16 @@ const LIVE = [
         "rent": 122000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 173,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od362",
@@ -19962,7 +23211,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T14:22:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19970,7 +23219,16 @@ const LIVE = [
         "rent": 162000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 11.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 15,
+      "survival_probability_pct": 97.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od363",
@@ -20018,7 +23276,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T13:14:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20026,7 +23284,16 @@ const LIVE = [
         "rent": 230000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 13.6,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 83,
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od364",
@@ -20074,7 +23341,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T10:24:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20082,7 +23349,16 @@ const LIVE = [
         "rent": 319000,
         "mgmt": 10000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 17.9,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
+      "heartbeat_age_min": 253,
+      "survival_probability_pct": 98.1,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   },
   {
     "id": "od365",
@@ -20130,7 +23406,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T11:47:50.002442+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20138,7 +23414,16 @@ const LIVE = [
         "rent": 89000,
         "mgmt": 5000
       }
-    ]
+    ],
+    "vitals": {
+      "days_on_market": 0.5,
+      "expected_time_to_off_market_days": 10.1,
+      "velocity_tier": "High Velocity",
+      "velocity_icon": "⚡",
+      "heartbeat_age_min": 170,
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+    }
   }
 ];
 const REP_STATIONS = ['shinjuku','minamishinjuku','sangubashi','yoyogihachiman','yoyogiuehara',
