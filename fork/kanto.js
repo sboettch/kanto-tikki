@@ -175,71 +175,112 @@ function calcCommute(stId, destId){
   if (!a) return { median: 25, p90: 29, direct: true, transfers: 0, verified: false, walkOnly: false };
 
   // Yokosuka Regional Multi-Line Routing
-  if (destId === 'yokosuka'){
-    if (state.corridor === 'toyoko'){
-      if (a.id === 'yokohama'){
-        return { median: 27, p90: 28.5, direct: true, transfers: 0, verified: true, walkOnly: false,
-                 note: { en:'Keikyū Main Line Kaitoku from Yokohama (27′)', ja:'横浜から京急快特直通（27分）' } };
-      }
-      if (a.id === 'hiyoshi'){
-        return { median: 44, p90: 49.5, direct: false, transfers: 1, verified: true, walkOnly: false,
-                 note: { en:'Tōyoko Express to Yokohama (12′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（12分）+ 京急快特（27分）' } };
-      }
-      if (a.id === 'kikuna'){
-        return { median: 38, p90: 43.5, direct: false, transfers: 1, verified: true, walkOnly: false,
-                 note: { en:'Tōyoko Express to Yokohama (6′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（6分）+ 京急快特（27分）' } };
-      }
-      if (a.id === 'musashikosugi'){
-        return { median: 46, p90: 51.5, direct: false, transfers: 1, verified: true, walkOnly: false,
-                 note: { en:'Tōyoko Express to Yokohama (14′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（14分）+ 京急快特（27分）' } };
-      }
-      const diff = Math.abs(45 - a.cumL);
-      const runMin = (a.tier >= 2) ? Math.round(diff * 0.60) : Math.round(diff * 0.72 + 2);
-      const median = runMin + 5 + 27;
-      const hw = a.hw || 3;
-      const p90 = Math.round((median + hw * 0.4 + 4) * 10) / 10;
-      return { median, p90, direct: false, transfers: 1, verified: false, walkOnly: false,
-               note: { en:'Tōyoko Line to Yokohama (transfer) + Keikyū Kaitoku (27′)', ja:'東横線で横浜へ（乗換）+ 京急快特（27分）' } };
-    }
-    if (state.corridor === 'odakyu'){
-      const diffMachida = Math.abs(48 - a.cumL);
-      const toMachida = (a.tier >= 2) ? Math.round(diffMachida * 0.60) : Math.round(diffMachida * 0.75 + 2);
-      const median = (a.id === 'machida') ? 59 : toMachida + 4 + 59;
-      return { median, p90: median + 6, direct: false, transfers: (a.id==='machida'?1:2), verified: false, walkOnly: false,
-               note: { en:'Via JR Yokohama Line to Yokohama + Keikyū Kaitoku', ja:'JR横浜線経由 横浜乗換 京急快特' } };
-    }
-    if (state.corridor === 'hibiya'){
-      const toNakameguro = Math.round(a.cumL * 0.85);
-      const median = toNakameguro + 24 + 5 + 27;
-      return { median, p90: median + 6, direct: false, transfers: (a.id==='nakameguro'?1:2), verified: false, walkOnly: false,
-               note: { en:'Via Naka-Meguro / Tōyoko to Yokohama + Keikyū Kaitoku', ja:'中目黒・東横線経由 横浜乗換 京急快特' } };
-    }
-    if (state.corridor === 'denentoshi'){
-      const diffMizo = Math.abs(14.1 - a.cumL);
-      const toMizo = Math.round(diffMizo * 0.65);
-      const median = toMizo + 6 + 4 + 44;
-      return { median, p90: median + 6, direct: false, transfers: 2, verified: false, walkOnly: false,
-               note: { en:'Via JR Nambu / Musashi-Kosugi to Keikyū / JR', ja:'JR南武線・武蔵小杉経由' } };
-    }
-  }
+  if (destId === 'yokosuka' || destId === 'yokosuka_jr'){
+    const JR_YOKOSUKA_LINE_TIMES = {
+      yokosuka_jr: 0, taura_jr: 3, zushi: 8, kamakura: 14, kitakamakura: 17,
+      ofuna: 21, totsuka: 26, higashitotsuka: 31, hodogaya: 36, yokohama: 42,
+      shinkawasaki: 48, musashikosugi: 53
+    };
+    const KEIKYU_SOUTH_TIMES = {
+      yokosukachuo: 0, shioiri: 2, heisaka: 4, anzinmuka: 6, keikyutaura: 8,
+      oppama: 11, kanazawahakkei: 14, kanazawabunko: 17, nokendai: 20,
+      keikyutomioka: 22, sugita: 24, byobugaura: 27, kamiooka: 29, gumyoji: 33,
+      idogaya: 35, minamiota: 37, koganecho: 39, hinodecho: 41, tobe: 43, yokohama: 27
+    };
 
-  if (destId === 'yokosuka_jr'){
-    if (state.corridor === 'toyoko'){
-      if (a.id === 'musashikosugi'){
-        return { median: 53, p90: 55.5, direct: true, transfers: 0, verified: true, walkOnly: false,
-                 note: { en:'JR Yokosuka Line direct (53′)', ja:'JR横須賀線直通（53分）' } };
+    if (destId === 'yokosuka_jr' && JR_YOKOSUKA_LINE_TIMES[a.id] !== undefined){
+      const med = JR_YOKOSUKA_LINE_TIMES[a.id];
+      return { median: med, p90: Math.round((med + 2.5) * 10) / 10, direct: true, transfers: 0, verified: true, walkOnly: a.id === 'yokosuka_jr',
+               note: { en: `JR Yokosuka Line direct (${med}′)`, ja: `JR横須賀線直通（${med}分）` } };
+    }
+    if (destId === 'yokosuka' && KEIKYU_SOUTH_TIMES[a.id] !== undefined){
+      const med = KEIKYU_SOUTH_TIMES[a.id];
+      return { median: med, p90: Math.round((med + 2.5) * 10) / 10, direct: true, transfers: 0, verified: true, walkOnly: a.id === 'yokosukachuo',
+               note: { en: `Keikyū Line direct to Yokosuka-Chūō (${med}′)`, ja: `京急線直通 横須賀中央へ（${med}分）` } };
+    }
+    if (destId === 'yokosuka' && JR_YOKOSUKA_LINE_TIMES[a.id] !== undefined){
+      const toYkJR = JR_YOKOSUKA_LINE_TIMES[a.id];
+      const med = toYkJR + 12;
+      return { median: med, p90: Math.round((med + 3.0) * 10) / 10, direct: false, transfers: 0, verified: true, walkOnly: false,
+               note: { en: `JR Yokosuka Line (${toYkJR}′) + 12′ transfer walk to Chūō`, ja: `JR横須賀線（${toYkJR}分）+ 徒歩12分で中央へ` } };
+    }
+    if (destId === 'yokosuka_jr' && KEIKYU_SOUTH_TIMES[a.id] !== undefined){
+      const toKk = KEIKYU_SOUTH_TIMES[a.id];
+      const med = toKk + 12;
+      return { median: med, p90: Math.round((med + 3.0) * 10) / 10, direct: false, transfers: 0, verified: true, walkOnly: false,
+               note: { en: `Keikyū Line (${toKk}′) + 12′ walk to JR Yokosuka`, ja: `京急線（${toKk}分）+ 徒歩12分でJR横須賀へ` } };
+    }
+
+    if (destId === 'yokosuka'){
+      if (state.corridor === 'toyoko'){
+        if (a.id === 'yokohama'){
+          return { median: 27, p90: 28.5, direct: true, transfers: 0, verified: true, walkOnly: false,
+                   note: { en:'Keikyū Main Line Kaitoku from Yokohama (27′)', ja:'横浜から京急快特直通（27分）' } };
+        }
+        if (a.id === 'hiyoshi'){
+          return { median: 44, p90: 49.5, direct: false, transfers: 1, verified: true, walkOnly: false,
+                   note: { en:'Tōyoko Express to Yokohama (12′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（12分）+ 京急快特（27分）' } };
+        }
+        if (a.id === 'kikuna'){
+          return { median: 38, p90: 43.5, direct: false, transfers: 1, verified: true, walkOnly: false,
+                   note: { en:'Tōyoko Express to Yokohama (6′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（6分）+ 京急快特（27分）' } };
+        }
+        if (a.id === 'musashikosugi'){
+          return { median: 46, p90: 51.5, direct: false, transfers: 1, verified: true, walkOnly: false,
+                   note: { en:'Tōyoko Express to Yokohama (14′) + Keikyū Kaitoku (27′)', ja:'東横線急行で横浜へ（14分）+ 京急快特（27分）' } };
+        }
+        const diff = Math.abs(45 - a.cumL);
+        const runMin = (a.tier >= 2) ? Math.round(diff * 0.60) : Math.round(diff * 0.72 + 2);
+        const median = runMin + 5 + 27;
+        const hw = a.hw || 3;
+        const p90 = Math.round((median + hw * 0.4 + 4) * 10) / 10;
+        return { median, p90, direct: false, transfers: 1, verified: false, walkOnly: false,
+                 note: { en:'Tōyoko Line to Yokohama (transfer) + Keikyū Kaitoku (27′)', ja:'東横線で横浜へ（乗換）+ 京急快特（27分）' } };
       }
-      if (a.id === 'yokohama'){
-        return { median: 42, p90: 44.5, direct: true, transfers: 0, verified: true, walkOnly: false,
-                 note: { en:'JR Yokosuka Line direct from Yokohama (42′)', ja:'横浜からJR横須賀線直通（42分）' } };
+      if (state.corridor === 'odakyu'){
+        const diffMachida = Math.abs(48 - a.cumL);
+        const toMachida = (a.tier >= 2) ? Math.round(diffMachida * 0.60) : Math.round(diffMachida * 0.75 + 2);
+        const median = (a.id === 'machida') ? 59 : toMachida + 4 + 59;
+        return { median, p90: median + 6, direct: false, transfers: (a.id==='machida'?1:2), verified: false, walkOnly: false,
+                 note: { en:'Via JR Yokohama Line to Yokohama + Keikyū Kaitoku', ja:'JR横浜線経由 横浜乗換 京急快特' } };
       }
-      const diff = Math.abs(45 - a.cumL);
-      const runMin = (a.tier >= 2) ? Math.round(diff * 0.60) : Math.round(diff * 0.72 + 2);
-      const median = runMin + 5 + 42;
-      const hw = a.hw || 3;
-      const p90 = Math.round((median + hw * 0.4 + 4) * 10) / 10;
-      return { median, p90, direct: false, transfers: 1, verified: false, walkOnly: false,
-               note: { en:'Tōyoko Line to Yokohama + JR Yokosuka Line (42′)', ja:'東横線で横浜へ + JR横須賀線（42分）' } };
+      if (state.corridor === 'hibiya'){
+        const toNakameguro = Math.round(a.cumL * 0.85);
+        const median = toNakameguro + 24 + 5 + 27;
+        return { median, p90: median + 6, direct: false, transfers: (a.id==='nakameguro'?1:2), verified: false, walkOnly: false,
+                 note: { en:'Via Naka-Meguro / Tōyoko to Yokohama + Keikyū Kaitoku', ja:'中目黒・東横線経由 横浜乗換 京急快特' } };
+      }
+      if (state.corridor === 'denentoshi'){
+        const diffMizo = Math.abs(14.1 - a.cumL);
+        const toMizo = Math.round(diffMizo * 0.65);
+        const median = toMizo + 6 + 4 + 44;
+        return { median, p90: median + 6, direct: false, transfers: 2, verified: false, walkOnly: false,
+                 note: { en:'Via JR Nambu / Musashi-Kosugi to Keikyū / JR', ja:'JR南武線・武蔵小杉経由' } };
+      }
+    }
+
+    if (destId === 'yokosuka_jr'){
+      if (state.corridor === 'toyoko'){
+        if (a.id === 'musashikosugi'){
+          return { median: 53, p90: 55.5, direct: true, transfers: 0, verified: true, walkOnly: false,
+                   note: { en:'JR Yokosuka Line direct (53′)', ja:'JR横須賀線直通（53分）' } };
+        }
+        if (a.id === 'hiyoshi'){
+          return { median: 52, p90: 56.5, direct: false, transfers: 1, verified: true, walkOnly: false,
+                   note: { en:'Tōyoko Express to Yokohama (12′) + JR Yokosuka Line (35′)', ja:'東横線急行で横浜へ（12分）+ JR横須賀線（35分）' } };
+        }
+        if (a.id === 'yokohama'){
+          return { median: 42, p90: 44.5, direct: true, transfers: 0, verified: true, walkOnly: false,
+                   note: { en:'JR Yokosuka Line direct from Yokohama (42′)', ja:'横浜からJR横須賀線直通（42分）' } };
+        }
+        const diff = Math.abs(45 - a.cumL);
+        const runMin = (a.tier >= 2) ? Math.round(diff * 0.60) : Math.round(diff * 0.72 + 2);
+        const median = runMin + 5 + 42;
+        const hw = a.hw || 3;
+        const p90 = Math.round((median + hw * 0.4 + 4) * 10) / 10;
+        return { median, p90, direct: false, transfers: 1, verified: false, walkOnly: false,
+                 note: { en:'Tōyoko Line to Yokohama + JR Yokosuka Line (42′)', ja:'東横線で横浜へ + JR横須賀線（42分）' } };
+      }
     }
   }
 
@@ -1397,11 +1438,13 @@ function filteredHomes(){
     if (state.fPocket!=='all' && pocketForListing(l)?.id!==state.fPocket) return false;
     if (state.fLayout!=='all' && layoutClass(l)!==state.fLayout) return false;
     if (state.fTier!=='all') {
-      if (state.fTier==='LIVE' && l.tier!=='LIVE') return false;
-      if (state.fTier==='REP' && l.tier!=='REP') return false;
+      if (state.fTier==='LIVE' && (l.status==='FILLED' || l.tier!=='LIVE')) return false;
+      if (state.fTier==='FILLED' && l.status!=='FILLED') return false;
+      if (state.fTier==='REP' && l.tier!=='REP' && l.status!=='FILLED') return false;
       if (state.fTier==='LUXURY' && !(l.rent>=300000)) return false;
     }
-    if (state.fQuick==='live' && l.tier!=='LIVE') return false;
+    if (state.fQuick==='live' && (l.status==='FILLED' || l.tier!=='LIVE')) return false;
+    if (state.fQuick==='filled' && l.status!=='FILLED') return false;
     if (state.fQuick==='luxury' && !(l.rent>=300000)) return false;
     if (state.fQuick==='goal'){
       const med = calcCommute(l.st, state.dest).median;
@@ -1451,8 +1494,9 @@ function homesView(){
   const allHomes = activeHomes();
   const stList = activeStations();
   const goalMin = activeGoalMin();
-  const nLive = allHomes.filter(l=>l.tier==='LIVE').length;
-  const nRep = allHomes.length - nLive;
+  const nLive = allHomes.filter(l => l.status !== 'FILLED' && l.tier === 'LIVE').length;
+  const nFilled = allHomes.filter(l => l.status === 'FILLED' || l.tier === 'REP').length;
+  const nRep = nFilled;
   const nLuxury = allHomes.filter(l=>l.rent>=300000).length;
   const nGoal = allHomes.filter(l => {
     const med = calcCommute(l.st, state.dest).median;
@@ -1530,6 +1574,9 @@ function homesView(){
     <button class="quick-chip ${state.fQuick==='live' || state.fTier==='LIVE'?'on':''}" data-qfilter="live">
       🟢 ${esc(t('tier_live'))} <span class="q-count">${nLive}</span>
     </button>
+    <button class="quick-chip ${state.fQuick==='filled' || state.fTier==='FILLED'?'on':''}" data-qfilter="filled">
+      ⚪ ${esc(LANG.cur==='ja'?'成約参考':'Leased Ref')} <span class="q-count">${nFilled}</span>
+    </button>
     <button class="quick-chip luxury-chip ${state.fQuick==='luxury' || state.fTier==='LUXURY'?'on':''}" data-qfilter="luxury">
       ✨ ${esc(t('tier_luxury'))} <span class="q-count">${nLuxury}</span>
     </button>
@@ -1571,7 +1618,7 @@ function homesView(){
     <select id="ftier" aria-label="${esc(t('f_tier'))}">
       <option value="all">${esc(t('f_tier'))}: ${esc(t('f_all'))}</option>
       <option value="LIVE" ${state.fTier==='LIVE'?'selected':''}>${esc(t('tier_live'))}</option>
-      <option value="REP" ${state.fTier==='REP'?'selected':''}>${esc(t('tier_rep'))}</option>
+      <option value="FILLED" ${state.fTier==='FILLED'?'selected':''}>${esc(LANG.cur==='ja'?'⚪ 成約参考のみ':'⚪ Leased Reference only')}</option>
       <option value="LUXURY" ${state.fTier==='LUXURY'?'selected':''}>${esc(t('tier_luxury'))}</option>
     </select>
     <select id="fsort" aria-label="${esc(t('f_sort'))}">
@@ -1608,7 +1655,8 @@ function card(l){
   const loved = state.loved.has(l.id);
   const listedName = l.listed ? tx(l.listed.st) : '';
   const listedDiff = l.listed && listedName !== (LANG.cur==='ja'?st.ja:st.en);
-  return `<button class="card" data-case="${l.id}" aria-label="${esc(tx(l.name))}">
+  const isFilled = l.status === 'FILLED';
+  return `<button class="card ${isFilled?'is-filled':''}" data-case="${l.id}" aria-label="${esc(tx(l.name))}">
     <div class="cardtop">
       <div class="madori">${madori(l)}</div>
       <div>${rentLine(l)}<div class="factline">${esc(l.layout)}${l.m2?` · ${l.m2}${l.m2Max?'–'+l.m2Max:''}m²`:''}${l.built?` · ${esc(l.built)}`:''}</div></div>
@@ -1619,7 +1667,7 @@ function card(l){
       <div class="stline">${esc(LANG.cur==='ja'?st.ja:st.en)} <span class="ja">${esc(LANG.cur==='ja'?st.en:st.ja)}</span>${l.listed?` <span class="ja">· ${listedDiff?esc(listedName)+' ':''}${l.listed.walk?l.listed.walk+'′':''}</span>`:''}</div>
       <div class="factline">${esc(tx(l.name))}</div>
       <div class="commline">
-        <span class="badge ${l.tier==='LIVE'?'b-live':'b-rep'}">${esc(l.tier==='LIVE'?t('live_badge'):t('rep_badge'))}</span>
+        <span class="badge ${isFilled?'b-filled':(l.tier==='LIVE'?'b-live':'b-rep')}">${esc(isFilled ? (LANG.cur==='ja'?'成約参考':'LEASED REF') : (l.tier==='LIVE'?t('live_badge'):t('rep_badge')))}</span>
         ${l.en_agent?`<span class="badge b-en">${esc(t('en_badge'))}</span>`:''}
         ${l.rent>=300000?`<span class="badge b-luxury">${esc(t('luxury_badge'))}</span>`:''}
         <span class="badge ${c.direct?'b-direct':'b-transfer'}">${esc(c.direct?t('direct'):t('transfer')+' ×'+c.transfers)}</span>
@@ -1955,7 +2003,9 @@ document.addEventListener('click', e => {
     } else {
       state.fQuick = (state.fQuick === qf ? 'all' : qf);
       if (state.fQuick === 'luxury') state.fTier = 'LUXURY';
-      else if (state.fTier === 'LUXURY') state.fTier = 'all';
+      else if (state.fQuick === 'live') state.fTier = 'LIVE';
+      else if (state.fQuick === 'filled') state.fTier = 'FILLED';
+      else if (state.fTier === 'LUXURY' || state.fTier === 'LIVE' || state.fTier === 'FILLED') state.fTier = 'all';
     }
     render(); return;
   }

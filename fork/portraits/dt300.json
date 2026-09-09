@@ -1,0 +1,20 @@
+{
+  "id": "dt300",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "12 storeys — as listed",
+    "built 2016 — as listed",
+    "structure RC — as listed",
+    "address 東京都町田市つくし野１丁目4-10 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 12,
+  "structure": "RC",
+  "built": "2016",
+  "local_path": "portraits/dt300.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E"
+}

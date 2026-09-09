@@ -1,0 +1,20 @@
+{
+  "id": "hb358",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2014 — as listed",
+    "structure wood — as listed",
+    "address 東京都港区六本木６丁目2-14 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "wood",
+  "built": "2014",
+  "local_path": "portraits/hb358.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE2-14%20%E3%83%86%E3%83%A9%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dt247",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "10 storeys — as listed",
+    "built 2023 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横浜市緑区長津田４丁目3-11 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 10,
+  "structure": "RC",
+  "built": "2023",
+  "local_path": "portraits/dt247.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%95%B7%E6%B4%A5%E7%94%B0",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-11%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%95%B7%E6%B4%A5%E7%94%B0"
+}

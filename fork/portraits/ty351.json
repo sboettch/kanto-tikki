@@ -1,0 +1,20 @@
+{
+  "id": "ty351",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2019 — as listed",
+    "structure steel — as listed",
+    "address 東京都目黒区祐天寺２丁目3-7 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "steel",
+  "built": "2019",
+  "local_path": "portraits/ty351.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%A5%90%E5%A4%A9%E5%AF%BA",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%A5%90%E5%A4%A9%E5%AF%BA"
+}

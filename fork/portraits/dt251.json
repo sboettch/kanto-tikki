@@ -1,0 +1,20 @@
+{
+  "id": "dt251",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2015 — as listed",
+    "structure steel — as listed",
+    "address 神奈川県大和市つきみ野４丁目3-15 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "steel",
+  "built": "2015",
+  "local_path": "portraits/dt251.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E%EF%BC%94%E4%B8%81%E7%9B%AE3-15%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E"
+}

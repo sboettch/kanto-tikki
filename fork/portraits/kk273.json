@@ -1,0 +1,20 @@
+{
+  "id": "kk273",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "14 storeys — as listed",
+    "built 2013 — as listed",
+    "structure RC — as listed",
+    "address 東京都港区芝５丁目1-1 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 14,
+  "structure": "RC",
+  "built": "2013",
+  "local_path": "portraits/kk273.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%89%E7%94%B0",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE1-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%89%E7%94%B0"
+}

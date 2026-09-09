@@ -1,0 +1,20 @@
+{
+  "id": "dt351",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "2 storeys — as listed",
+    "built 2019 — as listed",
+    "structure steel — as listed",
+    "address 神奈川県横浜市緑区長津田４丁目3-7 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 2,
+  "structure": "steel",
+  "built": "2019",
+  "local_path": "portraits/dt351_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%95%B7%E6%B4%A5%E7%94%B0",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%95%B7%E6%B4%A5%E7%94%B0"
+}

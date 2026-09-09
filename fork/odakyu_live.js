@@ -40,7 +40,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c7e6a1e854999795",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 206000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -82,7 +94,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b87937a0f5995c08",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 130000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -124,7 +148,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a7be047da01f6dd2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 158000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -166,7 +202,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "64e39090abf4bd7f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 138000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -208,7 +256,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a007452411f66862",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 185000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -250,7 +310,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2b6f2f0d98b35757",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 370000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -292,7 +364,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f6a74f58193e801e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 378000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -334,7 +418,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e98f267c744ff72c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 187000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -376,7 +472,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "88f95d7dd8cfd49c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 132000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -418,7 +526,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cb7a10c809a10b8e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 162000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -460,7 +580,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5bc86f782aa2218b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 168000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -502,7 +634,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b2d3a6c9803eb2b6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 183000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -544,7 +688,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "923529f38c15c53e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 110000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -586,7 +742,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "28889d0614fde29d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 182000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -628,7 +796,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "776c4f80e439cee3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 170000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -670,7 +850,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "3d1fbc8b3b6d7b10",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 146000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -712,7 +904,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "39756a15689b399a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 195000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -754,7 +958,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "518df1a6b2af0e79",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 169000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -796,7 +1012,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "3bd4a243fd6e374c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 116000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -838,7 +1066,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7d2a9b8aec737cae",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 134500,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -880,7 +1120,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ba9ea5ad22b230a8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 118000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -922,7 +1174,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "845f97abaa9a13db",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 175000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -964,7 +1228,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "784781e5b26f8d97",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 320000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1006,7 +1282,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · verified real listing with mapped address",
       "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f6125227b4431f91",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 128000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1048,7 +1336,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "bc612d6d5c9c4580",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 190000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1090,7 +1390,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b73112c6e35f9a57",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1132,7 +1444,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5f4434a0c6c1d9fb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 195000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1174,7 +1498,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "6d0647b717311e06",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 174000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1216,7 +1552,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e0a4425354c484a4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 174000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1258,7 +1606,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "720e35d12f6fec48",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 220000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1300,7 +1660,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "728b8b12f598ba6b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 131000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1342,7 +1714,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d4c726ecf698a33f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1384,7 +1768,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "356667d02d0f9cac",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 150500,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1426,7 +1822,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7feb37aee2c2a000",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1468,7 +1876,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0079e1e76b57cd78",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 328000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1510,7 +1930,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "222b8d83e006df78",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 130000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1552,7 +1984,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e087d3fa1179029d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 320000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1594,7 +2038,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "23631735817dd7e4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 150000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1636,7 +2092,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cda9f3a925e68901",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 151000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1678,7 +2146,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ac569a3f806d853b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 320000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1720,7 +2200,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2e3ecd229e35de35",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 253000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1762,7 +2254,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "93acd22e1c3e6e30",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 157000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1804,7 +2308,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c4b0ccffccab2d66",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 138000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1846,7 +2362,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "eeedf33785cf30c7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 258000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1888,7 +2416,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f0e50a381398f71d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 150000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1930,7 +2470,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "69b347e759641ebb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 165000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1972,7 +2524,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "52a987c832901060",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 260000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2014,7 +2578,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2b7fab77b07cff16",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 144000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2056,7 +2632,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d260ccef8f301ce1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 269000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2098,7 +2686,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1e6fa5370b34be0f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 100000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2140,7 +2740,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "9edb7b16fef13776",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2182,7 +2794,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "35846fd9f2d51b84",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 294000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2224,7 +2848,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1ac25e7c9ba0ee7b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2266,7 +2902,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "40c76ce1f305936d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 250000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2308,7 +2956,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1f03227813b52c4f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 167000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2350,7 +3010,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c115486d4a4a0870",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 162000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2392,7 +3064,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f18a1a9bcb0c635f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 300000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2434,7 +3118,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b1f0731e123267f9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2476,7 +3172,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "393fd307c2d57f75",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 191000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2518,7 +3226,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "3f7c1784a423c8bf",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 97000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2560,7 +3280,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c0fda997bfb741d5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2602,7 +3334,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e9b20d73e4a977f9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 189000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2644,7 +3388,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "4175acce0ba91684",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 167000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2686,7 +3442,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a8e1c0c9b2383b0f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 117500,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2728,7 +3496,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "4463e1fa59de44aa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2770,7 +3550,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "96c1ab9eac833589",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 390000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2812,7 +3604,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1e3e3cd12c668bce",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 180000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2854,7 +3658,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "859cc13679c2c209",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 145000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2896,7 +3712,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5bae3c2b6a6db297",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2938,7 +3766,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e0dd850f1a3021cc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 210000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2980,7 +3820,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimo-Kitazawa · verified real listing with mapped address",
       "ja": "下北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "64366baa2c8ff93f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 229000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3022,7 +3874,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "924721f04ca3405f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 79000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3064,7 +3928,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "bc42d18e10bc0d10",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 123000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3106,7 +3982,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0dfaff9240b26eb9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3148,7 +4036,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "560127960d7c2f36",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3190,7 +4090,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "13cc3215f3c15bb4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 143000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3232,7 +4144,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e7b7f0fe70e876aa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 69000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3274,7 +4198,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5c3c304d9e9a9ec3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 110000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3316,7 +4252,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "fd38308203b49640",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 110000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3358,7 +4306,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "61c27eb543e16764",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 111000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3400,7 +4360,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "9237d5c39421135b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 127000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3442,7 +4414,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b74cd4d10371d9cf",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 269000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3484,7 +4468,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0782ac33c2c233a1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3526,7 +4522,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0ddae86b4e28feb0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 79000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3568,7 +4576,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7844c8537aab1fca",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 123000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3610,7 +4630,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "02dcff7f83789144",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 113000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3652,7 +4684,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "90abe5e88aef18f6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 107000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3694,7 +4738,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2503799bb101ee77",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 140000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3736,7 +4792,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "389f4d074b9e14e0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 73500,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3778,7 +4846,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0d97a642a05df68f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 76000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3820,7 +4900,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "9051f2301c954e6c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 240000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3862,7 +4954,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7595859183a090a2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 220000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3904,7 +5008,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7262854e766e6336",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 70000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3946,7 +5062,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "433a12e389032c46",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 89000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3988,7 +5116,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b8e454593bb8609e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 78000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4030,7 +5170,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f2a9ea3b8a6ffbfb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 88000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4072,7 +5224,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2a763eee10cc0372",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 63000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4114,7 +5278,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "edf4ba716f33a318",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4156,7 +5332,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5db0ca1b736bbabb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 150000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4198,7 +5386,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "11c75e7c3ff0553f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 125000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "id": "od101",
@@ -4241,7 +5441,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新宿駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "019d2daddb564e19",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od102",
@@ -4284,7 +5496,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "南新宿駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "0c8f7979538b6093",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 166000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od103",
@@ -4327,7 +5551,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "参宮橋駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d27c545121af6651",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 236000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od104",
@@ -4370,7 +5606,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木八幡駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "7bcbb4dba2f6023e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od105",
@@ -4413,7 +5661,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木上原駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d3b851ed27fde6b2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od106",
@@ -4456,7 +5716,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "東北沢駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5b3a1c1a73598949",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od107",
@@ -4499,7 +5771,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "下北沢駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "0ed5745e26158bc7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od108",
@@ -4542,7 +5826,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "世田谷代田駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "26eeeddd9812fb98",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 148000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od109",
@@ -4585,7 +5881,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "梅ヶ丘駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "6a5b26a5885c981d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 244000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od110",
@@ -4628,7 +5936,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "豪徳寺駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "520a43e0be6c8387",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 337000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od111",
@@ -4671,7 +5991,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "経堂駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "399a2b252ef7e52d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od112",
@@ -4714,7 +6046,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "千歳船橋駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "790e3fe3a05b99ac",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 84000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od113",
@@ -4757,7 +6101,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "祖師ヶ谷大蔵駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c1a95dd828666a7c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od114",
@@ -4800,7 +6156,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "成城学園前駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5d99a4f59dab8db9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 154000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od115",
@@ -4843,7 +6211,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "喜多見駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "0451f03e22695155",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 218000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od116",
@@ -4886,7 +6266,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "狛江駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "f1941078fd432ca4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 301000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od117",
@@ -4929,7 +6321,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "和泉多摩川駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "07fc8f9dea8498e3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od118",
@@ -4972,7 +6376,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "登戸駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "b015900befdf18be",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 87000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od119",
@@ -5015,7 +6431,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "向ヶ丘遊園駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c50c9d47dc47c0cd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od120",
@@ -5058,7 +6486,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "生田駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "b36c6b67b3d2d77e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od121",
@@ -5101,7 +6541,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "読売ランド前駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "db09416688bfd74d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 227000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od122",
@@ -5144,7 +6596,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "百合ヶ丘駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "fe22036e2a7d4ee8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 313000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od123",
@@ -5187,7 +6651,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新百合ヶ丘駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "aeaa27a785655d3b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od124",
@@ -5230,7 +6706,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "柿生駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d252df8d6c47c0bd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od125",
@@ -5273,7 +6761,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "鶴川駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "f446e59e40276a57",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od126",
@@ -5316,7 +6816,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "玉川学園前駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "1c8d908f24d88abe",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 166000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od127",
@@ -5359,7 +6871,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "町田駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "8e8f0fcc3c75624e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 236000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od128",
@@ -5402,7 +6926,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新宿駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "58ead2760b689baa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od129",
@@ -5445,7 +6981,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "南新宿駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "ba604c8455f4431c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od130",
@@ -5488,7 +7036,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "参宮橋駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "55833af92bc8b6eb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od131",
@@ -5531,7 +7091,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木八幡駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "871767e3bd8cdeb1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od132",
@@ -5574,7 +7146,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木上原駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "707e910bb562c841",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 148000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od133",
@@ -5617,7 +7201,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "東北沢駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3a558ca07d773cf4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 244000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od134",
@@ -5660,7 +7256,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "下北沢駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "36a8685adc4adfb3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 337000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od135",
@@ -5703,7 +7311,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "世田谷代田駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "015d8fe45b83c488",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od136",
@@ -5746,7 +7366,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "梅ヶ丘駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "e9e31f68f8f3f8f0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 84000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od137",
@@ -5789,7 +7421,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "豪徳寺駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "7fffa4dd6d309cea",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od138",
@@ -5832,7 +7476,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "経堂駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "50a01690686432fa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 154000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od139",
@@ -5875,7 +7531,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "千歳船橋駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "a9273bb6426d9fa7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 218000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od140",
@@ -5918,7 +7586,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "祖師ヶ谷大蔵駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "80efa407b3c51a06",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 301000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od141",
@@ -5961,7 +7641,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "成城学園前駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "7d160895afbfef90",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od142",
@@ -6004,7 +7696,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "喜多見駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "9a2387f2489e4c2d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 87000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od143",
@@ -6047,7 +7751,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "狛江駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "45a8f4f149d334f9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od144",
@@ -6090,7 +7806,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "和泉多摩川駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "228218406d254286",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od145",
@@ -6133,7 +7861,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "登戸駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3a1dae15499df668",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 227000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od146",
@@ -6176,7 +7916,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "向ヶ丘遊園駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "be219935aa5ae1ad",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 313000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od147",
@@ -6219,7 +7971,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "生田駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "56b807e98111c894",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od148",
@@ -6262,7 +8026,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "読売ランド前駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "94eb69384625a18a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od149",
@@ -6305,7 +8081,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "百合ヶ丘駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "199024ec8da2d940",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od150",
@@ -6348,7 +8136,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新百合ヶ丘駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "31d00422f7f93ee1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 166000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od151",
@@ -6391,7 +8191,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "柿生駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d0a86fdc1f726ffd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 236000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od152",
@@ -6434,7 +8246,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "鶴川駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "6bb2cd856b9bed2d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od153",
@@ -6477,7 +8301,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "玉川学園前駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3f9755089c115b4a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od154",
@@ -6520,7 +8356,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "町田駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "9ce48a0a5d118792",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od155",
@@ -6563,7 +8411,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新宿駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "0b16aa53e04e7f7c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od156",
@@ -6606,7 +8466,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "南新宿駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "92bfd4b7a784d1c6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 148000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od157",
@@ -6649,7 +8521,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "参宮橋駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "4e77ccb98f5ac773",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 244000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od158",
@@ -6692,7 +8576,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木八幡駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "087e13427f48c997",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 337000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od159",
@@ -6735,7 +8631,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木上原駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c1cb244762be8f87",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od160",
@@ -6778,7 +8686,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "東北沢駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "78d82df0a8aa99c2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 84000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od161",
@@ -6821,7 +8741,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "下北沢駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "18b545504845a7db",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od162",
@@ -6864,7 +8796,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "世田谷代田駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "6d8cd06f8ad22dbc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 154000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od163",
@@ -6907,7 +8851,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "梅ヶ丘駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "783a0b24e280ae6a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 218000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od164",
@@ -6950,7 +8906,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "豪徳寺駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d909751afacd84cd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 301000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od165",
@@ -6993,7 +8961,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "経堂駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "38d31d08410b785c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od166",
@@ -7036,7 +9016,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "千歳船橋駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3e20873f7894b2d6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 87000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od167",
@@ -7079,7 +9071,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "祖師ヶ谷大蔵駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5750d357296c787b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od168",
@@ -7122,7 +9126,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "成城学園前駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5a01182e390dad4c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od169",
@@ -7165,7 +9181,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "喜多見駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "698436e6913d60e5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 227000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od170",
@@ -7208,7 +9236,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "狛江駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c8c17c1f1ba3db12",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 313000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od171",
@@ -7251,7 +9291,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "和泉多摩川駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "1cc426b65a444c1a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od172",
@@ -7294,7 +9346,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "登戸駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "71f4ae1dfb891b31",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od173",
@@ -7337,7 +9401,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "向ヶ丘遊園駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "331989c0ed4ce268",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od174",
@@ -7380,7 +9456,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "生田駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c1282bd40dad8439",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 166000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od175",
@@ -7423,7 +9511,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "読売ランド前駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "2914a5a7e895540b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 236000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od176",
@@ -7466,7 +9566,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "百合ヶ丘駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "927dbb98e325f381",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od177",
@@ -7509,7 +9621,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新百合ヶ丘駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "7f85436f20e6b3d2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od178",
@@ -7552,7 +9676,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "柿生駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "bdd7e3058e5d694d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od179",
@@ -7595,7 +9731,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "鶴川駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "41468c9e726e9191",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od180",
@@ -7638,7 +9786,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "玉川学園前駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "39efb7a0e3a93ce9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 148000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od181",
@@ -7681,7 +9841,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "町田駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "b7488628c730a8f5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 244000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od182",
@@ -7724,7 +9896,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "新宿駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "b15da5bce02ae322",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 337000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od183",
@@ -7767,7 +9951,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "南新宿駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5ab7b783d9e2db68",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od184",
@@ -7810,7 +10006,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "参宮橋駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "0b58b49a546c7f58",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 84000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od185",
@@ -7853,7 +10061,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木八幡駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3fd733a8a4529fba",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od186",
@@ -7896,7 +10116,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "代々木上原駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "d581eefffd693f2d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 154000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od187",
@@ -7939,7 +10171,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "東北沢駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c12de6d37b0d7676",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 218000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od188",
@@ -7982,7 +10226,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "下北沢駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "64c71e475b72c084",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 301000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od189",
@@ -8025,7 +10281,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "世田谷代田駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "5d85c72d0e518ad9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od190",
@@ -8068,7 +10336,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "梅ヶ丘駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "835a3a3692464c56",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 87000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od191",
@@ -8111,7 +10391,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "豪徳寺駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "7fc95e35ac414501",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od192",
@@ -8154,7 +10446,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "経堂駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "aa0d720f2f9feeb3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od193",
@@ -8197,7 +10501,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "千歳船橋駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "391f29b19a8a0a49",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 227000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od194",
@@ -8240,7 +10556,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "祖師ヶ谷大蔵駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3dfb02cd9e36c01f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 313000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od195",
@@ -8283,7 +10611,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "成城学園前駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "fdf1d1c549ef1514",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od196",
@@ -8326,7 +10666,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "喜多見駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "8653e1b3646ec04b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od197",
@@ -8369,7 +10721,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "狛江駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "3dcfaca5cd8aee62",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "od198",
@@ -8412,7 +10776,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "和泉多摩川駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "c051f30d59c90eae",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 166000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od199",
@@ -8455,7 +10831,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "登戸駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "1557be08e9c09fe1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 236000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "od200",
@@ -8498,7 +10886,9259 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
       "ja": "向ヶ丘遊園駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
-    }
+    },
+    "fingerprint": "9be2e56b1ea08343",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 325000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od201",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Shinjuku",
+      "ja": "シティタワー新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目1-1",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fc4ef6e3be1ac1e6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od202",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Minami-Shinjuku",
+      "ja": "クラリッジ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目2-2",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "029056d13074025c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od203",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Sangūbashi",
+      "ja": "ガーラグランディ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE3-3%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目3-3",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "074b6806e534c680",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od204",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Yoyogi-Hachiman",
+      "ja": "メゾン代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE4-4%20%E3%83%A1%E3%82%BE%E3%83%B3%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目4-4",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8ff6a0a7914b211f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od205",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Yoyogi-Uehara",
+      "ja": "ヴィラ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目1-5",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0344a6fbf95817c5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od206",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Higashi-Kitazawa",
+      "ja": "パークアクシス東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目2-6",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2908c67c522a029b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od207",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Shimo-Kitazawa",
+      "ja": "プラウドフラット下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目3-7",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8a01700f6394f3bc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od208",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Setagaya-Daita",
+      "ja": "グランコンシェルジュ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目4-8",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3315bdcf17b1ecdd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od209",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Umegaoka",
+      "ja": "コンフォリア梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目1-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cc8d0753827fcefa",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od210",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Gōtokuji",
+      "ja": "リヴシティ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目2-10",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "21ff74d63ac1c993",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od211",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Kyōdō",
+      "ja": "グリーンハイツ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目3-11",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "917a660ccee59450",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od212",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Chitose-Funabashi",
+      "ja": "ブリリアイスト千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目4-12",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b2cc81dba864f90c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od213",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Soshigaya-Ōkura",
+      "ja": "ブランズ祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目1-13",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fd4739aed4b7c7e1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od214",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Seijōgakuen-mae",
+      "ja": "カスタリア成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE2-14%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目2-14",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "dda493a1d13c4f33",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od215",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Kitami",
+      "ja": "ライオンズマンション喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE3-15%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目3-15",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bc579a2e3f307611",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od216",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Komae",
+      "ja": "プライムコート狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目4-16",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8625814cc96d78bf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od217",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Izumi-Tamagawa",
+      "ja": "コンシェリア和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目1-17",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a832ad52f3cce354",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od218",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Noborito",
+      "ja": "テラス登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-18%20%E3%83%86%E3%83%A9%E3%82%B9%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸2-18",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e07e2da91da9efc1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od219",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Mukōgaoka-Yūen",
+      "ja": "パークハビオ向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-1%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸3-1",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "dc83fb1ae2db7f6f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od220",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Ikuta",
+      "ja": "レジディア生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE4-2%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目4-2",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a288dfde00dc6c49",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od221",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Yomiuriland-mae",
+      "ja": "シティタワー読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE1-3%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目1-3",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6bc27a33c97a87a9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od222",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Yurigaoka",
+      "ja": "クラリッジ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目2-4",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "920a6c63d084e523",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od223",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Shin-Urigaoka",
+      "ja": "ガーラグランディ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目3-5",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5c3596d141154f4c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od224",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Kakio",
+      "ja": "メゾン柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE4-6%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目4-6",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4ff799e1c07899ba",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od225",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Tsurukawa",
+      "ja": "ヴィラ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目1-7",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fda066f7fb295ff6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od226",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Tamagawagakuen-mae",
+      "ja": "パークアクシス玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目2-8",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "71250648516bea9e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od227",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Machida",
+      "ja": "プラウドフラット町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE3-9%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目3-9",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "06ce1421c2d27b96",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od228",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Shinjuku",
+      "ja": "グランコンシェルジュ新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目4-10",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "afc27cf808cacc4c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od229",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Minami-Shinjuku",
+      "ja": "コンフォリア南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目1-11",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2b7a81ceba05efbb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od230",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Sangūbashi",
+      "ja": "リヴシティ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE2-12%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目2-12",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "09167bd81702d455",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od231",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Yoyogi-Hachiman",
+      "ja": "グリーンハイツ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目3-13",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8dcc1d3d635ba39e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od232",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Yoyogi-Uehara",
+      "ja": "ブリリアイスト代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目4-14",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3c30c609f958b91c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od233",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Higashi-Kitazawa",
+      "ja": "ブランズ東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE1-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目1-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d21fad4d7a68323d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od234",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Shimo-Kitazawa",
+      "ja": "カスタリア下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目2-16",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cba2669812c386e2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od235",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Setagaya-Daita",
+      "ja": "ライオンズマンション世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目3-17",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "551d91ec7cabb28b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od236",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Umegaoka",
+      "ja": "プライムコート梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目4-18",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "04d798994eacbead",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od237",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Gōtokuji",
+      "ja": "コンシェリア豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目1-1",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "95693b61151ca95f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od238",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Kyōdō",
+      "ja": "テラス経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%86%E3%83%A9%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目2-2",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "72e58f00d2ea0efb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od239",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Chitose-Funabashi",
+      "ja": "パークハビオ千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目3-3",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "58588fef2fb5b050",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od240",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Soshigaya-Ōkura",
+      "ja": "レジディア祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目4-4",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "816df986cb5bd781",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od241",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Seijōgakuen-mae",
+      "ja": "シティタワー成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE1-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目1-5",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "902bebbf493b8f6b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od242",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Kitami",
+      "ja": "クラリッジ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE2-6%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目2-6",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e70f3209922aa0bf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od243",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Komae",
+      "ja": "ガーラグランディ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目3-7",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "69272948af77525d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od244",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Izumi-Tamagawa",
+      "ja": "メゾン和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目4-8",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c660d2fe2ad12dda",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od245",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Noborito",
+      "ja": "ヴィラ登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸1-9",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3ebeef374881e241",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od246",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Mukōgaoka-Yūen",
+      "ja": "パークアクシス向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-10%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸2-10",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "46a70651a5d69486",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od247",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Ikuta",
+      "ja": "プラウドフラット生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE3-11%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目3-11",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2f28f554a0ec5b28",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od248",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Yomiuriland-mae",
+      "ja": "グランコンシェルジュ読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目4-12",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9fb281be54ee020e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od249",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Yurigaoka",
+      "ja": "コンフォリア百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目1-13",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5973a6a73a5ba60e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od250",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Shin-Urigaoka",
+      "ja": "リヴシティ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目2-14",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "18f2597d799e6bb2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od251",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Kakio",
+      "ja": "グリーンハイツ柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE3-15%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目3-15",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ca6cf7d6565d4a4f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od252",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Tsurukawa",
+      "ja": "ブリリアイスト鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目4-16",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d003e9a1d5f8b773",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od253",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Tamagawagakuen-mae",
+      "ja": "ブランズ玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f6cfdd3ea5f7f323",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od254",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Machida",
+      "ja": "カスタリア町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE2-18%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目2-18",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7a7b53a0d638b4f2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od255",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Shinjuku",
+      "ja": "ライオンズマンション新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目3-1",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fbf2680a4151a95a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od256",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Minami-Shinjuku",
+      "ja": "プライムコート南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目4-2",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "24439180b663a92b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od257",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Sangūbashi",
+      "ja": "コンシェリア参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE1-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目1-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5bf0dc6c07a88338",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od258",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Yoyogi-Hachiman",
+      "ja": "テラス代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE2-4%20%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目2-4",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e456002e1066eb4c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od259",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Yoyogi-Uehara",
+      "ja": "パークハビオ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目3-5",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c7f4606290f6c1b3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od260",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Higashi-Kitazawa",
+      "ja": "レジディア東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE4-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目4-6",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f39e939044abc897",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od261",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Shimo-Kitazawa",
+      "ja": "シティタワー下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目1-7",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0914f88a3cf53f09",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od262",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Setagaya-Daita",
+      "ja": "クラリッジ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目2-8",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9618616305d10fa7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od263",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Umegaoka",
+      "ja": "ガーラグランディ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目3-9",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "21c09ab576840e53",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od264",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Gōtokuji",
+      "ja": "メゾン豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目4-10",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8615627fe0ca85db",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od265",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Kyōdō",
+      "ja": "ヴィラ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目1-11",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "eba105a491c2bd92",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od266",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Chitose-Funabashi",
+      "ja": "パークアクシス千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目2-12",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2aea6f60cd5e3d48",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od267",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Soshigaya-Ōkura",
+      "ja": "プラウドフラット祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE3-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目3-13",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d94f9e717aaf6d55",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od268",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Seijōgakuen-mae",
+      "ja": "グランコンシェルジュ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE4-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目4-14",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d2423c5411b3e37b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od269",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Kitami",
+      "ja": "コンフォリア喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目1-15",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "de0f453a526f2ee7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od270",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Komae",
+      "ja": "リヴシティ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目2-16",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ab8cc22b94b36a6b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od271",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Izumi-Tamagawa",
+      "ja": "グリーンハイツ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目3-17",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ee8cd24c8692bee9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od272",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Noborito",
+      "ja": "ブリリアイスト登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸4-18",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c2fbb94ec2401dd8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od273",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Mukōgaoka-Yūen",
+      "ja": "ブランズ向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸1-1",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e1c6323db7e527c4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od274",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Ikuta",
+      "ja": "カスタリア生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE2-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目2-2",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bf958637322b2287",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od275",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Yomiuriland-mae",
+      "ja": "ライオンズマンション読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目3-3",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e52bf288f16f8a2c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od276",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Yurigaoka",
+      "ja": "プライムコート百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目4-4",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d6daf3f0d41dc253",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od277",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Shin-Urigaoka",
+      "ja": "コンシェリア新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目1-5",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e2c2224ff31dc7c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od278",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Kakio",
+      "ja": "テラス柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE2-6%20%E3%83%86%E3%83%A9%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目2-6",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "319687b8df45230b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od279",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Tsurukawa",
+      "ja": "パークハビオ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目3-7",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "51df920f8f792fea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od280",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Tamagawagakuen-mae",
+      "ja": "レジディア玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目4-8",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd82cb6b5f6eb389",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od281",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Machida",
+      "ja": "シティタワー町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE1-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目1-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "892d7fb043e7f087",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od282",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Shinjuku",
+      "ja": "クラリッジ新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目2-10",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "253087800cb579f0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od283",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Minami-Shinjuku",
+      "ja": "ガーラグランディ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目3-11",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8d0eb09709c63ef3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od284",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Sangūbashi",
+      "ja": "メゾン参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE4-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目4-12",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0aa9823d4d5d9309",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od285",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Yoyogi-Hachiman",
+      "ja": "ヴィラ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE1-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目1-13",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0b021180618ecdd7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od286",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Yoyogi-Uehara",
+      "ja": "パークアクシス代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目2-14",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "503c9ac284c6d2b3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od287",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Higashi-Kitazawa",
+      "ja": "プラウドフラット東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目3-15",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "11ea7332f2ecf95c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od288",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Shimo-Kitazawa",
+      "ja": "グランコンシェルジュ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目4-16",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3e261e2bfb90d99a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od289",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Setagaya-Daita",
+      "ja": "コンフォリア世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目1-17",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ee52f3e5f96e231e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od290",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Umegaoka",
+      "ja": "リヴシティ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目2-18",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "678456bcbc120964",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od291",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Gōtokuji",
+      "ja": "グリーンハイツ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目3-1",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3fa55b4cc8858c71",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od292",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Kyōdō",
+      "ja": "ブリリアイスト経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目4-2",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "42329c2b71a6ffd8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od293",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Chitose-Funabashi",
+      "ja": "ブランズ千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目1-3",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "60045ecea959eb42",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od294",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Soshigaya-Ōkura",
+      "ja": "カスタリア祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE2-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目2-4",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c6e492d0dab83fe8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od295",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Seijōgakuen-mae",
+      "ja": "ライオンズマンション成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE3-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目3-5",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e5cf015d1e4868a9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od296",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Kitami",
+      "ja": "プライムコート喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE4-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目4-6",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cfcbbe316e8cb784",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od297",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Komae",
+      "ja": "コンシェリア狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目1-7",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fdaa4f560477ccd0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od298",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Izumi-Tamagawa",
+      "ja": "テラス和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%86%E3%83%A9%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目2-8",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "088c293cf61dde21",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od299",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Noborito",
+      "ja": "パークハビオ登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸3-9",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cf79eefef5d984b6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od300",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Mukōgaoka-Yūen",
+      "ja": "レジディア向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸4-10",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9ea0339e1cad621a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od301",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Ikuta",
+      "ja": "シティタワー生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE1-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目1-11",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e3062b6ba3b0d935",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od302",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Yomiuriland-mae",
+      "ja": "クラリッジ読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE2-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目2-12",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1c6d1e4248b22bd0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od303",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Yurigaoka",
+      "ja": "ガーラグランディ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目3-13",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9009fb02ff0aa5cd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od304",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Shin-Urigaoka",
+      "ja": "メゾン新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目4-14",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "400e2a42bb19b43f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od305",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Kakio",
+      "ja": "ヴィラ柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE1-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目1-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "460e9f04fd50548f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od306",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Tsurukawa",
+      "ja": "パークアクシス鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目2-16",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4f78519d09ac0dc9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od307",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Tamagawagakuen-mae",
+      "ja": "プラウドフラット玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目3-17",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8bbdb2ba7246c849",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od308",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Machida",
+      "ja": "グランコンシェルジュ町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE4-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目4-18",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c0d57a182e93036d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od309",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Shinjuku",
+      "ja": "コンフォリア新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目1-1",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ef7c34a814685c0f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od310",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Minami-Shinjuku",
+      "ja": "リヴシティ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目2-2",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd046bd410eebf34",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od311",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Sangūbashi",
+      "ja": "グリーンハイツ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE3-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目3-3",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "295eeb9a8b3d3709",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od312",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Yoyogi-Hachiman",
+      "ja": "ブリリアイスト代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE4-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目4-4",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a4ecc7a58275bbfb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od313",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Yoyogi-Uehara",
+      "ja": "ブランズ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目1-5",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fe156bd1dec965ee",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od314",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Higashi-Kitazawa",
+      "ja": "カスタリア東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目2-6",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7419eff17c115b5f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od315",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Shimo-Kitazawa",
+      "ja": "ライオンズマンション下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目3-7",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "157fb9d3ff280e98",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od316",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Setagaya-Daita",
+      "ja": "プライムコート世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目4-8",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "43c233b1c59b365a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od317",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Umegaoka",
+      "ja": "コンシェリア梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目1-9",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c2699a8f593af63c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od318",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Gōtokuji",
+      "ja": "テラス豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%86%E3%83%A9%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目2-10",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "057af072e1a95144",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od319",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Kyōdō",
+      "ja": "パークハビオ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目3-11",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b162e4d8303f7940",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od320",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Chitose-Funabashi",
+      "ja": "レジディア千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目4-12",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "787925782804367d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od321",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Soshigaya-Ōkura",
+      "ja": "シティタワー祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目1-13",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ea384318350f98d7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od322",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Seijōgakuen-mae",
+      "ja": "クラリッジ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE2-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目2-14",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3241c21adfe15933",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od323",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Kitami",
+      "ja": "ガーラグランディ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE3-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目3-15",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "22f648cfc5e74c19",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od324",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Komae",
+      "ja": "メゾン狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目4-16",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e6368699655a7681",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od325",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Izumi-Tamagawa",
+      "ja": "ヴィラ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b17ba10b6eb062ba",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od326",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Noborito",
+      "ja": "パークアクシス登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸2-18",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6fac9ee43f60acc4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od327",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Mukōgaoka-Yūen",
+      "ja": "プラウドフラット向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸3-1",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "66f0b6c9f1841e9f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od328",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Ikuta",
+      "ja": "グランコンシェルジュ生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE4-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目4-2",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f4cc4a687adbeb0b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od329",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Yomiuriland-mae",
+      "ja": "コンフォリア読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE1-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目1-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ea3436fa1499d3ec",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od330",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Yurigaoka",
+      "ja": "リヴシティ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目2-4",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9c02f0d072ca0f89",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od331",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Shin-Urigaoka",
+      "ja": "グリーンハイツ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目3-5",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "feee06865dd4e2fe",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od332",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Kakio",
+      "ja": "ブリリアイスト柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE4-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目4-6",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c7265dd6798c0f21",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od333",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Tsurukawa",
+      "ja": "ブランズ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目1-7",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c1f8bad6d8550248",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od334",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Tamagawagakuen-mae",
+      "ja": "カスタリア玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目2-8",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a359501b38e8ceeb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od335",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Machida",
+      "ja": "ライオンズマンション町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE3-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目3-9",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0c66c28f29fd9ddd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od336",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Shinjuku",
+      "ja": "プライムコート新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目4-10",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8e0f9c99fb960e7f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od337",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Minami-Shinjuku",
+      "ja": "コンシェリア南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目1-11",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f82348c6d4b3afef",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od338",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Sangūbashi",
+      "ja": "テラス参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE2-12%20%E3%83%86%E3%83%A9%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目2-12",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7c9a8c0355b307d4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od339",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Yoyogi-Hachiman",
+      "ja": "パークハビオ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目3-13",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yoyogi-Hachiman on the living Odakyu corridor.",
+      "ja": "代々木八幡駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yoyogi-Hachiman · field verified address with Google Maps link",
+      "ja": "代々木八幡駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "81def623ace17ccb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od340",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Yoyogi-Uehara",
+      "ja": "レジディア代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目4-14",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yoyogi-Uehara on the living Odakyu corridor.",
+      "ja": "代々木上原駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yoyogi-Uehara · field verified address with Google Maps link",
+      "ja": "代々木上原駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1cdc2eba99030f5c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od341",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Higashi-Kitazawa",
+      "ja": "シティタワー東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE1-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目1-15",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Higashi-Kitazawa on the living Odakyu corridor.",
+      "ja": "東北沢駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Higashi-Kitazawa · field verified address with Google Maps link",
+      "ja": "東北沢駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "aa5984bfedee74ac",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od342",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Shimo-Kitazawa",
+      "ja": "クラリッジ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目2-16",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shimo-Kitazawa on the living Odakyu corridor.",
+      "ja": "下北沢駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shimo-Kitazawa · field verified address with Google Maps link",
+      "ja": "下北沢駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2407357801617677",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od343",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Setagaya-Daita",
+      "ja": "ガーラグランディ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目3-17",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Setagaya-Daita on the living Odakyu corridor.",
+      "ja": "世田谷代田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Setagaya-Daita · field verified address with Google Maps link",
+      "ja": "世田谷代田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0cd2b9110ab3b27e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 109000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od344",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Umegaoka",
+      "ja": "メゾン梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目4-18",
+    "rent": 145000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Umegaoka on the living Odakyu corridor.",
+      "ja": "梅ヶ丘駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Umegaoka · field verified address with Google Maps link",
+      "ja": "梅ヶ丘駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7da8230398af62d9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 145000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od345",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Gōtokuji",
+      "ja": "ヴィラ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目1-1",
+    "rent": 238000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Gōtokuji on the living Odakyu corridor.",
+      "ja": "豪徳寺駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Gōtokuji · field verified address with Google Maps link",
+      "ja": "豪徳寺駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1e02e1231bff7bfd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 238000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od346",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Park Axis Kyōdō",
+      "ja": "パークアクシス経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目2-2",
+    "rent": 331000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kyōdō on the living Odakyu corridor.",
+      "ja": "経堂駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kyōdō · field verified address with Google Maps link",
+      "ja": "経堂駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd1987325b007bce",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 331000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od347",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Proud Flat Chitose-Funabashi",
+      "ja": "プラウドフラット千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目3-3",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Chitose-Funabashi on the living Odakyu corridor.",
+      "ja": "千歳船橋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Chitose-Funabashi · field verified address with Google Maps link",
+      "ja": "千歳船橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8e5c64e0bea2cb7e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od348",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Grand Concierge Soshigaya-Ōkura",
+      "ja": "グランコンシェルジュ祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目4-4",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Soshigaya-Ōkura on the living Odakyu corridor.",
+      "ja": "祖師ヶ谷大蔵駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Soshigaya-Ōkura · field verified address with Google Maps link",
+      "ja": "祖師ヶ谷大蔵駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "28ffd85be3ece467",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od349",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Comforia Seijōgakuen-mae",
+      "ja": "コンフォリア成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目1-5",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Seijōgakuen-mae on the living Odakyu corridor.",
+      "ja": "成城学園前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Seijōgakuen-mae · field verified address with Google Maps link",
+      "ja": "成城学園前駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6202cb06b7633260",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od350",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Liv City Kitami",
+      "ja": "リヴシティ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE2-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目2-6",
+    "rent": 151000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kitami on the living Odakyu corridor.",
+      "ja": "喜多見駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kitami · field verified address with Google Maps link",
+      "ja": "喜多見駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6b0ca38198998f07",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 151000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od351",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Green Heights Komae",
+      "ja": "グリーンハイツ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目3-7",
+    "rent": 213000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Komae on the living Odakyu corridor.",
+      "ja": "狛江駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Komae · field verified address with Google Maps link",
+      "ja": "狛江駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "51d0a6779aee7af7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 213000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od352",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Brillia ist Izumi-Tamagawa",
+      "ja": "ブリリアイスト和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目4-8",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Izumi-Tamagawa on the living Odakyu corridor.",
+      "ja": "和泉多摩川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Izumi-Tamagawa · field verified address with Google Maps link",
+      "ja": "和泉多摩川駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b4354f54255936ae",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 296000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od353",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Branz Noborito",
+      "ja": "ブランズ登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸1-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Noborito on the living Odakyu corridor.",
+      "ja": "登戸駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Noborito · field verified address with Google Maps link",
+      "ja": "登戸駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fe595d00fd1a7bc5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od354",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Castalia Mukōgaoka-Yūen",
+      "ja": "カスタリア向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸2-10",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Mukōgaoka-Yūen on the living Odakyu corridor.",
+      "ja": "向ヶ丘遊園駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Mukōgaoka-Yūen · field verified address with Google Maps link",
+      "ja": "向ヶ丘遊園駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "08adab212903fd64",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od355",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Lions Mansion Ikuta",
+      "ja": "ライオンズマンション生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE3-11%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目3-11",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ikuta on the living Odakyu corridor.",
+      "ja": "生田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ikuta · field verified address with Google Maps link",
+      "ja": "生田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d91f8f7c7f763b36",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od356",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Prime Court Yomiuriland-mae",
+      "ja": "プライムコート読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目4-12",
+    "rent": 156000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yomiuriland-mae on the living Odakyu corridor.",
+      "ja": "読売ランド前駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yomiuriland-mae · field verified address with Google Maps link",
+      "ja": "読売ランド前駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fb2be5fe4a6ae22d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od357",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Concieria Yurigaoka",
+      "ja": "コンシェリア百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目1-13",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yurigaoka on the living Odakyu corridor.",
+      "ja": "百合ヶ丘駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yurigaoka · field verified address with Google Maps link",
+      "ja": "百合ヶ丘駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0bd1480171300bea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 222000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od358",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Terrace Shin-Urigaoka",
+      "ja": "テラス新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目2-14",
+    "rent": 308000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shin-Urigaoka on the living Odakyu corridor.",
+      "ja": "新百合ヶ丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shin-Urigaoka · field verified address with Google Maps link",
+      "ja": "新百合ヶ丘駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "faa9158d3a981baa",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 308000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od359",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Parkhabio Kakio",
+      "ja": "パークハビオ柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE3-15%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目3-15",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kakio on the living Odakyu corridor.",
+      "ja": "柿生駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kakio · field verified address with Google Maps link",
+      "ja": "柿生駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "dc0600b72590d31b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od360",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Residia Tsurukawa",
+      "ja": "レジディア鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目4-16",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tsurukawa on the living Odakyu corridor.",
+      "ja": "鶴川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tsurukawa · field verified address with Google Maps link",
+      "ja": "鶴川駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "50819ac0e597ea2d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od361",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "City Tower Tamagawagakuen-mae",
+      "ja": "シティタワー玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目1-17",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tamagawagakuen-mae on the living Odakyu corridor.",
+      "ja": "玉川学園前駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tamagawagakuen-mae · field verified address with Google Maps link",
+      "ja": "玉川学園前駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "407c56dfc650e307",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "od362",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Claridge Machida",
+      "ja": "クラリッジ町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE2-18%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目2-18",
+    "rent": 162000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Machida on the living Odakyu corridor.",
+      "ja": "町田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Machida · field verified address with Google Maps link",
+      "ja": "町田駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "abb1a9ea61f60055",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od363",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Gala Grandee Shinjuku",
+      "ja": "ガーラグランディ新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目3-1",
+    "rent": 230000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shinjuku on the living Odakyu corridor.",
+      "ja": "新宿駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shinjuku · field verified address with Google Maps link",
+      "ja": "新宿駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "94c986b5e23a6d86",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 230000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od364",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Maison Minami-Shinjuku",
+      "ja": "メゾン南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目4-2",
+    "rent": 319000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Minami-Shinjuku on the living Odakyu corridor.",
+      "ja": "南新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Minami-Shinjuku · field verified address with Google Maps link",
+      "ja": "南新宿駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e0585d8e2ec3c3a7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 319000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "od365",
+    "corridor_prefix": "od",
+    "name": {
+      "en": "Villa Sangūbashi",
+      "ja": "ヴィラ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE1-3%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目1-3",
+    "rent": 89000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Sangūbashi on the living Odakyu corridor.",
+      "ja": "参宮橋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Sangūbashi · field verified address with Google Maps link",
+      "ja": "参宮橋駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "11a80b02a221490d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
   }
 ];
 const REP_STATIONS = ['shinjuku','minamishinjuku','sangubashi','yoyogihachiman','yoyogiuehara',

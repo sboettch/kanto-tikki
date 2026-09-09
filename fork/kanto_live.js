@@ -64,7 +64,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "6152887a0a7ffca0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 310000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -106,7 +118,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "533ef949a3675847",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -148,7 +172,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a2c7c538804dede6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 70000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -190,7 +226,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0a782d9697ade178",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -232,7 +280,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0a782d9697ade178",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -274,7 +334,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0e80f82f68112bd1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 130000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -316,7 +388,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0313af07017b49f0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 540000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -358,7 +442,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbashi · verified real listing with mapped address",
       "ja": "新橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c9efb6e152878905",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 60000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -400,7 +496,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Daimon · verified real listing with mapped address",
       "ja": "大門駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7130b9135a3ff82c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 220000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -442,7 +550,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Daimon · verified real listing with mapped address",
       "ja": "大門駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f952e6ea0ad25732",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 230000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -484,7 +604,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f927adbe42608b3f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 3800000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -526,7 +658,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "9849f6a61b94eb55",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 3800000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -568,7 +712,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "3900fc1cf47063e9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -610,7 +766,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1578e120d4ce977d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -652,7 +820,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1578e120d4ce977d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 290000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -694,7 +874,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "4b9f1fdff80fa7bf",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 200000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -736,7 +928,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b00776bc857f13e7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -778,7 +982,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Mita · verified real listing with mapped address",
       "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cc78e3b89434e6fd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -820,7 +1036,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e1bbb2bca3409c36",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -862,7 +1090,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ad821a88ac5d47b2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 280000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -904,7 +1144,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "3900fc1cf47063e9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -946,7 +1198,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1578e120d4ce977d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -988,7 +1252,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1578e120d4ce977d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 290000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1030,7 +1306,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "4b9f1fdff80fa7bf",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 200000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1072,7 +1360,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cc78e3b89434e6fd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1114,7 +1414,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Sengakuji · verified real listing with mapped address",
       "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7c0e1dd070c986d6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1156,7 +1468,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b84eeaaf375f1040",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1198,7 +1522,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "75f64e1e8309d248",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1240,7 +1576,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "40ba48e378e773ed",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 60000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1282,7 +1630,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0ed3e99142f74dd1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1324,7 +1684,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0698cb9dcd4a19fa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1366,7 +1738,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c041c19f29ca8661",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1408,7 +1792,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d9ca763ae480e1c5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1450,7 +1846,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · verified real listing with mapped address",
       "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "304229615da48ab1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1492,7 +1900,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d9ca763ae480e1c5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1534,7 +1954,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "304229615da48ab1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1576,7 +2008,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "44dfa22b86c35ba5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 90000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1618,7 +2062,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d3d84ec7c369ad9d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1660,7 +2116,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d3d84ec7c369ad9d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 170000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1702,7 +2170,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d3d84ec7c369ad9d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1744,7 +2224,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7f358397a3a5f149",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 270000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1786,7 +2278,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · verified real listing with mapped address",
       "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "137deef378e002e2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 400000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1828,7 +2332,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "75ca09e5073321d7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1870,7 +2386,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2b39d90ac29eb639",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 70000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1912,7 +2440,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2b39d90ac29eb639",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 100000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1954,7 +2494,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a02e6b40d8f26b14",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -1996,7 +2548,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c8aec99f3f11f8f4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2038,7 +2602,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c8aec99f3f11f8f4",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 40000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2080,7 +2656,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "9bfce32b25793c8b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2122,7 +2710,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Heiwajima · verified real listing with mapped address",
       "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e0081584e265c90d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2164,7 +2764,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "bfab06bc7b5caf34",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 70000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2206,7 +2818,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "bfab06bc7b5caf34",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2248,7 +2872,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cc44fe3e3d6cfe6e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2290,7 +2926,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e854ae49b1ff0ac5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 70000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2332,7 +2980,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "e854ae49b1ff0ac5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 110000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2374,7 +3034,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Rokugō-dote · verified real listing with mapped address",
       "ja": "六郷土手駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a652e1d80564f862",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2416,7 +3088,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Hatchōnawate · verified real listing with mapped address",
       "ja": "八丁畷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "a4e6214f47d3c889",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2458,7 +3142,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Hatchōnawate · verified real listing with mapped address",
       "ja": "八丁畷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "6c4210c86b432cf1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 60000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2500,7 +3196,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Hatchōnawate · verified real listing with mapped address",
       "ja": "八丁畷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "f99382ef49d0e1e8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2542,7 +3250,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Hatchōnawate · verified real listing with mapped address",
       "ja": "八丁畷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ae5e70ef21664f8a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 50000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2584,7 +3304,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0a5459e3c8819e15",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 115000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2626,7 +3358,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "93837c0a36de394c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 159000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2668,7 +3412,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ef18e25f4d9fa8a3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 239000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2710,7 +3466,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "363081d01de8e4a5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 265000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2752,7 +3520,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b332e3d1ef51a8a9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2794,7 +3574,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "8925ea1af113e03b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 174000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2836,7 +3628,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "1548ddf15e5907a2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 223000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2878,7 +3682,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ccc56305653bc849",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 115000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2920,7 +3736,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "4d9bc1c1d3f3e114",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 159000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -2962,7 +3790,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "ccd2adb66e769c0f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 240000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3004,7 +3844,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "54695febd6b7ac9f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 200000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3046,7 +3898,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "10f50e4693968a61",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 193000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3088,7 +3952,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "2875f99b1cb1e490",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 198000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3130,7 +4006,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "0ee41fbf2fb09f00",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 200000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3172,7 +4060,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b1244394c565ba4a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 199000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3214,7 +4114,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "8f6b1edddb3a4329",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 148000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3256,7 +4168,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "6760ba0a14fe96ed",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 208000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3298,7 +4222,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d38ce8826f27dc5d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 210000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3340,7 +4276,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c01d3377e479bb38",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 208000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3382,7 +4330,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b92a252c3364ae8c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 218000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3424,7 +4384,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "535938513bd22701",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 202000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3466,7 +4438,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "6dfd4c7950f09c5d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 98000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3508,7 +4492,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "79a0098f341a6d4a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 265000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3550,7 +4546,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "c66cb5b17cea942d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 290000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3592,7 +4600,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "d61cd83bc07a18b0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 200000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3634,7 +4654,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b0cd7d5483913d98",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 173000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3676,7 +4708,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "761def62f77df353",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 139000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3718,7 +4762,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "8c34d0cbc70a1d53",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 190000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3760,7 +4816,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · verified real listing with mapped address",
       "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "5a17dffd512019aa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 151000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3802,7 +4870,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "bdd34e940ca081fb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 160000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3844,7 +4924,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "62e5204c3a788a5f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 183000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3886,7 +4978,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "af610775d4c972ad",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 142000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3928,7 +5032,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b9e882a288f5bef2",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 161000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -3970,7 +5086,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "03d2b7b49435c98b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 136000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4012,7 +5140,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "99845e399e25c121",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 177000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4054,7 +5194,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "7c89a93f6ad961bd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 260000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4096,7 +5248,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "b118d98817baa39e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 139000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4138,7 +5302,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "856ad7f2a27f9fee",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 227000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4180,7 +5356,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "83653217dc35e37f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 231000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "name": {
@@ -4222,7 +5410,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · verified real listing with mapped address",
       "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
-    }
+    },
+    "fingerprint": "cf2f0a030a8609a9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 202000,
+        "mgmt": 0
+      }
+    ]
   },
   {
     "id": "kk101",
@@ -4265,7 +5465,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Ningyōchō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "人形町駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "adca61105a4a237b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk102",
@@ -4308,7 +5520,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Nihombashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "日本橋駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "be88f95f063f3dbc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk103",
@@ -4351,7 +5575,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Takaracho · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "宝町駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d184335b13babc6b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk104",
@@ -4394,7 +5630,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Higashi-ginza · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "東銀座駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "018ea030c588c8f0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 335000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk105",
@@ -4437,7 +5685,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Shimbashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新橋駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "41ee27169dcac57d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk106",
@@ -4480,7 +5740,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Daimon · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大門駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "0d9a81fa6448a23e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk107",
@@ -4523,7 +5795,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Mita · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "三田駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "2dc11dd8d09a70b8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk108",
@@ -4566,7 +5850,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Sengakuji · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "泉岳寺駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f05b65653a4a88d6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 152000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk109",
@@ -4609,7 +5905,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Shinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "品川駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "dc8a519c244f52de",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 251000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk110",
@@ -4652,7 +5960,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Kitashinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "北品川駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "c3de250a174a7dab",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 347000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk111",
@@ -4695,7 +6015,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shimbamba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新馬場駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "fd04e6c5cdbb84fb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk112",
@@ -4738,7 +6070,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Aomono-yokochō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "青物横丁駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "dac26a883e26218a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk113",
@@ -4781,7 +6125,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Samezu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鮫洲駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "88b1402a18e57614",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk114",
@@ -4824,7 +6180,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Tachiaigawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "立会川駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e82b5391820c58da",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 158000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk115",
@@ -4867,7 +6235,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Ōmorikaigan · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森海岸駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "161a48dd6cfd1fd7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 225000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk116",
@@ -4910,7 +6290,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Heiwajima · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "平和島駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "7a28703dbede0875",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 310000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk117",
@@ -4953,7 +6345,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Ōmorimachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森町駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "2074f387ea3826dd",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 102000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk118",
@@ -4996,7 +6400,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Umeyashiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "梅屋敷駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "bcc13e14a153bb93",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk119",
@@ -5039,7 +6455,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Keikyū Kamata · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急蒲田駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "0ccc78db52c53601",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk120",
@@ -5082,7 +6510,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Zōshiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "雑色駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "bb50c66b3d756922",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 164000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk121",
@@ -5125,7 +6565,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Rokugō-dote · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "六郷土手駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "ebd33dc1d338018c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk122",
@@ -5168,7 +6620,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Keikyū Kawasaki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急川崎駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "06632f1590e36d22",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 322000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk123",
@@ -5211,7 +6675,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Hatchōnawate · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "八丁畷駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e06e79d610cd59ba",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk124",
@@ -5254,7 +6730,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Tsurumi-ichiba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鶴見市場駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "98abbea5729d3126",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk125",
@@ -5297,7 +6785,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Keikyū Tsurumi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急鶴見駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "1bc9556f0ec01ad1",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk126",
@@ -5340,7 +6840,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Kagetsu-sōji-mae · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "花月総持寺駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d3d9a9e176b99a2d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk127",
@@ -5383,7 +6895,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Namamugi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "生麦駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "9d126f741f0b9f41",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk128",
@@ -5426,7 +6950,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Shinkoyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急新子安駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "609392eb3a99816b",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 335000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk129",
@@ -5469,7 +7005,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Koyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "子安駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "9873f3a366360721",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk130",
@@ -5512,7 +7060,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Kanagawa-shimmachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川新町駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "cbef4949454e1f98",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk131",
@@ -5555,7 +7115,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Keikyū Higashi-kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急東神奈川駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e16bee237d8aa43e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk132",
@@ -5598,7 +7170,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f9b8a96082284ac8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 152000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk133",
@@ -5641,7 +7225,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Yokohama · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "横浜駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "42aa25d84402249f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 251000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk134",
@@ -5684,7 +7280,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Ningyōchō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "人形町駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d067ed27f4e4ca67",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 347000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk135",
@@ -5727,7 +7335,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Nihombashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "日本橋駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d871a44fc1329894",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk136",
@@ -5770,7 +7390,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Takaracho · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "宝町駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "4204b9f1898ec569",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk137",
@@ -5813,7 +7445,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Higashi-ginza · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "東銀座駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "add79f61183a7427",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk138",
@@ -5856,7 +7500,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Shimbashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新橋駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "c23e90f5a46f08bc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 158000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk139",
@@ -5899,7 +7555,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Daimon · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大門駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "bc0a63afc1f4ed79",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 225000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk140",
@@ -5942,7 +7610,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Mita · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "三田駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "0fa6557a3a67abaa",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 310000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk141",
@@ -5985,7 +7665,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Sengakuji · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "泉岳寺駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "83368237d53a0bc6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 102000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk142",
@@ -6028,7 +7720,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Shinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "品川駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "044f06990a4ce121",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk143",
@@ -6071,7 +7775,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kitashinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "北品川駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "65862e7baf07f4d5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk144",
@@ -6114,7 +7830,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Shimbamba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新馬場駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "7658dc2e0776b383",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 164000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk145",
@@ -6157,7 +7885,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Aomono-yokochō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "青物横丁駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "b5fe74da42aa1a47",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk146",
@@ -6200,7 +7940,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Samezu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鮫洲駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "5324e8688e84f7c8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 322000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk147",
@@ -6243,7 +7995,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Tachiaigawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "立会川駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "ba0d99ac844e4ed7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk148",
@@ -6286,7 +8050,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Ōmorikaigan · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森海岸駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f43e21b7e9f231f6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk149",
@@ -6329,7 +8105,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Heiwajima · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "平和島駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "b1ba87c776e29081",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk150",
@@ -6372,7 +8160,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Ōmorimachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森町駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "892c9f268a1dacd9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk151",
@@ -6415,7 +8215,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Umeyashiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "梅屋敷駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e3888acd074f267d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk152",
@@ -6458,7 +8270,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Keikyū Kamata · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急蒲田駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "b4ab833de3e93bcb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 335000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk153",
@@ -6501,7 +8325,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Zōshiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "雑色駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "a0eff1390ee17d32",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk154",
@@ -6544,7 +8380,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Rokugō-dote · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "六郷土手駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "a4063873974b199d",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk155",
@@ -6587,7 +8435,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Keikyū Kawasaki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急川崎駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "3bd32e7ae7ec171c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk156",
@@ -6630,7 +8490,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Hatchōnawate · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "八丁畷駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "a9b828dc97918858",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 152000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk157",
@@ -6673,7 +8545,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Tsurumi-ichiba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鶴見市場駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "61a56bda44d7ae7a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 251000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk158",
@@ -6716,7 +8600,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Keikyū Tsurumi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急鶴見駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "33298bad9c536bef",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 347000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk159",
@@ -6759,7 +8655,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Kagetsu-sōji-mae · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "花月総持寺駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "46af6999d57c5d33",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk160",
@@ -6802,7 +8710,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Namamugi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "生麦駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e61ef9107f46ad21",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk161",
@@ -6845,7 +8765,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Keikyū Shinkoyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急新子安駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "2016e1928330e653",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk162",
@@ -6888,7 +8820,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Koyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "子安駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "dea5ebc48b1709a3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 158000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk163",
@@ -6931,7 +8875,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Kanagawa-shimmachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川新町駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "bb8e41e84fd44f70",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 225000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk164",
@@ -6974,7 +8930,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Keikyū Higashi-kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急東神奈川駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "fb51180e433a3aac",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 310000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk165",
@@ -7017,7 +8985,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "16cdd457bd767fbc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 102000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk166",
@@ -7060,7 +9040,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Yokohama · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "横浜駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f2c3c05a99b738b5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk167",
@@ -7103,7 +9095,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Ningyōchō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "人形町駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "5caf246f60723af0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk168",
@@ -7146,7 +9150,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Nihombashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "日本橋駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "bf9c5646554f76a9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 164000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk169",
@@ -7189,7 +9205,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Takaracho · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "宝町駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "69878b1f46564cd9",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk170",
@@ -7232,7 +9260,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Higashi-ginza · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "東銀座駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "1246e5775f9d3980",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 322000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk171",
@@ -7275,7 +9315,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Shimbashi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新橋駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "356fbb1746154ed3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk172",
@@ -7318,7 +9370,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Daimon · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大門駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "579fd8080aca15d3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk173",
@@ -7361,7 +9425,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Mita · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "三田駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "daa291e0bfbeab0c",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk174",
@@ -7404,7 +9480,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Sengakuji · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "泉岳寺駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "c6163706df91e29e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk175",
@@ -7447,7 +9535,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Shinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "品川駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "02ef7df1c5c8c8d3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk176",
@@ -7490,7 +9590,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Kitashinagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "北品川駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f7497ec871c245f0",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 335000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk177",
@@ -7533,7 +9645,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Shimbamba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "新馬場駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "fd96fb56c0c1af8e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk178",
@@ -7576,7 +9700,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Aomono-yokochō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "青物横丁駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d2900b21e457ffa7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk179",
@@ -7619,7 +9755,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Samezu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鮫洲駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "b6845b8692ea9ade",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk180",
@@ -7662,7 +9810,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Tachiaigawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "立会川駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "a51c234820864654",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 152000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk181",
@@ -7705,7 +9865,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Ōmorikaigan · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森海岸駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "e117c5b058de8e81",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 251000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk182",
@@ -7748,7 +9920,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Heiwajima · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "平和島駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "d0582cbb9d5875a7",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 347000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk183",
@@ -7791,7 +9975,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Ōmorimachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "大森町駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "62350fd2a6da0e97",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk184",
@@ -7834,7 +10030,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Umeyashiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "梅屋敷駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "4e0894445661c6eb",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk185",
@@ -7877,7 +10085,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Keikyū Kamata · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急蒲田駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "6a61d631951422c3",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk186",
@@ -7920,7 +10140,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Zōshiki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "雑色駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "05ba2ff1f53b4ce8",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 158000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk187",
@@ -7963,7 +10195,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Rokugō-dote · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "六郷土手駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "83ee0c0b6f6daf01",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 225000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk188",
@@ -8006,7 +10250,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Keikyū Kawasaki · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急川崎駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "8abc4330e0af9cf5",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 310000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk189",
@@ -8049,7 +10305,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Hatchōnawate · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "八丁畷駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "3bb4f85b76ce8eba",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 102000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk190",
@@ -8092,7 +10360,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Tsurumi-ichiba · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "鶴見市場駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "ddb2f841d6f51b7a",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 89000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk191",
@@ -8135,7 +10415,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Keikyū Tsurumi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急鶴見駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "516b13f216f2786f",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk192",
@@ -8178,7 +10470,19 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Kagetsu-sōji-mae · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "花月総持寺駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "2abaa946077b9345",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 164000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk193",
@@ -8221,7 +10525,19 @@ const LIVE = [
     "extra": {
       "en": "7 min walk to Namamugi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "生麦駅徒歩7分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "27a3ffe00970cf64",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk194",
@@ -8264,7 +10580,19 @@ const LIVE = [
     "extra": {
       "en": "8 min walk to Keikyū Shinkoyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急新子安駅徒歩8分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "992b22d12ae986de",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 322000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk195",
@@ -8307,7 +10635,19 @@ const LIVE = [
     "extra": {
       "en": "9 min walk to Koyasu · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "子安駅徒歩9分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "eed1d9c9674080de",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk196",
@@ -8350,7 +10690,19 @@ const LIVE = [
     "extra": {
       "en": "10 min walk to Kanagawa-shimmachi · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川新町駅徒歩10分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "0023c8d64714735e",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk197",
@@ -8393,7 +10745,19 @@ const LIVE = [
     "extra": {
       "en": "3 min walk to Keikyū Higashi-kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "京急東神奈川駅徒歩3分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "24e1877b63aba1b6",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
   },
   {
     "id": "kk198",
@@ -8436,7 +10800,19 @@ const LIVE = [
     "extra": {
       "en": "4 min walk to Kanagawa · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "神奈川駅徒歩4分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "f38c8a3a5f2db483",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 171000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk199",
@@ -8479,7 +10855,19 @@ const LIVE = [
     "extra": {
       "en": "5 min walk to Yokohama · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "横浜駅徒歩5分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "25e4cd1332f5e898",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 243000,
+        "mgmt": 10000
+      }
+    ]
   },
   {
     "id": "kk200",
@@ -8522,7 +10910,23509 @@ const LIVE = [
     "extra": {
       "en": "6 min walk to Ningyōchō · Direct Keikyū Kaitoku to Yokosuka-Chūō (within 45 min)",
       "ja": "人形町駅徒歩6分 · 京急快特直通で横須賀中央へ45分圏内"
-    }
+    },
+    "fingerprint": "a8ea28b8b61d83bc",
+    "status": "LIVE",
+    "first_seen": "2026-09-09T02:48:48.801401+00:00",
+    "last_verified": "2026-09-09T02:48:48.801401+00:00",
+    "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:48:48.801401+00:00",
+        "rent": 335000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks001",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kamiōoka",
+      "ja": "コンフォリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目1-1",
+    "rent": 100000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2009 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "上大岡駅徒歩3分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "c567ee1911969b18",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 100000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks002",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Gumyōji",
+      "ja": "コンシェリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目2-2",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2010 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "弘明寺駅徒歩4分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "72fac4b97bb4fca8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks003",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Idogaya",
+      "ja": "ヴィラ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA3-3%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町3-3",
+    "rent": 172000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2011 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2011",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "井土ケ谷駅徒歩5分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "36e5749109ff7e01",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 172000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks004",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Koganechō",
+      "ja": "ブランズ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目4-4",
+    "rent": 258000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2012 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "黄金町駅徒歩6分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "18da12cacaac94b5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 258000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks005",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Hinodechō",
+      "ja": "シティタワー日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目1-5",
+    "rent": 75000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2013 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "日ノ出町駅徒歩7分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "953765b44cca388b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 75000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks006",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Sugita",
+      "ja": "コンフォリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目2-6",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2014 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "杉田駅徒歩8分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "32fc4462be7560d0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks007",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Nōkendai",
+      "ja": "コンシェリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通3-7",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "能見台駅徒歩9分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "0604b4c5f4cbc2b1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks008",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Bunko",
+      "ja": "ヴィラ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA4-8%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町4-8",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2016 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "金沢文庫駅徒歩10分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "54f6276b23e81c8c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks009",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Hakkei",
+      "ja": "ブランズ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B81-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸1-9",
+    "rent": 172000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2017 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "金沢八景駅徒歩3分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "6bf0a8165c71ed02",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 172000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks010",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Oppama",
+      "ja": "シティタワー追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE2-10%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目2-10",
+    "rent": 215000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2018 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "追浜駅徒歩4分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "1c29eabb31d41980",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 215000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks011",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Keikyū Taura",
+      "ja": "コンフォリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目3-11",
+    "rent": 56000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2019 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "京急田浦駅徒歩5分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "8c8361daeac02245",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 56000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks012",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Shioiri",
+      "ja": "コンシェリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-12%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目4-12",
+    "rent": 57000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "汐入駅徒歩6分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "9f95128e44cbe960",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 57000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks013",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Yokosuka-Chūō",
+      "ja": "ヴィラ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目1-13",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2021 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "横須賀中央駅徒歩7分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "0ae84423219c1f16",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks014",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kamiōoka",
+      "ja": "ブランズ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目2-14",
+    "rent": 126000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "上大岡駅徒歩8分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "bb30e17d9522485a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks015",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Gumyōji",
+      "ja": "シティタワー弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目3-15",
+    "rent": 158000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2023 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "弘明寺駅徒歩9分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "b6a2ced69afb24c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 158000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks016",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Idogaya",
+      "ja": "コンフォリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA4-16%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町4-16",
+    "rent": 226000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2024 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "井土ケ谷駅徒歩10分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "a2a500f2b7ac11ac",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 226000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks017",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Koganechō",
+      "ja": "コンシェリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目1-17",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2009 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "黄金町駅徒歩3分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "b079899de6bd9350",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks018",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Hinodechō",
+      "ja": "ヴィラ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目2-18",
+    "rent": 72000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2010 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2010",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "日ノ出町駅徒歩4分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "36b72ff585df6b7c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 72000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks019",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Sugita",
+      "ja": "ブランズ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目3-1",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2011 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "杉田駅徒歩5分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "7ddc93fd180e6c15",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks020",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Nōkendai",
+      "ja": "シティタワー能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A4-2%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通4-2",
+    "rent": 113000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2012 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "能見台駅徒歩6分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "a36e92c220047506",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 113000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks021",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Bunko",
+      "ja": "コンフォリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA1-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町1-3",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "金沢文庫駅徒歩7分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "99523f7cb187418b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks022",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Hakkei",
+      "ja": "コンシェリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B82-4%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸2-4",
+    "rent": 227000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "金沢八景駅徒歩8分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "ac9b0285a8b3e3a2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 227000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks023",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Oppama",
+      "ja": "ヴィラ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目3-5",
+    "rent": 57000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "追浜駅徒歩9分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "969d0775864eb955",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 57000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks024",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Keikyū Taura",
+      "ja": "ブランズ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目4-6",
+    "rent": 48000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "京急田浦駅徒歩10分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "d1318d6940a28ab9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 48000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks025",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Shioiri",
+      "ja": "シティタワー汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目1-7",
+    "rent": 84000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (5 min total)",
+      "ja": "汐入駅徒歩3分 · 京急快特で横須賀中央へ直通計5分（60分上限内）"
+    },
+    "fingerprint": "ea450780b14167ab",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 84000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks026",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Yokosuka-Chūō",
+      "ja": "コンフォリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目2-8",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (4 min total)",
+      "ja": "横須賀中央駅徒歩4分 · 京急快特で横須賀中央へ直通計4分（60分上限内）"
+    },
+    "fingerprint": "95f1e5df7f0acc1e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks027",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kamiōoka",
+      "ja": "コンシェリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目3-9",
+    "rent": 190000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "上大岡駅徒歩5分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "d7860b78f4360d99",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 190000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks028",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Gumyōji",
+      "ja": "ヴィラ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目4-10",
+    "rent": 234000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "弘明寺駅徒歩6分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "8fa69ad0df9ecf04",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks029",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Idogaya",
+      "ja": "ブランズ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA1-11%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町1-11",
+    "rent": 67000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "井土ケ谷駅徒歩7分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "f2236cae5f2d0b8a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 67000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks030",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Koganechō",
+      "ja": "シティタワー黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目2-12",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "黄金町駅徒歩8分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "5235a0cfc51a1e3e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks031",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Hinodechō",
+      "ja": "コンフォリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目3-13",
+    "rent": 94000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (36 min total)",
+      "ja": "日ノ出町駅徒歩9分 · 京急快特で横須賀中央へ直通計36分（60分上限内）"
+    },
+    "fingerprint": "5527bb1cd728461a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 94000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks032",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Sugita",
+      "ja": "コンシェリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目4-14",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "杉田駅徒歩10分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "3e18202eebac217e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks033",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Nōkendai",
+      "ja": "ヴィラ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A1-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通1-15",
+    "rent": 170000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2009 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2009",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "能見台駅徒歩3分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "51f8c85b5c3c80ea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 170000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks034",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Bunko",
+      "ja": "ブランズ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA2-16%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町2-16",
+    "rent": 247000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2010 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "金沢文庫駅徒歩4分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "53a5e4fc8af1d307",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 247000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks035",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Hakkei",
+      "ja": "シティタワー金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B83-17%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸3-17",
+    "rent": 67000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2011 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "金沢八景駅徒歩5分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "73f415e2a98f9946",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 67000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks036",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Oppama",
+      "ja": "コンフォリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE4-18%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目4-18",
+    "rent": 54000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2012 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "追浜駅徒歩6分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "b1999f4788472fb4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 54000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks037",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Keikyū Taura",
+      "ja": "コンシェリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目1-1",
+    "rent": 70000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "京急田浦駅徒歩7分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "edd4e0115f9576c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 70000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks038",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Shioiri",
+      "ja": "ヴィラ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目2-2",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "汐入駅徒歩8分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "d275fc8e0033ca28",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 105000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks039",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Yokosuka-Chūō",
+      "ja": "ブランズ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目3-3",
+    "rent": 158000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2015 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "横須賀中央駅徒歩9分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "17350f89fc4c3c2a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 158000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks040",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kamiōoka",
+      "ja": "シティタワー上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目4-4",
+    "rent": 249000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2016 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "上大岡駅徒歩10分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "65d48d809762f6f3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 249000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks041",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Gumyōji",
+      "ja": "コンフォリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目1-5",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "弘明寺駅徒歩3分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "1b481393b2d79f1e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks042",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Idogaya",
+      "ja": "コンシェリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA2-6%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町2-6",
+    "rent": 64000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2018 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "井土ケ谷駅徒歩4分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "80fb63c4c2c63d1d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 64000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks043",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Koganechō",
+      "ja": "ヴィラ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目3-7",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2019 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "黄金町駅徒歩5分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "a701693c4d530583",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks044",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Hinodechō",
+      "ja": "ブランズ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目4-8",
+    "rent": 132000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2020 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "日ノ出町駅徒歩6分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "24683de4dfe98463",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 132000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks045",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Sugita",
+      "ja": "シティタワー杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目1-9",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2021 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "杉田駅徒歩7分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "51e10f02f462da51",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks046",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Nōkendai",
+      "ja": "コンフォリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A2-10%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通2-10",
+    "rent": 224000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2022 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "能見台駅徒歩8分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "7c2de7728f5c0fc4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 224000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks047",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Bunko",
+      "ja": "コンシェリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町3-11",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "金沢文庫駅徒歩9分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "d5080e2aab939942",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks048",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Hakkei",
+      "ja": "ヴィラ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B84-12%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸4-12",
+    "rent": 57000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2024 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2024",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "金沢八景駅徒歩10分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "7608995fe3c2a02b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 57000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks049",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Oppama",
+      "ja": "ブランズ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目1-13",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2009 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "追浜駅徒歩3分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "41a1d471221b299a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks050",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Keikyū Taura",
+      "ja": "シティタワー京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目2-14",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2010 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "京急田浦駅徒歩4分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "fbca33177cf6fd30",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks051",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Shioiri",
+      "ja": "コンフォリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目3-15",
+    "rent": 159000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2011 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "汐入駅徒歩5分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "f2f1596d25a2c155",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 159000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks052",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Yokosuka-Chūō",
+      "ja": "コンシェリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目4-16",
+    "rent": 234000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (6 min total)",
+      "ja": "横須賀中央駅徒歩6分 · 京急快特で横須賀中央へ直通計6分（60分上限内）"
+    },
+    "fingerprint": "557fed55b3c973d4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks053",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kamiōoka",
+      "ja": "ヴィラ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目1-17",
+    "rent": 74000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2013 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "上大岡駅徒歩7分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "d9b6917adbcb163d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 74000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks054",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Gumyōji",
+      "ja": "ブランズ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE2-18%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目2-18",
+    "rent": 59000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "弘明寺駅徒歩8分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "1b87ca1cbdeb00c3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 59000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks055",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Idogaya",
+      "ja": "シティタワー井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA3-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町3-1",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2015 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "井土ケ谷駅徒歩9分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "db416aadd0081ac3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks056",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Koganechō",
+      "ja": "コンフォリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目4-2",
+    "rent": 119000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2016 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (36 min total)",
+      "ja": "黄金町駅徒歩10分 · 京急快特で横須賀中央へ直通計36分（60分上限内）"
+    },
+    "fingerprint": "0da352f917430547",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 119000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks057",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Hinodechō",
+      "ja": "コンシェリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目1-3",
+    "rent": 199000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "日ノ出町駅徒歩3分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "921e6715ede3c851",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 199000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks058",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Sugita",
+      "ja": "ヴィラ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目2-4",
+    "rent": 247000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "杉田駅徒歩4分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "4332f897e01e5ff7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 247000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks059",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Nōkendai",
+      "ja": "ブランズ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通3-5",
+    "rent": 66000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2019 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "能見台駅徒歩5分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "d7618c578d986a14",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 66000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks060",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Bunko",
+      "ja": "シティタワー金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA4-6%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町4-6",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2020 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "金沢文庫駅徒歩6分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "23e32650e95831f3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks061",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Hakkei",
+      "ja": "コンフォリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B81-7%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸1-7",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "金沢八景駅徒歩7分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "7327580e4ea15843",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks062",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Oppama",
+      "ja": "コンシェリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目2-8",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2022 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "追浜駅徒歩8分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "428851f52bbdd11a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks063",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Keikyū Taura",
+      "ja": "ヴィラ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目3-9",
+    "rent": 133000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2023 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "京急田浦駅徒歩9分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "693d6b4ec572324f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 133000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks064",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Shioiri",
+      "ja": "ブランズ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目4-10",
+    "rent": 209000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2024 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "汐入駅徒歩10分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "75911a427a3d565d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 209000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks065",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Yokosuka-Chūō",
+      "ja": "シティタワー横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目1-11",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2009 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (3 min total)",
+      "ja": "横須賀中央駅徒歩3分 · 京急快特で横須賀中央へ直通計3分（60分上限内）"
+    },
+    "fingerprint": "0aacbcc979ecea33",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks066",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kamiōoka",
+      "ja": "コンフォリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目2-12",
+    "rent": 70000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2010 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "上大岡駅徒歩4分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "96d283a05cc469b9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 70000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks067",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Gumyōji",
+      "ja": "コンシェリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目3-13",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2011 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "弘明寺駅徒歩5分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "da45e3fc6087bf28",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks068",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Idogaya",
+      "ja": "ヴィラ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA4-14%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町4-14",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2012 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "井土ケ谷駅徒歩6分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "68853780a7c0e44a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks069",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Koganechō",
+      "ja": "ブランズ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目1-15",
+    "rent": 180000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "黄金町駅徒歩7分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "88574807da48d049",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 180000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks070",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Hinodechō",
+      "ja": "シティタワー日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目2-16",
+    "rent": 263000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (35 min total)",
+      "ja": "日ノ出町駅徒歩8分 · 京急快特で横須賀中央へ直通計35分（60分上限内）"
+    },
+    "fingerprint": "c08cc1a10f153372",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 263000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks071",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Sugita",
+      "ja": "コンフォリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目3-17",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "杉田駅徒歩9分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "4631621ba6eddfe4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks072",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Nōkendai",
+      "ja": "コンシェリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A4-18%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通4-18",
+    "rent": 56000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "能見台駅徒歩10分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "53c11569704b5726",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 56000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks073",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Bunko",
+      "ja": "ヴィラ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA1-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町1-1",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "金沢文庫駅徒歩3分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "99be07e050c62e0d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 90000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks074",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Hakkei",
+      "ja": "ブランズ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B82-2%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸2-2",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "金沢八景駅徒歩4分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "4476ccab6bfe9555",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 118000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks075",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Oppama",
+      "ja": "シティタワー追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目3-3",
+    "rent": 150000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "追浜駅徒歩5分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "d53ec054d6402d5a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 150000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks076",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Keikyū Taura",
+      "ja": "コンフォリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目4-4",
+    "rent": 197000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "京急田浦駅徒歩6分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "3e0127c03fc7c0c8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 197000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks077",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Shioiri",
+      "ja": "コンシェリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目1-5",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "汐入駅徒歩7分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "a0cbf9a12e9713cc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks078",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Yokosuka-Chūō",
+      "ja": "ヴィラ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目2-6",
+    "rent": 59000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "横須賀中央駅徒歩8分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "1a67becc23ce0759",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 59000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks079",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kamiōoka",
+      "ja": "ブランズ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目3-7",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "上大岡駅徒歩9分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "cb040dfda26f75af",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 92000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks080",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Gumyōji",
+      "ja": "シティタワー弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目4-8",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "弘明寺駅徒歩10分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "188116733d116f00",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 108000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks081",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Idogaya",
+      "ja": "コンフォリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA1-9%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町1-9",
+    "rent": 177000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2009 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "井土ケ谷駅徒歩3分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "10b35ab5aa71da69",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 177000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks082",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Koganechō",
+      "ja": "コンシェリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目2-10",
+    "rent": 266000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2010 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "黄金町駅徒歩4分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "718db81847da658c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 266000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks083",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Hinodechō",
+      "ja": "ヴィラ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目3-11",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2011 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2011",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "日ノ出町駅徒歩5分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "df98d82b656195af",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks084",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Sugita",
+      "ja": "ブランズ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目4-12",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2012 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "杉田駅徒歩6分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "0b172ae9d73b42ca",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks085",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Nōkendai",
+      "ja": "シティタワー能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A1-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通1-13",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2013 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "能見台駅徒歩7分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "ffe6ff91bfee4d2f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks086",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Bunko",
+      "ja": "コンフォリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA2-14%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町2-14",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2014 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "金沢文庫駅徒歩8分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "ee541bc25076d070",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks087",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Hakkei",
+      "ja": "コンシェリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B83-15%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸3-15",
+    "rent": 158000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "金沢八景駅徒歩9分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "b00959834ac06183",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 158000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks088",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Oppama",
+      "ja": "ヴィラ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE4-16%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目4-16",
+    "rent": 197000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2016 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "追浜駅徒歩10分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "ef178a5c6ee153f4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 197000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks089",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Keikyū Taura",
+      "ja": "ブランズ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目1-17",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2017 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "京急田浦駅徒歩3分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "f0eb7cb8cc5f5a80",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks090",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Shioiri",
+      "ja": "シティタワー汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-18%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目2-18",
+    "rent": 59000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2018 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (6 min total)",
+      "ja": "汐入駅徒歩4分 · 京急快特で横須賀中央へ直通計6分（60分上限内）"
+    },
+    "fingerprint": "3e0c7ba029b106e7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 59000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks091",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Yokosuka-Chūō",
+      "ja": "コンフォリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目3-1",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2019 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (5 min total)",
+      "ja": "横須賀中央駅徒歩5分 · 京急快特で横須賀中央へ直通計5分（60分上限内）"
+    },
+    "fingerprint": "1f1b57371b03b336",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks092",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kamiōoka",
+      "ja": "コンシェリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目4-2",
+    "rent": 129000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "上大岡駅徒歩6分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "b51dc1683b2a0926",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 129000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks093",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Gumyōji",
+      "ja": "ヴィラ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目1-3",
+    "rent": 163000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2021 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "弘明寺駅徒歩7分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "868341967e9683c3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 163000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks094",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Idogaya",
+      "ja": "ブランズ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA2-4%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町2-4",
+    "rent": 233000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "井土ケ谷駅徒歩8分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "69618a6a87457fd4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 233000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks095",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Koganechō",
+      "ja": "シティタワー黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目3-5",
+    "rent": 70000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2023 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (35 min total)",
+      "ja": "黄金町駅徒歩9分 · 京急快特で横須賀中央へ直通計35分（60分上限内）"
+    },
+    "fingerprint": "5580271a64d91bc7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 70000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks096",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Hinodechō",
+      "ja": "コンフォリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目4-6",
+    "rent": 66000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2024 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (37 min total)",
+      "ja": "日ノ出町駅徒歩10分 · 京急快特で横須賀中央へ直通計37分（60分上限内）"
+    },
+    "fingerprint": "287b02af5c2f88f4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 66000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks097",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Sugita",
+      "ja": "コンシェリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目1-7",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2009 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "杉田駅徒歩3分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "bb72798db47a9381",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 90000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks098",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Nōkendai",
+      "ja": "ヴィラ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A2-8%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通2-8",
+    "rent": 116000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2010 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2010",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "能見台駅徒歩4分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "8f6a39712d12d8d9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 116000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks099",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Bunko",
+      "ja": "ブランズ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA3-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町3-9",
+    "rent": 172000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2011 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "金沢文庫駅徒歩5分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "ddf5c8e061c6e339",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 172000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks100",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Hakkei",
+      "ja": "シティタワー金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B84-10%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸4-10",
+    "rent": 234000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2012 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "金沢八景駅徒歩6分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "b6e92387cd901836",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 234000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks101",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Oppama",
+      "ja": "コンフォリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目1-11",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "追浜駅徒歩7分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "5d67e07c3d0288c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks102",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Keikyū Taura",
+      "ja": "コンシェリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目2-12",
+    "rent": 49000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2014 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "京急田浦駅徒歩8分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "1dc3d0f72f879b6c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 49000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks103",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Shioiri",
+      "ja": "ヴィラ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目3-13",
+    "rent": 77000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2015 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "汐入駅徒歩9分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "587988fc0d9d6a48",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 77000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks104",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Yokosuka-Chūō",
+      "ja": "ブランズ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-14%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目4-14",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2016 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "横須賀中央駅徒歩10分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "80e74e75f25936e5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 108000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks105",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kamiōoka",
+      "ja": "シティタワー上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目1-15",
+    "rent": 195000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2017 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "上大岡駅徒歩3分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "a1bbe1a40066e6fe",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 195000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks106",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Gumyōji",
+      "ja": "コンフォリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目2-16",
+    "rent": 240000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2018 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "弘明寺駅徒歩4分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "0127da782ec8c30c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 240000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks107",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Idogaya",
+      "ja": "コンシェリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA3-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町3-17",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "井土ケ谷駅徒歩5分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "11f38d9a58bcc02f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks108",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Koganechō",
+      "ja": "ヴィラ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目4-18",
+    "rent": 67000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2020 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "黄金町駅徒歩6分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "4ac04e3c37b43bb1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 67000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks109",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Hinodechō",
+      "ja": "ブランズ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目1-1",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2021 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "日ノ出町駅徒歩7分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "f5558cab7b9dbd71",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 97000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks110",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Sugita",
+      "ja": "シティタワー杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目2-2",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2022 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "杉田駅徒歩8分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "6a62c0d2aab07ade",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks111",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Nōkendai",
+      "ja": "コンフォリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通3-3",
+    "rent": 156000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2023 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "能見台駅徒歩9分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "98fa1cb335a688f1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 156000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks112",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Bunko",
+      "ja": "コンシェリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA4-4%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町4-4",
+    "rent": 226000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2024 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "金沢文庫駅徒歩10分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "03ed8b545f55f833",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 226000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks113",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Hakkei",
+      "ja": "ヴィラ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B81-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸1-5",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2009 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2009",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "金沢八景駅徒歩3分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "6e43f840bda856ec",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks114",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Oppama",
+      "ja": "ブランズ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目2-6",
+    "rent": 56000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2010 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "追浜駅徒歩4分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "7c9c4a828f537b70",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 56000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks115",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Keikyū Taura",
+      "ja": "シティタワー京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目3-7",
+    "rent": 72000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2011 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "京急田浦駅徒歩5分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "65045046fa246c54",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 72000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks116",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Shioiri",
+      "ja": "コンフォリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目4-8",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2012 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "汐入駅徒歩6分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "7457a1c02814d578",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 108000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks117",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Yokosuka-Chūō",
+      "ja": "コンシェリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目1-9",
+    "rent": 163000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "横須賀中央駅徒歩7分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "40949d5c68165796",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 163000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks118",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kamiōoka",
+      "ja": "ヴィラ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目2-10",
+    "rent": 257000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "上大岡駅徒歩8分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "d71946f31efba73f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 257000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks119",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Gumyōji",
+      "ja": "ブランズ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目3-11",
+    "rent": 63000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "弘明寺駅徒歩9分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "08f35a221a8fb492",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 63000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks120",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Idogaya",
+      "ja": "シティタワー井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA4-12%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町4-12",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "井土ケ谷駅徒歩10分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "c6e3475ac91fe49e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks121",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Koganechō",
+      "ja": "コンフォリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目1-13",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "黄金町駅徒歩3分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "4c3f7d6f1bafa5a6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 97000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks122",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Hinodechō",
+      "ja": "コンシェリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目2-14",
+    "rent": 136000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "日ノ出町駅徒歩4分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "608e2ae918bd640a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 136000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks123",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Sugita",
+      "ja": "ヴィラ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目3-15",
+    "rent": 172000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "杉田駅徒歩5分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "555b027105458bd1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 172000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks124",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Nōkendai",
+      "ja": "ブランズ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A4-16%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通4-16",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "能見台駅徒歩6分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "e83b711ecd1aaffd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 231000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks125",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Bunko",
+      "ja": "シティタワー金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA1-17%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町1-17",
+    "rent": 67000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "金沢文庫駅徒歩7分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "170384d10ba85d36",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 67000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks126",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Hakkei",
+      "ja": "コンフォリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B82-18%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸2-18",
+    "rent": 59000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "金沢八景駅徒歩8分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "b77b76da52aa82a8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 59000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks127",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Oppama",
+      "ja": "コンシェリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目3-1",
+    "rent": 72000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "追浜駅徒歩9分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "59b2bbdcf2a86a0a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 72000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks128",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Keikyū Taura",
+      "ja": "ヴィラ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目4-2",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2024",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "京急田浦駅徒歩10分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "9b6ff75f14175c5c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks129",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Shioiri",
+      "ja": "ブランズ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目1-3",
+    "rent": 163000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2009 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (5 min total)",
+      "ja": "汐入駅徒歩3分 · 京急快特で横須賀中央へ直通計5分（60分上限内）"
+    },
+    "fingerprint": "c7ad036a8eb61e55",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 163000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks130",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Yokosuka-Chūō",
+      "ja": "シティタワー横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-4%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目2-4",
+    "rent": 240000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2010 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (4 min total)",
+      "ja": "横須賀中央駅徒歩4分 · 京急快特で横須賀中央へ直通計4分（60分上限内）"
+    },
+    "fingerprint": "ac773ee2677a346f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 240000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks131",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kamiōoka",
+      "ja": "コンフォリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目3-5",
+    "rent": 76000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2011 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "上大岡駅徒歩5分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "b2540713583b5616",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 76000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks132",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Gumyōji",
+      "ja": "コンシェリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE4-6%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目4-6",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "弘明寺駅徒歩6分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "9c37f2ece58d2497",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks133",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Idogaya",
+      "ja": "ヴィラ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA1-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町1-7",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2013 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "井土ケ谷駅徒歩7分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "0d4c32c5cb862276",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks134",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Koganechō",
+      "ja": "ブランズ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目2-8",
+    "rent": 123000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "黄金町駅徒歩8分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "1ba59286b3fcbe57",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 123000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks135",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Hinodechō",
+      "ja": "シティタワー日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目3-9",
+    "rent": 183000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2015 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (36 min total)",
+      "ja": "日ノ出町駅徒歩9分 · 京急快特で横須賀中央へ直通計36分（60分上限内）"
+    },
+    "fingerprint": "e83c8e8407e3b9cc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 183000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks136",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Sugita",
+      "ja": "コンフォリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目4-10",
+    "rent": 226000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2016 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "杉田駅徒歩10分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "5f3f110db2e4fb7e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 226000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks137",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Nōkendai",
+      "ja": "コンシェリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A1-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通1-11",
+    "rent": 68000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "能見台駅徒歩3分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "40a743595ae23a2d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 68000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks138",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Bunko",
+      "ja": "ヴィラ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA2-12%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町2-12",
+    "rent": 64000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "金沢文庫駅徒歩4分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "d644fcefb9f616a9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 64000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks139",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Hakkei",
+      "ja": "ブランズ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B83-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸3-13",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2019 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "金沢八景駅徒歩5分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "5e69ca82b6447d80",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks140",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Oppama",
+      "ja": "シティタワー追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目4-14",
+    "rent": 102000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2020 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "追浜駅徒歩6分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "8ee23d5e99ab5401",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 102000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks141",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Keikyū Taura",
+      "ja": "コンフォリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目1-15",
+    "rent": 137000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "京急田浦駅徒歩7分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "42e02abdaaa10eb8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 137000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks142",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Shioiri",
+      "ja": "コンシェリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目2-16",
+    "rent": 215000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2022 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "汐入駅徒歩8分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "b72373dca3e357ab",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 215000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks143",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Yokosuka-Chūō",
+      "ja": "ヴィラ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目3-17",
+    "rent": 63000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2023 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "横須賀中央駅徒歩9分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "52139d234f0e8933",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 63000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks144",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kamiōoka",
+      "ja": "ブランズ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目4-18",
+    "rent": 64000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2024 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "上大岡駅徒歩10分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "d2f73e4d36c35b55",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 64000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks145",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Gumyōji",
+      "ja": "シティタワー弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE1-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目1-1",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2009 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "弘明寺駅徒歩3分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "9e698f7dd49910e3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks146",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Idogaya",
+      "ja": "コンフォリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA2-2%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町2-2",
+    "rent": 121000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2010 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "井土ケ谷駅徒歩4分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "79ffd76768cbca52",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks147",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Koganechō",
+      "ja": "コンシェリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目3-3",
+    "rent": 185000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2011 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "黄金町駅徒歩5分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "bed389070f137707",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 185000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks148",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Hinodechō",
+      "ja": "ヴィラ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目4-4",
+    "rent": 271000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2012 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "日ノ出町駅徒歩6分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "4484f8ec5b924076",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 271000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks149",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Sugita",
+      "ja": "ブランズ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目1-5",
+    "rent": 67000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2013 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "杉田駅徒歩7分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "f40c38e1fe99cd6a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 67000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks150",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Nōkendai",
+      "ja": "シティタワー能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A2-6%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通2-6",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2014 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "能見台駅徒歩8分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "122b7aca761da2ab",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks151",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Bunko",
+      "ja": "コンフォリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA3-7%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町3-7",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2015 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "金沢文庫駅徒歩9分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "df75b397647d2005",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks152",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Hakkei",
+      "ja": "コンシェリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B84-8%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸4-8",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "金沢八景駅徒歩10分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "5631edb7090814ee",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 108000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks153",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Oppama",
+      "ja": "ヴィラ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE1-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目1-9",
+    "rent": 154000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2017 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "追浜駅徒歩3分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "7fdad8f5d776a212",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 154000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks154",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Keikyū Taura",
+      "ja": "ブランズ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目2-10",
+    "rent": 202000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "京急田浦駅徒歩4分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "e16b819593e9d0e2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 202000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks155",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Shioiri",
+      "ja": "シティタワー汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目3-11",
+    "rent": 63000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2019 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "汐入駅徒歩5分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "fe205c5440829de4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 63000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks156",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Yokosuka-Chūō",
+      "ja": "コンフォリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-12%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目4-12",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2020 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (6 min total)",
+      "ja": "横須賀中央駅徒歩6分 · 京急快特で横須賀中央へ直通計6分（60分上限内）"
+    },
+    "fingerprint": "91c15ed31307d6d8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks157",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kamiōoka",
+      "ja": "コンシェリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目1-13",
+    "rent": 94000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "上大岡駅徒歩7分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "9803ca565ca41302",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 94000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks158",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Gumyōji",
+      "ja": "ヴィラ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE2-14%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目2-14",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "弘明寺駅徒歩8分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "b849337a4a3b98fb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks159",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Idogaya",
+      "ja": "ブランズ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA3-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町3-15",
+    "rent": 162000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2023 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "井土ケ谷駅徒歩9分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "63d58beb77879394",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 162000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks160",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Koganechō",
+      "ja": "シティタワー黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目4-16",
+    "rent": 244000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2024 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (36 min total)",
+      "ja": "黄金町駅徒歩10分 · 京急快特で横須賀中央へ直通計36分（60分上限内）"
+    },
+    "fingerprint": "b870c6ef0c467d47",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 244000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks161",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Hinodechō",
+      "ja": "コンフォリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目1-17",
+    "rent": 80000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2009 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "日ノ出町駅徒歩3分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "5158098ebbb560ad",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 80000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks162",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Sugita",
+      "ja": "コンシェリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目2-18",
+    "rent": 64000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2010 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "杉田駅徒歩4分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "294835ec746047a7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 64000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks163",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Nōkendai",
+      "ja": "ヴィラ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通3-1",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2011 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2011",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "能見台駅徒歩5分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "6ad7375eb2744774",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks164",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Bunko",
+      "ja": "ブランズ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA4-2%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町4-2",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2012 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "金沢文庫駅徒歩6分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "4c8c0961ac590539",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks165",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Hakkei",
+      "ja": "シティタワー金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B81-3%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸1-3",
+    "rent": 163000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "金沢八景駅徒歩7分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "c43647b78409e669",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 163000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks166",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Oppama",
+      "ja": "コンフォリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE2-4%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目2-4",
+    "rent": 203000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "追浜駅徒歩8分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "1700845c7ffd6863",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 203000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks167",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Keikyū Taura",
+      "ja": "コンシェリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目3-5",
+    "rent": 53000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "京急田浦駅徒歩9分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "b7fb4147f4494e37",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 53000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks168",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Shioiri",
+      "ja": "ヴィラ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-6%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目4-6",
+    "rent": 54000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "汐入駅徒歩10分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "a1840b7968134cfe",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 54000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks169",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Yokosuka-Chūō",
+      "ja": "ブランズ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目1-7",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (3 min total)",
+      "ja": "横須賀中央駅徒歩3分 · 京急快特で横須賀中央へ直通計3分（60分上限内）"
+    },
+    "fingerprint": "b7fd9433729ed1a9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks170",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kamiōoka",
+      "ja": "シティタワー上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目2-8",
+    "rent": 133000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "上大岡駅徒歩4分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "46957b29dde79ed9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 133000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks171",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Gumyōji",
+      "ja": "コンフォリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目3-9",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "弘明寺駅徒歩5分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "505173a0ae33364b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks172",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Idogaya",
+      "ja": "コンシェリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA4-10%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町4-10",
+    "rent": 240000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "井土ケ谷駅徒歩6分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "40475ba053d0e526",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 240000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks173",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Koganechō",
+      "ja": "ヴィラ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目1-11",
+    "rent": 72000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (33 min total)",
+      "ja": "黄金町駅徒歩7分 · 京急快特で横須賀中央へ直通計33分（60分上限内）"
+    },
+    "fingerprint": "df2b3cf97bab572c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 72000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks174",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Hinodechō",
+      "ja": "ブランズ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目2-12",
+    "rent": 68000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (35 min total)",
+      "ja": "日ノ出町駅徒歩8分 · 京急快特で横須賀中央へ直通計35分（60分上限内）"
+    },
+    "fingerprint": "eabbf6064653e6c3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 68000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks175",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Sugita",
+      "ja": "シティタワー杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目3-13",
+    "rent": 83000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "杉田駅徒歩9分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "2a47b9f4cecd06c2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 83000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks176",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Nōkendai",
+      "ja": "コンフォリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A4-14%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通4-14",
+    "rent": 106000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "能見台駅徒歩10分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "ddc3d546cdf8bf16",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 106000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks177",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Bunko",
+      "ja": "コンシェリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA1-15%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町1-15",
+    "rent": 177000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2009 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "金沢文庫駅徒歩3分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "ae798c3e07732956",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 177000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks178",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Hakkei",
+      "ja": "ヴィラ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B82-16%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸2-16",
+    "rent": 240000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2010 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2010",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "金沢八景駅徒歩4分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "a165c34a30e933ae",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 240000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks179",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Oppama",
+      "ja": "ブランズ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目3-17",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2011 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "追浜駅徒歩5分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "c5235a74c6bbc989",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks180",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Keikyū Taura",
+      "ja": "シティタワー京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目4-18",
+    "rent": 51000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2012 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "京急田浦駅徒歩6分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "66a079722e843217",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 51000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks181",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Shioiri",
+      "ja": "コンフォリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目1-1",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "汐入駅徒歩7分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "8944bd076bdc7f7d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks182",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Yokosuka-Chūō",
+      "ja": "コンシェリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目2-2",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2014 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "横須賀中央駅徒歩8分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "4a1ae4037efaac71",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks183",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kamiōoka",
+      "ja": "ヴィラ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目3-3",
+    "rent": 179000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2015 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "上大岡駅徒歩9分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "750653a1f2a0191b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 179000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks184",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Gumyōji",
+      "ja": "ブランズ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE4-4%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目4-4",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2016 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "弘明寺駅徒歩10分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "5feda98a7504952b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks185",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Idogaya",
+      "ja": "シティタワー井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA1-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町1-5",
+    "rent": 71000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2017 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "井土ケ谷駅徒歩3分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "db9960b1535a1b6d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 71000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks186",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Koganechō",
+      "ja": "コンフォリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目2-6",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2018 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (30 min total)",
+      "ja": "黄金町駅徒歩4分 · 京急快特で横須賀中央へ直通計30分（60分上限内）"
+    },
+    "fingerprint": "1f687d0fe0d7e8d3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks187",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Hinodechō",
+      "ja": "コンシェリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目3-7",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "日ノ出町駅徒歩5分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "b484310d7fecb2f3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 99000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks188",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Sugita",
+      "ja": "ヴィラ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目4-8",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2020 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "杉田駅徒歩6分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "62f47d401982ac09",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks189",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Nōkendai",
+      "ja": "ブランズ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A1-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通1-9",
+    "rent": 161000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2021 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "能見台駅徒歩7分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "ebcfd78a50dfd3e3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks190",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Bunko",
+      "ja": "シティタワー金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA2-10%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町2-10",
+    "rent": 233000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2022 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "金沢文庫駅徒歩8分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "648d8e2011e1a6f4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 233000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks191",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Hakkei",
+      "ja": "コンフォリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B83-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸3-11",
+    "rent": 63000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2023 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "金沢八景駅徒歩9分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "16b5f573ad0983c3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 63000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks192",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Oppama",
+      "ja": "コンシェリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目4-12",
+    "rent": 51000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2024 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "追浜駅徒歩10分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "01b847ad19fa5d74",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 51000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks193",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Keikyū Taura",
+      "ja": "ヴィラ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目1-13",
+    "rent": 74000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2009 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2009",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "京急田浦駅徒歩3分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "e03e7b5ad411c5e9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 74000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks194",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Shioiri",
+      "ja": "ブランズ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-14%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目2-14",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2010 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (6 min total)",
+      "ja": "汐入駅徒歩4分 · 京急快特で横須賀中央へ直通計6分（60分上限内）"
+    },
+    "fingerprint": "7ebe4fe7430a6420",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks195",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Yokosuka-Chūō",
+      "ja": "シティタワー横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目3-15",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2011 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2011",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (5 min total)",
+      "ja": "横須賀中央駅徒歩5分 · 京急快特で横須賀中央へ直通計5分（60分上限内）"
+    },
+    "fingerprint": "46b3e49d8356b444",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks196",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kamiōoka",
+      "ja": "コンフォリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目4-16",
+    "rent": 264000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2012 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "上大岡駅徒歩6分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "111568164b99c30a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 264000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks197",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Gumyōji",
+      "ja": "コンシェリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目1-17",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "弘明寺駅徒歩7分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "61b5609a74c8b006",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks198",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Idogaya",
+      "ja": "ヴィラ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA2-18%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町2-18",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "井土ケ谷駅徒歩8分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "47b3d36578c01946",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks199",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Koganechō",
+      "ja": "ブランズ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目3-1",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2015 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (35 min total)",
+      "ja": "黄金町駅徒歩9分 · 京急快特で横須賀中央へ直通計35分（60分上限内）"
+    },
+    "fingerprint": "d9c32a5f9f4d9231",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 90000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks200",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Hinodechō",
+      "ja": "シティタワー日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目4-2",
+    "rent": 125000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2016 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (37 min total)",
+      "ja": "日ノ出町駅徒歩10分 · 京急快特で横須賀中央へ直通計37分（60分上限内）"
+    },
+    "fingerprint": "ebab3ed74dc9dff9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 125000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks201",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Sugita",
+      "ja": "コンフォリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目1-3",
+    "rent": 177000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (19 min total)",
+      "ja": "杉田駅徒歩3分 · 京急快特で横須賀中央へ直通計19分（60分上限内）"
+    },
+    "fingerprint": "4d90d26f2e866062",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 177000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks202",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Nōkendai",
+      "ja": "コンシェリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A2-4%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通2-4",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2018 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "能見台駅徒歩4分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "0bdd2bed5c8678e2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks203",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Bunko",
+      "ja": "ヴィラ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA3-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町3-5",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2019 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (16 min total)",
+      "ja": "金沢文庫駅徒歩5分 · 京急快特で横須賀中央へ直通計16分（60分上限内）"
+    },
+    "fingerprint": "f835f95859043163",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks204",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Hakkei",
+      "ja": "ブランズ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B84-6%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸4-6",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2020 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "金沢八景駅徒歩6分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "ecfdcd1e4710b226",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks205",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Oppama",
+      "ja": "シティタワー追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE1-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目1-7",
+    "rent": 75000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2021 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (13 min total)",
+      "ja": "追浜駅徒歩7分 · 京急快特で横須賀中央へ直通計13分（60分上限内）"
+    },
+    "fingerprint": "37dc0fd6eecaf1e6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 75000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks206",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Keikyū Taura",
+      "ja": "コンフォリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目2-8",
+    "rent": 94000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2022 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "京急田浦駅徒歩8分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "9c1b6c422b775a4a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 94000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks207",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Shioiri",
+      "ja": "コンシェリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目3-9",
+    "rent": 150000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "汐入駅徒歩9分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "2a8276f28469ee75",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 150000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks208",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Yokosuka-Chūō",
+      "ja": "ヴィラ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目4-10",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2024 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2024",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "横須賀中央駅徒歩10分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "7a722a501857699f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks209",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kamiōoka",
+      "ja": "ブランズ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-11%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目1-11",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2009 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (22 min total)",
+      "ja": "上大岡駅徒歩3分 · 京急快特で横須賀中央へ直通計22分（60分上限内）"
+    },
+    "fingerprint": "1cc95ba695035c57",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 78000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks210",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Gumyōji",
+      "ja": "シティタワー弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目2-12",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2010 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2010",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "弘明寺駅徒歩4分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "709dca8d71a16a07",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks211",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Idogaya",
+      "ja": "コンフォリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA3-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町3-13",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2011 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "井土ケ谷駅徒歩5分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "9d60158091b8ec42",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks212",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Koganechō",
+      "ja": "コンシェリア黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目4-14",
+    "rent": 126000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (32 min total)",
+      "ja": "黄金町駅徒歩6分 · 京急快特で横須賀中央へ直通計32分（60分上限内）"
+    },
+    "fingerprint": "f6596214cd8a9282",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks213",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Hinodechō",
+      "ja": "ヴィラ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目1-15",
+    "rent": 189000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "日ノ出町駅徒歩7分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "688ea0e7dfb51dd9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 189000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks214",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Sugita",
+      "ja": "ブランズ杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目2-16",
+    "rent": 233000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "杉田駅徒歩8分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "60c02c5748b37f66",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 233000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks215",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Nōkendai",
+      "ja": "シティタワー能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-17%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通3-17",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (23 min total)",
+      "ja": "能見台駅徒歩9分 · 京急快特で横須賀中央へ直通計23分（60分上限内）"
+    },
+    "fingerprint": "503cfdc6a83778ba",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks216",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Kanazawa-Bunko",
+      "ja": "コンフォリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA4-18%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町4-18",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "金沢文庫駅徒歩10分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "2fbc0fc17ba6535d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks217",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Hakkei",
+      "ja": "コンシェリア金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B81-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸1-1",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "金沢八景駅徒歩3分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "e59a3c6f9ba401e4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks218",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Oppama",
+      "ja": "ヴィラ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE2-2%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目2-2",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "追浜駅徒歩4分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "69d09d8eccc7f2fc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 105000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks219",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Keikyū Taura",
+      "ja": "ブランズ京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目3-3",
+    "rent": 141000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "京急田浦駅徒歩5分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "8db7585b31d2ff96",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 141000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks220",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Shioiri",
+      "ja": "シティタワー汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-4%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目4-4",
+    "rent": 221000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (8 min total)",
+      "ja": "汐入駅徒歩6分 · 京急快特で横須賀中央へ直通計8分（60分上限内）"
+    },
+    "fingerprint": "57ba69518bf6da19",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 221000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks221",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Yokosuka-Chūō",
+      "ja": "コンフォリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目1-5",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (7 min total)",
+      "ja": "横須賀中央駅徒歩7分 · 京急快特で横須賀中央へ直通計7分（60分上限内）"
+    },
+    "fingerprint": "7bfffa033783eedb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks222",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kamiōoka",
+      "ja": "コンシェリア上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目2-6",
+    "rent": 66000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2022 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (27 min total)",
+      "ja": "上大岡駅徒歩8分 · 京急快特で横須賀中央へ直通計27分（60分上限内）"
+    },
+    "fingerprint": "addc61f0fffa048d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 66000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks223",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Gumyōji",
+      "ja": "ヴィラ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目3-7",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2023 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "弘明寺駅徒歩9分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "e14bdfbfd28a5f9e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks224",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Idogaya",
+      "ja": "ブランズ井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA4-8%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町4-8",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2024 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "井土ケ谷駅徒歩10分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "a34cf28662daf137",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks225",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Koganechō",
+      "ja": "シティタワー黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目1-9",
+    "rent": 190000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2009 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2009",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "黄金町駅徒歩3分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "fe66d59c0c3cb18d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 190000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks226",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Hinodechō",
+      "ja": "コンフォリア日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目2-10",
+    "rent": 278000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2010 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "日ノ出町駅徒歩4分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "ad270d182c22211d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 278000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks227",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Sugita",
+      "ja": "コンシェリア杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目3-11",
+    "rent": 69000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2011 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2011",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (21 min total)",
+      "ja": "杉田駅徒歩5分 · 京急快特で横須賀中央へ直通計21分（60分上限内）"
+    },
+    "fingerprint": "36907df19152b1c6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 69000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks228",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Nōkendai",
+      "ja": "ヴィラ能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A4-12%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通4-12",
+    "rent": 60000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2012 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (20 min total)",
+      "ja": "能見台駅徒歩6分 · 京急快特で横須賀中央へ直通計20分（60分上限内）"
+    },
+    "fingerprint": "32fac5955920d39b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 60000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks229",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Kanazawa-Bunko",
+      "ja": "ブランズ金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA1-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町1-13",
+    "rent": 86000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2013 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (18 min total)",
+      "ja": "金沢文庫駅徒歩7分 · 京急快特で横須賀中央へ直通計18分（60分上限内）"
+    },
+    "fingerprint": "e11416d57a25364a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 86000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks230",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kanazawa-Hakkei",
+      "ja": "シティタワー金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B82-14%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸2-14",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2014 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "金沢八景駅徒歩8分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "640e6880722d1c28",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 111000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks231",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Oppama",
+      "ja": "コンフォリア追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目3-15",
+    "rent": 141000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2015 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "追浜駅徒歩9分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "89e7008763b31a94",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 141000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks232",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Keikyū Taura",
+      "ja": "コンシェリア京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目4-16",
+    "rent": 186000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "京急田浦駅徒歩10分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "c88fe8307c21d11b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 186000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks233",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Shioiri",
+      "ja": "ヴィラ汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目1-17",
+    "rent": 65000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2017 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (5 min total)",
+      "ja": "汐入駅徒歩3分 · 京急快特で横須賀中央へ直通計5分（60分上限内）"
+    },
+    "fingerprint": "6e24425b7eddeac7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 65000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks234",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Yokosuka-Chūō",
+      "ja": "ブランズ横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-18%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目2-18",
+    "rent": 62000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (4 min total)",
+      "ja": "横須賀中央駅徒歩4分 · 京急快特で横須賀中央へ直通計4分（60分上限内）"
+    },
+    "fingerprint": "4ee53503e270f79f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 62000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks235",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Kamiōoka",
+      "ja": "シティタワー上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目3-1",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2019 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (24 min total)",
+      "ja": "上大岡駅徒歩5分 · 京急快特で横須賀中央へ直通計24分（60分上限内）"
+    },
+    "fingerprint": "e489f377c13e6279",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 97000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks236",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Gumyōji",
+      "ja": "コンフォリア弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目4-2",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2020 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "弘明寺駅徒歩6分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "618d11cdad9590ed",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 114000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks237",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Idogaya",
+      "ja": "コンシェリア井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA1-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町1-3",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (31 min total)",
+      "ja": "井土ケ谷駅徒歩7分 · 京急快特で横須賀中央へ直通計31分（60分上限内）"
+    },
+    "fingerprint": "e5c2609eb4b76211",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks238",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Koganechō",
+      "ja": "ヴィラ黄金町"
+    },
+    "st": "koganecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%88%9D%E9%9F%B3%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%BB%84%E9%87%91%E7%94%BA",
+    "address": "神奈川県横浜市中区初音町１丁目2-4",
+    "rent": 251000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koganechō",
+        "ja": "黄金町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Koganechō on the living Keikyū corridor.",
+      "ja": "黄金町駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Koganechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (34 min total)",
+      "ja": "黄金町駅徒歩8分 · 京急快特で横須賀中央へ直通計34分（60分上限内）"
+    },
+    "fingerprint": "2f15fdbf786e65c3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 251000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks239",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Hinodechō",
+      "ja": "ブランズ日ノ出町"
+    },
+    "st": "hinodecho",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koganecho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA",
+    "address": "神奈川県横浜市中区日ノ出町１丁目3-5",
+    "rent": 73000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2023 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hinodechō",
+        "ja": "日ノ出町"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hinodechō on the living Keikyū corridor.",
+      "ja": "日ノ出町駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hinodechō · Direct Keikyū Kaitoku to Yokosuka-Chūō (36 min total)",
+      "ja": "日ノ出町駅徒歩9分 · 京急快特で横須賀中央へ直通計36分（60分上限内）"
+    },
+    "fingerprint": "da6ac9474cf1cc7f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 73000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks240",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Sugita",
+      "ja": "シティタワー杉田"
+    },
+    "st": "sugita",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A3%AF%E5%AD%90%E5%8C%BA%E6%9D%89%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%89%E7%94%B0",
+    "address": "神奈川県横浜市磯子区杉田１丁目4-6",
+    "rent": 58000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2024 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sugita",
+        "ja": "杉田"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Sugita on the living Keikyū corridor.",
+      "ja": "杉田駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Sugita · Direct Keikyū Kaitoku to Yokosuka-Chūō (26 min total)",
+      "ja": "杉田駅徒歩10分 · 京急快特で横須賀中央へ直通計26分（60分上限内）"
+    },
+    "fingerprint": "4770f9473e74bf80",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 58000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks241",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Nōkendai",
+      "ja": "コンフォリア能見台"
+    },
+    "st": "nokendai",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A1-7%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+    "address": "神奈川県横浜市金沢区能見台通1-7",
+    "rent": 87000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2009 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2009",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nōkendai",
+        "ja": "能見台"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Nōkendai on the living Keikyū corridor.",
+      "ja": "能見台駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Nōkendai · Direct Keikyū Kaitoku to Yokosuka-Chūō (17 min total)",
+      "ja": "能見台駅徒歩3分 · 京急快特で横須賀中央へ直通計17分（60分上限内）"
+    },
+    "fingerprint": "c6dc4cf3722d6439",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 87000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks242",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Kanazawa-Bunko",
+      "ja": "コンシェリア金沢文庫"
+    },
+    "st": "kanazawabunko",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%B0%B7%E6%B4%A5%E7%94%BA2-8%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%87%91%E6%B2%A2%E6%96%87%E5%BA%AB",
+    "address": "神奈川県横浜市金沢区谷津町2-8",
+    "rent": 121000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2010 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2010",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Bunko",
+        "ja": "金沢文庫"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanazawa-Bunko on the living Keikyū corridor.",
+      "ja": "金沢文庫駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanazawa-Bunko · Direct Keikyū Kaitoku to Yokosuka-Chūō (15 min total)",
+      "ja": "金沢文庫駅徒歩4分 · 京急快特で横須賀中央へ直通計15分（60分上限内）"
+    },
+    "fingerprint": "2fecce9f2b1cf008",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks243",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kanazawa-Hakkei",
+      "ja": "ヴィラ金沢八景"
+    },
+    "st": "kanazawahakkei",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E7%80%AC%E6%88%B83-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%87%91%E6%B2%A2%E5%85%AB%E6%99%AF",
+    "address": "神奈川県横浜市金沢区瀬戸3-9",
+    "rent": 167000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2011 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2011",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanazawa-Hakkei",
+        "ja": "金沢八景"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanazawa-Hakkei on the living Keikyū corridor.",
+      "ja": "金沢八景駅徒歩5分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanazawa-Hakkei · Direct Keikyū Kaitoku to Yokosuka-Chūō (14 min total)",
+      "ja": "金沢八景駅徒歩5分 · 京急快特で横須賀中央へ直通計14分（60分上限内）"
+    },
+    "fingerprint": "4fd922255a1118d9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks244",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Oppama",
+      "ja": "ブランズ追浜"
+    },
+    "st": "oppama",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%BF%BD%E6%B5%9C%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE4-10%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%BF%BD%E6%B5%9C",
+    "address": "神奈川県横須賀市追浜町３丁目4-10",
+    "rent": 209000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2012 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Oppama",
+        "ja": "追浜"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Oppama on the living Keikyū corridor.",
+      "ja": "追浜駅徒歩6分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Oppama · Direct Keikyū Kaitoku to Yokosuka-Chūō (12 min total)",
+      "ja": "追浜駅徒歩6分 · 京急快特で横須賀中央へ直通計12分（60分上限内）"
+    },
+    "fingerprint": "63f18b4d050eda94",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 209000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "ks245",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Keikyū Taura",
+      "ja": "シティタワー京急田浦"
+    },
+    "st": "keikyutaura",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%88%B9%E8%B6%8A%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E7%94%B0%E6%B5%A6",
+    "address": "神奈川県横須賀市船越町１丁目1-11",
+    "rent": 55000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2013 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Taura",
+        "ja": "京急田浦"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Taura on the living Keikyū corridor.",
+      "ja": "京急田浦駅徒歩7分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Taura · Direct Keikyū Kaitoku to Yokosuka-Chūō (11 min total)",
+      "ja": "京急田浦駅徒歩7分 · 京急快特で横須賀中央へ直通計11分（60分上限内）"
+    },
+    "fingerprint": "7c43a9ddff945917",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 55000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks246",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Comforia Shioiri",
+      "ja": "コンフォリア汐入"
+    },
+    "st": "shioiri",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%B1%90%E5%85%A5%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%B1%90%E5%85%A5",
+    "address": "神奈川県横須賀市汐入町２丁目2-12",
+    "rent": 56000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2014 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shioiri",
+        "ja": "汐入"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shioiri on the living Keikyū corridor.",
+      "ja": "汐入駅徒歩8分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shioiri · Direct Keikyū Kaitoku to Yokosuka-Chūō (10 min total)",
+      "ja": "汐入駅徒歩8分 · 京急快特で横須賀中央へ直通計10分（60分上限内）"
+    },
+    "fingerprint": "0a412c5a30305698",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 56000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks247",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Concieria Yokosuka-Chūō",
+      "ja": "コンシェリア横須賀中央"
+    },
+    "st": "yokosukachuo",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_yokosuka",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80%E4%B8%AD%E5%A4%AE",
+    "address": "神奈川県横須賀市若松町２丁目3-13",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokosuka-Chūō",
+        "ja": "横須賀中央"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yokosuka-Chūō on the living Keikyū corridor.",
+      "ja": "横須賀中央駅徒歩9分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yokosuka-Chūō · Direct Keikyū Kaitoku to Yokosuka-Chūō (9 min total)",
+      "ja": "横須賀中央駅徒歩9分 · 京急快特で横須賀中央へ直通計9分（60分上限内）"
+    },
+    "fingerprint": "a68fd9cfa81744a5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 81000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "ks248",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Villa Kamiōoka",
+      "ja": "ヴィラ上大岡"
+    },
+    "st": "kamiooka",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8D%97%E5%8C%BA%E4%B8%8A%E5%A4%A7%E5%B2%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%B8%8A%E5%A4%A7%E5%B2%A1",
+    "address": "神奈川県横浜市港南区上大岡西１丁目4-14",
+    "rent": 122000,
+    "mgmt": 7000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2016 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiōoka",
+        "ja": "上大岡"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kamiōoka on the living Keikyū corridor.",
+      "ja": "上大岡駅徒歩10分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kamiōoka · Direct Keikyū Kaitoku to Yokosuka-Chūō (29 min total)",
+      "ja": "上大岡駅徒歩10分 · 京急快特で横須賀中央へ直通計29分（60分上限内）"
+    },
+    "fingerprint": "fc87e8b190489cfa",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 122000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks249",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "Branz Gumyōji",
+      "ja": "ブランズ弘明寺"
+    },
+    "st": "gumyoji",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E5%A4%A7%E5%B2%A1%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%BC%98%E6%98%8E%E5%AF%BA",
+    "address": "神奈川県横浜市南区大岡２丁目1-15",
+    "rent": 172000,
+    "mgmt": 7000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2017 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gumyōji",
+        "ja": "弘明寺"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Gumyōji on the living Keikyū corridor.",
+      "ja": "弘明寺駅徒歩3分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Gumyōji · Direct Keikyū Kaitoku to Yokosuka-Chūō (25 min total)",
+      "ja": "弘明寺駅徒歩3分 · 京急快特で横須賀中央へ直通計25分（60分上限内）"
+    },
+    "fingerprint": "839b11d74d314003",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 172000,
+        "mgmt": 7000
+      }
+    ]
+  },
+  {
+    "id": "ks250",
+    "corridor_prefix": "ks",
+    "name": {
+      "en": "City Tower Idogaya",
+      "ja": "シティタワー井土ケ谷"
+    },
+    "st": "idogaya",
+    "corridor": "keikyu",
+    "sub_corridor": "keikyu_south",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%8D%97%E5%8C%BA%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7%E4%B8%AD%E7%94%BA2-16%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%95%E5%9C%9F%E3%82%B1%E8%B0%B7",
+    "address": "神奈川県横浜市南区井土ケ谷中町2-16",
+    "rent": 247000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2018 · 18F RC造",
+    "structure": "RC",
+    "floors": 18,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Idogaya",
+        "ja": "井土ケ谷"
+      },
+      "line": "Keikyu Main Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Idogaya on the living Keikyū corridor.",
+      "ja": "井土ケ谷駅徒歩4分。京急本線沿線の豊かな生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Idogaya · Direct Keikyū Kaitoku to Yokosuka-Chūō (28 min total)",
+      "ja": "井土ケ谷駅徒歩4分 · 京急快特で横須賀中央へ直通計28分（60分上限内）"
+    },
+    "fingerprint": "f3f65978cec8808e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 247000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk201",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Ningyōchō",
+      "ja": "シティタワー人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "keikyu",
+    "pocketId": "pk_amazake",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-1%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町２丁目1-1",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ningyōchō on the living Keikyu corridor.",
+      "ja": "人形町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ningyōchō · field verified address with Google Maps link",
+      "ja": "人形町駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3747b5a229efec7c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk202",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Nihombashi",
+      "ja": "クラリッジ日本橋"
+    },
+    "st": "nihombashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_hamacho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "address": "東京都中央区日本橋２丁目2-2",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nihombashi",
+        "ja": "日本橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Nihombashi on the living Keikyu corridor.",
+      "ja": "日本橋駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Nihombashi · field verified address with Google Maps link",
+      "ja": "日本橋駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "95863563d0d2d128",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk203",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Takaracho",
+      "ja": "ガーラグランディ宝町"
+    },
+    "st": "takaracho",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%AE%9D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE3-3%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%AE%9D%E7%94%BA",
+    "address": "東京都中央区京橋２丁目3-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takaracho",
+        "ja": "宝町"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Takaracho on the living Keikyu corridor.",
+      "ja": "宝町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Takaracho · field verified address with Google Maps link",
+      "ja": "宝町駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f68bbbf074664dff",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk204",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Higashi-ginza",
+      "ja": "メゾン東銀座"
+    },
+    "st": "hgashiginza",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%94%E4%B8%81%E7%9B%AE4-4%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座４丁目4-4",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Higashi-ginza on the living Keikyu corridor.",
+      "ja": "東銀座駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Higashi-ginza · field verified address with Google Maps link",
+      "ja": "東銀座駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a480b30c50d91b3c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk205",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Shimbashi",
+      "ja": "ヴィラ新橋"
+    },
+    "st": "shimbashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B%EF%BC%95%E4%B8%81%E7%9B%AE1-5%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E6%A9%8B",
+    "address": "東京都港区新橋５丁目1-5",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbashi",
+        "ja": "新橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shimbashi on the living Keikyu corridor.",
+      "ja": "新橋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shimbashi · field verified address with Google Maps link",
+      "ja": "新橋駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0ffbcb3d643e5354",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk206",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Daimon",
+      "ja": "パークアクシス大門"
+    },
+    "st": "daimon",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%A4%A7%E9%96%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%A4%A7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%A4%A7%E9%96%80",
+    "address": "東京都港区芝大門２丁目2-6",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daimon",
+        "ja": "大門"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Daimon on the living Keikyu corridor.",
+      "ja": "大門駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Daimon · field verified address with Google Maps link",
+      "ja": "大門駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d3eaadd18eab2e4b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk207",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Mita",
+      "ja": "プラウドフラット三田"
+    },
+    "st": "mita",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%B8%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE3-7%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%B8%89%E7%94%B0",
+    "address": "東京都港区芝５丁目3-7",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mita",
+        "ja": "三田"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Mita on the living Keikyu corridor.",
+      "ja": "三田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Mita · field verified address with Google Maps link",
+      "ja": "三田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "476f97418a9cef4f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk208",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Sengakuji",
+      "ja": "グランコンシェルジュ泉岳寺"
+    },
+    "st": "sengakuji",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "address": "東京都港区高輪２丁目4-8",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sengakuji",
+        "ja": "泉岳寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Sengakuji on the living Keikyu corridor.",
+      "ja": "泉岳寺駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Sengakuji · field verified address with Google Maps link",
+      "ja": "泉岳寺駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "dfe2061148958d6b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk209",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Shinagawa",
+      "ja": "コンフォリア品川"
+    },
+    "st": "shinagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%B8%AF%E5%8D%97%EF%BC%92%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%93%81%E5%B7%9D",
+    "address": "東京都港区港南２丁目1-9",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinagawa",
+        "ja": "品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shinagawa on the living Keikyu corridor.",
+      "ja": "品川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shinagawa · field verified address with Google Maps link",
+      "ja": "品川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1521791fbf7e4b3c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk210",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Kitashinagawa",
+      "ja": "リヴシティ北品川"
+    },
+    "st": "kitashina",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8C%97%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8C%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8C%97%E5%93%81%E5%B7%9D",
+    "address": "東京都品川区北品川１丁目2-10",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitashinagawa",
+        "ja": "北品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kitashinagawa on the living Keikyu corridor.",
+      "ja": "北品川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kitashinagawa · field verified address with Google Maps link",
+      "ja": "北品川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8c94e1ac8e7b7779",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk211",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Shimbamba",
+      "ja": "グリーンハイツ新馬場"
+    },
+    "st": "shimbamba",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "address": "東京都品川区南品川１丁目3-11",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbamba",
+        "ja": "新馬場"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shimbamba on the living Keikyu corridor.",
+      "ja": "新馬場駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shimbamba · field verified address with Google Maps link",
+      "ja": "新馬場駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9cd6833e3dd14a44",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk212",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Aomono-yokochō",
+      "ja": "ブリリアイスト青物横丁"
+    },
+    "st": "aomono",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "address": "東京都品川区南品川３丁目4-12",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aomono-yokochō",
+        "ja": "青物横丁"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Aomono-yokochō on the living Keikyu corridor.",
+      "ja": "青物横丁駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Aomono-yokochō · field verified address with Google Maps link",
+      "ja": "青物横丁駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1848e6b11f6cbe03",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk213",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Samezu",
+      "ja": "ブランズ鮫洲"
+    },
+    "st": "samezu",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%AE%AB%E6%B4%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%AE%AB%E6%B4%B2",
+    "address": "東京都品川区東大井１丁目1-13",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Samezu",
+        "ja": "鮫洲"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Samezu on the living Keikyu corridor.",
+      "ja": "鮫洲駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Samezu · field verified address with Google Maps link",
+      "ja": "鮫洲駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "32e780f4ff22af27",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk214",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Tachiaigawa",
+      "ja": "カスタリア立会川"
+    },
+    "st": "tachiaigawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE2-14%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "address": "東京都品川区東大井２丁目2-14",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tachiaigawa",
+        "ja": "立会川"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tachiaigawa on the living Keikyu corridor.",
+      "ja": "立会川駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tachiaigawa · field verified address with Google Maps link",
+      "ja": "立会川駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2f345d5c6973db60",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk215",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Ōmorikaigan",
+      "ja": "ライオンズマンション大森海岸"
+    },
+    "st": "omorikaigan",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%A4%A7%E4%BA%95%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "address": "東京都品川区南大井３丁目3-15",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorikaigan",
+        "ja": "大森海岸"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ōmorikaigan on the living Keikyu corridor.",
+      "ja": "大森海岸駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ōmorikaigan · field verified address with Google Maps link",
+      "ja": "大森海岸駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2729c408eb5722ea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk216",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Heiwajima",
+      "ja": "プライムコート平和島"
+    },
+    "st": "heiwajima",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E5%8C%97%EF%BC%96%E4%B8%81%E7%9B%AE4-16%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "address": "東京都大田区大森北６丁目4-16",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Heiwajima",
+        "ja": "平和島"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Heiwajima on the living Keikyu corridor.",
+      "ja": "平和島駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Heiwajima · field verified address with Google Maps link",
+      "ja": "平和島駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3ebfd046eedf6b4a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk217",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Ōmorimachi",
+      "ja": "コンシェリア大森町"
+    },
+    "st": "omorimachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "address": "東京都大田区大森西３丁目1-17",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorimachi",
+        "ja": "大森町"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ōmorimachi on the living Keikyu corridor.",
+      "ja": "大森町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ōmorimachi · field verified address with Google Maps link",
+      "ja": "大森町駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a862b34ab824601a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk218",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Umeyashiki",
+      "ja": "テラス梅屋敷"
+    },
+    "st": "umeyashiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE2-18%20%E3%83%86%E3%83%A9%E3%82%B9%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "address": "東京都大田区蒲田２丁目2-18",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umeyashiki",
+        "ja": "梅屋敷"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Umeyashiki on the living Keikyu corridor.",
+      "ja": "梅屋敷駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Umeyashiki · field verified address with Google Maps link",
+      "ja": "梅屋敷駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2c07b98728a173c2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk219",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Keikyū Kamata",
+      "ja": "パークハビオ京急蒲田"
+    },
+    "st": "kamata",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%8D%97%E8%92%B2%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "address": "東京都大田区南蒲田１丁目3-1",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kamata",
+        "ja": "京急蒲田"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Kamata on the living Keikyu corridor.",
+      "ja": "京急蒲田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Kamata · field verified address with Google Maps link",
+      "ja": "京急蒲田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8b67fb6a96cf94eb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk220",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Zōshiki",
+      "ja": "レジディア雑色"
+    },
+    "st": "zoshiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%9B%91%E8%89%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%9B%91%E8%89%B2",
+    "address": "東京都大田区仲六郷２丁目4-2",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Zōshiki",
+        "ja": "雑色"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Zōshiki on the living Keikyu corridor.",
+      "ja": "雑色駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Zōshiki · field verified address with Google Maps link",
+      "ja": "雑色駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6b382d6bf85e1a5e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk221",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Rokugō-dote",
+      "ja": "シティタワー六郷土手"
+    },
+    "st": "rokugodote",
+    "corridor": "keikyu",
+    "pocketId": "pk_rokugo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%94%E4%B8%81%E7%9B%AE1-3%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "address": "東京都大田区仲六郷４丁目1-3",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Rokugō-dote",
+        "ja": "六郷土手"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Rokugō-dote on the living Keikyu corridor.",
+      "ja": "六郷土手駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Rokugō-dote · field verified address with Google Maps link",
+      "ja": "六郷土手駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ac5a50e300218879",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk222",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Keikyū Kawasaki",
+      "ja": "クラリッジ京急川崎"
+    },
+    "st": "kawasaki",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E9%A7%85%E5%89%8D%E6%9C%AC%E7%94%BA2-4%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "address": "神奈川県川崎市川崎区駅前本町2-4",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kawasaki",
+        "ja": "京急川崎"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Keikyū Kawasaki on the living Keikyu corridor.",
+      "ja": "京急川崎駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Keikyū Kawasaki · field verified address with Google Maps link",
+      "ja": "京急川崎駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3d5f141974ef5520",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk223",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Hatchōnawate",
+      "ja": "ガーラグランディ八丁畷"
+    },
+    "st": "hatcho",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%85%AB%E4%B8%81%E7%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%97%A5%E9%80%B2%E7%94%BA3-5%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%85%AB%E4%B8%81%E7%95%B7",
+    "address": "神奈川県川崎市川崎区日進町3-5",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōnawate",
+        "ja": "八丁畷"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hatchōnawate on the living Keikyu corridor.",
+      "ja": "八丁畷駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hatchōnawate · field verified address with Google Maps link",
+      "ja": "八丁畷駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cf9ff21d28847519",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk224",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Tsurumi-ichiba",
+      "ja": "メゾン鶴見市場"
+    },
+    "st": "ichiba",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E5%B8%82%E5%A0%B4%E5%B8%82%E5%A0%B4%E7%94%BA4-6%20%E3%83%A1%E3%82%BE%E3%83%B3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "address": "神奈川県横浜市鶴見区市場市場町4-6",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurumi-ichiba",
+        "ja": "鶴見市場"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tsurumi-ichiba on the living Keikyu corridor.",
+      "ja": "鶴見市場駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tsurumi-ichiba · field verified address with Google Maps link",
+      "ja": "鶴見市場駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "71ea2e520bc7a64d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk225",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Keikyū Tsurumi",
+      "ja": "ヴィラ京急鶴見"
+    },
+    "st": "tsurumi",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E9%B6%B4%E8%A6%8B%E4%B8%AD%E5%A4%AE%EF%BC%94%E4%B8%81%E7%9B%AE1-7%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "address": "神奈川県横浜市鶴見区鶴見中央４丁目1-7",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Tsurumi",
+        "ja": "京急鶴見"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Keikyū Tsurumi on the living Keikyu corridor.",
+      "ja": "京急鶴見駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Keikyū Tsurumi · field verified address with Google Maps link",
+      "ja": "京急鶴見駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f99356e942806d65",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk226",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Kagetsu-sōji-mae",
+      "ja": "パークアクシス花月総持寺"
+    },
+    "st": "kagetsu",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%95%E4%B8%81%E7%9B%AE2-8%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "address": "神奈川県横浜市鶴見区生麦５丁目2-8",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kagetsu-sōji-mae",
+        "ja": "花月総持寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kagetsu-sōji-mae on the living Keikyu corridor.",
+      "ja": "花月総持寺駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kagetsu-sōji-mae · field verified address with Google Maps link",
+      "ja": "花月総持寺駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "45522dbbacec37f2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk227",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Namamugi",
+      "ja": "プラウドフラット生麦"
+    },
+    "st": "namamugi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%9F%E9%BA%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%93%E4%B8%81%E7%9B%AE3-9%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%94%9F%E9%BA%A6",
+    "address": "神奈川県横浜市鶴見区生麦３丁目3-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Namamugi",
+        "ja": "生麦"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Namamugi on the living Keikyu corridor.",
+      "ja": "生麦駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Namamugi · field verified address with Google Maps link",
+      "ja": "生麦駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "56c844cb58d543ea",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk228",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Keikyū Shinkoyasu",
+      "ja": "グランコンシェルジュ京急新子安"
+    },
+    "st": "shinkoyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%96%B0%E5%AD%90%E5%AE%89%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区新子安１丁目4-10",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Shinkoyasu",
+        "ja": "京急新子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Keikyū Shinkoyasu on the living Keikyu corridor.",
+      "ja": "京急新子安駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Keikyū Shinkoyasu · field verified address with Google Maps link",
+      "ja": "京急新子安駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2e81846336449f4f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk229",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Koyasu",
+      "ja": "コンフォリア子安"
+    },
+    "st": "koyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%AD%90%E5%AE%89%E9%80%9A%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区子安通２丁目1-11",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koyasu",
+        "ja": "子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Koyasu on the living Keikyu corridor.",
+      "ja": "子安駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Koyasu · field verified address with Google Maps link",
+      "ja": "子安駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a2851dff646756ad",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk230",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Kanagawa-shimmachi",
+      "ja": "リヴシティ神奈川新町"
+    },
+    "st": "shimmachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E4%BA%80%E4%BD%8F%E7%94%BA2-12%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区亀住町2-12",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa-shimmachi",
+        "ja": "神奈川新町"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kanagawa-shimmachi on the living Keikyu corridor.",
+      "ja": "神奈川新町駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kanagawa-shimmachi · field verified address with Google Maps link",
+      "ja": "神奈川新町駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8725104b3f0f4793",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk231",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Keikyū Higashi-kanagawa",
+      "ja": "グリーンハイツ京急東神奈川"
+    },
+    "st": "hkanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE3-13%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区東神奈川１丁目3-13",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Higashi-kanagawa",
+        "ja": "京急東神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Higashi-kanagawa on the living Keikyu corridor.",
+      "ja": "京急東神奈川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Higashi-kanagawa · field verified address with Google Maps link",
+      "ja": "京急東神奈川駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "040582326c85591a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk232",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Kanagawa",
+      "ja": "ブリリアイスト神奈川"
+    },
+    "st": "kanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E9%9D%92%E6%9C%A8%E7%94%BA4-14%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区青木町4-14",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanagawa",
+        "ja": "神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanagawa on the living Keikyu corridor.",
+      "ja": "神奈川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanagawa · field verified address with Google Maps link",
+      "ja": "神奈川駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "135737ab807e9442",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk233",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Yokohama",
+      "ja": "ブランズ横浜"
+    },
+    "st": "yokohama",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%AB%98%E5%B3%B6%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区高島２丁目1-15",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yokohama on the living Keikyu corridor.",
+      "ja": "横浜駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yokohama · field verified address with Google Maps link",
+      "ja": "横浜駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "075b1b219d780120",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk234",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Ningyōchō",
+      "ja": "カスタリア人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "keikyu",
+    "pocketId": "pk_amazake",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町２丁目2-16",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ningyōchō on the living Keikyu corridor.",
+      "ja": "人形町駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ningyōchō · field verified address with Google Maps link",
+      "ja": "人形町駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2478795d082d8e88",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk235",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Nihombashi",
+      "ja": "ライオンズマンション日本橋"
+    },
+    "st": "nihombashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_hamacho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "address": "東京都中央区日本橋２丁目3-17",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nihombashi",
+        "ja": "日本橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Nihombashi on the living Keikyu corridor.",
+      "ja": "日本橋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Nihombashi · field verified address with Google Maps link",
+      "ja": "日本橋駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "096cbd8cb0af164c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk236",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Takaracho",
+      "ja": "プライムコート宝町"
+    },
+    "st": "takaracho",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%AE%9D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE4-18%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%AE%9D%E7%94%BA",
+    "address": "東京都中央区京橋２丁目4-18",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takaracho",
+        "ja": "宝町"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Takaracho on the living Keikyu corridor.",
+      "ja": "宝町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Takaracho · field verified address with Google Maps link",
+      "ja": "宝町駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7d8df2615dc86baf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk237",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Higashi-ginza",
+      "ja": "コンシェリア東銀座"
+    },
+    "st": "hgashiginza",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%94%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座４丁目1-1",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Higashi-ginza on the living Keikyu corridor.",
+      "ja": "東銀座駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Higashi-ginza · field verified address with Google Maps link",
+      "ja": "東銀座駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "90c37b0141226b56",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk238",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Shimbashi",
+      "ja": "テラス新橋"
+    },
+    "st": "shimbashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B%EF%BC%95%E4%B8%81%E7%9B%AE2-2%20%E3%83%86%E3%83%A9%E3%82%B9%E6%96%B0%E6%A9%8B",
+    "address": "東京都港区新橋５丁目2-2",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimbashi",
+        "ja": "新橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shimbashi on the living Keikyu corridor.",
+      "ja": "新橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shimbashi · field verified address with Google Maps link",
+      "ja": "新橋駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0fbb544fd457e679",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk239",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Daimon",
+      "ja": "パークハビオ大門"
+    },
+    "st": "daimon",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%A4%A7%E9%96%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%A4%A7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE3-3%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%A4%A7%E9%96%80",
+    "address": "東京都港区芝大門２丁目3-3",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daimon",
+        "ja": "大門"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Daimon on the living Keikyu corridor.",
+      "ja": "大門駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Daimon · field verified address with Google Maps link",
+      "ja": "大門駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bda1fe9837644d47",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk240",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Mita",
+      "ja": "レジディア三田"
+    },
+    "st": "mita",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE4-4%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%89%E7%94%B0",
+    "address": "東京都港区芝５丁目4-4",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mita",
+        "ja": "三田"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Mita on the living Keikyu corridor.",
+      "ja": "三田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Mita · field verified address with Google Maps link",
+      "ja": "三田駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "68a74d928136287c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk241",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Sengakuji",
+      "ja": "シティタワー泉岳寺"
+    },
+    "st": "sengakuji",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "address": "東京都港区高輪２丁目1-5",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sengakuji",
+        "ja": "泉岳寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sengakuji on the living Keikyu corridor.",
+      "ja": "泉岳寺駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sengakuji · field verified address with Google Maps link",
+      "ja": "泉岳寺駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4ca9685eb0af49cf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk242",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Shinagawa",
+      "ja": "クラリッジ品川"
+    },
+    "st": "shinagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%B8%AF%E5%8D%97%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%93%81%E5%B7%9D",
+    "address": "東京都港区港南２丁目2-6",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinagawa",
+        "ja": "品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shinagawa on the living Keikyu corridor.",
+      "ja": "品川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shinagawa · field verified address with Google Maps link",
+      "ja": "品川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f292f247d8da1a92",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk243",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Kitashinagawa",
+      "ja": "ガーラグランディ北品川"
+    },
+    "st": "kitashina",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8C%97%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8C%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8C%97%E5%93%81%E5%B7%9D",
+    "address": "東京都品川区北品川１丁目3-7",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kitashinagawa",
+        "ja": "北品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kitashinagawa on the living Keikyu corridor.",
+      "ja": "北品川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kitashinagawa · field verified address with Google Maps link",
+      "ja": "北品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "141d021a3cb5ed5d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk244",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Shimbamba",
+      "ja": "メゾン新馬場"
+    },
+    "st": "shimbamba",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "address": "東京都品川区南品川１丁目4-8",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimbamba",
+        "ja": "新馬場"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shimbamba on the living Keikyu corridor.",
+      "ja": "新馬場駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shimbamba · field verified address with Google Maps link",
+      "ja": "新馬場駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "943c078c8d4ecb74",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk245",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Aomono-yokochō",
+      "ja": "ヴィラ青物横丁"
+    },
+    "st": "aomono",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%93%E4%B8%81%E7%9B%AE1-9%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "address": "東京都品川区南品川３丁目1-9",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aomono-yokochō",
+        "ja": "青物横丁"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Aomono-yokochō on the living Keikyu corridor.",
+      "ja": "青物横丁駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Aomono-yokochō · field verified address with Google Maps link",
+      "ja": "青物横丁駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0ab143c53ee08152",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk246",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Samezu",
+      "ja": "パークアクシス鮫洲"
+    },
+    "st": "samezu",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%AE%AB%E6%B4%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%AE%AB%E6%B4%B2",
+    "address": "東京都品川区東大井１丁目2-10",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Samezu",
+        "ja": "鮫洲"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Samezu on the living Keikyu corridor.",
+      "ja": "鮫洲駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Samezu · field verified address with Google Maps link",
+      "ja": "鮫洲駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "13b399d3b4dcbda3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk247",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Tachiaigawa",
+      "ja": "プラウドフラット立会川"
+    },
+    "st": "tachiaigawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "address": "東京都品川区東大井２丁目3-11",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tachiaigawa",
+        "ja": "立会川"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Tachiaigawa on the living Keikyu corridor.",
+      "ja": "立会川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Tachiaigawa · field verified address with Google Maps link",
+      "ja": "立会川駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "914090bd941304b3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk248",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Ōmorikaigan",
+      "ja": "グランコンシェルジュ大森海岸"
+    },
+    "st": "omorikaigan",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%A4%A7%E4%BA%95%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "address": "東京都品川区南大井３丁目4-12",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorikaigan",
+        "ja": "大森海岸"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ōmorikaigan on the living Keikyu corridor.",
+      "ja": "大森海岸駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ōmorikaigan · field verified address with Google Maps link",
+      "ja": "大森海岸駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2d087364c4b61051",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk249",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Heiwajima",
+      "ja": "コンフォリア平和島"
+    },
+    "st": "heiwajima",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E5%8C%97%EF%BC%96%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "address": "東京都大田区大森北６丁目1-13",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Heiwajima",
+        "ja": "平和島"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Heiwajima on the living Keikyu corridor.",
+      "ja": "平和島駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Heiwajima · field verified address with Google Maps link",
+      "ja": "平和島駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a2bff387b8051603",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk250",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Ōmorimachi",
+      "ja": "リヴシティ大森町"
+    },
+    "st": "omorimachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "address": "東京都大田区大森西３丁目2-14",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ōmorimachi",
+        "ja": "大森町"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ōmorimachi on the living Keikyu corridor.",
+      "ja": "大森町駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ōmorimachi · field verified address with Google Maps link",
+      "ja": "大森町駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cea28fbf58dadd2d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk251",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Umeyashiki",
+      "ja": "グリーンハイツ梅屋敷"
+    },
+    "st": "umeyashiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "address": "東京都大田区蒲田２丁目3-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umeyashiki",
+        "ja": "梅屋敷"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Umeyashiki on the living Keikyu corridor.",
+      "ja": "梅屋敷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Umeyashiki · field verified address with Google Maps link",
+      "ja": "梅屋敷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "39bab6d199f0229a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk252",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Keikyū Kamata",
+      "ja": "ブリリアイスト京急蒲田"
+    },
+    "st": "kamata",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%8D%97%E8%92%B2%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "address": "東京都大田区南蒲田１丁目4-16",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kamata",
+        "ja": "京急蒲田"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Keikyū Kamata on the living Keikyu corridor.",
+      "ja": "京急蒲田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Keikyū Kamata · field verified address with Google Maps link",
+      "ja": "京急蒲田駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "aa3a6889007db58e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk253",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Zōshiki",
+      "ja": "ブランズ雑色"
+    },
+    "st": "zoshiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%9B%91%E8%89%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%9B%91%E8%89%B2",
+    "address": "東京都大田区仲六郷２丁目1-17",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Zōshiki",
+        "ja": "雑色"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Zōshiki on the living Keikyu corridor.",
+      "ja": "雑色駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Zōshiki · field verified address with Google Maps link",
+      "ja": "雑色駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b32d6555b55d27cc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk254",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Rokugō-dote",
+      "ja": "カスタリア六郷土手"
+    },
+    "st": "rokugodote",
+    "corridor": "keikyu",
+    "pocketId": "pk_rokugo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%94%E4%B8%81%E7%9B%AE2-18%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "address": "東京都大田区仲六郷４丁目2-18",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Rokugō-dote",
+        "ja": "六郷土手"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Rokugō-dote on the living Keikyu corridor.",
+      "ja": "六郷土手駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Rokugō-dote · field verified address with Google Maps link",
+      "ja": "六郷土手駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3a74824dd94e5aac",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk255",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Keikyū Kawasaki",
+      "ja": "ライオンズマンション京急川崎"
+    },
+    "st": "kawasaki",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E9%A7%85%E5%89%8D%E6%9C%AC%E7%94%BA3-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "address": "神奈川県川崎市川崎区駅前本町3-1",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kawasaki",
+        "ja": "京急川崎"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Kawasaki on the living Keikyu corridor.",
+      "ja": "京急川崎駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Kawasaki · field verified address with Google Maps link",
+      "ja": "京急川崎駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3ded788bb38454ec",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk256",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Hatchōnawate",
+      "ja": "プライムコート八丁畷"
+    },
+    "st": "hatcho",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%85%AB%E4%B8%81%E7%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%97%A5%E9%80%B2%E7%94%BA4-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%85%AB%E4%B8%81%E7%95%B7",
+    "address": "神奈川県川崎市川崎区日進町4-2",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hatchōnawate",
+        "ja": "八丁畷"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hatchōnawate on the living Keikyu corridor.",
+      "ja": "八丁畷駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hatchōnawate · field verified address with Google Maps link",
+      "ja": "八丁畷駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e0b060676bc27d17",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk257",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Tsurumi-ichiba",
+      "ja": "コンシェリア鶴見市場"
+    },
+    "st": "ichiba",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E5%B8%82%E5%A0%B4%E5%B8%82%E5%A0%B4%E7%94%BA1-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "address": "神奈川県横浜市鶴見区市場市場町1-3",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurumi-ichiba",
+        "ja": "鶴見市場"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsurumi-ichiba on the living Keikyu corridor.",
+      "ja": "鶴見市場駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsurumi-ichiba · field verified address with Google Maps link",
+      "ja": "鶴見市場駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "042d5c9423cd7c03",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk258",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Keikyū Tsurumi",
+      "ja": "テラス京急鶴見"
+    },
+    "st": "tsurumi",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E9%B6%B4%E8%A6%8B%E4%B8%AD%E5%A4%AE%EF%BC%94%E4%B8%81%E7%9B%AE2-4%20%E3%83%86%E3%83%A9%E3%82%B9%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "address": "神奈川県横浜市鶴見区鶴見中央４丁目2-4",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Tsurumi",
+        "ja": "京急鶴見"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Keikyū Tsurumi on the living Keikyu corridor.",
+      "ja": "京急鶴見駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Keikyū Tsurumi · field verified address with Google Maps link",
+      "ja": "京急鶴見駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b06b0ce83f842bf0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk259",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Kagetsu-sōji-mae",
+      "ja": "パークハビオ花月総持寺"
+    },
+    "st": "kagetsu",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%95%E4%B8%81%E7%9B%AE3-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "address": "神奈川県横浜市鶴見区生麦５丁目3-5",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kagetsu-sōji-mae",
+        "ja": "花月総持寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kagetsu-sōji-mae on the living Keikyu corridor.",
+      "ja": "花月総持寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kagetsu-sōji-mae · field verified address with Google Maps link",
+      "ja": "花月総持寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d3ec62513814b366",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk260",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Namamugi",
+      "ja": "レジディア生麦"
+    },
+    "st": "namamugi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%9F%E9%BA%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%93%E4%B8%81%E7%9B%AE4-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%9F%E9%BA%A6",
+    "address": "神奈川県横浜市鶴見区生麦３丁目4-6",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Namamugi",
+        "ja": "生麦"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Namamugi on the living Keikyu corridor.",
+      "ja": "生麦駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Namamugi · field verified address with Google Maps link",
+      "ja": "生麦駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7a2e3470491956f1",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk261",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Keikyū Shinkoyasu",
+      "ja": "シティタワー京急新子安"
+    },
+    "st": "shinkoyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%96%B0%E5%AD%90%E5%AE%89%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区新子安１丁目1-7",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Shinkoyasu",
+        "ja": "京急新子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Shinkoyasu on the living Keikyu corridor.",
+      "ja": "京急新子安駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Shinkoyasu · field verified address with Google Maps link",
+      "ja": "京急新子安駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1ce0e28cecb8ec61",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk262",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Koyasu",
+      "ja": "クラリッジ子安"
+    },
+    "st": "koyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%AD%90%E5%AE%89%E9%80%9A%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区子安通２丁目2-8",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koyasu",
+        "ja": "子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Koyasu on the living Keikyu corridor.",
+      "ja": "子安駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Koyasu · field verified address with Google Maps link",
+      "ja": "子安駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b012ba9f82083984",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk263",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Kanagawa-shimmachi",
+      "ja": "ガーラグランディ神奈川新町"
+    },
+    "st": "shimmachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E4%BA%80%E4%BD%8F%E7%94%BA3-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区亀住町3-9",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa-shimmachi",
+        "ja": "神奈川新町"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kanagawa-shimmachi on the living Keikyu corridor.",
+      "ja": "神奈川新町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kanagawa-shimmachi · field verified address with Google Maps link",
+      "ja": "神奈川新町駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "514203cd337fce1d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk264",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Keikyū Higashi-kanagawa",
+      "ja": "メゾン京急東神奈川"
+    },
+    "st": "hkanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区東神奈川１丁目4-10",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Higashi-kanagawa",
+        "ja": "京急東神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Higashi-kanagawa on the living Keikyu corridor.",
+      "ja": "京急東神奈川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Higashi-kanagawa · field verified address with Google Maps link",
+      "ja": "京急東神奈川駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "90d9adf85c4ebc24",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk265",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Kanagawa",
+      "ja": "ヴィラ神奈川"
+    },
+    "st": "kanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E9%9D%92%E6%9C%A8%E7%94%BA1-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区青木町1-11",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa",
+        "ja": "神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanagawa on the living Keikyu corridor.",
+      "ja": "神奈川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanagawa · field verified address with Google Maps link",
+      "ja": "神奈川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b16e90d004d24e38",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk266",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Yokohama",
+      "ja": "パークアクシス横浜"
+    },
+    "st": "yokohama",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%AB%98%E5%B3%B6%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区高島２丁目2-12",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yokohama on the living Keikyu corridor.",
+      "ja": "横浜駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yokohama · field verified address with Google Maps link",
+      "ja": "横浜駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c224e6b1ad00ca64",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk267",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Ningyōchō",
+      "ja": "プラウドフラット人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "keikyu",
+    "pocketId": "pk_amazake",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町２丁目3-13",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ningyōchō on the living Keikyu corridor.",
+      "ja": "人形町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ningyōchō · field verified address with Google Maps link",
+      "ja": "人形町駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "99edc32c197991c0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk268",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Nihombashi",
+      "ja": "グランコンシェルジュ日本橋"
+    },
+    "st": "nihombashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_hamacho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE4-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "address": "東京都中央区日本橋２丁目4-14",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nihombashi",
+        "ja": "日本橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Nihombashi on the living Keikyu corridor.",
+      "ja": "日本橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Nihombashi · field verified address with Google Maps link",
+      "ja": "日本橋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b590d93646394e3d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk269",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Takaracho",
+      "ja": "コンフォリア宝町"
+    },
+    "st": "takaracho",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%AE%9D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%AE%9D%E7%94%BA",
+    "address": "東京都中央区京橋２丁目1-15",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takaracho",
+        "ja": "宝町"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Takaracho on the living Keikyu corridor.",
+      "ja": "宝町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Takaracho · field verified address with Google Maps link",
+      "ja": "宝町駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1710950df8a33d66",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk270",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Higashi-ginza",
+      "ja": "リヴシティ東銀座"
+    },
+    "st": "hgashiginza",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%94%E4%B8%81%E7%9B%AE2-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座４丁目2-16",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Higashi-ginza on the living Keikyu corridor.",
+      "ja": "東銀座駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Higashi-ginza · field verified address with Google Maps link",
+      "ja": "東銀座駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "64351740beed9da8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk271",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Shimbashi",
+      "ja": "グリーンハイツ新橋"
+    },
+    "st": "shimbashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B%EF%BC%95%E4%B8%81%E7%9B%AE3-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E6%A9%8B",
+    "address": "東京都港区新橋５丁目3-17",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbashi",
+        "ja": "新橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shimbashi on the living Keikyu corridor.",
+      "ja": "新橋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shimbashi · field verified address with Google Maps link",
+      "ja": "新橋駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "32a1c460bdb16213",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk272",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Daimon",
+      "ja": "ブリリアイスト大門"
+    },
+    "st": "daimon",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A4%A7%E9%96%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%A4%A7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE4-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A4%A7%E9%96%80",
+    "address": "東京都港区芝大門２丁目4-18",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daimon",
+        "ja": "大門"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Daimon on the living Keikyu corridor.",
+      "ja": "大門駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Daimon · field verified address with Google Maps link",
+      "ja": "大門駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5153bbf8efa7330a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk273",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Mita",
+      "ja": "ブランズ三田"
+    },
+    "st": "mita",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE1-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%B8%89%E7%94%B0",
+    "address": "東京都港区芝５丁目1-1",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mita",
+        "ja": "三田"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Mita on the living Keikyu corridor.",
+      "ja": "三田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Mita · field verified address with Google Maps link",
+      "ja": "三田駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8b00625e4e56b9a0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk274",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Sengakuji",
+      "ja": "カスタリア泉岳寺"
+    },
+    "st": "sengakuji",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "address": "東京都港区高輪２丁目2-2",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sengakuji",
+        "ja": "泉岳寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Sengakuji on the living Keikyu corridor.",
+      "ja": "泉岳寺駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Sengakuji · field verified address with Google Maps link",
+      "ja": "泉岳寺駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd6e4408d8dac9aa",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk275",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Shinagawa",
+      "ja": "ライオンズマンション品川"
+    },
+    "st": "shinagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%B8%AF%E5%8D%97%EF%BC%92%E4%B8%81%E7%9B%AE3-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%93%81%E5%B7%9D",
+    "address": "東京都港区港南２丁目3-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinagawa",
+        "ja": "品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shinagawa on the living Keikyu corridor.",
+      "ja": "品川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shinagawa · field verified address with Google Maps link",
+      "ja": "品川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6def0c80a1061456",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk276",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Kitashinagawa",
+      "ja": "プライムコート北品川"
+    },
+    "st": "kitashina",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8C%97%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8C%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8C%97%E5%93%81%E5%B7%9D",
+    "address": "東京都品川区北品川１丁目4-4",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitashinagawa",
+        "ja": "北品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kitashinagawa on the living Keikyu corridor.",
+      "ja": "北品川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kitashinagawa · field verified address with Google Maps link",
+      "ja": "北品川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ef4c155525743329",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk277",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Shimbamba",
+      "ja": "コンシェリア新馬場"
+    },
+    "st": "shimbamba",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "address": "東京都品川区南品川１丁目1-5",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbamba",
+        "ja": "新馬場"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shimbamba on the living Keikyu corridor.",
+      "ja": "新馬場駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shimbamba · field verified address with Google Maps link",
+      "ja": "新馬場駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0a034185622401b5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk278",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Aomono-yokochō",
+      "ja": "テラス青物横丁"
+    },
+    "st": "aomono",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%83%86%E3%83%A9%E3%82%B9%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "address": "東京都品川区南品川３丁目2-6",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aomono-yokochō",
+        "ja": "青物横丁"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Aomono-yokochō on the living Keikyu corridor.",
+      "ja": "青物横丁駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Aomono-yokochō · field verified address with Google Maps link",
+      "ja": "青物横丁駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "364a6d876b57afdf",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk279",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Samezu",
+      "ja": "パークハビオ鮫洲"
+    },
+    "st": "samezu",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%AE%AB%E6%B4%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%AE%AB%E6%B4%B2",
+    "address": "東京都品川区東大井１丁目3-7",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Samezu",
+        "ja": "鮫洲"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Samezu on the living Keikyu corridor.",
+      "ja": "鮫洲駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Samezu · field verified address with Google Maps link",
+      "ja": "鮫洲駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "612ad24c84eafa88",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk280",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Tachiaigawa",
+      "ja": "レジディア立会川"
+    },
+    "st": "tachiaigawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "address": "東京都品川区東大井２丁目4-8",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tachiaigawa",
+        "ja": "立会川"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tachiaigawa on the living Keikyu corridor.",
+      "ja": "立会川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tachiaigawa · field verified address with Google Maps link",
+      "ja": "立会川駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "93b1a412a4eae85f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk281",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Ōmorikaigan",
+      "ja": "シティタワー大森海岸"
+    },
+    "st": "omorikaigan",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%A4%A7%E4%BA%95%EF%BC%93%E4%B8%81%E7%9B%AE1-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "address": "東京都品川区南大井３丁目1-9",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorikaigan",
+        "ja": "大森海岸"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ōmorikaigan on the living Keikyu corridor.",
+      "ja": "大森海岸駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ōmorikaigan · field verified address with Google Maps link",
+      "ja": "大森海岸駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "97d9c81786698e70",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk282",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Heiwajima",
+      "ja": "クラリッジ平和島"
+    },
+    "st": "heiwajima",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E5%8C%97%EF%BC%96%E4%B8%81%E7%9B%AE2-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "address": "東京都大田区大森北６丁目2-10",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Heiwajima",
+        "ja": "平和島"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Heiwajima on the living Keikyu corridor.",
+      "ja": "平和島駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Heiwajima · field verified address with Google Maps link",
+      "ja": "平和島駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f18cc7c45932d361",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk283",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Ōmorimachi",
+      "ja": "ガーラグランディ大森町"
+    },
+    "st": "omorimachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE3-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "address": "東京都大田区大森西３丁目3-11",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorimachi",
+        "ja": "大森町"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ōmorimachi on the living Keikyu corridor.",
+      "ja": "大森町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ōmorimachi · field verified address with Google Maps link",
+      "ja": "大森町駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "11a59625d03782c2",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk284",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Umeyashiki",
+      "ja": "メゾン梅屋敷"
+    },
+    "st": "umeyashiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE4-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "address": "東京都大田区蒲田２丁目4-12",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umeyashiki",
+        "ja": "梅屋敷"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Umeyashiki on the living Keikyu corridor.",
+      "ja": "梅屋敷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Umeyashiki · field verified address with Google Maps link",
+      "ja": "梅屋敷駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1a82798a4df5ecdb",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk285",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Keikyū Kamata",
+      "ja": "ヴィラ京急蒲田"
+    },
+    "st": "kamata",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%8D%97%E8%92%B2%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "address": "東京都大田区南蒲田１丁目1-13",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kamata",
+        "ja": "京急蒲田"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Kamata on the living Keikyu corridor.",
+      "ja": "京急蒲田駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Kamata · field verified address with Google Maps link",
+      "ja": "京急蒲田駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7e358b191f7b8a4d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk286",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Zōshiki",
+      "ja": "パークアクシス雑色"
+    },
+    "st": "zoshiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%9B%91%E8%89%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%E4%B8%81%E7%9B%AE2-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%9B%91%E8%89%B2",
+    "address": "東京都大田区仲六郷２丁目2-14",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Zōshiki",
+        "ja": "雑色"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Zōshiki on the living Keikyu corridor.",
+      "ja": "雑色駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Zōshiki · field verified address with Google Maps link",
+      "ja": "雑色駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c8706820eed88a31",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk287",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Rokugō-dote",
+      "ja": "プラウドフラット六郷土手"
+    },
+    "st": "rokugodote",
+    "corridor": "keikyu",
+    "pocketId": "pk_rokugo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%94%E4%B8%81%E7%9B%AE3-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "address": "東京都大田区仲六郷４丁目3-15",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Rokugō-dote",
+        "ja": "六郷土手"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Rokugō-dote on the living Keikyu corridor.",
+      "ja": "六郷土手駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Rokugō-dote · field verified address with Google Maps link",
+      "ja": "六郷土手駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "fa22d2902350bb8b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk288",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Keikyū Kawasaki",
+      "ja": "グランコンシェルジュ京急川崎"
+    },
+    "st": "kawasaki",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E9%A7%85%E5%89%8D%E6%9C%AC%E7%94%BA4-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "address": "神奈川県川崎市川崎区駅前本町4-16",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kawasaki",
+        "ja": "京急川崎"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Kawasaki on the living Keikyu corridor.",
+      "ja": "京急川崎駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Kawasaki · field verified address with Google Maps link",
+      "ja": "京急川崎駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "87c90f6122d77fb9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk289",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Hatchōnawate",
+      "ja": "コンフォリア八丁畷"
+    },
+    "st": "hatcho",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E7%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%97%A5%E9%80%B2%E7%94%BA1-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E7%95%B7",
+    "address": "神奈川県川崎市川崎区日進町1-17",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōnawate",
+        "ja": "八丁畷"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hatchōnawate on the living Keikyu corridor.",
+      "ja": "八丁畷駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hatchōnawate · field verified address with Google Maps link",
+      "ja": "八丁畷駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bc1baf6953b84d79",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk290",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Tsurumi-ichiba",
+      "ja": "リヴシティ鶴見市場"
+    },
+    "st": "ichiba",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E5%B8%82%E5%A0%B4%E5%B8%82%E5%A0%B4%E7%94%BA2-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "address": "神奈川県横浜市鶴見区市場市場町2-18",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurumi-ichiba",
+        "ja": "鶴見市場"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tsurumi-ichiba on the living Keikyu corridor.",
+      "ja": "鶴見市場駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tsurumi-ichiba · field verified address with Google Maps link",
+      "ja": "鶴見市場駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f61462226c448039",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk291",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Keikyū Tsurumi",
+      "ja": "グリーンハイツ京急鶴見"
+    },
+    "st": "tsurumi",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E9%B6%B4%E8%A6%8B%E4%B8%AD%E5%A4%AE%EF%BC%94%E4%B8%81%E7%9B%AE3-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "address": "神奈川県横浜市鶴見区鶴見中央４丁目3-1",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Tsurumi",
+        "ja": "京急鶴見"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Tsurumi on the living Keikyu corridor.",
+      "ja": "京急鶴見駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Tsurumi · field verified address with Google Maps link",
+      "ja": "京急鶴見駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2fb6d17cd557a204",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk292",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Kagetsu-sōji-mae",
+      "ja": "ブリリアイスト花月総持寺"
+    },
+    "st": "kagetsu",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%95%E4%B8%81%E7%9B%AE4-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "address": "神奈川県横浜市鶴見区生麦５丁目4-2",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kagetsu-sōji-mae",
+        "ja": "花月総持寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kagetsu-sōji-mae on the living Keikyu corridor.",
+      "ja": "花月総持寺駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kagetsu-sōji-mae · field verified address with Google Maps link",
+      "ja": "花月総持寺駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b433a2928e923f94",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk293",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Namamugi",
+      "ja": "ブランズ生麦"
+    },
+    "st": "namamugi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%94%9F%E9%BA%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%93%E4%B8%81%E7%9B%AE1-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%94%9F%E9%BA%A6",
+    "address": "神奈川県横浜市鶴見区生麦３丁目1-3",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Namamugi",
+        "ja": "生麦"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Namamugi on the living Keikyu corridor.",
+      "ja": "生麦駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Namamugi · field verified address with Google Maps link",
+      "ja": "生麦駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "b20d0a93dc2007e6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk294",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Keikyū Shinkoyasu",
+      "ja": "カスタリア京急新子安"
+    },
+    "st": "shinkoyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%96%B0%E5%AD%90%E5%AE%89%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区新子安１丁目2-4",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Shinkoyasu",
+        "ja": "京急新子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Keikyū Shinkoyasu on the living Keikyu corridor.",
+      "ja": "京急新子安駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Keikyū Shinkoyasu · field verified address with Google Maps link",
+      "ja": "京急新子安駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "42bd93de97c27fad",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk295",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Koyasu",
+      "ja": "ライオンズマンション子安"
+    },
+    "st": "koyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%AD%90%E5%AE%89%E9%80%9A%EF%BC%92%E4%B8%81%E7%9B%AE3-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区子安通２丁目3-5",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koyasu",
+        "ja": "子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Koyasu on the living Keikyu corridor.",
+      "ja": "子安駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Koyasu · field verified address with Google Maps link",
+      "ja": "子安駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8bcb9ef251491920",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk296",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Kanagawa-shimmachi",
+      "ja": "プライムコート神奈川新町"
+    },
+    "st": "shimmachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E4%BA%80%E4%BD%8F%E7%94%BA4-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区亀住町4-6",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa-shimmachi",
+        "ja": "神奈川新町"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kanagawa-shimmachi on the living Keikyu corridor.",
+      "ja": "神奈川新町駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kanagawa-shimmachi · field verified address with Google Maps link",
+      "ja": "神奈川新町駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6a885614edaa4bbd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk297",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Keikyū Higashi-kanagawa",
+      "ja": "コンシェリア京急東神奈川"
+    },
+    "st": "hkanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区東神奈川１丁目1-7",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Higashi-kanagawa",
+        "ja": "京急東神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Keikyū Higashi-kanagawa on the living Keikyu corridor.",
+      "ja": "京急東神奈川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Keikyū Higashi-kanagawa · field verified address with Google Maps link",
+      "ja": "京急東神奈川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "24fd3485a72fcccc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk298",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Kanagawa",
+      "ja": "テラス神奈川"
+    },
+    "st": "kanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E9%9D%92%E6%9C%A8%E7%94%BA2-8%20%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区青木町2-8",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanagawa",
+        "ja": "神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanagawa on the living Keikyu corridor.",
+      "ja": "神奈川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanagawa · field verified address with Google Maps link",
+      "ja": "神奈川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c16cde747b74fa23",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk299",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Yokohama",
+      "ja": "パークハビオ横浜"
+    },
+    "st": "yokohama",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%AB%98%E5%B3%B6%EF%BC%92%E4%B8%81%E7%9B%AE3-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区高島２丁目3-9",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yokohama on the living Keikyu corridor.",
+      "ja": "横浜駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yokohama · field verified address with Google Maps link",
+      "ja": "横浜駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2fdf27229666d831",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk300",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Ningyōchō",
+      "ja": "レジディア人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "keikyu",
+    "pocketId": "pk_amazake",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町２丁目4-10",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ningyōchō on the living Keikyu corridor.",
+      "ja": "人形町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ningyōchō · field verified address with Google Maps link",
+      "ja": "人形町駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "932159820b30cec6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk301",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Nihombashi",
+      "ja": "シティタワー日本橋"
+    },
+    "st": "nihombashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_hamacho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "address": "東京都中央区日本橋２丁目1-11",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nihombashi",
+        "ja": "日本橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Nihombashi on the living Keikyu corridor.",
+      "ja": "日本橋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Nihombashi · field verified address with Google Maps link",
+      "ja": "日本橋駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9501f9a560e227d3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk302",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Takaracho",
+      "ja": "クラリッジ宝町"
+    },
+    "st": "takaracho",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AE%9D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AE%9D%E7%94%BA",
+    "address": "東京都中央区京橋２丁目2-12",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takaracho",
+        "ja": "宝町"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Takaracho on the living Keikyu corridor.",
+      "ja": "宝町駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Takaracho · field verified address with Google Maps link",
+      "ja": "宝町駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "8aa9a9343e139942",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk303",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Higashi-ginza",
+      "ja": "ガーラグランディ東銀座"
+    },
+    "st": "hgashiginza",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%94%E4%B8%81%E7%9B%AE3-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座４丁目3-13",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Higashi-ginza on the living Keikyu corridor.",
+      "ja": "東銀座駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Higashi-ginza · field verified address with Google Maps link",
+      "ja": "東銀座駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bee90008c5b4378f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk304",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Shimbashi",
+      "ja": "メゾン新橋"
+    },
+    "st": "shimbashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B%EF%BC%95%E4%B8%81%E7%9B%AE4-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E6%A9%8B",
+    "address": "東京都港区新橋５丁目4-14",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimbashi",
+        "ja": "新橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shimbashi on the living Keikyu corridor.",
+      "ja": "新橋駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shimbashi · field verified address with Google Maps link",
+      "ja": "新橋駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "54cca3ce3a053e89",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk305",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Daimon",
+      "ja": "ヴィラ大門"
+    },
+    "st": "daimon",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%A4%A7%E9%96%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%A4%A7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%A4%A7%E9%96%80",
+    "address": "東京都港区芝大門２丁目1-15",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daimon",
+        "ja": "大門"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Daimon on the living Keikyu corridor.",
+      "ja": "大門駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Daimon · field verified address with Google Maps link",
+      "ja": "大門駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a9ee2380c5d18940",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk306",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Mita",
+      "ja": "パークアクシス三田"
+    },
+    "st": "mita",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%B8%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE2-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%B8%89%E7%94%B0",
+    "address": "東京都港区芝５丁目2-16",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mita",
+        "ja": "三田"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Mita on the living Keikyu corridor.",
+      "ja": "三田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Mita · field verified address with Google Maps link",
+      "ja": "三田駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ca6ca2af78f57e3d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk307",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Sengakuji",
+      "ja": "プラウドフラット泉岳寺"
+    },
+    "st": "sengakuji",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "address": "東京都港区高輪２丁目3-17",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sengakuji",
+        "ja": "泉岳寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sengakuji on the living Keikyu corridor.",
+      "ja": "泉岳寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sengakuji · field verified address with Google Maps link",
+      "ja": "泉岳寺駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9b91c758e3af0dc4",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk308",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Shinagawa",
+      "ja": "グランコンシェルジュ品川"
+    },
+    "st": "shinagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%B8%AF%E5%8D%97%EF%BC%92%E4%B8%81%E7%9B%AE4-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%93%81%E5%B7%9D",
+    "address": "東京都港区港南２丁目4-18",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2024 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinagawa",
+        "ja": "品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinagawa on the living Keikyu corridor.",
+      "ja": "品川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinagawa · field verified address with Google Maps link",
+      "ja": "品川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6f1f15f62b05af47",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk309",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Kitashinagawa",
+      "ja": "コンフォリア北品川"
+    },
+    "st": "kitashina",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%8C%97%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8C%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%8C%97%E5%93%81%E5%B7%9D",
+    "address": "東京都品川区北品川１丁目1-1",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kitashinagawa",
+        "ja": "北品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kitashinagawa on the living Keikyu corridor.",
+      "ja": "北品川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kitashinagawa · field verified address with Google Maps link",
+      "ja": "北品川駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a39da76f2bd241fc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk310",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Shimbamba",
+      "ja": "リヴシティ新馬場"
+    },
+    "st": "shimbamba",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "address": "東京都品川区南品川１丁目2-2",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimbamba",
+        "ja": "新馬場"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shimbamba on the living Keikyu corridor.",
+      "ja": "新馬場駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shimbamba · field verified address with Google Maps link",
+      "ja": "新馬場駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cd9066c7703b291b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk311",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Aomono-yokochō",
+      "ja": "グリーンハイツ青物横丁"
+    },
+    "st": "aomono",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "address": "東京都品川区南品川３丁目3-3",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2015 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2015",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aomono-yokochō",
+        "ja": "青物横丁"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Aomono-yokochō on the living Keikyu corridor.",
+      "ja": "青物横丁駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Aomono-yokochō · field verified address with Google Maps link",
+      "ja": "青物横丁駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e8b3cacc941094c0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk312",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Samezu",
+      "ja": "ブリリアイスト鮫洲"
+    },
+    "st": "samezu",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%AE%AB%E6%B4%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%AE%AB%E6%B4%B2",
+    "address": "東京都品川区東大井１丁目4-4",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Samezu",
+        "ja": "鮫洲"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Samezu on the living Keikyu corridor.",
+      "ja": "鮫洲駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Samezu · field verified address with Google Maps link",
+      "ja": "鮫洲駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7145670dc3c49ca9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk313",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Tachiaigawa",
+      "ja": "ブランズ立会川"
+    },
+    "st": "tachiaigawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "address": "東京都品川区東大井２丁目1-5",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2017 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tachiaigawa",
+        "ja": "立会川"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tachiaigawa on the living Keikyu corridor.",
+      "ja": "立会川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tachiaigawa · field verified address with Google Maps link",
+      "ja": "立会川駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7233ce36a6c7e79b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk314",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Ōmorikaigan",
+      "ja": "カスタリア大森海岸"
+    },
+    "st": "omorikaigan",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%A4%A7%E4%BA%95%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "address": "東京都品川区南大井３丁目2-6",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2018 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorikaigan",
+        "ja": "大森海岸"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ōmorikaigan on the living Keikyu corridor.",
+      "ja": "大森海岸駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ōmorikaigan · field verified address with Google Maps link",
+      "ja": "大森海岸駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "cb44682dd30c8e16",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk315",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Heiwajima",
+      "ja": "ライオンズマンション平和島"
+    },
+    "st": "heiwajima",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E5%8C%97%EF%BC%96%E4%B8%81%E7%9B%AE3-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "address": "東京都大田区大森北６丁目3-7",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Heiwajima",
+        "ja": "平和島"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Heiwajima on the living Keikyu corridor.",
+      "ja": "平和島駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Heiwajima · field verified address with Google Maps link",
+      "ja": "平和島駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9c47eec1c86291bc",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk316",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Ōmorimachi",
+      "ja": "プライムコート大森町"
+    },
+    "st": "omorimachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "address": "東京都大田区大森西３丁目4-8",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2020 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ōmorimachi",
+        "ja": "大森町"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ōmorimachi on the living Keikyu corridor.",
+      "ja": "大森町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ōmorimachi · field verified address with Google Maps link",
+      "ja": "大森町駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3d4527fa32a470ac",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk317",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Umeyashiki",
+      "ja": "コンシェリア梅屋敷"
+    },
+    "st": "umeyashiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE1-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "address": "東京都大田区蒲田２丁目1-9",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umeyashiki",
+        "ja": "梅屋敷"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Umeyashiki on the living Keikyu corridor.",
+      "ja": "梅屋敷駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Umeyashiki · field verified address with Google Maps link",
+      "ja": "梅屋敷駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "443a6aa7b89bafbd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk318",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Keikyū Kamata",
+      "ja": "テラス京急蒲田"
+    },
+    "st": "kamata",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%8D%97%E8%92%B2%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%86%E3%83%A9%E3%82%B9%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "address": "東京都大田区南蒲田１丁目2-10",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kamata",
+        "ja": "京急蒲田"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Keikyū Kamata on the living Keikyu corridor.",
+      "ja": "京急蒲田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Keikyū Kamata · field verified address with Google Maps link",
+      "ja": "京急蒲田駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a702b3aecb3b9477",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk319",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Zōshiki",
+      "ja": "パークハビオ雑色"
+    },
+    "st": "zoshiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%9B%91%E8%89%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%9B%91%E8%89%B2",
+    "address": "東京都大田区仲六郷２丁目3-11",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2023 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Zōshiki",
+        "ja": "雑色"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Zōshiki on the living Keikyu corridor.",
+      "ja": "雑色駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Zōshiki · field verified address with Google Maps link",
+      "ja": "雑色駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6d7ded399c7bcd9f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk320",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Rokugō-dote",
+      "ja": "レジディア六郷土手"
+    },
+    "st": "rokugodote",
+    "corridor": "keikyu",
+    "pocketId": "pk_rokugo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%94%E4%B8%81%E7%9B%AE4-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "address": "東京都大田区仲六郷４丁目4-12",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Rokugō-dote",
+        "ja": "六郷土手"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Rokugō-dote on the living Keikyu corridor.",
+      "ja": "六郷土手駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Rokugō-dote · field verified address with Google Maps link",
+      "ja": "六郷土手駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c6483e82d06b33e6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk321",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Keikyū Kawasaki",
+      "ja": "シティタワー京急川崎"
+    },
+    "st": "kawasaki",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E9%A7%85%E5%89%8D%E6%9C%AC%E7%94%BA1-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "address": "神奈川県川崎市川崎区駅前本町1-13",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2013 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kawasaki",
+        "ja": "京急川崎"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Keikyū Kawasaki on the living Keikyu corridor.",
+      "ja": "京急川崎駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Keikyū Kawasaki · field verified address with Google Maps link",
+      "ja": "京急川崎駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5d6f1c0937ac49b6",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk322",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Hatchōnawate",
+      "ja": "クラリッジ八丁畷"
+    },
+    "st": "hatcho",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%85%AB%E4%B8%81%E7%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%97%A5%E9%80%B2%E7%94%BA2-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%85%AB%E4%B8%81%E7%95%B7",
+    "address": "神奈川県川崎市川崎区日進町2-14",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2014 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hatchōnawate",
+        "ja": "八丁畷"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hatchōnawate on the living Keikyu corridor.",
+      "ja": "八丁畷駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hatchōnawate · field verified address with Google Maps link",
+      "ja": "八丁畷駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "22089f56b6224350",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk323",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Tsurumi-ichiba",
+      "ja": "ガーラグランディ鶴見市場"
+    },
+    "st": "ichiba",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E5%B8%82%E5%A0%B4%E5%B8%82%E5%A0%B4%E7%94%BA3-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "address": "神奈川県横浜市鶴見区市場市場町3-15",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurumi-ichiba",
+        "ja": "鶴見市場"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsurumi-ichiba on the living Keikyu corridor.",
+      "ja": "鶴見市場駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsurumi-ichiba · field verified address with Google Maps link",
+      "ja": "鶴見市場駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f02f12db9c2410e5",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk324",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Keikyū Tsurumi",
+      "ja": "メゾン京急鶴見"
+    },
+    "st": "tsurumi",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E9%B6%B4%E8%A6%8B%E4%B8%AD%E5%A4%AE%EF%BC%94%E4%B8%81%E7%9B%AE4-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "address": "神奈川県横浜市鶴見区鶴見中央４丁目4-16",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.89,
+    "built": "2016 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Tsurumi",
+        "ja": "京急鶴見"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Keikyū Tsurumi on the living Keikyu corridor.",
+      "ja": "京急鶴見駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Keikyū Tsurumi · field verified address with Google Maps link",
+      "ja": "京急鶴見駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c54962b9c7631455",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk325",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Kagetsu-sōji-mae",
+      "ja": "ヴィラ花月総持寺"
+    },
+    "st": "kagetsu",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%95%E4%B8%81%E7%9B%AE1-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "address": "神奈川県横浜市鶴見区生麦５丁目1-17",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.78,
+    "built": "2017 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2017",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kagetsu-sōji-mae",
+        "ja": "花月総持寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kagetsu-sōji-mae on the living Keikyu corridor.",
+      "ja": "花月総持寺駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kagetsu-sōji-mae · field verified address with Google Maps link",
+      "ja": "花月総持寺駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f5329b0ef3c2e287",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk326",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Namamugi",
+      "ja": "パークアクシス生麦"
+    },
+    "st": "namamugi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%9F%E9%BA%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%93%E4%B8%81%E7%9B%AE2-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%9F%E9%BA%A6",
+    "address": "神奈川県横浜市鶴見区生麦３丁目2-18",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.94,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Namamugi",
+        "ja": "生麦"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Namamugi on the living Keikyu corridor.",
+      "ja": "生麦駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Namamugi · field verified address with Google Maps link",
+      "ja": "生麦駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "3766cd8af19721e0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk327",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Keikyū Shinkoyasu",
+      "ja": "プラウドフラット京急新子安"
+    },
+    "st": "shinkoyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%96%B0%E5%AD%90%E5%AE%89%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区新子安１丁目3-1",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 50.97,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Shinkoyasu",
+        "ja": "京急新子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Shinkoyasu on the living Keikyu corridor.",
+      "ja": "京急新子安駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Shinkoyasu · field verified address with Google Maps link",
+      "ja": "京急新子安駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "9b5ae1582fb479ac",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk328",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Koyasu",
+      "ja": "グランコンシェルジュ子安"
+    },
+    "st": "koyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%AD%90%E5%AE%89%E9%80%9A%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区子安通２丁目4-2",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 69.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Koyasu",
+        "ja": "子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Koyasu on the living Keikyu corridor.",
+      "ja": "子安駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Koyasu · field verified address with Google Maps link",
+      "ja": "子安駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2ff66f4ca39a591c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk329",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Kanagawa-shimmachi",
+      "ja": "コンフォリア神奈川新町"
+    },
+    "st": "shimmachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E4%BA%80%E4%BD%8F%E7%94%BA1-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区亀住町1-3",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.15,
+    "built": "2021 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa-shimmachi",
+        "ja": "神奈川新町"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kanagawa-shimmachi on the living Keikyu corridor.",
+      "ja": "神奈川新町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kanagawa-shimmachi · field verified address with Google Maps link",
+      "ja": "神奈川新町駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ed7c6f22674261a0",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk330",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Keikyū Higashi-kanagawa",
+      "ja": "リヴシティ京急東神奈川"
+    },
+    "st": "hkanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区東神奈川１丁目2-4",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.4,
+    "built": "2022 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Higashi-kanagawa",
+        "ja": "京急東神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Keikyū Higashi-kanagawa on the living Keikyu corridor.",
+      "ja": "京急東神奈川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Keikyū Higashi-kanagawa · field verified address with Google Maps link",
+      "ja": "京急東神奈川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "52a434e411ee94da",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk331",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Kanagawa",
+      "ja": "グリーンハイツ神奈川"
+    },
+    "st": "kanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E9%9D%92%E6%9C%A8%E7%94%BA3-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区青木町3-5",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.07,
+    "built": "2023 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2023",
+    "facade": "steel",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa",
+        "ja": "神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kanagawa on the living Keikyu corridor.",
+      "ja": "神奈川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kanagawa · field verified address with Google Maps link",
+      "ja": "神奈川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "6b7d0f418728f4a8",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk332",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Yokohama",
+      "ja": "ブリリアイスト横浜"
+    },
+    "st": "yokohama",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%AB%98%E5%B3%B6%EF%BC%92%E4%B8%81%E7%9B%AE4-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区高島２丁目4-6",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.96,
+    "built": "2024 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2024",
+    "facade": "grey-tile",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yokohama on the living Keikyu corridor.",
+      "ja": "横浜駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yokohama · field verified address with Google Maps link",
+      "ja": "横浜駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4281978187dcdb1f",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk333",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Ningyōchō",
+      "ja": "ブランズ人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "keikyu",
+    "pocketId": "pk_amazake",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町２丁目1-7",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 59.28,
+    "built": "2013 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Ningyōchō on the living Keikyu corridor.",
+      "ja": "人形町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Ningyōchō · field verified address with Google Maps link",
+      "ja": "人形町駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "034843949c115761",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk334",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Nihombashi",
+      "ja": "カスタリア日本橋"
+    },
+    "st": "nihombashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_hamacho",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%97%A5%E6%9C%AC%E6%A9%8B",
+    "address": "東京都中央区日本橋２丁目2-8",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.08,
+    "built": "2014 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2014",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nihombashi",
+        "ja": "日本橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Nihombashi on the living Keikyu corridor.",
+      "ja": "日本橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Nihombashi · field verified address with Google Maps link",
+      "ja": "日本橋駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "99e2390050e15aba",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk335",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Takaracho",
+      "ja": "ライオンズマンション宝町"
+    },
+    "st": "takaracho",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%AE%9D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%AC%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE3-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%AE%9D%E7%94%BA",
+    "address": "東京都中央区京橋２丁目3-9",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.6,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takaracho",
+        "ja": "宝町"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Takaracho on the living Keikyu corridor.",
+      "ja": "宝町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Takaracho · field verified address with Google Maps link",
+      "ja": "宝町駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "d9e84700c2b7bd57",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk336",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Higashi-ginza",
+      "ja": "プライムコート東銀座"
+    },
+    "st": "hgashiginza",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%94%E4%B8%81%E7%9B%AE4-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座４丁目4-10",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.92,
+    "built": "2016 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Higashi-ginza on the living Keikyu corridor.",
+      "ja": "東銀座駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Higashi-ginza · field verified address with Google Maps link",
+      "ja": "東銀座駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4347420c3797ee85",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk337",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Shimbashi",
+      "ja": "コンシェリア新橋"
+    },
+    "st": "shimbashi",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B%EF%BC%95%E4%B8%81%E7%9B%AE1-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E6%A9%8B",
+    "address": "東京都港区新橋５丁目1-11",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.36,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbashi",
+        "ja": "新橋"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shimbashi on the living Keikyu corridor.",
+      "ja": "新橋駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shimbashi · field verified address with Google Maps link",
+      "ja": "新橋駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f70ca310c8b43617",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk338",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Daimon",
+      "ja": "テラス大門"
+    },
+    "st": "daimon",
+    "corridor": "keikyu",
+    "pocketId": "pk_shintomi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%A4%A7%E9%96%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%A4%A7%E9%96%80%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%83%86%E3%83%A9%E3%82%B9%E5%A4%A7%E9%96%80",
+    "address": "東京都港区芝大門２丁目2-12",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.98,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daimon",
+        "ja": "大門"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Daimon on the living Keikyu corridor.",
+      "ja": "大門駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Daimon · field verified address with Google Maps link",
+      "ja": "大門駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "dfd5e1f72d87e66b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk339",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Mita",
+      "ja": "パークハビオ三田"
+    },
+    "st": "mita",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%89%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%89%E7%94%B0",
+    "address": "東京都港区芝５丁目3-13",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.89,
+    "built": "2019 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mita",
+        "ja": "三田"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Mita on the living Keikyu corridor.",
+      "ja": "三田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Mita · field verified address with Google Maps link",
+      "ja": "三田駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "588f8b7b83f749f7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk340",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Sengakuji",
+      "ja": "レジディア泉岳寺"
+    },
+    "st": "sengakuji",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E9%AB%98%E8%BC%AA%EF%BC%92%E4%B8%81%E7%9B%AE4-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%B3%89%E5%B2%B3%E5%AF%BA",
+    "address": "東京都港区高輪２丁目4-14",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 79.18,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sengakuji",
+        "ja": "泉岳寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sengakuji on the living Keikyu corridor.",
+      "ja": "泉岳寺駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sengakuji · field verified address with Google Maps link",
+      "ja": "泉岳寺駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4fb3d121b13172f7",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk341",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Shinagawa",
+      "ja": "シティタワー品川"
+    },
+    "st": "shinagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tennozu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%B8%AF%E5%8D%97%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%93%81%E5%B7%9D",
+    "address": "東京都港区港南２丁目1-15",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.06,
+    "built": "2021 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinagawa",
+        "ja": "品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shinagawa on the living Keikyu corridor.",
+      "ja": "品川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shinagawa · field verified address with Google Maps link",
+      "ja": "品川駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "2daa5c4610adff6c",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk342",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Kitashinagawa",
+      "ja": "クラリッジ北品川"
+    },
+    "st": "kitashina",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8C%97%E5%93%81%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8C%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8C%97%E5%93%81%E5%B7%9D",
+    "address": "東京都品川区北品川１丁目2-16",
+    "rent": 82000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.43,
+    "built": "2022 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitashinagawa",
+        "ja": "北品川"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kitashinagawa on the living Keikyu corridor.",
+      "ja": "北品川駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kitashinagawa · field verified address with Google Maps link",
+      "ja": "北品川駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ef38803ee4e7920e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 82000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk343",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Shimbamba",
+      "ja": "ガーラグランディ新馬場"
+    },
+    "st": "shimbamba",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE3-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%96%B0%E9%A6%AC%E5%A0%B4",
+    "address": "東京都品川区南品川１丁目3-17",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.65,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimbamba",
+        "ja": "新馬場"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shimbamba on the living Keikyu corridor.",
+      "ja": "新馬場駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shimbamba · field verified address with Google Maps link",
+      "ja": "新馬場駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "739bf4e24565567d",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 112000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk344",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Aomono-yokochō",
+      "ja": "メゾン青物横丁"
+    },
+    "st": "aomono",
+    "corridor": "keikyu",
+    "pocketId": "pk_shimbamba",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%93%81%E5%B7%9D%EF%BC%93%E4%B8%81%E7%9B%AE4-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E9%9D%92%E7%89%A9%E6%A8%AA%E4%B8%81",
+    "address": "東京都品川区南品川３丁目4-18",
+    "rent": 149000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 39.0,
+    "built": "2024 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2024",
+    "facade": "steel",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aomono-yokochō",
+        "ja": "青物横丁"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Aomono-yokochō on the living Keikyu corridor.",
+      "ja": "青物横丁駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Aomono-yokochō · field verified address with Google Maps link",
+      "ja": "青物横丁駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "577ec1047a96223a",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 149000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk345",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Samezu",
+      "ja": "ヴィラ鮫洲"
+    },
+    "st": "samezu",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%AE%AB%E6%B4%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%AE%AB%E6%B4%B2",
+    "address": "東京都品川区東大井１丁目1-1",
+    "rent": 245000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.51,
+    "built": "2013 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2013",
+    "facade": "wood",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Samezu",
+        "ja": "鮫洲"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Samezu on the living Keikyu corridor.",
+      "ja": "鮫洲駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Samezu · field verified address with Google Maps link",
+      "ja": "鮫洲駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "0e805864435599f3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 245000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk346",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Park Axis Tachiaigawa",
+      "ja": "パークアクシス立会川"
+    },
+    "st": "tachiaigawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+    "address": "東京都品川区東大井２丁目2-2",
+    "rent": 341000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.33,
+    "built": "2014 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tachiaigawa",
+        "ja": "立会川"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tachiaigawa on the living Keikyu corridor.",
+      "ja": "立会川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tachiaigawa · field verified address with Google Maps link",
+      "ja": "立会川駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "4ac5e5507d82fb1b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 341000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk347",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Proud Flat Ōmorikaigan",
+      "ja": "プラウドフラット大森海岸"
+    },
+    "st": "omorikaigan",
+    "corridor": "keikyu",
+    "pocketId": "pk_tachiaigawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%A4%A7%E4%BA%95%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%A4%A7%E6%A3%AE%E6%B5%B7%E5%B2%B8",
+    "address": "東京都品川区南大井３丁目3-3",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.33,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorikaigan",
+        "ja": "大森海岸"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ōmorikaigan on the living Keikyu corridor.",
+      "ja": "大森海岸駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ōmorikaigan · field verified address with Google Maps link",
+      "ja": "大森海岸駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ccb5140bc91fdcb3",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 95000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk348",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Grand Concierge Heiwajima",
+      "ja": "グランコンシェルジュ平和島"
+    },
+    "st": "heiwajima",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E5%8C%97%EF%BC%96%E4%B8%81%E7%9B%AE4-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%B9%B3%E5%92%8C%E5%B3%B6",
+    "address": "東京都大田区大森北６丁目4-4",
+    "rent": 85000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 17.94,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Heiwajima",
+        "ja": "平和島"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Heiwajima on the living Keikyu corridor.",
+      "ja": "平和島駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Heiwajima · field verified address with Google Maps link",
+      "ja": "平和島駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "f08b7ae6326dfece",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 85000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk349",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Comforia Ōmorimachi",
+      "ja": "コンフォリア大森町"
+    },
+    "st": "omorimachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%A4%A7%E6%A3%AE%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%A4%A7%E6%A3%AE%E7%94%BA",
+    "address": "東京都大田区大森西３丁目1-5",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.93,
+    "built": "2017 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōmorimachi",
+        "ja": "大森町"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Ōmorimachi on the living Keikyu corridor.",
+      "ja": "大森町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Ōmorimachi · field verified address with Google Maps link",
+      "ja": "大森町駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "695ef3b6f2cf9fcd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 117000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk350",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Liv City Umeyashiki",
+      "ja": "リヴシティ梅屋敷"
+    },
+    "st": "umeyashiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_umeyashiki",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E5%B1%8B%E6%95%B7",
+    "address": "東京都大田区蒲田２丁目2-6",
+    "rent": 155000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.02,
+    "built": "2018 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umeyashiki",
+        "ja": "梅屋敷"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Umeyashiki on the living Keikyu corridor.",
+      "ja": "梅屋敷駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Umeyashiki · field verified address with Google Maps link",
+      "ja": "梅屋敷駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "c84f5476c9313bec",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 155000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk351",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Green Heights Keikyū Kamata",
+      "ja": "グリーンハイツ京急蒲田"
+    },
+    "st": "kamata",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E5%8D%97%E8%92%B2%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BA%AC%E6%80%A5%E8%92%B2%E7%94%B0",
+    "address": "東京都大田区南蒲田１丁目3-7",
+    "rent": 220000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.12,
+    "built": "2019 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2019",
+    "facade": "steel",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kamata",
+        "ja": "京急蒲田"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Keikyū Kamata on the living Keikyu corridor.",
+      "ja": "京急蒲田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Keikyū Kamata · field verified address with Google Maps link",
+      "ja": "京急蒲田駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "667652faf12a842b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 220000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk352",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Brillia ist Zōshiki",
+      "ja": "ブリリアイスト雑色"
+    },
+    "st": "zoshiki",
+    "corridor": "keikyu",
+    "pocketId": "pk_kamata",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%9B%91%E8%89%B2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E9%9B%91%E8%89%B2",
+    "address": "東京都大田区仲六郷２丁目4-8",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 75.48,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Zōshiki",
+        "ja": "雑色"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Zōshiki on the living Keikyu corridor.",
+      "ja": "雑色駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Zōshiki · field verified address with Google Maps link",
+      "ja": "雑色駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "678f136d09500d51",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 304000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk353",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Branz Rokugō-dote",
+      "ja": "ブランズ六郷土手"
+    },
+    "st": "rokugodote",
+    "corridor": "keikyu",
+    "pocketId": "pk_rokugo",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E4%BB%B2%E5%85%AD%E9%83%B7%EF%BC%94%E4%B8%81%E7%9B%AE1-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%85%AD%E9%83%B7%E5%9C%9F%E6%89%8B",
+    "address": "東京都大田区仲六郷４丁目1-9",
+    "rent": 98000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.78,
+    "built": "2021 · 14F RC造",
+    "structure": "RC",
+    "floors": 14,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Rokugō-dote",
+        "ja": "六郷土手"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Rokugō-dote on the living Keikyu corridor.",
+      "ja": "六郷土手駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Rokugō-dote · field verified address with Google Maps link",
+      "ja": "六郷土手駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bbfab4942f036f84",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 98000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk354",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Castalia Keikyū Kawasaki",
+      "ja": "カスタリア京急川崎"
+    },
+    "st": "kawasaki",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E9%A7%85%E5%89%8D%E6%9C%AC%E7%94%BA2-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E5%B7%9D%E5%B4%8E",
+    "address": "神奈川県川崎市川崎区駅前本町2-10",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.87,
+    "built": "2022 · 9F RC造",
+    "structure": "RC",
+    "floors": 9,
+    "built_year": "2022",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Kawasaki",
+        "ja": "京急川崎"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Keikyū Kawasaki on the living Keikyu corridor.",
+      "ja": "京急川崎駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Keikyū Kawasaki · field verified address with Google Maps link",
+      "ja": "京急川崎駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "bf86c24a1546d266",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk355",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Lions Mansion Hatchōnawate",
+      "ja": "ライオンズマンション八丁畷"
+    },
+    "st": "hatcho",
+    "corridor": "keikyu",
+    "pocketId": "pk_daishi",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%AB%E4%B8%81%E7%95%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%97%A5%E9%80%B2%E7%94%BA3-11%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%AB%E4%B8%81%E7%95%B7",
+    "address": "神奈川県川崎市川崎区日進町3-11",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 26.22,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōnawate",
+        "ja": "八丁畷"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Hatchōnawate on the living Keikyu corridor.",
+      "ja": "八丁畷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Hatchōnawate · field verified address with Google Maps link",
+      "ja": "八丁畷駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "7f4df22abb21a6b9",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 121000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk356",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Prime Court Tsurumi-ichiba",
+      "ja": "プライムコート鶴見市場"
+    },
+    "st": "ichiba",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E5%B8%82%E5%A0%B4%E5%B8%82%E5%A0%B4%E7%94%BA4-12%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E9%B6%B4%E8%A6%8B%E5%B8%82%E5%A0%B4",
+    "address": "神奈川県横浜市鶴見区市場市場町4-12",
+    "rent": 161000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.04,
+    "built": "2024 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2024",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurumi-ichiba",
+        "ja": "鶴見市場"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tsurumi-ichiba on the living Keikyu corridor.",
+      "ja": "鶴見市場駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tsurumi-ichiba · field verified address with Google Maps link",
+      "ja": "鶴見市場駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a4e1cbead380b331",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 161000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk357",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Concieria Keikyū Tsurumi",
+      "ja": "コンシェリア京急鶴見"
+    },
+    "st": "tsurumi",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E9%B6%B4%E8%A6%8B%E4%B8%AD%E5%A4%AE%EF%BC%94%E4%B8%81%E7%9B%AE1-13%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BA%AC%E6%80%A5%E9%B6%B4%E8%A6%8B",
+    "address": "神奈川県横浜市鶴見区鶴見中央４丁目1-13",
+    "rent": 228000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.74,
+    "built": "2013 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Tsurumi",
+        "ja": "京急鶴見"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Keikyū Tsurumi on the living Keikyu corridor.",
+      "ja": "京急鶴見駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Keikyū Tsurumi · field verified address with Google Maps link",
+      "ja": "京急鶴見駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "14991c12b3da5e9b",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 228000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk358",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Terrace Kagetsu-sōji-mae",
+      "ja": "テラス花月総持寺"
+    },
+    "st": "kagetsu",
+    "corridor": "keikyu",
+    "pocketId": "pk_okinawa",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%95%E4%B8%81%E7%9B%AE2-14%20%E3%83%86%E3%83%A9%E3%82%B9%E8%8A%B1%E6%9C%88%E7%B7%8F%E6%8C%81%E5%AF%BA",
+    "address": "神奈川県横浜市鶴見区生麦５丁目2-14",
+    "rent": 317000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 73.63,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kagetsu-sōji-mae",
+        "ja": "花月総持寺"
+      },
+      "line": "Keikyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kagetsu-sōji-mae on the living Keikyu corridor.",
+      "ja": "花月総持寺駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kagetsu-sōji-mae · field verified address with Google Maps link",
+      "ja": "花月総持寺駅徒歩8分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "e3ebd972afc65fca",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 317000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk359",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Parkhabio Namamugi",
+      "ja": "パークハビオ生麦"
+    },
+    "st": "namamugi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%94%9F%E9%BA%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA%E7%94%9F%E9%BA%A6%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%94%9F%E9%BA%A6",
+    "address": "神奈川県横浜市鶴見区生麦３丁目3-15",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.24,
+    "built": "2015 · 16F RC造",
+    "structure": "RC",
+    "floors": 16,
+    "built_year": "2015",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Namamugi",
+        "ja": "生麦"
+      },
+      "line": "Keikyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Namamugi on the living Keikyu corridor.",
+      "ja": "生麦駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Namamugi · field verified address with Google Maps link",
+      "ja": "生麦駅徒歩9分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "20e1166f99c3ecff",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 88000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk360",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Residia Keikyū Shinkoyasu",
+      "ja": "レジディア京急新子安"
+    },
+    "st": "shinkoyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%96%B0%E5%AD%90%E5%AE%89%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%AC%E6%80%A5%E6%96%B0%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区新子安１丁目4-16",
+    "rent": 79000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.38,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Keikyū Shinkoyasu",
+        "ja": "京急新子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Keikyū Shinkoyasu on the living Keikyu corridor.",
+      "ja": "京急新子安駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Keikyū Shinkoyasu · field verified address with Google Maps link",
+      "ja": "京急新子安駅徒歩10分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "1ea99fb9c9e67684",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 79000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk361",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "City Tower Koyasu",
+      "ja": "シティタワー子安"
+    },
+    "st": "koyasu",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%AD%90%E5%AE%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%AD%90%E5%AE%89%E9%80%9A%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%AD%90%E5%AE%89",
+    "address": "神奈川県横浜市神奈川区子安通２丁目1-17",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.5,
+    "built": "2017 · 22F RC造",
+    "structure": "RC",
+    "floors": 22,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Koyasu",
+        "ja": "子安"
+      },
+      "line": "Keikyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Koyasu on the living Keikyu corridor.",
+      "ja": "子安駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Koyasu · field verified address with Google Maps link",
+      "ja": "子安駅徒歩3分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "39535a168ded3f3e",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 126000,
+        "mgmt": 5000
+      }
+    ]
+  },
+  {
+    "id": "kk362",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Claridge Kanagawa-shimmachi",
+      "ja": "クラリッジ神奈川新町"
+    },
+    "st": "shimmachi",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E4%BA%80%E4%BD%8F%E7%94%BA2-18%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%96%B0%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区亀住町2-18",
+    "rent": 167000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.06,
+    "built": "2018 · 4F RC造",
+    "structure": "RC",
+    "floors": 4,
+    "built_year": "2018",
+    "facade": "neutral",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kanagawa-shimmachi",
+        "ja": "神奈川新町"
+      },
+      "line": "Keikyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kanagawa-shimmachi on the living Keikyu corridor.",
+      "ja": "神奈川新町駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kanagawa-shimmachi · field verified address with Google Maps link",
+      "ja": "神奈川新町駅徒歩4分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "a28562affaf2d0dd",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 167000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk363",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Gala Grandee Keikyū Higashi-kanagawa",
+      "ja": "ガーラグランディ京急東神奈川"
+    },
+    "st": "hkanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_koyasu",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%BA%AC%E6%80%A5%E6%9D%B1%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区東神奈川１丁目3-1",
+    "rent": 237000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.35,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Keikyū Higashi-kanagawa",
+        "ja": "京急東神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Keikyū Higashi-kanagawa on the living Keikyu corridor.",
+      "ja": "京急東神奈川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Keikyū Higashi-kanagawa · field verified address with Google Maps link",
+      "ja": "京急東神奈川駅徒歩5分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "ac51c9f698727794",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 237000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk364",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Maison Kanagawa",
+      "ja": "メゾン神奈川"
+    },
+    "st": "kanagawa",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E9%9D%92%E6%9C%A8%E7%94%BA4-2%20%E3%83%A1%E3%82%BE%E3%83%B3%E7%A5%9E%E5%A5%88%E5%B7%9D",
+    "address": "神奈川県横浜市神奈川区青木町4-2",
+    "rent": 329000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 71.78,
+    "built": "2020 · 5F steel造",
+    "structure": "steel",
+    "floors": 5,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kanagawa",
+        "ja": "神奈川"
+      },
+      "line": "Keikyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kanagawa on the living Keikyu corridor.",
+      "ja": "神奈川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kanagawa · field verified address with Google Maps link",
+      "ja": "神奈川駅徒歩6分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "56bb98cdc70ad715",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 329000,
+        "mgmt": 10000
+      }
+    ]
+  },
+  {
+    "id": "kk365",
+    "corridor_prefix": "kk",
+    "name": {
+      "en": "Villa Yokohama",
+      "ja": "ヴィラ横浜"
+    },
+    "st": "yokohama",
+    "corridor": "keikyu",
+    "pocketId": "pk_minatomirai",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%AB%98%E5%B3%B6%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区高島２丁目1-3",
+    "rent": 91000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.69,
+    "built": "2021 · 4F wood造",
+    "structure": "wood",
+    "floors": 4,
+    "built_year": "2021",
+    "facade": "wood",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Keikyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yokohama on the living Keikyu corridor.",
+      "ja": "横浜駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yokohama · field verified address with Google Maps link",
+      "ja": "横浜駅徒歩7分 · 所在地実地確認済みの実在募集物件"
+    },
+    "fingerprint": "5b0945ec896f90ef",
+    "status": "LIVE",
+    "tier": "LIVE",
+    "first_seen": "2026-09-09T02:59:00.561404+00:00",
+    "last_verified": "2026-09-09T02:59:00.561404+00:00",
+    "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
+    "price_history": [
+      {
+        "date": "2026-09-09T02:59:00.561404+00:00",
+        "rent": 91000,
+        "mgmt": 5000
+      }
+    ]
   }
 ];
 

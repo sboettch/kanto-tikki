@@ -1,0 +1,20 @@
+{
+  "id": "ty_h_110",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "9 storeys — as listed",
+    "built 2015 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横浜市港北区日吉本町２丁目5-22 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 9,
+  "structure": "RC",
+  "built": "2015",
+  "local_path": "portraits/ty_h_110_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E5%90%89",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE5-22%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E5%90%89"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ks111",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2023 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横浜市金沢区能見台通3-3 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2023",
+  "local_path": "portraits/ks111_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%87%91%E6%B2%A2%E5%8C%BA%E8%83%BD%E8%A6%8B%E5%8F%B0%E9%80%9A3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%83%BD%E8%A6%8B%E5%8F%B0"
+}

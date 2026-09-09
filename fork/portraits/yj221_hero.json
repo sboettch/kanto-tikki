@@ -1,0 +1,20 @@
+{
+  "id": "yj221",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "7 storeys — as listed",
+    "built 2020 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横浜市戸塚区品濃町1-5 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 7,
+  "structure": "RC",
+  "built": "2020",
+  "local_path": "portraits/yj221_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E6%88%B8%E5%A1%9A",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%E5%93%81%E6%BF%83%E7%94%BA1-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E6%88%B8%E5%A1%9A"
+}

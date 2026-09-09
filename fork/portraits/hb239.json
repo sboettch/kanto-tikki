@@ -1,0 +1,20 @@
+{
+  "id": "hb239",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "16 storeys — as listed",
+    "built 2015 — as listed",
+    "structure RC — as listed",
+    "address 東京都台東区上野５丁目3-3 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 16,
+  "structure": "RC",
+  "built": "2015",
+  "local_path": "portraits/hb239.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%95%E4%B8%81%E7%9B%AE3-3%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA"
+}

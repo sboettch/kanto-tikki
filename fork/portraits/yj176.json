@@ -1,0 +1,20 @@
+{
+  "id": "yj176",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "11 storeys — as listed",
+    "built 2020 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県鎌倉市山ノ内4-14 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 11,
+  "structure": "RC",
+  "built": "2020",
+  "local_path": "portraits/yj176.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8C%97%E9%8E%8C%E5%80%89",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E9%8E%8C%E5%80%89%E5%B8%82%E5%B1%B1%E3%83%8E%E5%86%854-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8C%97%E9%8E%8C%E5%80%89"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "yj180",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "11 storeys — as listed",
+    "built 2024 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横須賀市東逸見町１丁目4-18 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 11,
+  "structure": "RC",
+  "built": "2024",
+  "local_path": "portraits/yj180_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E6%9D%B1%E9%80%B8%E8%A6%8B%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%A8%AA%E9%A0%88%E8%B3%80"
+}

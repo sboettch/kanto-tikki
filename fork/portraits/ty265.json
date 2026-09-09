@@ -1,0 +1,20 @@
+{
+  "id": "ty265",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "4 storeys — as listed",
+    "built 2017 — as listed",
+    "structure wood — as listed",
+    "address 東京都渋谷区代官山町1-11 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 4,
+  "structure": "wood",
+  "built": "2017",
+  "local_path": "portraits/ty265.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E5%AE%98%E5%B1%B1",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA1-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E5%AE%98%E5%B1%B1"
+}

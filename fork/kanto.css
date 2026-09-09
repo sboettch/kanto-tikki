@@ -242,9 +242,12 @@ details.ledger .schema{font:500 12px/1.7 ui-monospace,Menlo,monospace;color:var(
   .tc-V{background:#14302a}.tc-S{background:#16283d;color:#7fb2e0}.tc-P{background:#2e1e30;color:#c99ad1}.tc-Q{background:#222c40}
 }
 .b-live{background:var(--shu);color:#fff}
+.b-filled{background:var(--line);color:var(--muted);border:1px solid var(--line)}
 .b-en{background:#dde7f3;color:#2b5a8c}
 .b-luxury{background:#3d2a00;color:#f0c060}
-@media (prefers-color-scheme: dark){ .b-en{background:#16283d;color:#7fb2e0} .b-luxury{background:#2a1a00;color:#f0c060} }
+@media (prefers-color-scheme: dark){ .b-en{background:#16283d;color:#7fb2e0} .b-luxury{background:#2a1a00;color:#f0c060} .b-filled{background:#252528;color:#888;border-color:#333} }
+.card.is-filled{opacity:0.82;border-style:dashed}
+.card.is-filled:hover{opacity:1.0;border-style:solid}
 .rentline small{white-space:nowrap}
 
 /* area sheet */

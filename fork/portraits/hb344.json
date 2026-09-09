@@ -1,0 +1,20 @@
+{
+  "id": "hb344",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "5 storeys — as listed",
+    "built 2024 — as listed",
+    "structure steel — as listed",
+    "address 東京都中央区八丁堀２丁目4-18 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 5,
+  "structure": "steel",
+  "built": "2024",
+  "local_path": "portraits/hb344.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%85%AB%E4%B8%81%E5%A0%80",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE4-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%85%AB%E4%B8%81%E5%A0%80"
+}
