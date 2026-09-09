@@ -1,0 +1,20 @@
+{
+  "id": "kk180",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "10 storeys — as listed",
+    "built 2019 — as listed",
+    "structure RC — as listed",
+    "address 東京都品川区東大井２丁目4-8 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 10,
+  "structure": "RC",
+  "built": "2019",
+  "local_path": "portraits/kk180.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E6%9D%B1%E5%A4%A7%E4%BA%95%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%AB%8B%E4%BC%9A%E5%B7%9D"
+}

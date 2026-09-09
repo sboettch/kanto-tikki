@@ -1,0 +1,20 @@
+{
+  "id": "od110",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2021 — as listed",
+    "structure steel — as listed",
+    "address 東京都世田谷区豪徳寺１丁目2-10 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "steel",
+  "built": "2021",
+  "local_path": "portraits/od110.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA"
+}

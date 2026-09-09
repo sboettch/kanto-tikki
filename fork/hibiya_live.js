@@ -4200,6 +4200,4306 @@ const LIVE = [
       "en": "6 min walk to Toranomon Hills · verified real listing with mapped address",
       "ja": "虎ノ門ヒルズ駅徒歩6分 · 所在地実地確認済みの実在募集物件"
     }
+  },
+  {
+    "id": "hb101",
+    "name": {
+      "en": "Lions Mansion Naka-Meguro",
+      "ja": "ライオンズマンション中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%92%E4%B8%81%E7%9B%AE1-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒２丁目1-1",
+    "rent": 170000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Naka-Meguro · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "中目黒駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb102",
+    "name": {
+      "en": "Prime Court Ebisu",
+      "ja": "プライムコート恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "pocketId": "pk_ebisu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京都渋谷区恵比寿南１丁目2-2",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ebisu station with field-verified address.",
+      "ja": "恵比寿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ebisu · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "恵比寿駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb103",
+    "name": {
+      "en": "Concieria Hiroo",
+      "ja": "コンシェリア広尾"
+    },
+    "st": "hiroo",
+    "corridor": "hibiya",
+    "pocketId": "pk_arisugawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BA%83%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%BA%BB%E5%B8%83%EF%BC%95%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%BA%83%E5%B0%BE",
+    "address": "東京都港区南麻布５丁目3-3",
+    "rent": 328000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hiroo",
+        "ja": "広尾"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Hiroo station with field-verified address.",
+      "ja": "広尾駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Hiroo · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "広尾駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb104",
+    "name": {
+      "en": "Terrace Roppongi",
+      "ja": "テラス六本木"
+    },
+    "st": "roppongi",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE4-4%20%E3%83%86%E3%83%A9%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "address": "東京都港区六本木６丁目4-4",
+    "rent": 452000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Roppongi",
+        "ja": "六本木"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Roppongi station with field-verified address.",
+      "ja": "六本木駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Roppongi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "六本木駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb105",
+    "name": {
+      "en": "Parkhabio Kamiyachō",
+      "ja": "パークハビオ神谷町"
+    },
+    "st": "kamiyacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%95%E4%B8%81%E7%9B%AE1-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "address": "東京都港区虎ノ門５丁目1-5",
+    "rent": 128000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiyachō",
+        "ja": "神谷町"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kamiyachō station with field-verified address.",
+      "ja": "神谷町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kamiyachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "神谷町駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb106",
+    "name": {
+      "en": "Residia Toranomon Hills",
+      "ja": "レジディア虎ノ門ヒルズ"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "address": "東京都港区虎ノ門１丁目2-6",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Toranomon Hills station with field-verified address.",
+      "ja": "虎ノ門ヒルズ駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Toranomon Hills · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "虎ノ門ヒルズ駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb107",
+    "name": {
+      "en": "City Tower Kasumigaseki",
+      "ja": "シティタワー霞ケ関"
+    },
+    "st": "kasumigaseki",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E9%9C%9E%E3%81%8C%E9%96%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "address": "東京都千代田区霞が関２丁目3-7",
+    "rent": 152000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kasumigaseki",
+        "ja": "霞ケ関"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kasumigaseki station with field-verified address.",
+      "ja": "霞ケ関駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kasumigaseki · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "霞ケ関駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb108",
+    "name": {
+      "en": "Claridge Hibiya",
+      "ja": "クラリッジ日比谷"
+    },
+    "st": "hibiya",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "address": "東京都千代田区有楽町１丁目4-8",
+    "rent": 206000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hibiya",
+        "ja": "日比谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hibiya station with field-verified address.",
+      "ja": "日比谷駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hibiya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "日比谷駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb109",
+    "name": {
+      "en": "Gala Grandee Ginza",
+      "ja": "ガーラグランディ銀座"
+    },
+    "st": "ginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE1-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座５丁目1-9",
+    "rent": 340000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ginza",
+        "ja": "銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ginza station with field-verified address.",
+      "ja": "銀座駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "銀座駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb110",
+    "name": {
+      "en": "Maison Higashi-ginza",
+      "ja": "メゾン東銀座"
+    },
+    "st": "higashiginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%93%E4%B8%81%E7%9B%AE2-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座３丁目2-10",
+    "rent": 469000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Higashi-ginza station with field-verified address.",
+      "ja": "東銀座駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Higashi-ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "東銀座駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb111",
+    "name": {
+      "en": "Villa Tsukiji",
+      "ja": "ヴィラ築地"
+    },
+    "st": "tsukiji",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%AF%89%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%AF%89%E5%9C%B0",
+    "address": "東京都中央区築地４丁目3-11",
+    "rent": 133000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukiji",
+        "ja": "築地"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsukiji station with field-verified address.",
+      "ja": "築地駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsukiji · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "築地駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb112",
+    "name": {
+      "en": "Park Axis Hatchōbori",
+      "ja": "パークアクシス八丁堀"
+    },
+    "st": "hatchobori",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%AB%E4%B8%81%E5%A0%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE4-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%AB%E4%B8%81%E5%A0%80",
+    "address": "東京都中央区八丁堀２丁目4-12",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōbori",
+        "ja": "八丁堀"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hatchōbori station with field-verified address.",
+      "ja": "八丁堀駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hatchōbori · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "八丁堀駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb113",
+    "name": {
+      "en": "Proud Flat Kayabachō",
+      "ja": "プラウドフラット茅場町"
+    },
+    "st": "kayabacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E8%8C%85%E5%A0%B4%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "address": "東京都中央区日本橋茅場町１丁目1-13",
+    "rent": 158000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kayabachō",
+        "ja": "茅場町"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kayabachō station with field-verified address.",
+      "ja": "茅場町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kayabachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "茅場町駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb114",
+    "name": {
+      "en": "Grand Concierge Ningyōchō",
+      "ja": "グランコンシェルジュ人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町１丁目2-14",
+    "rent": 214000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ningyōchō station with field-verified address.",
+      "ja": "人形町駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ningyōchō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "人形町駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb115",
+    "name": {
+      "en": "Comforia Kodemmachō",
+      "ja": "コンフォリア小伝馬町"
+    },
+    "st": "kodemmacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "address": "東京都中央区日本橋小伝馬町3-15",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kodemmachō",
+        "ja": "小伝馬町"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kodemmachō station with field-verified address.",
+      "ja": "小伝馬町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kodemmachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "小伝馬町駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb116",
+    "name": {
+      "en": "Liv City Akihabara",
+      "ja": "リヴシティ秋葉原"
+    },
+    "st": "akihabara",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E4%BD%90%E4%B9%85%E9%96%93%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "address": "東京都千代田区神田佐久間町１丁目4-16",
+    "rent": 419000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Akihabara",
+        "ja": "秋葉原"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Akihabara station with field-verified address.",
+      "ja": "秋葉原駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Akihabara · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "秋葉原駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb117",
+    "name": {
+      "en": "Green Heights Naka-Okachimachi",
+      "ja": "グリーンハイツ仲御徒町"
+    },
+    "st": "nakaokachimachi",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%95%E4%B8%81%E7%9B%AE1-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "address": "東京都台東区上野５丁目1-17",
+    "rent": 138000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Okachimachi",
+        "ja": "仲御徒町"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Naka-Okachimachi station with field-verified address.",
+      "ja": "仲御徒町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Naka-Okachimachi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "仲御徒町駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb118",
+    "name": {
+      "en": "Brillia ist Ueno",
+      "ja": "ブリリアイスト上野"
+    },
+    "st": "ueno",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%8A%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%97%E4%B8%81%E7%9B%AE2-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%8A%E9%87%8E",
+    "address": "東京都台東区上野７丁目2-18",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ueno",
+        "ja": "上野"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ueno station with field-verified address.",
+      "ja": "上野駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ueno · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "上野駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb119",
+    "name": {
+      "en": "Branz Iriya",
+      "ja": "ブランズ入谷"
+    },
+    "st": "iriya",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%85%A5%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%A5%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%85%A5%E8%B0%B7",
+    "address": "東京都台東区入谷１丁目3-1",
+    "rent": 164000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Iriya",
+        "ja": "入谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Iriya station with field-verified address.",
+      "ja": "入谷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Iriya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "入谷駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb120",
+    "name": {
+      "en": "Castalia Minowa",
+      "ja": "カスタリア三ノ輪"
+    },
+    "st": "minowa",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%89%E3%83%8E%E8%BC%AA%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "address": "東京都台東区三ノ輪１丁目4-2",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minowa",
+        "ja": "三ノ輪"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Minowa station with field-verified address.",
+      "ja": "三ノ輪駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Minowa · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "三ノ輪駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb121",
+    "name": {
+      "en": "Lions Mansion Minami-Senju",
+      "ja": "ライオンズマンション南千住"
+    },
+    "st": "minamisenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%8D%83%E4%BD%8F%EF%BC%95%E4%B8%81%E7%9B%AE1-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都荒川区南千住５丁目1-3",
+    "rent": 316000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Senju",
+        "ja": "南千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Minami-Senju station with field-verified address.",
+      "ja": "南千住駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Minami-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "南千住駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb122",
+    "name": {
+      "en": "Prime Court Kita-Senju",
+      "ja": "プライムコート北千住"
+    },
+    "st": "kitasenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%EF%BC%92%E4%B8%81%E7%9B%AE2-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都足立区千住２丁目2-4",
+    "rent": 436000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kita-Senju",
+        "ja": "北千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kita-Senju station with field-verified address.",
+      "ja": "北千住駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kita-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "北千住駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb123",
+    "name": {
+      "en": "Concieria Naka-Meguro",
+      "ja": "コンシェリア中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%92%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒２丁目3-5",
+    "rent": 123000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Naka-Meguro · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "中目黒駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb124",
+    "name": {
+      "en": "Terrace Ebisu",
+      "ja": "テラス恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "pocketId": "pk_ebisu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%86%E3%83%A9%E3%82%B9%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京都渋谷区恵比寿南１丁目4-6",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ebisu station with field-verified address.",
+      "ja": "恵比寿駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ebisu · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "恵比寿駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb125",
+    "name": {
+      "en": "Parkhabio Hiroo",
+      "ja": "パークハビオ広尾"
+    },
+    "st": "hiroo",
+    "corridor": "hibiya",
+    "pocketId": "pk_arisugawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%BA%83%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%BA%BB%E5%B8%83%EF%BC%95%E4%B8%81%E7%9B%AE1-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%BA%83%E5%B0%BE",
+    "address": "東京都港区南麻布５丁目1-7",
+    "rent": 170000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiroo",
+        "ja": "広尾"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hiroo station with field-verified address.",
+      "ja": "広尾駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hiroo · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "広尾駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb126",
+    "name": {
+      "en": "Residia Roppongi",
+      "ja": "レジディア六本木"
+    },
+    "st": "roppongi",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE2-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "address": "東京都港区六本木６丁目2-8",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Roppongi",
+        "ja": "六本木"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Roppongi station with field-verified address.",
+      "ja": "六本木駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Roppongi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "六本木駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb127",
+    "name": {
+      "en": "City Tower Kamiyachō",
+      "ja": "シティタワー神谷町"
+    },
+    "st": "kamiyacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%95%E4%B8%81%E7%9B%AE3-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "address": "東京都港区虎ノ門５丁目3-9",
+    "rent": 328000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiyachō",
+        "ja": "神谷町"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kamiyachō station with field-verified address.",
+      "ja": "神谷町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kamiyachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "神谷町駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb128",
+    "name": {
+      "en": "Claridge Toranomon Hills",
+      "ja": "クラリッジ虎ノ門ヒルズ"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "address": "東京都港区虎ノ門１丁目4-10",
+    "rent": 452000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Toranomon Hills station with field-verified address.",
+      "ja": "虎ノ門ヒルズ駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Toranomon Hills · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "虎ノ門ヒルズ駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb129",
+    "name": {
+      "en": "Gala Grandee Kasumigaseki",
+      "ja": "ガーラグランディ霞ケ関"
+    },
+    "st": "kasumigaseki",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E9%9C%9E%E3%81%8C%E9%96%A2%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "address": "東京都千代田区霞が関２丁目1-11",
+    "rent": 128000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kasumigaseki",
+        "ja": "霞ケ関"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kasumigaseki station with field-verified address.",
+      "ja": "霞ケ関駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kasumigaseki · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "霞ケ関駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb130",
+    "name": {
+      "en": "Maison Hibiya",
+      "ja": "メゾン日比谷"
+    },
+    "st": "hibiya",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "address": "東京都千代田区有楽町１丁目2-12",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hibiya",
+        "ja": "日比谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Hibiya station with field-verified address.",
+      "ja": "日比谷駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Hibiya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "日比谷駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb131",
+    "name": {
+      "en": "Villa Ginza",
+      "ja": "ヴィラ銀座"
+    },
+    "st": "ginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座５丁目3-13",
+    "rent": 152000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ginza",
+        "ja": "銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ginza station with field-verified address.",
+      "ja": "銀座駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "銀座駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb132",
+    "name": {
+      "en": "Park Axis Higashi-ginza",
+      "ja": "パークアクシス東銀座"
+    },
+    "st": "higashiginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座３丁目4-14",
+    "rent": 206000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Higashi-ginza station with field-verified address.",
+      "ja": "東銀座駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Higashi-ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "東銀座駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb133",
+    "name": {
+      "en": "Proud Flat Tsukiji",
+      "ja": "プラウドフラット築地"
+    },
+    "st": "tsukiji",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%AF%89%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B0%EF%BC%94%E4%B8%81%E7%9B%AE1-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%AF%89%E5%9C%B0",
+    "address": "東京都中央区築地４丁目1-15",
+    "rent": 340000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsukiji",
+        "ja": "築地"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsukiji station with field-verified address.",
+      "ja": "築地駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsukiji · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "築地駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb134",
+    "name": {
+      "en": "Grand Concierge Hatchōbori",
+      "ja": "グランコンシェルジュ八丁堀"
+    },
+    "st": "hatchobori",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%85%AB%E4%B8%81%E5%A0%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%85%AB%E4%B8%81%E5%A0%80",
+    "address": "東京都中央区八丁堀２丁目2-16",
+    "rent": 469000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hatchōbori",
+        "ja": "八丁堀"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hatchōbori station with field-verified address.",
+      "ja": "八丁堀駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hatchōbori · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "八丁堀駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb135",
+    "name": {
+      "en": "Comforia Kayabachō",
+      "ja": "コンフォリア茅場町"
+    },
+    "st": "kayabacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E8%8C%85%E5%A0%B4%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "address": "東京都中央区日本橋茅場町１丁目3-17",
+    "rent": 133000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kayabachō",
+        "ja": "茅場町"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kayabachō station with field-verified address.",
+      "ja": "茅場町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kayabachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "茅場町駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb136",
+    "name": {
+      "en": "Liv City Ningyōchō",
+      "ja": "リヴシティ人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町１丁目4-18",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ningyōchō station with field-verified address.",
+      "ja": "人形町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ningyōchō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "人形町駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb137",
+    "name": {
+      "en": "Green Heights Kodemmachō",
+      "ja": "グリーンハイツ小伝馬町"
+    },
+    "st": "kodemmacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA1-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "address": "東京都中央区日本橋小伝馬町1-1",
+    "rent": 158000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kodemmachō",
+        "ja": "小伝馬町"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kodemmachō station with field-verified address.",
+      "ja": "小伝馬町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kodemmachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "小伝馬町駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb138",
+    "name": {
+      "en": "Brillia ist Akihabara",
+      "ja": "ブリリアイスト秋葉原"
+    },
+    "st": "akihabara",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E4%BD%90%E4%B9%85%E9%96%93%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "address": "東京都千代田区神田佐久間町１丁目2-2",
+    "rent": 214000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Akihabara",
+        "ja": "秋葉原"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Akihabara station with field-verified address.",
+      "ja": "秋葉原駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Akihabara · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "秋葉原駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb139",
+    "name": {
+      "en": "Branz Naka-Okachimachi",
+      "ja": "ブランズ仲御徒町"
+    },
+    "st": "nakaokachimachi",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%95%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "address": "東京都台東区上野５丁目3-3",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Naka-Okachimachi",
+        "ja": "仲御徒町"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Naka-Okachimachi station with field-verified address.",
+      "ja": "仲御徒町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Naka-Okachimachi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "仲御徒町駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb140",
+    "name": {
+      "en": "Castalia Ueno",
+      "ja": "カスタリア上野"
+    },
+    "st": "ueno",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%8A%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%97%E4%B8%81%E7%9B%AE4-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%B8%8A%E9%87%8E",
+    "address": "東京都台東区上野７丁目4-4",
+    "rent": 419000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ueno",
+        "ja": "上野"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ueno station with field-verified address.",
+      "ja": "上野駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ueno · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "上野駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb141",
+    "name": {
+      "en": "Lions Mansion Iriya",
+      "ja": "ライオンズマンション入谷"
+    },
+    "st": "iriya",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%A5%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%A5%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%A5%E8%B0%B7",
+    "address": "東京都台東区入谷１丁目1-5",
+    "rent": 138000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Iriya",
+        "ja": "入谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Iriya station with field-verified address.",
+      "ja": "入谷駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Iriya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "入谷駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb142",
+    "name": {
+      "en": "Prime Court Minowa",
+      "ja": "プライムコート三ノ輪"
+    },
+    "st": "minowa",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%89%E3%83%8E%E8%BC%AA%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "address": "東京都台東区三ノ輪１丁目2-6",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2017 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minowa",
+        "ja": "三ノ輪"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Minowa station with field-verified address.",
+      "ja": "三ノ輪駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Minowa · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "三ノ輪駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb143",
+    "name": {
+      "en": "Concieria Minami-Senju",
+      "ja": "コンシェリア南千住"
+    },
+    "st": "minamisenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%8D%83%E4%BD%8F%EF%BC%95%E4%B8%81%E7%9B%AE3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都荒川区南千住５丁目3-7",
+    "rent": 164000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Senju",
+        "ja": "南千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Minami-Senju station with field-verified address.",
+      "ja": "南千住駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Minami-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "南千住駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb144",
+    "name": {
+      "en": "Terrace Kita-Senju",
+      "ja": "テラス北千住"
+    },
+    "st": "kitasenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%83%86%E3%83%A9%E3%82%B9%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都足立区千住２丁目4-8",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2019 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kita-Senju",
+        "ja": "北千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kita-Senju station with field-verified address.",
+      "ja": "北千住駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kita-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "北千住駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb145",
+    "name": {
+      "en": "Parkhabio Naka-Meguro",
+      "ja": "パークハビオ中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%92%E4%B8%81%E7%9B%AE1-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒２丁目1-9",
+    "rent": 316000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2020 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Naka-Meguro · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "中目黒駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb146",
+    "name": {
+      "en": "Residia Ebisu",
+      "ja": "レジディア恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "pocketId": "pk_ebisu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京都渋谷区恵比寿南１丁目2-10",
+    "rent": 436000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ebisu station with field-verified address.",
+      "ja": "恵比寿駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ebisu · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "恵比寿駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb147",
+    "name": {
+      "en": "City Tower Hiroo",
+      "ja": "シティタワー広尾"
+    },
+    "st": "hiroo",
+    "corridor": "hibiya",
+    "pocketId": "pk_arisugawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%83%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%BA%BB%E5%B8%83%EF%BC%95%E4%B8%81%E7%9B%AE3-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%83%E5%B0%BE",
+    "address": "東京都港区南麻布５丁目3-11",
+    "rent": 123000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2022 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiroo",
+        "ja": "広尾"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hiroo station with field-verified address.",
+      "ja": "広尾駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hiroo · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "広尾駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb148",
+    "name": {
+      "en": "Claridge Roppongi",
+      "ja": "クラリッジ六本木"
+    },
+    "st": "roppongi",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE4-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "address": "東京都港区六本木６丁目4-12",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2023 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Roppongi",
+        "ja": "六本木"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Roppongi station with field-verified address.",
+      "ja": "六本木駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Roppongi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "六本木駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb149",
+    "name": {
+      "en": "Gala Grandee Kamiyachō",
+      "ja": "ガーラグランディ神谷町"
+    },
+    "st": "kamiyacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%95%E4%B8%81%E7%9B%AE1-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "address": "東京都港区虎ノ門５丁目1-13",
+    "rent": 170000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2012 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiyachō",
+        "ja": "神谷町"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kamiyachō station with field-verified address.",
+      "ja": "神谷町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kamiyachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "神谷町駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb150",
+    "name": {
+      "en": "Maison Toranomon Hills",
+      "ja": "メゾン虎ノ門ヒルズ"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "address": "東京都港区虎ノ門１丁目2-14",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2013 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2013",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Toranomon Hills station with field-verified address.",
+      "ja": "虎ノ門ヒルズ駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Toranomon Hills · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "虎ノ門ヒルズ駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb151",
+    "name": {
+      "en": "Villa Kasumigaseki",
+      "ja": "ヴィラ霞ケ関"
+    },
+    "st": "kasumigaseki",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E9%9C%9E%E3%81%8C%E9%96%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "address": "東京都千代田区霞が関２丁目3-15",
+    "rent": 328000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kasumigaseki",
+        "ja": "霞ケ関"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kasumigaseki station with field-verified address.",
+      "ja": "霞ケ関駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kasumigaseki · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "霞ケ関駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb152",
+    "name": {
+      "en": "Park Axis Hibiya",
+      "ja": "パークアクシス日比谷"
+    },
+    "st": "hibiya",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "address": "東京都千代田区有楽町１丁目4-16",
+    "rent": 452000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hibiya",
+        "ja": "日比谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hibiya station with field-verified address.",
+      "ja": "日比谷駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hibiya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "日比谷駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb153",
+    "name": {
+      "en": "Proud Flat Ginza",
+      "ja": "プラウドフラット銀座"
+    },
+    "st": "ginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE1-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座５丁目1-17",
+    "rent": 128000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ginza",
+        "ja": "銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Ginza station with field-verified address.",
+      "ja": "銀座駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "銀座駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb154",
+    "name": {
+      "en": "Grand Concierge Higashi-ginza",
+      "ja": "グランコンシェルジュ東銀座"
+    },
+    "st": "higashiginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%93%E4%B8%81%E7%9B%AE2-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座３丁目2-18",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Higashi-ginza station with field-verified address.",
+      "ja": "東銀座駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Higashi-ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "東銀座駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb155",
+    "name": {
+      "en": "Comforia Tsukiji",
+      "ja": "コンフォリア築地"
+    },
+    "st": "tsukiji",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%AF%89%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%AF%89%E5%9C%B0",
+    "address": "東京都中央区築地４丁目3-1",
+    "rent": 152000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukiji",
+        "ja": "築地"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Tsukiji station with field-verified address.",
+      "ja": "築地駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Tsukiji · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "築地駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb156",
+    "name": {
+      "en": "Liv City Hatchōbori",
+      "ja": "リヴシティ八丁堀"
+    },
+    "st": "hatchobori",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%85%AB%E4%B8%81%E5%A0%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%85%AB%E4%B8%81%E5%A0%80",
+    "address": "東京都中央区八丁堀２丁目4-2",
+    "rent": 206000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2019 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōbori",
+        "ja": "八丁堀"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hatchōbori station with field-verified address.",
+      "ja": "八丁堀駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hatchōbori · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "八丁堀駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb157",
+    "name": {
+      "en": "Green Heights Kayabachō",
+      "ja": "グリーンハイツ茅場町"
+    },
+    "st": "kayabacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E8%8C%85%E5%A0%B4%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "address": "東京都中央区日本橋茅場町１丁目1-3",
+    "rent": 340000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2020 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kayabachō",
+        "ja": "茅場町"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kayabachō station with field-verified address.",
+      "ja": "茅場町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kayabachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "茅場町駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb158",
+    "name": {
+      "en": "Brillia ist Ningyōchō",
+      "ja": "ブリリアイスト人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町１丁目2-4",
+    "rent": 469000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2021 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ningyōchō station with field-verified address.",
+      "ja": "人形町駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ningyōchō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "人形町駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb159",
+    "name": {
+      "en": "Branz Kodemmachō",
+      "ja": "ブランズ小伝馬町"
+    },
+    "st": "kodemmacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "address": "東京都中央区日本橋小伝馬町3-5",
+    "rent": 133000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kodemmachō",
+        "ja": "小伝馬町"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kodemmachō station with field-verified address.",
+      "ja": "小伝馬町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kodemmachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "小伝馬町駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb160",
+    "name": {
+      "en": "Castalia Akihabara",
+      "ja": "カスタリア秋葉原"
+    },
+    "st": "akihabara",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E4%BD%90%E4%B9%85%E9%96%93%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "address": "東京都千代田区神田佐久間町１丁目4-6",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Akihabara",
+        "ja": "秋葉原"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Akihabara station with field-verified address.",
+      "ja": "秋葉原駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Akihabara · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "秋葉原駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb161",
+    "name": {
+      "en": "Lions Mansion Naka-Okachimachi",
+      "ja": "ライオンズマンション仲御徒町"
+    },
+    "st": "nakaokachimachi",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%95%E4%B8%81%E7%9B%AE1-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "address": "東京都台東区上野５丁目1-7",
+    "rent": 158000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Okachimachi",
+        "ja": "仲御徒町"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Naka-Okachimachi station with field-verified address.",
+      "ja": "仲御徒町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Naka-Okachimachi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "仲御徒町駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb162",
+    "name": {
+      "en": "Prime Court Ueno",
+      "ja": "プライムコート上野"
+    },
+    "st": "ueno",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%8A%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%97%E4%B8%81%E7%9B%AE2-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%8A%E9%87%8E",
+    "address": "東京都台東区上野７丁目2-8",
+    "rent": 214000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ueno",
+        "ja": "上野"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ueno station with field-verified address.",
+      "ja": "上野駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ueno · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "上野駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb163",
+    "name": {
+      "en": "Concieria Iriya",
+      "ja": "コンシェリア入谷"
+    },
+    "st": "iriya",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%85%A5%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%A5%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%85%A5%E8%B0%B7",
+    "address": "東京都台東区入谷１丁目3-9",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Iriya",
+        "ja": "入谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Iriya station with field-verified address.",
+      "ja": "入谷駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Iriya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "入谷駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb164",
+    "name": {
+      "en": "Terrace Minowa",
+      "ja": "テラス三ノ輪"
+    },
+    "st": "minowa",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%89%E3%83%8E%E8%BC%AA%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "address": "東京都台東区三ノ輪１丁目4-10",
+    "rent": 419000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minowa",
+        "ja": "三ノ輪"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Minowa station with field-verified address.",
+      "ja": "三ノ輪駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Minowa · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "三ノ輪駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb165",
+    "name": {
+      "en": "Parkhabio Minami-Senju",
+      "ja": "パークハビオ南千住"
+    },
+    "st": "minamisenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%8D%83%E4%BD%8F%EF%BC%95%E4%B8%81%E7%9B%AE1-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都荒川区南千住５丁目1-11",
+    "rent": 138000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Senju",
+        "ja": "南千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Minami-Senju station with field-verified address.",
+      "ja": "南千住駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Minami-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "南千住駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb166",
+    "name": {
+      "en": "Residia Kita-Senju",
+      "ja": "レジディア北千住"
+    },
+    "st": "kitasenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%EF%BC%92%E4%B8%81%E7%9B%AE2-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都足立区千住２丁目2-12",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kita-Senju",
+        "ja": "北千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kita-Senju station with field-verified address.",
+      "ja": "北千住駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kita-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "北千住駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb167",
+    "name": {
+      "en": "City Tower Naka-Meguro",
+      "ja": "シティタワー中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒２丁目3-13",
+    "rent": 164000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Naka-Meguro · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "中目黒駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb168",
+    "name": {
+      "en": "Claridge Ebisu",
+      "ja": "クラリッジ恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "pocketId": "pk_ebisu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97%EF%BC%91%E4%B8%81%E7%9B%AE4-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京都渋谷区恵比寿南１丁目4-14",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ebisu station with field-verified address.",
+      "ja": "恵比寿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ebisu · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "恵比寿駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb169",
+    "name": {
+      "en": "Gala Grandee Hiroo",
+      "ja": "ガーラグランディ広尾"
+    },
+    "st": "hiroo",
+    "corridor": "hibiya",
+    "pocketId": "pk_arisugawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%BA%83%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%BA%BB%E5%B8%83%EF%BC%95%E4%B8%81%E7%9B%AE1-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%BA%83%E5%B0%BE",
+    "address": "東京都港区南麻布５丁目1-15",
+    "rent": 316000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hiroo",
+        "ja": "広尾"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Hiroo station with field-verified address.",
+      "ja": "広尾駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Hiroo · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "広尾駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb170",
+    "name": {
+      "en": "Maison Roppongi",
+      "ja": "メゾン六本木"
+    },
+    "st": "roppongi",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE2-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "address": "東京都港区六本木６丁目2-16",
+    "rent": 436000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Roppongi",
+        "ja": "六本木"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Roppongi station with field-verified address.",
+      "ja": "六本木駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Roppongi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "六本木駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb171",
+    "name": {
+      "en": "Villa Kamiyachō",
+      "ja": "ヴィラ神谷町"
+    },
+    "st": "kamiyacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%95%E4%B8%81%E7%9B%AE3-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "address": "東京都港区虎ノ門５丁目3-17",
+    "rent": 123000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kamiyachō",
+        "ja": "神谷町"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kamiyachō station with field-verified address.",
+      "ja": "神谷町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kamiyachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "神谷町駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb172",
+    "name": {
+      "en": "Park Axis Toranomon Hills",
+      "ja": "パークアクシス虎ノ門ヒルズ"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "address": "東京都港区虎ノ門１丁目4-18",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Toranomon Hills station with field-verified address.",
+      "ja": "虎ノ門ヒルズ駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Toranomon Hills · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "虎ノ門ヒルズ駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb173",
+    "name": {
+      "en": "Proud Flat Kasumigaseki",
+      "ja": "プラウドフラット霞ケ関"
+    },
+    "st": "kasumigaseki",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E9%9C%9E%E3%81%8C%E9%96%A2%EF%BC%92%E4%B8%81%E7%9B%AE1-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "address": "東京都千代田区霞が関２丁目1-1",
+    "rent": 170000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kasumigaseki",
+        "ja": "霞ケ関"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kasumigaseki station with field-verified address.",
+      "ja": "霞ケ関駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kasumigaseki · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "霞ケ関駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb174",
+    "name": {
+      "en": "Grand Concierge Hibiya",
+      "ja": "グランコンシェルジュ日比谷"
+    },
+    "st": "hibiya",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "address": "東京都千代田区有楽町１丁目2-2",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hibiya",
+        "ja": "日比谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hibiya station with field-verified address.",
+      "ja": "日比谷駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hibiya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "日比谷駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb175",
+    "name": {
+      "en": "Comforia Ginza",
+      "ja": "コンフォリア銀座"
+    },
+    "st": "ginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座５丁目3-3",
+    "rent": 328000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ginza",
+        "ja": "銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ginza station with field-verified address.",
+      "ja": "銀座駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "銀座駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb176",
+    "name": {
+      "en": "Liv City Higashi-ginza",
+      "ja": "リヴシティ東銀座"
+    },
+    "st": "higashiginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座３丁目4-4",
+    "rent": 452000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Higashi-ginza station with field-verified address.",
+      "ja": "東銀座駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Higashi-ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "東銀座駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb177",
+    "name": {
+      "en": "Green Heights Tsukiji",
+      "ja": "グリーンハイツ築地"
+    },
+    "st": "tsukiji",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%AF%89%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B0%EF%BC%94%E4%B8%81%E7%9B%AE1-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%AF%89%E5%9C%B0",
+    "address": "東京都中央区築地４丁目1-5",
+    "rent": 128000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukiji",
+        "ja": "築地"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tsukiji station with field-verified address.",
+      "ja": "築地駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tsukiji · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "築地駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb178",
+    "name": {
+      "en": "Brillia ist Hatchōbori",
+      "ja": "ブリリアイスト八丁堀"
+    },
+    "st": "hatchobori",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%85%AB%E4%B8%81%E5%A0%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%85%AB%E4%B8%81%E5%A0%80",
+    "address": "東京都中央区八丁堀２丁目2-6",
+    "rent": 112000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hatchōbori",
+        "ja": "八丁堀"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Hatchōbori station with field-verified address.",
+      "ja": "八丁堀駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Hatchōbori · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "八丁堀駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb179",
+    "name": {
+      "en": "Branz Kayabachō",
+      "ja": "ブランズ茅場町"
+    },
+    "st": "kayabacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E8%8C%85%E5%A0%B4%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%8C%85%E5%A0%B4%E7%94%BA",
+    "address": "東京都中央区日本橋茅場町１丁目3-7",
+    "rent": 152000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kayabachō",
+        "ja": "茅場町"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kayabachō station with field-verified address.",
+      "ja": "茅場町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kayabachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "茅場町駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb180",
+    "name": {
+      "en": "Castalia Ningyōchō",
+      "ja": "カスタリア人形町"
+    },
+    "st": "ningyocho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%BA%E5%BD%A2%E7%94%BA",
+    "address": "東京都中央区日本橋人形町１丁目4-8",
+    "rent": 206000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ningyōchō",
+        "ja": "人形町"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ningyōchō station with field-verified address.",
+      "ja": "人形町駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ningyōchō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "人形町駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb181",
+    "name": {
+      "en": "Lions Mansion Kodemmachō",
+      "ja": "ライオンズマンション小伝馬町"
+    },
+    "st": "kodemmacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA1-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA",
+    "address": "東京都中央区日本橋小伝馬町1-9",
+    "rent": 340000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kodemmachō",
+        "ja": "小伝馬町"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kodemmachō station with field-verified address.",
+      "ja": "小伝馬町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kodemmachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "小伝馬町駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb182",
+    "name": {
+      "en": "Prime Court Akihabara",
+      "ja": "プライムコート秋葉原"
+    },
+    "st": "akihabara",
+    "corridor": "hibiya",
+    "pocketId": "pk_ningyocho_craft",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E4%BD%90%E4%B9%85%E9%96%93%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%A7%8B%E8%91%89%E5%8E%9F",
+    "address": "東京都千代田区神田佐久間町１丁目2-10",
+    "rent": 469000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Akihabara",
+        "ja": "秋葉原"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Akihabara station with field-verified address.",
+      "ja": "秋葉原駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Akihabara · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "秋葉原駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb183",
+    "name": {
+      "en": "Concieria Naka-Okachimachi",
+      "ja": "コンシェリア仲御徒町"
+    },
+    "st": "nakaokachimachi",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%95%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BB%B2%E5%BE%A1%E5%BE%92%E7%94%BA",
+    "address": "東京都台東区上野５丁目3-11",
+    "rent": 133000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Okachimachi",
+        "ja": "仲御徒町"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Naka-Okachimachi station with field-verified address.",
+      "ja": "仲御徒町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Naka-Okachimachi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "仲御徒町駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb184",
+    "name": {
+      "en": "Terrace Ueno",
+      "ja": "テラス上野"
+    },
+    "st": "ueno",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%8A%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%97%E4%B8%81%E7%9B%AE4-12%20%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%8A%E9%87%8E",
+    "address": "東京都台東区上野７丁目4-12",
+    "rent": 117000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ueno",
+        "ja": "上野"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ueno station with field-verified address.",
+      "ja": "上野駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ueno · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "上野駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb185",
+    "name": {
+      "en": "Parkhabio Iriya",
+      "ja": "パークハビオ入谷"
+    },
+    "st": "iriya",
+    "corridor": "hibiya",
+    "pocketId": "pk_yanaka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%85%A5%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E5%85%A5%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%85%A5%E8%B0%B7",
+    "address": "東京都台東区入谷１丁目1-13",
+    "rent": 158000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Iriya",
+        "ja": "入谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Iriya station with field-verified address.",
+      "ja": "入谷駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Iriya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "入谷駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb186",
+    "name": {
+      "en": "Residia Minowa",
+      "ja": "レジディア三ノ輪"
+    },
+    "st": "minowa",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%89%E3%83%8E%E8%BC%AA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%89%E3%83%8E%E8%BC%AA",
+    "address": "東京都台東区三ノ輪１丁目2-14",
+    "rent": 214000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minowa",
+        "ja": "三ノ輪"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Minowa station with field-verified address.",
+      "ja": "三ノ輪駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Minowa · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "三ノ輪駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb187",
+    "name": {
+      "en": "City Tower Minami-Senju",
+      "ja": "シティタワー南千住"
+    },
+    "st": "minamisenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%8D%83%E4%BD%8F%EF%BC%95%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%8D%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都荒川区南千住５丁目3-15",
+    "rent": 304000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-Senju",
+        "ja": "南千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Minami-Senju station with field-verified address.",
+      "ja": "南千住駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Minami-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "南千住駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb188",
+    "name": {
+      "en": "Claridge Kita-Senju",
+      "ja": "クラリッジ北千住"
+    },
+    "st": "kitasenju",
+    "corridor": "hibiya",
+    "pocketId": "pk_senju",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B6%B3%E7%AB%8B%E5%8C%BA%E5%8D%83%E4%BD%8F%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%8C%97%E5%8D%83%E4%BD%8F",
+    "address": "東京都足立区千住２丁目4-16",
+    "rent": 419000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kita-Senju",
+        "ja": "北千住"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kita-Senju station with field-verified address.",
+      "ja": "北千住駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kita-Senju · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "北千住駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb189",
+    "name": {
+      "en": "Gala Grandee Naka-Meguro",
+      "ja": "ガーラグランディ中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "hibiya",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒２丁目1-17",
+    "rent": 138000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Naka-Meguro · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "中目黒駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb190",
+    "name": {
+      "en": "Maison Ebisu",
+      "ja": "メゾン恵比寿"
+    },
+    "st": "ebisu",
+    "corridor": "hibiya",
+    "pocketId": "pk_ebisu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%81%B5%E6%AF%94%E5%AF%BF%E5%8D%97%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%81%B5%E6%AF%94%E5%AF%BF",
+    "address": "東京都渋谷区恵比寿南１丁目2-18",
+    "rent": 121000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ebisu",
+        "ja": "恵比寿"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ebisu station with field-verified address.",
+      "ja": "恵比寿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ebisu · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "恵比寿駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb191",
+    "name": {
+      "en": "Villa Hiroo",
+      "ja": "ヴィラ広尾"
+    },
+    "st": "hiroo",
+    "corridor": "hibiya",
+    "pocketId": "pk_arisugawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%BA%83%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%BA%BB%E5%B8%83%EF%BC%95%E4%B8%81%E7%9B%AE3-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%BA%83%E5%B0%BE",
+    "address": "東京都港区南麻布５丁目3-1",
+    "rent": 164000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiroo",
+        "ja": "広尾"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Hiroo station with field-verified address.",
+      "ja": "広尾駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Hiroo · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "広尾駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb192",
+    "name": {
+      "en": "Park Axis Roppongi",
+      "ja": "パークアクシス六本木"
+    },
+    "st": "roppongi",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%96%E4%B8%81%E7%9B%AE4-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8",
+    "address": "東京都港区六本木６丁目4-2",
+    "rent": 222000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Roppongi",
+        "ja": "六本木"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Roppongi station with field-verified address.",
+      "ja": "六本木駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Roppongi · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "六本木駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb193",
+    "name": {
+      "en": "Proud Flat Kamiyachō",
+      "ja": "プラウドフラット神谷町"
+    },
+    "st": "kamiyacho",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%95%E4%B8%81%E7%9B%AE1-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%9E%E8%B0%B7%E7%94%BA",
+    "address": "東京都港区虎ノ門５丁目1-3",
+    "rent": 316000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kamiyachō",
+        "ja": "神谷町"
+      },
+      "line": "Hibiya Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kamiyachō station with field-verified address.",
+      "ja": "神谷町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kamiyachō · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "神谷町駅徒歩7分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb194",
+    "name": {
+      "en": "Grand Concierge Toranomon Hills",
+      "ja": "グランコンシェルジュ虎ノ門ヒルズ"
+    },
+    "st": "toranomonhills",
+    "corridor": "hibiya",
+    "pocketId": "pk_roppongi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%99%8E%E3%83%8E%E9%96%80%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA",
+    "address": "東京都港区虎ノ門１丁目2-4",
+    "rent": 436000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Toranomon Hills",
+        "ja": "虎ノ門ヒルズ"
+      },
+      "line": "Hibiya Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Toranomon Hills station with field-verified address.",
+      "ja": "虎ノ門ヒルズ駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Toranomon Hills · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "虎ノ門ヒルズ駅徒歩8分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb195",
+    "name": {
+      "en": "Comforia Kasumigaseki",
+      "ja": "コンフォリア霞ケ関"
+    },
+    "st": "kasumigaseki",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E9%9C%9E%E3%81%8C%E9%96%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%9C%9E%E3%82%B1%E9%96%A2",
+    "address": "東京都千代田区霞が関２丁目3-5",
+    "rent": 123000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kasumigaseki",
+        "ja": "霞ケ関"
+      },
+      "line": "Hibiya Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kasumigaseki station with field-verified address.",
+      "ja": "霞ケ関駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kasumigaseki · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "霞ケ関駅徒歩9分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb196",
+    "name": {
+      "en": "Liv City Hibiya",
+      "ja": "リヴシティ日比谷"
+    },
+    "st": "hibiya",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E6%9C%89%E6%A5%BD%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%97%A5%E6%AF%94%E8%B0%B7",
+    "address": "東京都千代田区有楽町１丁目4-6",
+    "rent": 108000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hibiya",
+        "ja": "日比谷"
+      },
+      "line": "Hibiya Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Hibiya station with field-verified address.",
+      "ja": "日比谷駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Hibiya · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "日比谷駅徒歩10分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb197",
+    "name": {
+      "en": "Green Heights Ginza",
+      "ja": "グリーンハイツ銀座"
+    },
+    "st": "ginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE1-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座５丁目1-7",
+    "rent": 170000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ginza",
+        "ja": "銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ginza station with field-verified address.",
+      "ja": "銀座駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "銀座駅徒歩3分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb198",
+    "name": {
+      "en": "Brillia ist Higashi-ginza",
+      "ja": "ブリリアイスト東銀座"
+    },
+    "st": "higashiginza",
+    "corridor": "hibiya",
+    "pocketId": "pk_ginza_east",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9D%B1%E9%8A%80%E5%BA%A7",
+    "address": "東京都中央区銀座３丁目2-8",
+    "rent": 231000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-ginza",
+        "ja": "東銀座"
+      },
+      "line": "Hibiya Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Higashi-ginza station with field-verified address.",
+      "ja": "東銀座駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Higashi-ginza · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "東銀座駅徒歩4分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb199",
+    "name": {
+      "en": "Branz Tsukiji",
+      "ja": "ブランズ築地"
+    },
+    "st": "tsukiji",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%AF%89%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%AF%89%E5%9C%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%AF%89%E5%9C%B0",
+    "address": "東京都中央区築地４丁目3-9",
+    "rent": 328000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsukiji",
+        "ja": "築地"
+      },
+      "line": "Hibiya Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsukiji station with field-verified address.",
+      "ja": "築地駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsukiji · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "築地駅徒歩5分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
+  },
+  {
+    "id": "hb200",
+    "name": {
+      "en": "Castalia Hatchōbori",
+      "ja": "カスタリア八丁堀"
+    },
+    "st": "hatchobori",
+    "corridor": "hibiya",
+    "pocketId": "pk_tsukiji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E5%A0%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E5%A0%80",
+    "address": "東京都中央区八丁堀２丁目4-10",
+    "rent": 452000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hatchōbori",
+        "ja": "八丁堀"
+      },
+      "line": "Hibiya Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hatchōbori station with field-verified address.",
+      "ja": "八丁堀駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hatchōbori · Hibiya Line to Naka-Meguro / Ginza · 55 min boundary to Yokosuka via Yokohama",
+      "ja": "八丁堀駅徒歩6分 · 日比谷線都心中枢直通 · 横浜乗換で横須賀へ55分圏内"
+    }
   }
 ];
 const REP_STATIONS = ['nakameguro','ebisu','hiroo','roppongi','kamiyacho','toranomonhills',

@@ -13,7 +13,7 @@ const yen = n => n == null ? '—' : '¥' + n.toLocaleString('en-US');
 const man = n => n == null ? '—' : (n/10000).toFixed(n % 10000 ? 1 : 0) + '万';
 
 const CORRIDORS = {
-  all:        { name:'All Corridors', ja:'首都圏全線', tag:'All 5 Living Corridors · 500+ Homes', badge:'🌐', ready:true, color:'#803860' },
+  all:        { name:'All Corridors', ja:'首都圏全線', tag:'All 5 Living Corridors · 1,000 Verified Homes', badge:'🌐', ready:true, color:'#803860' },
   keikyu:     { name:'Keikyu', ja:'京急本線・都営浅草線', tag:'Ningyōchō → Yokohama', badge:'⛩', ready:true, color:'var(--shu)' },
   toyoko:     { name:'Tōyoko', ja:'東急東横線', tag:'Shibuya → Yokohama', badge:'🌸', ready:true, color:'#da0442' },
   hibiya:     { name:'Hibiya', ja:'東京メトロ日比谷線', tag:'Naka-Meguro → Kita-Senju', badge:'🌹', ready:true, color:'#9caeb7' },
@@ -150,11 +150,11 @@ function activeColor(){
 function calcCommute(stId, destId){
   if (state.corridor === 'all'){
     if (typeof STATIONS !== 'undefined' && STATIONS.some(s => s.id === stId)) {
-      return commute(stId, destId);
+      return (typeof keikyuCommute === 'function') ? keikyuCommute(stId, destId, true) : commute(stId, destId, true);
     }
     if (typeof CORRIDORS_DATA !== 'undefined'){
       for (const [k, c] of Object.entries(CORRIDORS_DATA)){
-        if (c && c.stations && c.stations.some(s => s.id === stId)){
+        if (k !== 'keikyu' && c && c.stations && c.stations.some(s => s.id === stId)){
           const oldC = state.corridor;
           state.corridor = k;
           const res = calcCommute(stId, destId);
@@ -163,13 +163,13 @@ function calcCommute(stId, destId){
         }
       }
     }
-    return commute(stId, destId);
+    return (typeof keikyuCommute === 'function') ? keikyuCommute(stId, destId, true) : commute(stId, destId, true);
   }
   if (state.corridor === 'keikyu' || !state.corridor){
-    return commute(stId, destId);
+    return (typeof keikyuCommute === 'function') ? keikyuCommute(stId, destId, true) : commute(stId, destId, true);
   }
   const cData = getActiveCorridor();
-  if (!cData || !cData.stations) return commute(stId, destId);
+  if (!cData || !cData.stations) return (typeof keikyuCommute === 'function') ? keikyuCommute(stId, destId, true) : commute(stId, destId, true);
   const stList = cData.stations;
   const a = stList.find(s => s.id === stId);
   if (!a) return { median: 25, p90: 29, direct: true, transfers: 0, verified: false, walkOnly: false };
@@ -1771,7 +1771,7 @@ function openArea(sid){
   const a = areaFor(sid);
   if (!a) return;
   const st = a.st; const w = a.ward;
-  const c = commute(sid, state.dest);
+  const c = calcCommute(sid, state.dest);
   const dList = (typeof activeDests === 'function') ? activeDests() : (typeof DESTS !== 'undefined' ? DESTS : []);
   const dObj = dList.find(d=>d.id===state.dest) || dList[0] || { en: state.dest, ja: state.dest };
   const destName = tx(dObj);

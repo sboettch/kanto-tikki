@@ -1,0 +1,20 @@
+{
+  "id": "dt181",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "7 storeys — as listed",
+    "built 2020 — as listed",
+    "structure RC — as listed",
+    "address 東京都世田谷区太子堂４丁目1-9 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 7,
+  "structure": "RC",
+  "built": "2020",
+  "local_path": "portraits/dt181.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A4%AA%E5%AD%90%E5%A0%82%EF%BC%94%E4%B8%81%E7%9B%AE1-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B"
+}

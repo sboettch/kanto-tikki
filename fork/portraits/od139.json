@@ -1,0 +1,20 @@
+{
+  "id": "od139",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "15 storeys — as listed",
+    "built 2014 — as listed",
+    "structure RC — as listed",
+    "address 東京都世田谷区船橋１丁目3-3 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 15,
+  "structure": "RC",
+  "built": "2014",
+  "local_path": "portraits/od139.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B"
+}

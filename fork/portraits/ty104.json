@@ -1,0 +1,20 @@
+{
+  "id": "ty104",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2015 — as listed",
+    "structure wood — as listed",
+    "address 東京都目黒区祐天寺２丁目4-4 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "wood",
+  "built": "2015",
+  "local_path": "portraits/ty104.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%90%E5%A4%A9%E5%AF%BA",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-4%20%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%90%E5%A4%A9%E5%AF%BA"
+}

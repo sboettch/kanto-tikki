@@ -4248,6 +4248,4306 @@ const LIVE = [
       "en": "6 min walk to Hiyoshi · verified real listing with mapped address",
       "ja": "日吉駅徒歩6分 · 所在地実地確認済みの実在募集物件"
     }
+  },
+  {
+    "id": "ty101",
+    "name": {
+      "en": "Lions Mansion Shibuya",
+      "ja": "ライオンズマンション渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA1-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区桜丘町1-1",
+    "rent": 153000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shibuya · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "渋谷駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty102",
+    "name": {
+      "en": "Prime Court Daikanyama",
+      "ja": "プライムコート代官山"
+    },
+    "st": "daikanyama",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA2-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "address": "東京都渋谷区代官山町2-2",
+    "rent": 208000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daikanyama",
+        "ja": "代官山"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Daikanyama station with field-verified address.",
+      "ja": "代官山駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Daikanyama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "代官山駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty103",
+    "name": {
+      "en": "Concieria Naka-Meguro",
+      "ja": "コンシェリア中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒１丁目3-3",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Naka-Meguro · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "中目黒駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty104",
+    "name": {
+      "en": "Terrace Yūtenji",
+      "ja": "テラス祐天寺"
+    },
+    "st": "yutenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_yutenji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-4%20%E3%83%86%E3%83%A9%E3%82%B9%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東京都目黒区祐天寺２丁目4-4",
+    "rent": 408000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yūtenji",
+        "ja": "祐天寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yūtenji station with field-verified address.",
+      "ja": "祐天寺駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yūtenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "祐天寺駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty105",
+    "name": {
+      "en": "Parkhabio Gakugei-daigaku",
+      "ja": "パークハビオ学芸大学"
+    },
+    "st": "gakugeidaigaku",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%B7%B9%E7%95%AA%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区鷹番３丁目1-5",
+    "rent": 115000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gakugei-daigaku",
+        "ja": "学芸大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gakugei-daigaku station with field-verified address.",
+      "ja": "学芸大学駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gakugei-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "学芸大学駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty106",
+    "name": {
+      "en": "Residia Toritsu-daigaku",
+      "ja": "レジディア都立大学"
+    },
+    "st": "toritsu",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B9%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区中根１丁目2-6",
+    "rent": 101000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toritsu-daigaku",
+        "ja": "都立大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Toritsu-daigaku station with field-verified address.",
+      "ja": "都立大学駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Toritsu-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "都立大学駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty107",
+    "name": {
+      "en": "City Tower Jiyūgaoka",
+      "ja": "シティタワー自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "pocketId": "pk_jiyugaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東京都目黒区自由が丘１丁目3-7",
+    "rent": 137000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Jiyūgaoka station with field-verified address.",
+      "ja": "自由が丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Jiyūgaoka · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "自由が丘駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty108",
+    "name": {
+      "en": "Claridge Den-en-chōfu",
+      "ja": "クラリッジ田園調布"
+    },
+    "st": "denencho",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東京都大田区田園調布３丁目4-8",
+    "rent": 186000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Den-en-chōfu",
+        "ja": "田園調布"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Den-en-chōfu station with field-verified address.",
+      "ja": "田園調布駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Den-en-chōfu · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "田園調布駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty109",
+    "name": {
+      "en": "Gala Grandee Tamagawa",
+      "ja": "ガーラグランディ多摩川"
+    },
+    "st": "tamagawa",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都大田区田園調布１丁目1-9",
+    "rent": 306000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawa",
+        "ja": "多摩川"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tamagawa station with field-verified address.",
+      "ja": "多摩川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tamagawa · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "多摩川駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty110",
+    "name": {
+      "en": "Maison Shin-Maruko",
+      "ja": "メゾン新丸子"
+    },
+    "st": "shinmaruko",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E7%94%BA2-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "address": "神奈川県川崎市中原区新丸子町2-10",
+    "rent": 423000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Maruko",
+        "ja": "新丸子"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shin-Maruko station with field-verified address.",
+      "ja": "新丸子駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shin-Maruko · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "新丸子駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty111",
+    "name": {
+      "en": "Villa Musashi-Kosugi",
+      "ja": "ヴィラ武蔵小杉"
+    },
+    "st": "musashikosugi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E6%9D%B1%EF%BC%93%E4%B8%81%E7%9B%AE3-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "address": "神奈川県川崎市中原区新丸子東３丁目3-11",
+    "rent": 120000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Kosugi",
+        "ja": "武蔵小杉"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Musashi-Kosugi station with field-verified address.",
+      "ja": "武蔵小杉駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Musashi-Kosugi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "武蔵小杉駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty112",
+    "name": {
+      "en": "Park Axis Motosumiyoshi",
+      "ja": "パークアクシス元住吉"
+    },
+    "st": "motosumiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%83%E4%BD%8F%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%88%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%85%83%E4%BD%8F%E5%90%89",
+    "address": "神奈川県川崎市中原区木月１丁目4-12",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Motosumiyoshi",
+        "ja": "元住吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Motosumiyoshi station with field-verified address.",
+      "ja": "元住吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Motosumiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "元住吉駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty113",
+    "name": {
+      "en": "Proud Flat Hiyoshi",
+      "ja": "プラウドフラット日吉"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%97%A5%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%97%A5%E5%90%89",
+    "address": "神奈川県横浜市港北区日吉本町１丁目1-13",
+    "rent": 142000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Hiyoshi station with field-verified address.",
+      "ja": "日吉駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Hiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "日吉駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty114",
+    "name": {
+      "en": "Grand Concierge Tsunashima",
+      "ja": "グランコンシェルジュ綱島"
+    },
+    "st": "tsunashima",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%B6%B1%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E7%B6%B1%E5%B3%B6%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%B6%B1%E5%B3%B6",
+    "address": "神奈川県横浜市港北区綱島西１丁目2-14",
+    "rent": 193000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsunashima",
+        "ja": "綱島"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tsunashima station with field-verified address.",
+      "ja": "綱島駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tsunashima · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "綱島駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty115",
+    "name": {
+      "en": "Comforia Ōkurayama",
+      "ja": "コンフォリア大倉山"
+    },
+    "st": "okurayama",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E5%A4%A7%E5%80%89%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "address": "神奈川県横浜市港北区大倉山２丁目3-15",
+    "rent": 274000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ōkurayama",
+        "ja": "大倉山"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ōkurayama station with field-verified address.",
+      "ja": "大倉山駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ōkurayama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "大倉山駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty116",
+    "name": {
+      "en": "Liv City Kikuna",
+      "ja": "リヴシティ菊名"
+    },
+    "st": "kikuna",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%8F%8A%E5%90%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%97%E4%B8%81%E7%9B%AE4-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%8F%8A%E5%90%8D",
+    "address": "神奈川県横浜市港北区菊名７丁目4-16",
+    "rent": 378000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kikuna",
+        "ja": "菊名"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kikuna station with field-verified address.",
+      "ja": "菊名駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kikuna · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "菊名駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty117",
+    "name": {
+      "en": "Green Heights Myōrenji",
+      "ja": "グリーンハイツ妙蓮寺"
+    },
+    "st": "myorenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "address": "神奈川県横浜市港北区菊名１丁目1-17",
+    "rent": 124000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Myōrenji",
+        "ja": "妙蓮寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Myōrenji station with field-verified address.",
+      "ja": "妙蓮寺駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Myōrenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "妙蓮寺駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty118",
+    "name": {
+      "en": "Brillia ist Hakuraku",
+      "ja": "ブリリアイスト白楽"
+    },
+    "st": "hakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD2-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽2-18",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hakuraku",
+        "ja": "白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hakuraku station with field-verified address.",
+      "ja": "白楽駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "白楽駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty119",
+    "name": {
+      "en": "Branz Higashi-Hakuraku",
+      "ja": "ブランズ東白楽"
+    },
+    "st": "higashihakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD3-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽3-1",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Hakuraku",
+        "ja": "東白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Higashi-Hakuraku station with field-verified address.",
+      "ja": "東白楽駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Higashi-Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "東白楽駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty120",
+    "name": {
+      "en": "Castalia Tammachi",
+      "ja": "カスタリア反町"
+    },
+    "st": "tammachi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%8F%8D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%8F%8D%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%8F%8D%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区反町１丁目4-2",
+    "rent": 200000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tammachi",
+        "ja": "反町"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tammachi station with field-verified address.",
+      "ja": "反町駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tammachi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "反町駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty121",
+    "name": {
+      "en": "Lions Mansion Yokohama",
+      "ja": "ライオンズマンション横浜"
+    },
+    "st": "yokohama",
+    "corridor": "toyoko",
+    "pocketId": "pk_minatomirai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%8D%97%E5%B9%B8%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区南幸１丁目1-3",
+    "rent": 285000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yokohama station with field-verified address.",
+      "ja": "横浜駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yokohama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "横浜駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty122",
+    "name": {
+      "en": "Prime Court Shibuya",
+      "ja": "プライムコート渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA2-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区桜丘町2-4",
+    "rent": 393000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shibuya · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "渋谷駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty123",
+    "name": {
+      "en": "Concieria Daikanyama",
+      "ja": "コンシェリア代官山"
+    },
+    "st": "daikanyama",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA3-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "address": "東京都渋谷区代官山町3-5",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daikanyama",
+        "ja": "代官山"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Daikanyama station with field-verified address.",
+      "ja": "代官山駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Daikanyama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "代官山駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty124",
+    "name": {
+      "en": "Terrace Naka-Meguro",
+      "ja": "テラス中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%86%E3%83%A9%E3%82%B9%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒１丁目4-6",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Naka-Meguro · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "中目黒駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty125",
+    "name": {
+      "en": "Parkhabio Yūtenji",
+      "ja": "パークハビオ祐天寺"
+    },
+    "st": "yutenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_yutenji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東京都目黒区祐天寺２丁目1-7",
+    "rent": 153000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yūtenji",
+        "ja": "祐天寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yūtenji station with field-verified address.",
+      "ja": "祐天寺駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yūtenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "祐天寺駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty126",
+    "name": {
+      "en": "Residia Gakugei-daigaku",
+      "ja": "レジディア学芸大学"
+    },
+    "st": "gakugeidaigaku",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%B7%B9%E7%95%AA%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区鷹番３丁目2-8",
+    "rent": 208000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gakugei-daigaku",
+        "ja": "学芸大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gakugei-daigaku station with field-verified address.",
+      "ja": "学芸大学駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gakugei-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "学芸大学駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty127",
+    "name": {
+      "en": "City Tower Toritsu-daigaku",
+      "ja": "シティタワー都立大学"
+    },
+    "st": "toritsu",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B9%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区中根１丁目3-9",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Toritsu-daigaku",
+        "ja": "都立大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Toritsu-daigaku station with field-verified address.",
+      "ja": "都立大学駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Toritsu-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "都立大学駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty128",
+    "name": {
+      "en": "Claridge Jiyūgaoka",
+      "ja": "クラリッジ自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "pocketId": "pk_jiyugaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東京都目黒区自由が丘１丁目4-10",
+    "rent": 408000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Jiyūgaoka station with field-verified address.",
+      "ja": "自由が丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Jiyūgaoka · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "自由が丘駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty129",
+    "name": {
+      "en": "Gala Grandee Den-en-chōfu",
+      "ja": "ガーラグランディ田園調布"
+    },
+    "st": "denencho",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%93%E4%B8%81%E7%9B%AE1-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東京都大田区田園調布３丁目1-11",
+    "rent": 115000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Den-en-chōfu",
+        "ja": "田園調布"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Den-en-chōfu station with field-verified address.",
+      "ja": "田園調布駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Den-en-chōfu · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "田園調布駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty130",
+    "name": {
+      "en": "Maison Tamagawa",
+      "ja": "メゾン多摩川"
+    },
+    "st": "tamagawa",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都大田区田園調布１丁目2-12",
+    "rent": 101000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawa",
+        "ja": "多摩川"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tamagawa station with field-verified address.",
+      "ja": "多摩川駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tamagawa · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "多摩川駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty131",
+    "name": {
+      "en": "Villa Shin-Maruko",
+      "ja": "ヴィラ新丸子"
+    },
+    "st": "shinmaruko",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E7%94%BA3-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "address": "神奈川県川崎市中原区新丸子町3-13",
+    "rent": 137000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Maruko",
+        "ja": "新丸子"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shin-Maruko station with field-verified address.",
+      "ja": "新丸子駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shin-Maruko · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "新丸子駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty132",
+    "name": {
+      "en": "Park Axis Musashi-Kosugi",
+      "ja": "パークアクシス武蔵小杉"
+    },
+    "st": "musashikosugi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E6%9D%B1%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "address": "神奈川県川崎市中原区新丸子東３丁目4-14",
+    "rent": 186000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Kosugi",
+        "ja": "武蔵小杉"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Musashi-Kosugi station with field-verified address.",
+      "ja": "武蔵小杉駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Musashi-Kosugi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "武蔵小杉駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty133",
+    "name": {
+      "en": "Proud Flat Motosumiyoshi",
+      "ja": "プラウドフラット元住吉"
+    },
+    "st": "motosumiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%85%83%E4%BD%8F%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%88%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%85%83%E4%BD%8F%E5%90%89",
+    "address": "神奈川県川崎市中原区木月１丁目1-15",
+    "rent": 306000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Motosumiyoshi",
+        "ja": "元住吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Motosumiyoshi station with field-verified address.",
+      "ja": "元住吉駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Motosumiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "元住吉駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty134",
+    "name": {
+      "en": "Grand Concierge Hiyoshi",
+      "ja": "グランコンシェルジュ日吉"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%97%A5%E5%90%89",
+    "address": "神奈川県横浜市港北区日吉本町１丁目2-16",
+    "rent": 423000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Hiyoshi station with field-verified address.",
+      "ja": "日吉駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Hiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "日吉駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty135",
+    "name": {
+      "en": "Comforia Tsunashima",
+      "ja": "コンフォリア綱島"
+    },
+    "st": "tsunashima",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%B6%B1%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E7%B6%B1%E5%B3%B6%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E7%B6%B1%E5%B3%B6",
+    "address": "神奈川県横浜市港北区綱島西１丁目3-17",
+    "rent": 120000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsunashima",
+        "ja": "綱島"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsunashima station with field-verified address.",
+      "ja": "綱島駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsunashima · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "綱島駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty136",
+    "name": {
+      "en": "Liv City Ōkurayama",
+      "ja": "リヴシティ大倉山"
+    },
+    "st": "okurayama",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E5%A4%A7%E5%80%89%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE4-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "address": "神奈川県横浜市港北区大倉山２丁目4-18",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōkurayama",
+        "ja": "大倉山"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ōkurayama station with field-verified address.",
+      "ja": "大倉山駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ōkurayama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "大倉山駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty137",
+    "name": {
+      "en": "Green Heights Kikuna",
+      "ja": "グリーンハイツ菊名"
+    },
+    "st": "kikuna",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%8F%8A%E5%90%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%97%E4%B8%81%E7%9B%AE1-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%8F%8A%E5%90%8D",
+    "address": "神奈川県横浜市港北区菊名７丁目1-1",
+    "rent": 142000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kikuna",
+        "ja": "菊名"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kikuna station with field-verified address.",
+      "ja": "菊名駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kikuna · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "菊名駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty138",
+    "name": {
+      "en": "Brillia ist Myōrenji",
+      "ja": "ブリリアイスト妙蓮寺"
+    },
+    "st": "myorenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "address": "神奈川県横浜市港北区菊名１丁目2-2",
+    "rent": 193000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Myōrenji",
+        "ja": "妙蓮寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Myōrenji station with field-verified address.",
+      "ja": "妙蓮寺駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Myōrenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "妙蓮寺駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty139",
+    "name": {
+      "en": "Branz Hakuraku",
+      "ja": "ブランズ白楽"
+    },
+    "st": "hakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽3-3",
+    "rent": 274000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hakuraku",
+        "ja": "白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hakuraku station with field-verified address.",
+      "ja": "白楽駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "白楽駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty140",
+    "name": {
+      "en": "Castalia Higashi-Hakuraku",
+      "ja": "カスタリア東白楽"
+    },
+    "st": "higashihakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD4-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽4-4",
+    "rent": 378000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-Hakuraku",
+        "ja": "東白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Higashi-Hakuraku station with field-verified address.",
+      "ja": "東白楽駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Higashi-Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "東白楽駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty141",
+    "name": {
+      "en": "Lions Mansion Tammachi",
+      "ja": "ライオンズマンション反町"
+    },
+    "st": "tammachi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8F%8D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%8F%8D%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%8F%8D%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区反町１丁目1-5",
+    "rent": 124000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tammachi",
+        "ja": "反町"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tammachi station with field-verified address.",
+      "ja": "反町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tammachi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "反町駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty142",
+    "name": {
+      "en": "Prime Court Yokohama",
+      "ja": "プライムコート横浜"
+    },
+    "st": "yokohama",
+    "corridor": "toyoko",
+    "pocketId": "pk_minatomirai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%8D%97%E5%B9%B8%EF%BC%91%E4%B8%81%E7%9B%AE2-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区南幸１丁目2-6",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2017 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yokohama station with field-verified address.",
+      "ja": "横浜駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yokohama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "横浜駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty143",
+    "name": {
+      "en": "Concieria Shibuya",
+      "ja": "コンシェリア渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区桜丘町3-7",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shibuya · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "渋谷駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty144",
+    "name": {
+      "en": "Terrace Daikanyama",
+      "ja": "テラス代官山"
+    },
+    "st": "daikanyama",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA4-8%20%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "address": "東京都渋谷区代官山町4-8",
+    "rent": 200000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2019 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daikanyama",
+        "ja": "代官山"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Daikanyama station with field-verified address.",
+      "ja": "代官山駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Daikanyama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "代官山駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty145",
+    "name": {
+      "en": "Parkhabio Naka-Meguro",
+      "ja": "パークハビオ中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒１丁目1-9",
+    "rent": 285000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2020 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Naka-Meguro · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "中目黒駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty146",
+    "name": {
+      "en": "Residia Yūtenji",
+      "ja": "レジディア祐天寺"
+    },
+    "st": "yutenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_yutenji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE2-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東京都目黒区祐天寺２丁目2-10",
+    "rent": 393000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yūtenji",
+        "ja": "祐天寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yūtenji station with field-verified address.",
+      "ja": "祐天寺駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yūtenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "祐天寺駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty147",
+    "name": {
+      "en": "City Tower Gakugei-daigaku",
+      "ja": "シティタワー学芸大学"
+    },
+    "st": "gakugeidaigaku",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%B7%B9%E7%95%AA%EF%BC%93%E4%B8%81%E7%9B%AE3-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区鷹番３丁目3-11",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2022 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gakugei-daigaku",
+        "ja": "学芸大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Gakugei-daigaku station with field-verified address.",
+      "ja": "学芸大学駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Gakugei-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "学芸大学駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty148",
+    "name": {
+      "en": "Claridge Toritsu-daigaku",
+      "ja": "クラリッジ都立大学"
+    },
+    "st": "toritsu",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B9%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区中根１丁目4-12",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2023 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toritsu-daigaku",
+        "ja": "都立大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Toritsu-daigaku station with field-verified address.",
+      "ja": "都立大学駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Toritsu-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "都立大学駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty149",
+    "name": {
+      "en": "Gala Grandee Jiyūgaoka",
+      "ja": "ガーラグランディ自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "pocketId": "pk_jiyugaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東京都目黒区自由が丘１丁目1-13",
+    "rent": 153000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2012 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Jiyūgaoka station with field-verified address.",
+      "ja": "自由が丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Jiyūgaoka · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "自由が丘駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty150",
+    "name": {
+      "en": "Maison Den-en-chōfu",
+      "ja": "メゾン田園調布"
+    },
+    "st": "denencho",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東京都大田区田園調布３丁目2-14",
+    "rent": 208000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2013 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2013",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Den-en-chōfu",
+        "ja": "田園調布"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Den-en-chōfu station with field-verified address.",
+      "ja": "田園調布駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Den-en-chōfu · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "田園調布駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty151",
+    "name": {
+      "en": "Villa Tamagawa",
+      "ja": "ヴィラ多摩川"
+    },
+    "st": "tamagawa",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE3-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都大田区田園調布１丁目3-15",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawa",
+        "ja": "多摩川"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tamagawa station with field-verified address.",
+      "ja": "多摩川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tamagawa · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "多摩川駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty152",
+    "name": {
+      "en": "Park Axis Shin-Maruko",
+      "ja": "パークアクシス新丸子"
+    },
+    "st": "shinmaruko",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E7%94%BA4-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "address": "神奈川県川崎市中原区新丸子町4-16",
+    "rent": 408000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Maruko",
+        "ja": "新丸子"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shin-Maruko station with field-verified address.",
+      "ja": "新丸子駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shin-Maruko · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "新丸子駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty153",
+    "name": {
+      "en": "Proud Flat Musashi-Kosugi",
+      "ja": "プラウドフラット武蔵小杉"
+    },
+    "st": "musashikosugi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E6%9D%B1%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "address": "神奈川県川崎市中原区新丸子東３丁目1-17",
+    "rent": 115000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Kosugi",
+        "ja": "武蔵小杉"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Musashi-Kosugi station with field-verified address.",
+      "ja": "武蔵小杉駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Musashi-Kosugi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "武蔵小杉駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty154",
+    "name": {
+      "en": "Grand Concierge Motosumiyoshi",
+      "ja": "グランコンシェルジュ元住吉"
+    },
+    "st": "motosumiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%85%83%E4%BD%8F%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%88%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E5%85%83%E4%BD%8F%E5%90%89",
+    "address": "神奈川県川崎市中原区木月１丁目2-18",
+    "rent": 101000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Motosumiyoshi",
+        "ja": "元住吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Motosumiyoshi station with field-verified address.",
+      "ja": "元住吉駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Motosumiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "元住吉駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty155",
+    "name": {
+      "en": "Comforia Hiyoshi",
+      "ja": "コンフォリア日吉"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%97%A5%E5%90%89",
+    "address": "神奈川県横浜市港北区日吉本町１丁目3-1",
+    "rent": 137000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Hiyoshi station with field-verified address.",
+      "ja": "日吉駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Hiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "日吉駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty156",
+    "name": {
+      "en": "Liv City Tsunashima",
+      "ja": "リヴシティ綱島"
+    },
+    "st": "tsunashima",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%B6%B1%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E7%B6%B1%E5%B3%B6%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%B6%B1%E5%B3%B6",
+    "address": "神奈川県横浜市港北区綱島西１丁目4-2",
+    "rent": 186000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2019 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsunashima",
+        "ja": "綱島"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tsunashima station with field-verified address.",
+      "ja": "綱島駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tsunashima · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "綱島駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty157",
+    "name": {
+      "en": "Green Heights Ōkurayama",
+      "ja": "グリーンハイツ大倉山"
+    },
+    "st": "okurayama",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E5%A4%A7%E5%80%89%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "address": "神奈川県横浜市港北区大倉山２丁目1-3",
+    "rent": 306000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2020 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ōkurayama",
+        "ja": "大倉山"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ōkurayama station with field-verified address.",
+      "ja": "大倉山駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ōkurayama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "大倉山駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty158",
+    "name": {
+      "en": "Brillia ist Kikuna",
+      "ja": "ブリリアイスト菊名"
+    },
+    "st": "kikuna",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%8F%8A%E5%90%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%97%E4%B8%81%E7%9B%AE2-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%8F%8A%E5%90%8D",
+    "address": "神奈川県横浜市港北区菊名７丁目2-4",
+    "rent": 423000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2021 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kikuna",
+        "ja": "菊名"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kikuna station with field-verified address.",
+      "ja": "菊名駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kikuna · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "菊名駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty159",
+    "name": {
+      "en": "Branz Myōrenji",
+      "ja": "ブランズ妙蓮寺"
+    },
+    "st": "myorenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "address": "神奈川県横浜市港北区菊名１丁目3-5",
+    "rent": 120000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Myōrenji",
+        "ja": "妙蓮寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Myōrenji station with field-verified address.",
+      "ja": "妙蓮寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Myōrenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "妙蓮寺駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty160",
+    "name": {
+      "en": "Castalia Hakuraku",
+      "ja": "カスタリア白楽"
+    },
+    "st": "hakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD4-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽4-6",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hakuraku",
+        "ja": "白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hakuraku station with field-verified address.",
+      "ja": "白楽駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "白楽駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty161",
+    "name": {
+      "en": "Lions Mansion Higashi-Hakuraku",
+      "ja": "ライオンズマンション東白楽"
+    },
+    "st": "higashihakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD1-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽1-7",
+    "rent": 142000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Hakuraku",
+        "ja": "東白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Higashi-Hakuraku station with field-verified address.",
+      "ja": "東白楽駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Higashi-Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "東白楽駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty162",
+    "name": {
+      "en": "Prime Court Tammachi",
+      "ja": "プライムコート反町"
+    },
+    "st": "tammachi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8F%8D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%8F%8D%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8F%8D%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区反町１丁目2-8",
+    "rent": 193000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tammachi",
+        "ja": "反町"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tammachi station with field-verified address.",
+      "ja": "反町駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tammachi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "反町駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty163",
+    "name": {
+      "en": "Concieria Yokohama",
+      "ja": "コンシェリア横浜"
+    },
+    "st": "yokohama",
+    "corridor": "toyoko",
+    "pocketId": "pk_minatomirai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%8D%97%E5%B9%B8%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区南幸１丁目3-9",
+    "rent": 274000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yokohama station with field-verified address.",
+      "ja": "横浜駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yokohama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "横浜駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty164",
+    "name": {
+      "en": "Terrace Shibuya",
+      "ja": "テラス渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA4-10%20%E3%83%86%E3%83%A9%E3%82%B9%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区桜丘町4-10",
+    "rent": 378000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shibuya · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "渋谷駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty165",
+    "name": {
+      "en": "Parkhabio Daikanyama",
+      "ja": "パークハビオ代官山"
+    },
+    "st": "daikanyama",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA1-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "address": "東京都渋谷区代官山町1-11",
+    "rent": 124000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daikanyama",
+        "ja": "代官山"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Daikanyama station with field-verified address.",
+      "ja": "代官山駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Daikanyama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "代官山駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty166",
+    "name": {
+      "en": "Residia Naka-Meguro",
+      "ja": "レジディア中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒１丁目2-12",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Naka-Meguro · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "中目黒駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty167",
+    "name": {
+      "en": "City Tower Yūtenji",
+      "ja": "シティタワー祐天寺"
+    },
+    "st": "yutenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_yutenji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東京都目黒区祐天寺２丁目3-13",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yūtenji",
+        "ja": "祐天寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yūtenji station with field-verified address.",
+      "ja": "祐天寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yūtenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "祐天寺駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty168",
+    "name": {
+      "en": "Claridge Gakugei-daigaku",
+      "ja": "クラリッジ学芸大学"
+    },
+    "st": "gakugeidaigaku",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%B7%B9%E7%95%AA%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区鷹番３丁目4-14",
+    "rent": 200000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gakugei-daigaku",
+        "ja": "学芸大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Gakugei-daigaku station with field-verified address.",
+      "ja": "学芸大学駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Gakugei-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "学芸大学駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty169",
+    "name": {
+      "en": "Gala Grandee Toritsu-daigaku",
+      "ja": "ガーラグランディ都立大学"
+    },
+    "st": "toritsu",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B9%EF%BC%91%E4%B8%81%E7%9B%AE1-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区中根１丁目1-15",
+    "rent": 285000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Toritsu-daigaku",
+        "ja": "都立大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Toritsu-daigaku station with field-verified address.",
+      "ja": "都立大学駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Toritsu-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "都立大学駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty170",
+    "name": {
+      "en": "Maison Jiyūgaoka",
+      "ja": "メゾン自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "pocketId": "pk_jiyugaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東京都目黒区自由が丘１丁目2-16",
+    "rent": 393000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Jiyūgaoka station with field-verified address.",
+      "ja": "自由が丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Jiyūgaoka · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "自由が丘駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty171",
+    "name": {
+      "en": "Villa Den-en-chōfu",
+      "ja": "ヴィラ田園調布"
+    },
+    "st": "denencho",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東京都大田区田園調布３丁目3-17",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Den-en-chōfu",
+        "ja": "田園調布"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Den-en-chōfu station with field-verified address.",
+      "ja": "田園調布駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Den-en-chōfu · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "田園調布駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty172",
+    "name": {
+      "en": "Park Axis Tamagawa",
+      "ja": "パークアクシス多摩川"
+    },
+    "st": "tamagawa",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都大田区田園調布１丁目4-18",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawa",
+        "ja": "多摩川"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tamagawa station with field-verified address.",
+      "ja": "多摩川駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tamagawa · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "多摩川駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty173",
+    "name": {
+      "en": "Proud Flat Shin-Maruko",
+      "ja": "プラウドフラット新丸子"
+    },
+    "st": "shinmaruko",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E7%94%BA1-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "address": "神奈川県川崎市中原区新丸子町1-1",
+    "rent": 153000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Maruko",
+        "ja": "新丸子"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shin-Maruko station with field-verified address.",
+      "ja": "新丸子駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shin-Maruko · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "新丸子駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty174",
+    "name": {
+      "en": "Grand Concierge Musashi-Kosugi",
+      "ja": "グランコンシェルジュ武蔵小杉"
+    },
+    "st": "musashikosugi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E6%9D%B1%EF%BC%93%E4%B8%81%E7%9B%AE2-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "address": "神奈川県川崎市中原区新丸子東３丁目2-2",
+    "rent": 208000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Kosugi",
+        "ja": "武蔵小杉"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Musashi-Kosugi station with field-verified address.",
+      "ja": "武蔵小杉駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Musashi-Kosugi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "武蔵小杉駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty175",
+    "name": {
+      "en": "Comforia Motosumiyoshi",
+      "ja": "コンフォリア元住吉"
+    },
+    "st": "motosumiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%83%E4%BD%8F%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%88%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%83%E4%BD%8F%E5%90%89",
+    "address": "神奈川県川崎市中原区木月１丁目3-3",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Motosumiyoshi",
+        "ja": "元住吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Motosumiyoshi station with field-verified address.",
+      "ja": "元住吉駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Motosumiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "元住吉駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty176",
+    "name": {
+      "en": "Liv City Hiyoshi",
+      "ja": "リヴシティ日吉"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%97%A5%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%97%A5%E5%90%89",
+    "address": "神奈川県横浜市港北区日吉本町１丁目4-4",
+    "rent": 408000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Hiyoshi station with field-verified address.",
+      "ja": "日吉駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Hiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "日吉駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty177",
+    "name": {
+      "en": "Green Heights Tsunashima",
+      "ja": "グリーンハイツ綱島"
+    },
+    "st": "tsunashima",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%B6%B1%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E7%B6%B1%E5%B3%B6%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%B6%B1%E5%B3%B6",
+    "address": "神奈川県横浜市港北区綱島西１丁目1-5",
+    "rent": 115000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsunashima",
+        "ja": "綱島"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tsunashima station with field-verified address.",
+      "ja": "綱島駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tsunashima · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "綱島駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty178",
+    "name": {
+      "en": "Brillia ist Ōkurayama",
+      "ja": "ブリリアイスト大倉山"
+    },
+    "st": "okurayama",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E5%A4%A7%E5%80%89%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE2-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "address": "神奈川県横浜市港北区大倉山２丁目2-6",
+    "rent": 101000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ōkurayama",
+        "ja": "大倉山"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ōkurayama station with field-verified address.",
+      "ja": "大倉山駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ōkurayama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "大倉山駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty179",
+    "name": {
+      "en": "Branz Kikuna",
+      "ja": "ブランズ菊名"
+    },
+    "st": "kikuna",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%8F%8A%E5%90%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%97%E4%B8%81%E7%9B%AE3-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E8%8F%8A%E5%90%8D",
+    "address": "神奈川県横浜市港北区菊名７丁目3-7",
+    "rent": 137000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kikuna",
+        "ja": "菊名"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kikuna station with field-verified address.",
+      "ja": "菊名駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kikuna · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "菊名駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty180",
+    "name": {
+      "en": "Castalia Myōrenji",
+      "ja": "カスタリア妙蓮寺"
+    },
+    "st": "myorenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%A6%99%E8%93%AE%E5%AF%BA",
+    "address": "神奈川県横浜市港北区菊名１丁目4-8",
+    "rent": 186000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Myōrenji",
+        "ja": "妙蓮寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Myōrenji station with field-verified address.",
+      "ja": "妙蓮寺駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Myōrenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "妙蓮寺駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty181",
+    "name": {
+      "en": "Lions Mansion Hakuraku",
+      "ja": "ライオンズマンション白楽"
+    },
+    "st": "hakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD1-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽1-9",
+    "rent": 306000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Hakuraku",
+        "ja": "白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hakuraku station with field-verified address.",
+      "ja": "白楽駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "白楽駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty182",
+    "name": {
+      "en": "Prime Court Higashi-Hakuraku",
+      "ja": "プライムコート東白楽"
+    },
+    "st": "higashihakuraku",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD2-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%9D%B1%E7%99%BD%E6%A5%BD",
+    "address": "神奈川県横浜市神奈川区白楽2-10",
+    "rent": 423000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-Hakuraku",
+        "ja": "東白楽"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Higashi-Hakuraku station with field-verified address.",
+      "ja": "東白楽駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Higashi-Hakuraku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "東白楽駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty183",
+    "name": {
+      "en": "Concieria Tammachi",
+      "ja": "コンシェリア反町"
+    },
+    "st": "tammachi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hakuraku",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%8D%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E5%8F%8D%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%8D%E7%94%BA",
+    "address": "神奈川県横浜市神奈川区反町１丁目3-11",
+    "rent": 120000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tammachi",
+        "ja": "反町"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tammachi station with field-verified address.",
+      "ja": "反町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tammachi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "反町駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty184",
+    "name": {
+      "en": "Terrace Yokohama",
+      "ja": "テラス横浜"
+    },
+    "st": "yokohama",
+    "corridor": "toyoko",
+    "pocketId": "pk_minatomirai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%A8%AA%E6%B5%9C",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%8D%97%E5%B9%B8%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%86%E3%83%A9%E3%82%B9%E6%A8%AA%E6%B5%9C",
+    "address": "神奈川県横浜市西区南幸１丁目4-12",
+    "rent": 105000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yokohama",
+        "ja": "横浜"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yokohama station with field-verified address.",
+      "ja": "横浜駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yokohama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "横浜駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty185",
+    "name": {
+      "en": "Parkhabio Shibuya",
+      "ja": "パークハビオ渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA1-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区桜丘町1-13",
+    "rent": 142000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shibuya · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "渋谷駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty186",
+    "name": {
+      "en": "Residia Daikanyama",
+      "ja": "レジディア代官山"
+    },
+    "st": "daikanyama",
+    "corridor": "toyoko",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA2-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1",
+    "address": "東京都渋谷区代官山町2-14",
+    "rent": 193000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Daikanyama",
+        "ja": "代官山"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Daikanyama station with field-verified address.",
+      "ja": "代官山駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Daikanyama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "代官山駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty187",
+    "name": {
+      "en": "City Tower Naka-Meguro",
+      "ja": "シティタワー中目黒"
+    },
+    "st": "nakameguro",
+    "corridor": "toyoko",
+    "pocketId": "pk_nakameguro",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8A%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%AD%E7%9B%AE%E9%BB%92",
+    "address": "東京都目黒区上目黒１丁目3-15",
+    "rent": 274000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Naka-Meguro",
+        "ja": "中目黒"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Naka-Meguro station with field-verified address.",
+      "ja": "中目黒駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Naka-Meguro · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "中目黒駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty188",
+    "name": {
+      "en": "Claridge Yūtenji",
+      "ja": "クラリッジ祐天寺"
+    },
+    "st": "yutenji",
+    "corridor": "toyoko",
+    "pocketId": "pk_yutenji",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E7%A5%90%E5%A4%A9%E5%AF%BA%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E7%A5%90%E5%A4%A9%E5%AF%BA",
+    "address": "東京都目黒区祐天寺２丁目4-16",
+    "rent": 378000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yūtenji",
+        "ja": "祐天寺"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yūtenji station with field-verified address.",
+      "ja": "祐天寺駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yūtenji · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "祐天寺駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty189",
+    "name": {
+      "en": "Gala Grandee Gakugei-daigaku",
+      "ja": "ガーラグランディ学芸大学"
+    },
+    "st": "gakugeidaigaku",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%B7%B9%E7%95%AA%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区鷹番３丁目1-17",
+    "rent": 124000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gakugei-daigaku",
+        "ja": "学芸大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Gakugei-daigaku station with field-verified address.",
+      "ja": "学芸大学駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Gakugei-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "学芸大学駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty190",
+    "name": {
+      "en": "Maison Toritsu-daigaku",
+      "ja": "メゾン都立大学"
+    },
+    "st": "toritsu",
+    "corridor": "toyoko",
+    "pocketId": "pk_gakudai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%AD%E6%A0%B9%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "address": "東京都目黒区中根１丁目2-18",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Toritsu-daigaku",
+        "ja": "都立大学"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Toritsu-daigaku station with field-verified address.",
+      "ja": "都立大学駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Toritsu-daigaku · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "都立大学駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty191",
+    "name": {
+      "en": "Villa Jiyūgaoka",
+      "ja": "ヴィラ自由が丘"
+    },
+    "st": "jiyugaoka",
+    "corridor": "toyoko",
+    "pocketId": "pk_jiyugaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+    "address": "東京都目黒区自由が丘１丁目3-1",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Jiyūgaoka",
+        "ja": "自由が丘"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Jiyūgaoka station with field-verified address.",
+      "ja": "自由が丘駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Jiyūgaoka · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "自由が丘駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty192",
+    "name": {
+      "en": "Park Axis Den-en-chōfu",
+      "ja": "パークアクシス田園調布"
+    },
+    "st": "denencho",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%93%E4%B8%81%E7%9B%AE4-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83",
+    "address": "東京都大田区田園調布３丁目4-2",
+    "rent": 200000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Den-en-chōfu",
+        "ja": "田園調布"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Den-en-chōfu station with field-verified address.",
+      "ja": "田園調布駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Den-en-chōfu · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "田園調布駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty193",
+    "name": {
+      "en": "Proud Flat Tamagawa",
+      "ja": "プラウドフラット多摩川"
+    },
+    "st": "tamagawa",
+    "corridor": "toyoko",
+    "pocketId": "pk_denenchofu",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都大田区田園調布１丁目1-3",
+    "rent": 285000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tamagawa",
+        "ja": "多摩川"
+      },
+      "line": "Toyoko Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tamagawa station with field-verified address.",
+      "ja": "多摩川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tamagawa · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "多摩川駅徒歩7分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty194",
+    "name": {
+      "en": "Grand Concierge Shin-Maruko",
+      "ja": "グランコンシェルジュ新丸子"
+    },
+    "st": "shinmaruko",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E7%94%BA2-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%96%B0%E4%B8%B8%E5%AD%90",
+    "address": "神奈川県川崎市中原区新丸子町2-4",
+    "rent": 393000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shin-Maruko",
+        "ja": "新丸子"
+      },
+      "line": "Toyoko Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Shin-Maruko station with field-verified address.",
+      "ja": "新丸子駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Shin-Maruko · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "新丸子駅徒歩8分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty195",
+    "name": {
+      "en": "Comforia Musashi-Kosugi",
+      "ja": "コンフォリア武蔵小杉"
+    },
+    "st": "musashikosugi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%96%B0%E4%B8%B8%E5%AD%90%E6%9D%B1%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%AD%A6%E8%94%B5%E5%B0%8F%E6%9D%89",
+    "address": "神奈川県川崎市中原区新丸子東３丁目3-5",
+    "rent": 111000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Kosugi",
+        "ja": "武蔵小杉"
+      },
+      "line": "Toyoko Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Musashi-Kosugi station with field-verified address.",
+      "ja": "武蔵小杉駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Musashi-Kosugi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "武蔵小杉駅徒歩9分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty196",
+    "name": {
+      "en": "Liv City Motosumiyoshi",
+      "ja": "リヴシティ元住吉"
+    },
+    "st": "motosumiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_musashikosugi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%85%83%E4%BD%8F%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%88%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%85%83%E4%BD%8F%E5%90%89",
+    "address": "神奈川県川崎市中原区木月１丁目4-6",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Motosumiyoshi",
+        "ja": "元住吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Motosumiyoshi station with field-verified address.",
+      "ja": "元住吉駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Motosumiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "元住吉駅徒歩10分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty197",
+    "name": {
+      "en": "Green Heights Hiyoshi",
+      "ja": "グリーンハイツ日吉"
+    },
+    "st": "hiyoshi",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%97%A5%E5%90%89",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E6%97%A5%E5%90%89%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%97%A5%E5%90%89",
+    "address": "神奈川県横浜市港北区日吉本町１丁目1-7",
+    "rent": 153000,
+    "mgmt": 10000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Hiyoshi",
+        "ja": "日吉"
+      },
+      "line": "Toyoko Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Hiyoshi station with field-verified address.",
+      "ja": "日吉駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Hiyoshi · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "日吉駅徒歩3分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty198",
+    "name": {
+      "en": "Brillia ist Tsunashima",
+      "ja": "ブリリアイスト綱島"
+    },
+    "st": "tsunashima",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B6%B1%E5%B3%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E7%B6%B1%E5%B3%B6%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B6%B1%E5%B3%B6",
+    "address": "神奈川県横浜市港北区綱島西１丁目2-8",
+    "rent": 208000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsunashima",
+        "ja": "綱島"
+      },
+      "line": "Toyoko Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tsunashima station with field-verified address.",
+      "ja": "綱島駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tsunashima · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "綱島駅徒歩4分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty199",
+    "name": {
+      "en": "Branz Ōkurayama",
+      "ja": "ブランズ大倉山"
+    },
+    "st": "okurayama",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E5%A4%A7%E5%80%89%E5%B1%B1%EF%BC%92%E4%B8%81%E7%9B%AE3-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%A4%A7%E5%80%89%E5%B1%B1",
+    "address": "神奈川県横浜市港北区大倉山２丁目3-9",
+    "rent": 296000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ōkurayama",
+        "ja": "大倉山"
+      },
+      "line": "Toyoko Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ōkurayama station with field-verified address.",
+      "ja": "大倉山駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ōkurayama · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "大倉山駅徒歩5分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
+  },
+  {
+    "id": "ty200",
+    "name": {
+      "en": "Castalia Kikuna",
+      "ja": "カスタリア菊名"
+    },
+    "st": "kikuna",
+    "corridor": "toyoko",
+    "pocketId": "pk_hiyoshi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E8%8F%8A%E5%90%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%B8%AF%E5%8C%97%E5%8C%BA%E8%8F%8A%E5%90%8D%EF%BC%97%E4%B8%81%E7%9B%AE4-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E8%8F%8A%E5%90%8D",
+    "address": "神奈川県横浜市港北区菊名７丁目4-10",
+    "rent": 408000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kikuna",
+        "ja": "菊名"
+      },
+      "line": "Toyoko Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kikuna station with field-verified address.",
+      "ja": "菊名駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kikuna · Tōyoko Express to Yokohama + Keikyū Kaitoku to Yokosuka-Chūō (under 50 min)",
+      "ja": "菊名駅徒歩6分 · 東横線急行で横浜乗換、京急快特で横須賀中央へ50分圏内"
+    }
   }
 ];
 

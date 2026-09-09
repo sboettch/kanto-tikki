@@ -1,0 +1,20 @@
+{
+  "id": "hb118",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "13 storeys — as listed",
+    "built 2017 — as listed",
+    "structure RC — as listed",
+    "address 東京都台東区上野７丁目2-18 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 13,
+  "structure": "RC",
+  "built": "2017",
+  "local_path": "portraits/hb118.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%8A%E9%87%8E",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%97%E4%B8%81%E7%9B%AE2-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%8A%E9%87%8E"
+}

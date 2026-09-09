@@ -1,0 +1,20 @@
+{
+  "id": "ty130",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "6 storeys — as listed",
+    "built 2017 — as listed",
+    "structure steel — as listed",
+    "address 東京都大田区田園調布１丁目2-12 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 6,
+  "structure": "steel",
+  "built": "2017",
+  "local_path": "portraits/ty130.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%A4%9A%E6%91%A9%E5%B7%9D",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%A4%9A%E6%91%A9%E5%B7%9D"
+}

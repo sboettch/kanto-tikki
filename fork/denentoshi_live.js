@@ -4199,6 +4199,4306 @@ const LIVE = [
       "en": "6 min walk to Sangen-jaya · verified real listing with mapped address",
       "ja": "三軒茶屋駅徒歩6分 · 所在地実地確認済みの実在募集物件"
     }
+  },
+  {
+    "id": "dt101",
+    "name": {
+      "en": "Lions Mansion Shibuya",
+      "ja": "ライオンズマンション渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%82%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区道玄坂１丁目1-1",
+    "rent": 141000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shibuya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "渋谷駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt102",
+    "name": {
+      "en": "Prime Court Ikejiri-Ōhashi",
+      "ja": "プライムコート池尻大橋"
+    },
+    "st": "ikejiri",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E5%A4%A7%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "address": "東京都目黒区大橋２丁目2-2",
+    "rent": 192000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikejiri-Ōhashi",
+        "ja": "池尻大橋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ikejiri-Ōhashi station with field-verified address.",
+      "ja": "池尻大橋駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ikejiri-Ōhashi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "池尻大橋駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt103",
+    "name": {
+      "en": "Concieria Sangen-jaya",
+      "ja": "コンシェリア三軒茶屋"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A4%AA%E5%AD%90%E5%A0%82%EF%BC%94%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東京都世田谷区太子堂４丁目3-3",
+    "rent": 273000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sangen-jaya station with field-verified address.",
+      "ja": "三軒茶屋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sangen-jaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "三軒茶屋駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt104",
+    "name": {
+      "en": "Terrace Komazawa-daigaku",
+      "ja": "テラス駒沢大学"
+    },
+    "st": "komazawa",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8A%E9%A6%AC%EF%BC%94%E4%B8%81%E7%9B%AE4-4%20%E3%83%86%E3%83%A9%E3%82%B9%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "address": "東京都世田谷区上馬４丁目4-4",
+    "rent": 376000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komazawa-daigaku",
+        "ja": "駒沢大学"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Komazawa-daigaku station with field-verified address.",
+      "ja": "駒沢大学駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Komazawa-daigaku · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "駒沢大学駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt105",
+    "name": {
+      "en": "Parkhabio Sakura-shimmachi",
+      "ja": "パークハビオ桜新町"
+    },
+    "st": "sakura",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A1%9C%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "address": "東京都世田谷区桜新町２丁目1-5",
+    "rent": 106000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sakura-shimmachi",
+        "ja": "桜新町"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Sakura-shimmachi station with field-verified address.",
+      "ja": "桜新町駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Sakura-shimmachi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "桜新町駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt106",
+    "name": {
+      "en": "Residia Yōga",
+      "ja": "レジディア用賀"
+    },
+    "st": "yoga",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%A8%E8%B3%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%94%A8%E8%B3%80%EF%BC%94%E4%B8%81%E7%9B%AE2-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%A8%E8%B3%80",
+    "address": "東京都世田谷区用賀４丁目2-6",
+    "rent": 93000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yōga",
+        "ja": "用賀"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yōga station with field-verified address.",
+      "ja": "用賀駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yōga · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "用賀駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt107",
+    "name": {
+      "en": "City Tower Futako-Tamagawa",
+      "ja": "シティタワー二子玉川"
+    },
+    "st": "futako",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%8E%89%E5%B7%9D%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "address": "東京都世田谷区玉川２丁目3-7",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Tamagawa",
+        "ja": "二子玉川"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Futako-Tamagawa station with field-verified address.",
+      "ja": "二子玉川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Futako-Tamagawa · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子玉川駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt108",
+    "name": {
+      "en": "Claridge Futako-Shinchi",
+      "ja": "クラリッジ二子新地"
+    },
+    "st": "futakoshin",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E4%BA%8C%E5%AD%90%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "address": "神奈川県川崎市高津区二子２丁目4-8",
+    "rent": 171000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Shinchi",
+        "ja": "二子新地"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Futako-Shinchi station with field-verified address.",
+      "ja": "二子新地駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Futako-Shinchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子新地駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt109",
+    "name": {
+      "en": "Gala Grandee Takatsu",
+      "ja": "ガーラグランディ高津"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%AB%98%E6%B4%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%93%E4%B8%81%E7%9B%AE1-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%AB%98%E6%B4%A5",
+    "address": "神奈川県川崎市高津区溝口３丁目1-9",
+    "rent": 282000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Takatsu station with field-verified address.",
+      "ja": "高津駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Takatsu · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "高津駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt110",
+    "name": {
+      "en": "Maison Musashi-Mizonokuchi",
+      "ja": "メゾン溝の口"
+    },
+    "st": "mizonokuchi",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "神奈川県川崎市高津区溝口１丁目2-10",
+    "rent": 390000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Musashi-Mizonokuchi",
+        "ja": "溝の口"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Musashi-Mizonokuchi station with field-verified address.",
+      "ja": "溝の口駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Musashi-Mizonokuchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "溝の口駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt111",
+    "name": {
+      "en": "Villa Kajigaya",
+      "ja": "ヴィラ梶が谷"
+    },
+    "st": "kajigaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%9C%AB%E9%95%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "address": "神奈川県川崎市高津区末長１丁目3-11",
+    "rent": 110000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kajigaya",
+        "ja": "梶が谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kajigaya station with field-verified address.",
+      "ja": "梶が谷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kajigaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "梶が谷駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt112",
+    "name": {
+      "en": "Park Axis Miyamaedaira",
+      "ja": "パークアクシス宮前平"
+    },
+    "st": "miyamaedaira",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E5%AE%AE%E5%89%8D%E5%B9%B3%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "address": "神奈川県川崎市宮前区宮前平１丁目4-12",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Miyamaedaira",
+        "ja": "宮前平"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Miyamaedaira station with field-verified address.",
+      "ja": "宮前平駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Miyamaedaira · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "宮前平駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt113",
+    "name": {
+      "en": "Proud Flat Saginuma",
+      "ja": "プラウドフラット鷺沼"
+    },
+    "st": "saginuma",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%B7%BA%E6%B2%BC",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E9%B7%BA%E6%B2%BC%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%B7%BA%E6%B2%BC",
+    "address": "神奈川県川崎市宮前区鷺沼３丁目1-13",
+    "rent": 131000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Saginuma",
+        "ja": "鷺沼"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Saginuma station with field-verified address.",
+      "ja": "鷺沼駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Saginuma · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "鷺沼駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt114",
+    "name": {
+      "en": "Grand Concierge Tama-Plaza",
+      "ja": "グランコンシェルジュたまプラーザ"
+    },
+    "st": "tama",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%BE%8E%E3%81%97%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "address": "神奈川県横浜市青葉区美しが丘１丁目2-14",
+    "rent": 178000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tama-Plaza",
+        "ja": "たまプラーザ"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tama-Plaza station with field-verified address.",
+      "ja": "たまプラーザ駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tama-Plaza · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "たまプラーザ駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt115",
+    "name": {
+      "en": "Comforia Azamino",
+      "ja": "コンフォリアあざみ野"
+    },
+    "st": "azamino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "address": "神奈川県横浜市青葉区あざみ野２丁目3-15",
+    "rent": 253000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Azamino",
+        "ja": "あざみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Azamino station with field-verified address.",
+      "ja": "あざみ野駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Azamino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "あざみ野駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt116",
+    "name": {
+      "en": "Liv City Eda",
+      "ja": "リヴシティ江田"
+    },
+    "st": "eda",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%B1%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%8D%8F%E7%94%B0%E7%94%BA4-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%B1%9F%E7%94%B0",
+    "address": "神奈川県横浜市青葉区荏田町4-16",
+    "rent": 348000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Eda",
+        "ja": "江田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Eda station with field-verified address.",
+      "ja": "江田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Eda · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "江田駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt117",
+    "name": {
+      "en": "Green Heights Ichigao",
+      "ja": "グリーンハイツ市が尾"
+    },
+    "st": "ichigao",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%B8%82%E3%82%B1%E5%B0%BE%E7%94%BA1-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "address": "神奈川県横浜市青葉区市ケ尾町1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ichigao",
+        "ja": "市が尾"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Ichigao station with field-verified address.",
+      "ja": "市が尾駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Ichigao · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "市が尾駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt118",
+    "name": {
+      "en": "Brillia ist Fujigaoka",
+      "ja": "ブリリアイスト藤が丘"
+    },
+    "st": "fujigaoka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%97%A4%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%97%A4%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E8%97%A4%E3%81%8C%E4%B8%98",
+    "address": "神奈川県横浜市青葉区藤が丘１丁目2-18",
+    "rent": 100000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Fujigaoka",
+        "ja": "藤が丘"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Fujigaoka station with field-verified address.",
+      "ja": "藤が丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Fujigaoka · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "藤が丘駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt119",
+    "name": {
+      "en": "Branz Aobadai",
+      "ja": "ブランズ青葉台"
+    },
+    "st": "aobadai",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%9D%92%E8%91%89%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E9%9D%92%E8%91%89%E5%8F%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%9D%92%E8%91%89%E5%8F%B0",
+    "address": "神奈川県横浜市青葉区青葉台１丁目3-1",
+    "rent": 136000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aobadai",
+        "ja": "青葉台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Aobadai station with field-verified address.",
+      "ja": "青葉台駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Aobadai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "青葉台駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt120",
+    "name": {
+      "en": "Castalia Tana",
+      "ja": "カスタリア田奈"
+    },
+    "st": "tana",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%B0%E5%A5%88",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%94%B0%E5%A5%88%E7%94%BA4-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%B0%E5%A5%88",
+    "address": "神奈川県横浜市青葉区田奈町4-2",
+    "rent": 185000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tana",
+        "ja": "田奈"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tana station with field-verified address.",
+      "ja": "田奈駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tana · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "田奈駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt121",
+    "name": {
+      "en": "Lions Mansion Nagatsuta",
+      "ja": "ライオンズマンション長津田"
+    },
+    "st": "nagatsuta",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE1-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "address": "神奈川県横浜市緑区長津田４丁目1-3",
+    "rent": 263000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nagatsuta",
+        "ja": "長津田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Nagatsuta station with field-verified address.",
+      "ja": "長津田駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Nagatsuta · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "長津田駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt122",
+    "name": {
+      "en": "Prime Court Tsukushino",
+      "ja": "プライムコートつくし野"
+    },
+    "st": "tsukushino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "address": "東京都町田市つくし野１丁目2-4",
+    "rent": 362000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsukushino",
+        "ja": "つくし野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tsukushino station with field-verified address.",
+      "ja": "つくし野駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tsukushino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つくし野駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt123",
+    "name": {
+      "en": "Concieria Suzukakedai",
+      "ja": "コンシェリアすずかけ台"
+    },
+    "st": "suzuka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8D%97%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "address": "東京都町田市南つくし野３丁目3-5",
+    "rent": 102000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Suzukakedai",
+        "ja": "すずかけ台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Suzukakedai station with field-verified address.",
+      "ja": "すずかけ台駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Suzukakedai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "すずかけ台駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt124",
+    "name": {
+      "en": "Terrace Minami-machida",
+      "ja": "テラス南町田"
+    },
+    "st": "minamimachida",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%8D%97%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E9%B6%B4%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE4-6%20%E3%83%86%E3%83%A9%E3%82%B9%E5%8D%97%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市鶴間３丁目4-6",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-machida",
+        "ja": "南町田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Minami-machida station with field-verified address.",
+      "ja": "南町田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Minami-machida · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "南町田駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt125",
+    "name": {
+      "en": "Parkhabio Tsukimino",
+      "ja": "パークハビオつきみ野"
+    },
+    "st": "tsukimino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E%EF%BC%94%E4%B8%81%E7%9B%AE1-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "address": "神奈川県大和市つきみ野４丁目1-7",
+    "rent": 141000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukimino",
+        "ja": "つきみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsukimino station with field-verified address.",
+      "ja": "つきみ野駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsukimino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つきみ野駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt126",
+    "name": {
+      "en": "Residia Chūō-Rinkan",
+      "ja": "レジディア中央林間"
+    },
+    "st": "chuorinkan",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "address": "神奈川県大和市中央林間３丁目2-8",
+    "rent": 192000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chūō-Rinkan",
+        "ja": "中央林間"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Chūō-Rinkan station with field-verified address.",
+      "ja": "中央林間駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Chūō-Rinkan · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "中央林間駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt127",
+    "name": {
+      "en": "City Tower Shibuya",
+      "ja": "シティタワー渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%82%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区道玄坂１丁目3-9",
+    "rent": 273000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Shibuya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "渋谷駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt128",
+    "name": {
+      "en": "Claridge Ikejiri-Ōhashi",
+      "ja": "クラリッジ池尻大橋"
+    },
+    "st": "ikejiri",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E5%A4%A7%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE4-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "address": "東京都目黒区大橋２丁目4-10",
+    "rent": 376000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ikejiri-Ōhashi",
+        "ja": "池尻大橋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ikejiri-Ōhashi station with field-verified address.",
+      "ja": "池尻大橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ikejiri-Ōhashi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "池尻大橋駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt129",
+    "name": {
+      "en": "Gala Grandee Sangen-jaya",
+      "ja": "ガーラグランディ三軒茶屋"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A4%AA%E5%AD%90%E5%A0%82%EF%BC%94%E4%B8%81%E7%9B%AE1-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東京都世田谷区太子堂４丁目1-11",
+    "rent": 106000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Sangen-jaya station with field-verified address.",
+      "ja": "三軒茶屋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Sangen-jaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "三軒茶屋駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt130",
+    "name": {
+      "en": "Maison Komazawa-daigaku",
+      "ja": "メゾン駒沢大学"
+    },
+    "st": "komazawa",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8A%E9%A6%AC%EF%BC%94%E4%B8%81%E7%9B%AE2-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "address": "東京都世田谷区上馬４丁目2-12",
+    "rent": 93000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komazawa-daigaku",
+        "ja": "駒沢大学"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Komazawa-daigaku station with field-verified address.",
+      "ja": "駒沢大学駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Komazawa-daigaku · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "駒沢大学駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt131",
+    "name": {
+      "en": "Villa Sakura-shimmachi",
+      "ja": "ヴィラ桜新町"
+    },
+    "st": "sakura",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A1%9C%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "address": "東京都世田谷区桜新町２丁目3-13",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sakura-shimmachi",
+        "ja": "桜新町"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Sakura-shimmachi station with field-verified address.",
+      "ja": "桜新町駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Sakura-shimmachi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "桜新町駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt132",
+    "name": {
+      "en": "Park Axis Yōga",
+      "ja": "パークアクシス用賀"
+    },
+    "st": "yoga",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%A8%E8%B3%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%94%A8%E8%B3%80%EF%BC%94%E4%B8%81%E7%9B%AE4-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%A8%E8%B3%80",
+    "address": "東京都世田谷区用賀４丁目4-14",
+    "rent": 171000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yōga",
+        "ja": "用賀"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yōga station with field-verified address.",
+      "ja": "用賀駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yōga · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "用賀駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt133",
+    "name": {
+      "en": "Proud Flat Futako-Tamagawa",
+      "ja": "プラウドフラット二子玉川"
+    },
+    "st": "futako",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%8E%89%E5%B7%9D%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "address": "東京都世田谷区玉川２丁目1-15",
+    "rent": 282000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Futako-Tamagawa",
+        "ja": "二子玉川"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Futako-Tamagawa station with field-verified address.",
+      "ja": "二子玉川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Futako-Tamagawa · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子玉川駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt134",
+    "name": {
+      "en": "Grand Concierge Futako-Shinchi",
+      "ja": "グランコンシェルジュ二子新地"
+    },
+    "st": "futakoshin",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E4%BA%8C%E5%AD%90%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "address": "神奈川県川崎市高津区二子２丁目2-16",
+    "rent": 390000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Futako-Shinchi",
+        "ja": "二子新地"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Futako-Shinchi station with field-verified address.",
+      "ja": "二子新地駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Futako-Shinchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子新地駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt135",
+    "name": {
+      "en": "Comforia Takatsu",
+      "ja": "コンフォリア高津"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%AB%98%E6%B4%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E9%AB%98%E6%B4%A5",
+    "address": "神奈川県川崎市高津区溝口３丁目3-17",
+    "rent": 110000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Takatsu station with field-verified address.",
+      "ja": "高津駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Takatsu · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "高津駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt136",
+    "name": {
+      "en": "Liv City Musashi-Mizonokuchi",
+      "ja": "リヴシティ溝の口"
+    },
+    "st": "mizonokuchi",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "神奈川県川崎市高津区溝口１丁目4-18",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Mizonokuchi",
+        "ja": "溝の口"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Musashi-Mizonokuchi station with field-verified address.",
+      "ja": "溝の口駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Musashi-Mizonokuchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "溝の口駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt137",
+    "name": {
+      "en": "Green Heights Kajigaya",
+      "ja": "グリーンハイツ梶が谷"
+    },
+    "st": "kajigaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%9C%AB%E9%95%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "address": "神奈川県川崎市高津区末長１丁目1-1",
+    "rent": 131000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kajigaya",
+        "ja": "梶が谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kajigaya station with field-verified address.",
+      "ja": "梶が谷駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kajigaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "梶が谷駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt138",
+    "name": {
+      "en": "Brillia ist Miyamaedaira",
+      "ja": "ブリリアイスト宮前平"
+    },
+    "st": "miyamaedaira",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E5%AE%AE%E5%89%8D%E5%B9%B3%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "address": "神奈川県川崎市宮前区宮前平１丁目2-2",
+    "rent": 178000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Miyamaedaira",
+        "ja": "宮前平"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Miyamaedaira station with field-verified address.",
+      "ja": "宮前平駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Miyamaedaira · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "宮前平駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt139",
+    "name": {
+      "en": "Branz Saginuma",
+      "ja": "ブランズ鷺沼"
+    },
+    "st": "saginuma",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B7%BA%E6%B2%BC",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E9%B7%BA%E6%B2%BC%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B7%BA%E6%B2%BC",
+    "address": "神奈川県川崎市宮前区鷺沼３丁目3-3",
+    "rent": 253000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Saginuma",
+        "ja": "鷺沼"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Saginuma station with field-verified address.",
+      "ja": "鷺沼駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Saginuma · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "鷺沼駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt140",
+    "name": {
+      "en": "Castalia Tama-Plaza",
+      "ja": "カスタリアたまプラーザ"
+    },
+    "st": "tama",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%BE%8E%E3%81%97%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "address": "神奈川県横浜市青葉区美しが丘１丁目4-4",
+    "rent": 348000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tama-Plaza",
+        "ja": "たまプラーザ"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tama-Plaza station with field-verified address.",
+      "ja": "たまプラーザ駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tama-Plaza · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "たまプラーザ駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt141",
+    "name": {
+      "en": "Lions Mansion Azamino",
+      "ja": "ライオンズマンションあざみ野"
+    },
+    "st": "azamino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE1-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "address": "神奈川県横浜市青葉区あざみ野２丁目1-5",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Azamino",
+        "ja": "あざみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Azamino station with field-verified address.",
+      "ja": "あざみ野駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Azamino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "あざみ野駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt142",
+    "name": {
+      "en": "Prime Court Eda",
+      "ja": "プライムコート江田"
+    },
+    "st": "eda",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B1%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%8D%8F%E7%94%B0%E7%94%BA2-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%B1%9F%E7%94%B0",
+    "address": "神奈川県横浜市青葉区荏田町2-6",
+    "rent": 100000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2017 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Eda",
+        "ja": "江田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Eda station with field-verified address.",
+      "ja": "江田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Eda · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "江田駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt143",
+    "name": {
+      "en": "Concieria Ichigao",
+      "ja": "コンシェリア市が尾"
+    },
+    "st": "ichigao",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%B8%82%E3%82%B1%E5%B0%BE%E7%94%BA3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "address": "神奈川県横浜市青葉区市ケ尾町3-7",
+    "rent": 136000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ichigao",
+        "ja": "市が尾"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Ichigao station with field-verified address.",
+      "ja": "市が尾駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Ichigao · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "市が尾駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt144",
+    "name": {
+      "en": "Terrace Fujigaoka",
+      "ja": "テラス藤が丘"
+    },
+    "st": "fujigaoka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E8%97%A4%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%97%A4%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-8%20%E3%83%86%E3%83%A9%E3%82%B9%E8%97%A4%E3%81%8C%E4%B8%98",
+    "address": "神奈川県横浜市青葉区藤が丘１丁目4-8",
+    "rent": 185000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2019 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Fujigaoka",
+        "ja": "藤が丘"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Fujigaoka station with field-verified address.",
+      "ja": "藤が丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Fujigaoka · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "藤が丘駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt145",
+    "name": {
+      "en": "Parkhabio Aobadai",
+      "ja": "パークハビオ青葉台"
+    },
+    "st": "aobadai",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%9D%92%E8%91%89%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E9%9D%92%E8%91%89%E5%8F%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%9D%92%E8%91%89%E5%8F%B0",
+    "address": "神奈川県横浜市青葉区青葉台１丁目1-9",
+    "rent": 263000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2020 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Aobadai",
+        "ja": "青葉台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Aobadai station with field-verified address.",
+      "ja": "青葉台駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Aobadai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "青葉台駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt146",
+    "name": {
+      "en": "Residia Tana",
+      "ja": "レジディア田奈"
+    },
+    "st": "tana",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%B0%E5%A5%88",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%94%B0%E5%A5%88%E7%94%BA2-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%94%B0%E5%A5%88",
+    "address": "神奈川県横浜市青葉区田奈町2-10",
+    "rent": 362000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tana",
+        "ja": "田奈"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Tana station with field-verified address.",
+      "ja": "田奈駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Tana · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "田奈駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt147",
+    "name": {
+      "en": "City Tower Nagatsuta",
+      "ja": "シティタワー長津田"
+    },
+    "st": "nagatsuta",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "address": "神奈川県横浜市緑区長津田４丁目3-11",
+    "rent": 102000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2022 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nagatsuta",
+        "ja": "長津田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Nagatsuta station with field-verified address.",
+      "ja": "長津田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Nagatsuta · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "長津田駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt148",
+    "name": {
+      "en": "Claridge Tsukushino",
+      "ja": "クラリッジつくし野"
+    },
+    "st": "tsukushino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "address": "東京都町田市つくし野１丁目4-12",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2023 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukushino",
+        "ja": "つくし野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tsukushino station with field-verified address.",
+      "ja": "つくし野駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tsukushino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つくし野駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt149",
+    "name": {
+      "en": "Gala Grandee Suzukakedai",
+      "ja": "ガーラグランディすずかけ台"
+    },
+    "st": "suzuka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8D%97%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "address": "東京都町田市南つくし野３丁目1-13",
+    "rent": 141000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2012 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Suzukakedai",
+        "ja": "すずかけ台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Suzukakedai station with field-verified address.",
+      "ja": "すずかけ台駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Suzukakedai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "すずかけ台駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt150",
+    "name": {
+      "en": "Maison Minami-machida",
+      "ja": "メゾン南町田"
+    },
+    "st": "minamimachida",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%8D%97%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E9%B6%B4%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%8D%97%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市鶴間３丁目2-14",
+    "rent": 192000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2013 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2013",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-machida",
+        "ja": "南町田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Minami-machida station with field-verified address.",
+      "ja": "南町田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Minami-machida · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "南町田駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt151",
+    "name": {
+      "en": "Villa Tsukimino",
+      "ja": "ヴィラつきみ野"
+    },
+    "st": "tsukimino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E%EF%BC%94%E4%B8%81%E7%9B%AE3-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "address": "神奈川県大和市つきみ野４丁目3-15",
+    "rent": 273000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsukimino",
+        "ja": "つきみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Tsukimino station with field-verified address.",
+      "ja": "つきみ野駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Tsukimino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つきみ野駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt152",
+    "name": {
+      "en": "Park Axis Chūō-Rinkan",
+      "ja": "パークアクシス中央林間"
+    },
+    "st": "chuorinkan",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE4-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "address": "神奈川県大和市中央林間３丁目4-16",
+    "rent": 376000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Chūō-Rinkan",
+        "ja": "中央林間"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Chūō-Rinkan station with field-verified address.",
+      "ja": "中央林間駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Chūō-Rinkan · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "中央林間駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt153",
+    "name": {
+      "en": "Proud Flat Shibuya",
+      "ja": "プラウドフラット渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%82%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区道玄坂１丁目1-17",
+    "rent": 106000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shibuya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "渋谷駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt154",
+    "name": {
+      "en": "Grand Concierge Ikejiri-Ōhashi",
+      "ja": "グランコンシェルジュ池尻大橋"
+    },
+    "st": "ikejiri",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E5%A4%A7%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE2-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "address": "東京都目黒区大橋２丁目2-18",
+    "rent": 93000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikejiri-Ōhashi",
+        "ja": "池尻大橋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Ikejiri-Ōhashi station with field-verified address.",
+      "ja": "池尻大橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Ikejiri-Ōhashi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "池尻大橋駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt155",
+    "name": {
+      "en": "Comforia Sangen-jaya",
+      "ja": "コンフォリア三軒茶屋"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A4%AA%E5%AD%90%E5%A0%82%EF%BC%94%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東京都世田谷区太子堂４丁目3-1",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Sangen-jaya station with field-verified address.",
+      "ja": "三軒茶屋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Sangen-jaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "三軒茶屋駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt156",
+    "name": {
+      "en": "Liv City Komazawa-daigaku",
+      "ja": "リヴシティ駒沢大学"
+    },
+    "st": "komazawa",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8A%E9%A6%AC%EF%BC%94%E4%B8%81%E7%9B%AE4-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "address": "東京都世田谷区上馬４丁目4-2",
+    "rent": 171000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2019 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komazawa-daigaku",
+        "ja": "駒沢大学"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Komazawa-daigaku station with field-verified address.",
+      "ja": "駒沢大学駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Komazawa-daigaku · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "駒沢大学駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt157",
+    "name": {
+      "en": "Green Heights Sakura-shimmachi",
+      "ja": "グリーンハイツ桜新町"
+    },
+    "st": "sakura",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A1%9C%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "address": "東京都世田谷区桜新町２丁目1-3",
+    "rent": 282000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2020 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sakura-shimmachi",
+        "ja": "桜新町"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sakura-shimmachi station with field-verified address.",
+      "ja": "桜新町駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sakura-shimmachi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "桜新町駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt158",
+    "name": {
+      "en": "Brillia ist Yōga",
+      "ja": "ブリリアイスト用賀"
+    },
+    "st": "yoga",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%94%A8%E8%B3%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%94%A8%E8%B3%80%EF%BC%94%E4%B8%81%E7%9B%AE2-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%94%A8%E8%B3%80",
+    "address": "東京都世田谷区用賀４丁目2-4",
+    "rent": 390000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2021 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yōga",
+        "ja": "用賀"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yōga station with field-verified address.",
+      "ja": "用賀駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yōga · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "用賀駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt159",
+    "name": {
+      "en": "Branz Futako-Tamagawa",
+      "ja": "ブランズ二子玉川"
+    },
+    "st": "futako",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%8E%89%E5%B7%9D%EF%BC%92%E4%B8%81%E7%9B%AE3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "address": "東京都世田谷区玉川２丁目3-5",
+    "rent": 110000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Tamagawa",
+        "ja": "二子玉川"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Futako-Tamagawa station with field-verified address.",
+      "ja": "二子玉川駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Futako-Tamagawa · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子玉川駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt160",
+    "name": {
+      "en": "Castalia Futako-Shinchi",
+      "ja": "カスタリア二子新地"
+    },
+    "st": "futakoshin",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E4%BA%8C%E5%AD%90%EF%BC%92%E4%B8%81%E7%9B%AE4-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "address": "神奈川県川崎市高津区二子２丁目4-6",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Shinchi",
+        "ja": "二子新地"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Futako-Shinchi station with field-verified address.",
+      "ja": "二子新地駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Futako-Shinchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子新地駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt161",
+    "name": {
+      "en": "Lions Mansion Takatsu",
+      "ja": "ライオンズマンション高津"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E9%AB%98%E6%B4%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%93%E4%B8%81%E7%9B%AE1-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E9%AB%98%E6%B4%A5",
+    "address": "神奈川県川崎市高津区溝口３丁目1-7",
+    "rent": 131000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Takatsu station with field-verified address.",
+      "ja": "高津駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Takatsu · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "高津駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt162",
+    "name": {
+      "en": "Prime Court Musashi-Mizonokuchi",
+      "ja": "プライムコート溝の口"
+    },
+    "st": "mizonokuchi",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%91%E4%B8%81%E7%9B%AE2-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "神奈川県川崎市高津区溝口１丁目2-8",
+    "rent": 178000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Musashi-Mizonokuchi",
+        "ja": "溝の口"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Musashi-Mizonokuchi station with field-verified address.",
+      "ja": "溝の口駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Musashi-Mizonokuchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "溝の口駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt163",
+    "name": {
+      "en": "Concieria Kajigaya",
+      "ja": "コンシェリア梶が谷"
+    },
+    "st": "kajigaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%9C%AB%E9%95%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "address": "神奈川県川崎市高津区末長１丁目3-9",
+    "rent": 253000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kajigaya",
+        "ja": "梶が谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kajigaya station with field-verified address.",
+      "ja": "梶が谷駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kajigaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "梶が谷駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt164",
+    "name": {
+      "en": "Terrace Miyamaedaira",
+      "ja": "テラス宮前平"
+    },
+    "st": "miyamaedaira",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E5%AE%AE%E5%89%8D%E5%B9%B3%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%86%E3%83%A9%E3%82%B9%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "address": "神奈川県川崎市宮前区宮前平１丁目4-10",
+    "rent": 348000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Miyamaedaira",
+        "ja": "宮前平"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Miyamaedaira station with field-verified address.",
+      "ja": "宮前平駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Miyamaedaira · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "宮前平駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt165",
+    "name": {
+      "en": "Parkhabio Saginuma",
+      "ja": "パークハビオ鷺沼"
+    },
+    "st": "saginuma",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B7%BA%E6%B2%BC",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E9%B7%BA%E6%B2%BC%EF%BC%93%E4%B8%81%E7%9B%AE1-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B7%BA%E6%B2%BC",
+    "address": "神奈川県川崎市宮前区鷺沼３丁目1-11",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Saginuma",
+        "ja": "鷺沼"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Saginuma station with field-verified address.",
+      "ja": "鷺沼駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Saginuma · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "鷺沼駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt166",
+    "name": {
+      "en": "Residia Tama-Plaza",
+      "ja": "レジディアたまプラーザ"
+    },
+    "st": "tama",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%BE%8E%E3%81%97%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "address": "神奈川県横浜市青葉区美しが丘１丁目2-12",
+    "rent": 100000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tama-Plaza",
+        "ja": "たまプラーザ"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tama-Plaza station with field-verified address.",
+      "ja": "たまプラーザ駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tama-Plaza · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "たまプラーザ駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt167",
+    "name": {
+      "en": "City Tower Azamino",
+      "ja": "シティタワーあざみ野"
+    },
+    "st": "azamino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE3-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "address": "神奈川県横浜市青葉区あざみ野２丁目3-13",
+    "rent": 136000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Azamino",
+        "ja": "あざみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Azamino station with field-verified address.",
+      "ja": "あざみ野駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Azamino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "あざみ野駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt168",
+    "name": {
+      "en": "Claridge Eda",
+      "ja": "クラリッジ江田"
+    },
+    "st": "eda",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%B1%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%8D%8F%E7%94%B0%E7%94%BA4-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%B1%9F%E7%94%B0",
+    "address": "神奈川県横浜市青葉区荏田町4-14",
+    "rent": 185000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Eda",
+        "ja": "江田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Eda station with field-verified address.",
+      "ja": "江田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Eda · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "江田駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt169",
+    "name": {
+      "en": "Gala Grandee Ichigao",
+      "ja": "ガーラグランディ市が尾"
+    },
+    "st": "ichigao",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%B8%82%E3%82%B1%E5%B0%BE%E7%94%BA1-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "address": "神奈川県横浜市青葉区市ケ尾町1-15",
+    "rent": 263000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Ichigao",
+        "ja": "市が尾"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Ichigao station with field-verified address.",
+      "ja": "市が尾駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Ichigao · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "市が尾駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt170",
+    "name": {
+      "en": "Maison Fujigaoka",
+      "ja": "メゾン藤が丘"
+    },
+    "st": "fujigaoka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%97%A4%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%97%A4%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%97%A4%E3%81%8C%E4%B8%98",
+    "address": "神奈川県横浜市青葉区藤が丘１丁目2-16",
+    "rent": 362000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Fujigaoka",
+        "ja": "藤が丘"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Fujigaoka station with field-verified address.",
+      "ja": "藤が丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Fujigaoka · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "藤が丘駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt171",
+    "name": {
+      "en": "Villa Aobadai",
+      "ja": "ヴィラ青葉台"
+    },
+    "st": "aobadai",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%9D%92%E8%91%89%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E9%9D%92%E8%91%89%E5%8F%B0%EF%BC%91%E4%B8%81%E7%9B%AE3-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%9D%92%E8%91%89%E5%8F%B0",
+    "address": "神奈川県横浜市青葉区青葉台１丁目3-17",
+    "rent": 102000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aobadai",
+        "ja": "青葉台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Aobadai station with field-verified address.",
+      "ja": "青葉台駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Aobadai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "青葉台駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt172",
+    "name": {
+      "en": "Park Axis Tana",
+      "ja": "パークアクシス田奈"
+    },
+    "st": "tana",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%B0%E5%A5%88",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%94%B0%E5%A5%88%E7%94%BA4-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%94%B0%E5%A5%88",
+    "address": "神奈川県横浜市青葉区田奈町4-18",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tana",
+        "ja": "田奈"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tana station with field-verified address.",
+      "ja": "田奈駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tana · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "田奈駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt173",
+    "name": {
+      "en": "Proud Flat Nagatsuta",
+      "ja": "プラウドフラット長津田"
+    },
+    "st": "nagatsuta",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE1-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "address": "神奈川県横浜市緑区長津田４丁目1-1",
+    "rent": 141000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Nagatsuta",
+        "ja": "長津田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Nagatsuta station with field-verified address.",
+      "ja": "長津田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Nagatsuta · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "長津田駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt174",
+    "name": {
+      "en": "Grand Concierge Tsukushino",
+      "ja": "グランコンシェルジュつくし野"
+    },
+    "st": "tsukushino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%91%E4%B8%81%E7%9B%AE2-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "address": "東京都町田市つくし野１丁目2-2",
+    "rent": 192000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukushino",
+        "ja": "つくし野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tsukushino station with field-verified address.",
+      "ja": "つくし野駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tsukushino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つくし野駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt175",
+    "name": {
+      "en": "Comforia Suzukakedai",
+      "ja": "コンフォリアすずかけ台"
+    },
+    "st": "suzuka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8D%97%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%81%99%E3%81%9A%E3%81%8B%E3%81%91%E5%8F%B0",
+    "address": "東京都町田市南つくし野３丁目3-3",
+    "rent": 273000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Suzukakedai",
+        "ja": "すずかけ台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Suzukakedai station with field-verified address.",
+      "ja": "すずかけ台駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Suzukakedai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "すずかけ台駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt176",
+    "name": {
+      "en": "Liv City Minami-machida",
+      "ja": "リヴシティ南町田"
+    },
+    "st": "minamimachida",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E9%B6%B4%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市鶴間３丁目4-4",
+    "rent": 376000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Minami-machida",
+        "ja": "南町田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Minami-machida station with field-verified address.",
+      "ja": "南町田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Minami-machida · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "南町田駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt177",
+    "name": {
+      "en": "Green Heights Tsukimino",
+      "ja": "グリーンハイツつきみ野"
+    },
+    "st": "tsukimino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E%EF%BC%94%E4%B8%81%E7%9B%AE1-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E3%81%A4%E3%81%8D%E3%81%BF%E9%87%8E",
+    "address": "神奈川県大和市つきみ野４丁目1-5",
+    "rent": 106000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsukimino",
+        "ja": "つきみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tsukimino station with field-verified address.",
+      "ja": "つきみ野駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tsukimino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つきみ野駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt178",
+    "name": {
+      "en": "Brillia ist Chūō-Rinkan",
+      "ja": "ブリリアイスト中央林間"
+    },
+    "st": "chuorinkan",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%A4%A7%E5%92%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%B8%AD%E5%A4%AE%E6%9E%97%E9%96%93",
+    "address": "神奈川県大和市中央林間３丁目2-6",
+    "rent": 93000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chūō-Rinkan",
+        "ja": "中央林間"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Chūō-Rinkan station with field-verified address.",
+      "ja": "中央林間駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Chūō-Rinkan · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "中央林間駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt179",
+    "name": {
+      "en": "Branz Shibuya",
+      "ja": "ブランズ渋谷"
+    },
+    "st": "shibuya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_daikanyama",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B8%8B%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%82%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E6%B8%8B%E8%B0%B7",
+    "address": "東京都渋谷区道玄坂１丁目3-7",
+    "rent": 126000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shibuya",
+        "ja": "渋谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shibuya station with field-verified address.",
+      "ja": "渋谷駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shibuya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "渋谷駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt180",
+    "name": {
+      "en": "Castalia Ikejiri-Ōhashi",
+      "ja": "カスタリア池尻大橋"
+    },
+    "st": "ikejiri",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E5%A4%A7%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B",
+    "address": "東京都目黒区大橋２丁目4-8",
+    "rent": 171000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikejiri-Ōhashi",
+        "ja": "池尻大橋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Ikejiri-Ōhashi station with field-verified address.",
+      "ja": "池尻大橋駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Ikejiri-Ōhashi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "池尻大橋駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt181",
+    "name": {
+      "en": "Lions Mansion Sangen-jaya",
+      "ja": "ライオンズマンション三軒茶屋"
+    },
+    "st": "sangenjaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_sangenjaya",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%A4%AA%E5%AD%90%E5%A0%82%EF%BC%94%E4%B8%81%E7%9B%AE1-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B",
+    "address": "東京都世田谷区太子堂４丁目1-9",
+    "rent": 282000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sangen-jaya",
+        "ja": "三軒茶屋"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sangen-jaya station with field-verified address.",
+      "ja": "三軒茶屋駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sangen-jaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "三軒茶屋駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt182",
+    "name": {
+      "en": "Prime Court Komazawa-daigaku",
+      "ja": "プライムコート駒沢大学"
+    },
+    "st": "komazawa",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%8A%E9%A6%AC%EF%BC%94%E4%B8%81%E7%9B%AE2-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E9%A7%92%E6%B2%A2%E5%A4%A7%E5%AD%A6",
+    "address": "東京都世田谷区上馬４丁目2-10",
+    "rent": 390000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komazawa-daigaku",
+        "ja": "駒沢大学"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Komazawa-daigaku station with field-verified address.",
+      "ja": "駒沢大学駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Komazawa-daigaku · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "駒沢大学駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt183",
+    "name": {
+      "en": "Concieria Sakura-shimmachi",
+      "ja": "コンシェリア桜新町"
+    },
+    "st": "sakura",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A1%9C%E6%96%B0%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A1%9C%E6%96%B0%E7%94%BA",
+    "address": "東京都世田谷区桜新町２丁目3-11",
+    "rent": 110000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sakura-shimmachi",
+        "ja": "桜新町"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sakura-shimmachi station with field-verified address.",
+      "ja": "桜新町駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sakura-shimmachi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "桜新町駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt184",
+    "name": {
+      "en": "Terrace Yōga",
+      "ja": "テラス用賀"
+    },
+    "st": "yoga",
+    "corridor": "denentoshi",
+    "pocketId": "pk_komazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E7%94%A8%E8%B3%80",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%94%A8%E8%B3%80%EF%BC%94%E4%B8%81%E7%9B%AE4-12%20%E3%83%86%E3%83%A9%E3%82%B9%E7%94%A8%E8%B3%80",
+    "address": "東京都世田谷区用賀４丁目4-12",
+    "rent": 97000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yōga",
+        "ja": "用賀"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yōga station with field-verified address.",
+      "ja": "用賀駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yōga · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "用賀駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt185",
+    "name": {
+      "en": "Parkhabio Futako-Tamagawa",
+      "ja": "パークハビオ二子玉川"
+    },
+    "st": "futako",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%8E%89%E5%B7%9D%EF%BC%92%E4%B8%81%E7%9B%AE1-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+    "address": "東京都世田谷区玉川２丁目1-13",
+    "rent": 131000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Tamagawa",
+        "ja": "二子玉川"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Futako-Tamagawa station with field-verified address.",
+      "ja": "二子玉川駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Futako-Tamagawa · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子玉川駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt186",
+    "name": {
+      "en": "Residia Futako-Shinchi",
+      "ja": "レジディア二子新地"
+    },
+    "st": "futakoshin",
+    "corridor": "denentoshi",
+    "pocketId": "pk_futako",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E4%BA%8C%E5%AD%90%EF%BC%92%E4%B8%81%E7%9B%AE2-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BA%8C%E5%AD%90%E6%96%B0%E5%9C%B0",
+    "address": "神奈川県川崎市高津区二子２丁目2-14",
+    "rent": 178000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Futako-Shinchi",
+        "ja": "二子新地"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Futako-Shinchi station with field-verified address.",
+      "ja": "二子新地駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Futako-Shinchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "二子新地駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt187",
+    "name": {
+      "en": "City Tower Takatsu",
+      "ja": "シティタワー高津"
+    },
+    "st": "takatsu",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%AB%98%E6%B4%A5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E9%AB%98%E6%B4%A5",
+    "address": "神奈川県川崎市高津区溝口３丁目3-15",
+    "rent": 253000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Takatsu",
+        "ja": "高津"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Takatsu station with field-verified address.",
+      "ja": "高津駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Takatsu · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "高津駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt188",
+    "name": {
+      "en": "Claridge Musashi-Mizonokuchi",
+      "ja": "クラリッジ溝の口"
+    },
+    "st": "mizonokuchi",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%BA%9D%E5%8F%A3%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%BA%9D%E3%81%AE%E5%8F%A3",
+    "address": "神奈川県川崎市高津区溝口１丁目4-16",
+    "rent": 348000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Musashi-Mizonokuchi",
+        "ja": "溝の口"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Musashi-Mizonokuchi station with field-verified address.",
+      "ja": "溝の口駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Musashi-Mizonokuchi · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "溝の口駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt189",
+    "name": {
+      "en": "Gala Grandee Kajigaya",
+      "ja": "ガーラグランディ梶が谷"
+    },
+    "st": "kajigaya",
+    "corridor": "denentoshi",
+    "pocketId": "pk_mizonokuchi",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%AB%98%E6%B4%A5%E5%8C%BA%E6%9C%AB%E9%95%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%B6%E3%81%8C%E8%B0%B7",
+    "address": "神奈川県川崎市高津区末長１丁目1-17",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kajigaya",
+        "ja": "梶が谷"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kajigaya station with field-verified address.",
+      "ja": "梶が谷駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kajigaya · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "梶が谷駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt190",
+    "name": {
+      "en": "Maison Miyamaedaira",
+      "ja": "メゾン宮前平"
+    },
+    "st": "miyamaedaira",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E5%AE%AE%E5%89%8D%E5%B9%B3%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%AE%AE%E5%89%8D%E5%B9%B3",
+    "address": "神奈川県川崎市宮前区宮前平１丁目2-18",
+    "rent": 100000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Miyamaedaira",
+        "ja": "宮前平"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Miyamaedaira station with field-verified address.",
+      "ja": "宮前平駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Miyamaedaira · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "宮前平駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt191",
+    "name": {
+      "en": "Villa Saginuma",
+      "ja": "ヴィラ鷺沼"
+    },
+    "st": "saginuma",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E9%B7%BA%E6%B2%BC",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%E9%B7%BA%E6%B2%BC%EF%BC%93%E4%B8%81%E7%9B%AE3-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E9%B7%BA%E6%B2%BC",
+    "address": "神奈川県川崎市宮前区鷺沼３丁目3-1",
+    "rent": 136000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Saginuma",
+        "ja": "鷺沼"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Saginuma station with field-verified address.",
+      "ja": "鷺沼駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Saginuma · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "鷺沼駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt192",
+    "name": {
+      "en": "Park Axis Tama-Plaza",
+      "ja": "パークアクシスたまプラーザ"
+    },
+    "st": "tama",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%BE%8E%E3%81%97%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E3%81%9F%E3%81%BE%E3%83%97%E3%83%A9%E3%83%BC%E3%82%B6",
+    "address": "神奈川県横浜市青葉区美しが丘１丁目4-2",
+    "rent": 185000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tama-Plaza",
+        "ja": "たまプラーザ"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tama-Plaza station with field-verified address.",
+      "ja": "たまプラーザ駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tama-Plaza · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "たまプラーザ駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt193",
+    "name": {
+      "en": "Proud Flat Azamino",
+      "ja": "プラウドフラットあざみ野"
+    },
+    "st": "azamino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_tamaplaza",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE1-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%82%E3%81%96%E3%81%BF%E9%87%8E",
+    "address": "神奈川県横浜市青葉区あざみ野２丁目1-3",
+    "rent": 263000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Azamino",
+        "ja": "あざみ野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Azamino station with field-verified address.",
+      "ja": "あざみ野駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Azamino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "あざみ野駅徒歩7分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt194",
+    "name": {
+      "en": "Grand Concierge Eda",
+      "ja": "グランコンシェルジュ江田"
+    },
+    "st": "eda",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B1%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%8D%8F%E7%94%B0%E7%94%BA2-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%B1%9F%E7%94%B0",
+    "address": "神奈川県横浜市青葉区荏田町2-4",
+    "rent": 362000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Eda",
+        "ja": "江田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Eda station with field-verified address.",
+      "ja": "江田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Eda · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "江田駅徒歩8分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt195",
+    "name": {
+      "en": "Comforia Ichigao",
+      "ja": "コンフォリア市が尾"
+    },
+    "st": "ichigao",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%B8%82%E3%82%B1%E5%B0%BE%E7%94%BA3-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%B8%82%E3%81%8C%E5%B0%BE",
+    "address": "神奈川県横浜市青葉区市ケ尾町3-5",
+    "rent": 102000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ichigao",
+        "ja": "市が尾"
+      },
+      "line": "Denentoshi Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ichigao station with field-verified address.",
+      "ja": "市が尾駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ichigao · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "市が尾駅徒歩9分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt196",
+    "name": {
+      "en": "Liv City Fujigaoka",
+      "ja": "リヴシティ藤が丘"
+    },
+    "st": "fujigaoka",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%97%A4%E3%81%8C%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E8%97%A4%E3%81%8C%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E8%97%A4%E3%81%8C%E4%B8%98",
+    "address": "神奈川県横浜市青葉区藤が丘１丁目4-6",
+    "rent": 90000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Fujigaoka",
+        "ja": "藤が丘"
+      },
+      "line": "Denentoshi Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Fujigaoka station with field-verified address.",
+      "ja": "藤が丘駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Fujigaoka · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "藤が丘駅徒歩10分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt197",
+    "name": {
+      "en": "Green Heights Aobadai",
+      "ja": "グリーンハイツ青葉台"
+    },
+    "st": "aobadai",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%9D%92%E8%91%89%E5%8F%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E9%9D%92%E8%91%89%E5%8F%B0%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E9%9D%92%E8%91%89%E5%8F%B0",
+    "address": "神奈川県横浜市青葉区青葉台１丁目1-7",
+    "rent": 141000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Aobadai",
+        "ja": "青葉台"
+      },
+      "line": "Denentoshi Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Aobadai station with field-verified address.",
+      "ja": "青葉台駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Aobadai · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "青葉台駅徒歩3分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt198",
+    "name": {
+      "en": "Brillia ist Tana",
+      "ja": "ブリリアイスト田奈"
+    },
+    "st": "tana",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%94%B0%E5%A5%88",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E7%94%B0%E5%A5%88%E7%94%BA2-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%94%B0%E5%A5%88",
+    "address": "神奈川県横浜市青葉区田奈町2-8",
+    "rent": 192000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tana",
+        "ja": "田奈"
+      },
+      "line": "Denentoshi Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tana station with field-verified address.",
+      "ja": "田奈駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tana · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "田奈駅徒歩4分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt199",
+    "name": {
+      "en": "Branz Nagatsuta",
+      "ja": "ブランズ長津田"
+    },
+    "st": "nagatsuta",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E9%95%B7%E6%B4%A5%E7%94%B0%EF%BC%94%E4%B8%81%E7%9B%AE3-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%95%B7%E6%B4%A5%E7%94%B0",
+    "address": "神奈川県横浜市緑区長津田４丁目3-9",
+    "rent": 273000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Nagatsuta",
+        "ja": "長津田"
+      },
+      "line": "Denentoshi Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Nagatsuta station with field-verified address.",
+      "ja": "長津田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Nagatsuta · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "長津田駅徒歩5分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
+  },
+  {
+    "id": "dt200",
+    "name": {
+      "en": "Castalia Tsukushino",
+      "ja": "カスタリアつくし野"
+    },
+    "st": "tsukushino",
+    "corridor": "denentoshi",
+    "pocketId": "pk_aobadai",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%A4%E3%81%8F%E3%81%97%E9%87%8E",
+    "address": "東京都町田市つくし野１丁目4-10",
+    "rent": 376000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsukushino",
+        "ja": "つくし野"
+      },
+      "line": "Denentoshi Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tsukushino station with field-verified address.",
+      "ja": "つくし野駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tsukushino · Den-en-toshi to Shibuya / Mizonokuchi · multi-line transit connectivity",
+      "ja": "つくし野駅徒歩6分 · 田園都市線都心直通 · 溝の口・横浜経由の広域アクセス"
+    }
   }
 ];
 const REP_STATIONS = ['shibuya','ikejiriohashi','sangenjaya','komazawa','sakurashinmachi',

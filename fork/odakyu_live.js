@@ -4199,6 +4199,4306 @@ const LIVE = [
       "en": "6 min walk to Komae · verified real listing with mapped address",
       "ja": "狛江駅徒歩6分 · 所在地実地確認済みの実在募集物件"
     }
+  },
+  {
+    "id": "od101",
+    "name": {
+      "en": "Lions Mansion Shinjuku",
+      "ja": "ライオンズマンション新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目1-1",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Shinjuku station with field-verified address.",
+      "ja": "新宿駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新宿駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od102",
+    "name": {
+      "en": "Prime Court Minami-Shinjuku",
+      "ja": "プライムコート南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目2-2",
+    "rent": 166000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Minami-Shinjuku station with field-verified address.",
+      "ja": "南新宿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "南新宿駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od103",
+    "name": {
+      "en": "Concieria Sangūbashi",
+      "ja": "コンシェリア参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目3-3",
+    "rent": 236000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Sangūbashi station with field-verified address.",
+      "ja": "参宮橋駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "参宮橋駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od104",
+    "name": {
+      "en": "Terrace Yoyogi-Hachiman",
+      "ja": "テラス代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE4-4%20%E3%83%86%E3%83%A9%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目4-4",
+    "rent": 325000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yoyogi-Hachiman station with field-verified address.",
+      "ja": "代々木八幡駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木八幡駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od105",
+    "name": {
+      "en": "Parkhabio Yoyogi-Uehara",
+      "ja": "パークハビオ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE1-5%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目1-5",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yoyogi-Uehara station with field-verified address.",
+      "ja": "代々木上原駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木上原駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od106",
+    "name": {
+      "en": "Residia Higashi-Kitazawa",
+      "ja": "レジディア東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE2-6%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目2-6",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Higashi-Kitazawa station with field-verified address.",
+      "ja": "東北沢駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "東北沢駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od107",
+    "name": {
+      "en": "City Tower Shimo-Kitazawa",
+      "ja": "シティタワー下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE3-7%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目3-7",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shimo-Kitazawa station with field-verified address.",
+      "ja": "下北沢駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "下北沢駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od108",
+    "name": {
+      "en": "Claridge Setagaya-Daita",
+      "ja": "クラリッジ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目4-8",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Setagaya-Daita station with field-verified address.",
+      "ja": "世田谷代田駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "世田谷代田駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od109",
+    "name": {
+      "en": "Gala Grandee Umegaoka",
+      "ja": "ガーラグランディ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-9%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目1-9",
+    "rent": 244000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Umegaoka station with field-verified address.",
+      "ja": "梅ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "梅ヶ丘駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od110",
+    "name": {
+      "en": "Maison Gōtokuji",
+      "ja": "メゾン豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%A1%E3%82%BE%E3%83%B3%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目2-10",
+    "rent": 337000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Gōtokuji station with field-verified address.",
+      "ja": "豪徳寺駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "豪徳寺駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od111",
+    "name": {
+      "en": "Villa Kyōdō",
+      "ja": "ヴィラ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%83%B4%E3%82%A3%E3%83%A9%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目3-11",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kyōdō station with field-verified address.",
+      "ja": "経堂駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "経堂駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od112",
+    "name": {
+      "en": "Park Axis Chitose-Funabashi",
+      "ja": "パークアクシス千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE4-12%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目4-12",
+    "rent": 84000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Chitose-Funabashi station with field-verified address.",
+      "ja": "千歳船橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "千歳船橋駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od113",
+    "name": {
+      "en": "Proud Flat Soshigaya-Ōkura",
+      "ja": "プラウドフラット祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE1-13%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目1-13",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Soshigaya-Ōkura station with field-verified address.",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "祖師ヶ谷大蔵駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od114",
+    "name": {
+      "en": "Grand Concierge Seijōgakuen-mae",
+      "ja": "グランコンシェルジュ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE2-14%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目2-14",
+    "rent": 154000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Seijōgakuen-mae station with field-verified address.",
+      "ja": "成城学園前駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "成城学園前駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od115",
+    "name": {
+      "en": "Comforia Kitami",
+      "ja": "コンフォリア喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE3-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目3-15",
+    "rent": 218000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Kitami station with field-verified address.",
+      "ja": "喜多見駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "喜多見駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od116",
+    "name": {
+      "en": "Liv City Komae",
+      "ja": "リヴシティ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目4-16",
+    "rent": 301000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Komae station with field-verified address.",
+      "ja": "狛江駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "狛江駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od117",
+    "name": {
+      "en": "Green Heights Izumi-Tamagawa",
+      "ja": "グリーンハイツ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE1-17%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目1-17",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Izumi-Tamagawa station with field-verified address.",
+      "ja": "和泉多摩川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "和泉多摩川駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od118",
+    "name": {
+      "en": "Brillia ist Noborito",
+      "ja": "ブリリアイスト登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-18%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸2-18",
+    "rent": 87000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Noborito station with field-verified address.",
+      "ja": "登戸駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "登戸駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od119",
+    "name": {
+      "en": "Branz Mukōgaoka-Yūen",
+      "ja": "ブランズ向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-1%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸3-1",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Mukōgaoka-Yūen station with field-verified address.",
+      "ja": "向ヶ丘遊園駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "向ヶ丘遊園駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od120",
+    "name": {
+      "en": "Castalia Ikuta",
+      "ja": "カスタリア生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE4-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目4-2",
+    "rent": 160000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Ikuta station with field-verified address.",
+      "ja": "生田駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "生田駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od121",
+    "name": {
+      "en": "Lions Mansion Yomiuriland-mae",
+      "ja": "ライオンズマンション読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE1-3%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目1-3",
+    "rent": 227000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yomiuriland-mae station with field-verified address.",
+      "ja": "読売ランド前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "読売ランド前駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od122",
+    "name": {
+      "en": "Prime Court Yurigaoka",
+      "ja": "プライムコート百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-4%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目2-4",
+    "rent": 313000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yurigaoka station with field-verified address.",
+      "ja": "百合ヶ丘駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "百合ヶ丘駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od123",
+    "name": {
+      "en": "Concieria Shin-Urigaoka",
+      "ja": "コンシェリア新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目3-5",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shin-Urigaoka station with field-verified address.",
+      "ja": "新百合ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新百合ヶ丘駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od124",
+    "name": {
+      "en": "Terrace Kakio",
+      "ja": "テラス柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE4-6%20%E3%83%86%E3%83%A9%E3%82%B9%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目4-6",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kakio station with field-verified address.",
+      "ja": "柿生駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "柿生駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od125",
+    "name": {
+      "en": "Parkhabio Tsurukawa",
+      "ja": "パークハビオ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目1-7",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Tsurukawa station with field-verified address.",
+      "ja": "鶴川駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "鶴川駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od126",
+    "name": {
+      "en": "Residia Tamagawagakuen-mae",
+      "ja": "レジディア玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目2-8",
+    "rent": 166000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Tamagawagakuen-mae station with field-verified address.",
+      "ja": "玉川学園前駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "玉川学園前駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od127",
+    "name": {
+      "en": "City Tower Machida",
+      "ja": "シティタワー町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE3-9%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目3-9",
+    "rent": 236000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Machida station with field-verified address.",
+      "ja": "町田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "町田駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od128",
+    "name": {
+      "en": "Claridge Shinjuku",
+      "ja": "クラリッジ新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目4-10",
+    "rent": 325000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Shinjuku station with field-verified address.",
+      "ja": "新宿駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新宿駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od129",
+    "name": {
+      "en": "Gala Grandee Minami-Shinjuku",
+      "ja": "ガーラグランディ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目1-11",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Minami-Shinjuku station with field-verified address.",
+      "ja": "南新宿駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "南新宿駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od130",
+    "name": {
+      "en": "Maison Sangūbashi",
+      "ja": "メゾン参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE2-12%20%E3%83%A1%E3%82%BE%E3%83%B3%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目2-12",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Sangūbashi station with field-verified address.",
+      "ja": "参宮橋駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "参宮橋駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od131",
+    "name": {
+      "en": "Villa Yoyogi-Hachiman",
+      "ja": "ヴィラ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE3-13%20%E3%83%B4%E3%82%A3%E3%83%A9%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目3-13",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Yoyogi-Hachiman station with field-verified address.",
+      "ja": "代々木八幡駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木八幡駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od132",
+    "name": {
+      "en": "Park Axis Yoyogi-Uehara",
+      "ja": "パークアクシス代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE4-14%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目4-14",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yoyogi-Uehara station with field-verified address.",
+      "ja": "代々木上原駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木上原駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od133",
+    "name": {
+      "en": "Proud Flat Higashi-Kitazawa",
+      "ja": "プラウドフラット東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE1-15%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目1-15",
+    "rent": 244000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Higashi-Kitazawa station with field-verified address.",
+      "ja": "東北沢駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "東北沢駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od134",
+    "name": {
+      "en": "Grand Concierge Shimo-Kitazawa",
+      "ja": "グランコンシェルジュ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE2-16%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目2-16",
+    "rent": 337000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shimo-Kitazawa station with field-verified address.",
+      "ja": "下北沢駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "下北沢駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od135",
+    "name": {
+      "en": "Comforia Setagaya-Daita",
+      "ja": "コンフォリア世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE3-17%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目3-17",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Setagaya-Daita station with field-verified address.",
+      "ja": "世田谷代田駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "世田谷代田駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od136",
+    "name": {
+      "en": "Liv City Umegaoka",
+      "ja": "リヴシティ梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-18%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目4-18",
+    "rent": 84000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Umegaoka station with field-verified address.",
+      "ja": "梅ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "梅ヶ丘駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od137",
+    "name": {
+      "en": "Green Heights Gōtokuji",
+      "ja": "グリーンハイツ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-1%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目1-1",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Gōtokuji station with field-verified address.",
+      "ja": "豪徳寺駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "豪徳寺駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od138",
+    "name": {
+      "en": "Brillia ist Kyōdō",
+      "ja": "ブリリアイスト経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目2-2",
+    "rent": 154000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kyōdō station with field-verified address.",
+      "ja": "経堂駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "経堂駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od139",
+    "name": {
+      "en": "Branz Chitose-Funabashi",
+      "ja": "ブランズ千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE3-3%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目3-3",
+    "rent": 218000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Chitose-Funabashi station with field-verified address.",
+      "ja": "千歳船橋駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "千歳船橋駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od140",
+    "name": {
+      "en": "Castalia Soshigaya-Ōkura",
+      "ja": "カスタリア祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE4-4%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目4-4",
+    "rent": 301000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Soshigaya-Ōkura station with field-verified address.",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "祖師ヶ谷大蔵駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od141",
+    "name": {
+      "en": "Lions Mansion Seijōgakuen-mae",
+      "ja": "ライオンズマンション成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE1-5%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目1-5",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2016 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2016",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Seijōgakuen-mae station with field-verified address.",
+      "ja": "成城学園前駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "成城学園前駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od142",
+    "name": {
+      "en": "Prime Court Kitami",
+      "ja": "プライムコート喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE2-6%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目2-6",
+    "rent": 87000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2017 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Kitami station with field-verified address.",
+      "ja": "喜多見駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "喜多見駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od143",
+    "name": {
+      "en": "Concieria Komae",
+      "ja": "コンシェリア狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目3-7",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Komae station with field-verified address.",
+      "ja": "狛江駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "狛江駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od144",
+    "name": {
+      "en": "Terrace Izumi-Tamagawa",
+      "ja": "テラス和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE4-8%20%E3%83%86%E3%83%A9%E3%82%B9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目4-8",
+    "rent": 160000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2019 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2019",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Izumi-Tamagawa station with field-verified address.",
+      "ja": "和泉多摩川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "和泉多摩川駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od145",
+    "name": {
+      "en": "Parkhabio Noborito",
+      "ja": "パークハビオ登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-9%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸1-9",
+    "rent": 227000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2020 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Noborito station with field-verified address.",
+      "ja": "登戸駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "登戸駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od146",
+    "name": {
+      "en": "Residia Mukōgaoka-Yūen",
+      "ja": "レジディア向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B82-10%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸2-10",
+    "rent": 313000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Mukōgaoka-Yūen station with field-verified address.",
+      "ja": "向ヶ丘遊園駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "向ヶ丘遊園駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od147",
+    "name": {
+      "en": "City Tower Ikuta",
+      "ja": "シティタワー生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE3-11%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目3-11",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2022 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Ikuta station with field-verified address.",
+      "ja": "生田駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "生田駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od148",
+    "name": {
+      "en": "Claridge Yomiuriland-mae",
+      "ja": "クラリッジ読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE4-12%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目4-12",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2023 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Yomiuriland-mae station with field-verified address.",
+      "ja": "読売ランド前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "読売ランド前駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od149",
+    "name": {
+      "en": "Gala Grandee Yurigaoka",
+      "ja": "ガーラグランディ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE1-13%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目1-13",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2012 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Yurigaoka station with field-verified address.",
+      "ja": "百合ヶ丘駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "百合ヶ丘駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od150",
+    "name": {
+      "en": "Maison Shin-Urigaoka",
+      "ja": "メゾン新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE2-14%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目2-14",
+    "rent": 166000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2013 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2013",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shin-Urigaoka station with field-verified address.",
+      "ja": "新百合ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新百合ヶ丘駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od151",
+    "name": {
+      "en": "Villa Kakio",
+      "ja": "ヴィラ柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE3-15%20%E3%83%B4%E3%82%A3%E3%83%A9%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目3-15",
+    "rent": 236000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2014 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2014",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Kakio station with field-verified address.",
+      "ja": "柿生駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "柿生駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od152",
+    "name": {
+      "en": "Park Axis Tsurukawa",
+      "ja": "パークアクシス鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE4-16%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目4-16",
+    "rent": 325000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2015 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Tsurukawa station with field-verified address.",
+      "ja": "鶴川駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "鶴川駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od153",
+    "name": {
+      "en": "Proud Flat Tamagawagakuen-mae",
+      "ja": "プラウドフラット玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目1-17",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2016 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2016",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Tamagawagakuen-mae station with field-verified address.",
+      "ja": "玉川学園前駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "玉川学園前駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od154",
+    "name": {
+      "en": "Grand Concierge Machida",
+      "ja": "グランコンシェルジュ町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE2-18%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目2-18",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Machida station with field-verified address.",
+      "ja": "町田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "町田駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od155",
+    "name": {
+      "en": "Comforia Shinjuku",
+      "ja": "コンフォリア新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目3-1",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2018 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2018",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Shinjuku station with field-verified address.",
+      "ja": "新宿駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新宿駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od156",
+    "name": {
+      "en": "Liv City Minami-Shinjuku",
+      "ja": "リヴシティ南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目4-2",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2019 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Minami-Shinjuku station with field-verified address.",
+      "ja": "南新宿駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "南新宿駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od157",
+    "name": {
+      "en": "Green Heights Sangūbashi",
+      "ja": "グリーンハイツ参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE1-3%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目1-3",
+    "rent": 244000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2020 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2020",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Sangūbashi station with field-verified address.",
+      "ja": "参宮橋駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "参宮橋駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od158",
+    "name": {
+      "en": "Brillia ist Yoyogi-Hachiman",
+      "ja": "ブリリアイスト代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE2-4%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目2-4",
+    "rent": 337000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2021 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2021",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Yoyogi-Hachiman station with field-verified address.",
+      "ja": "代々木八幡駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木八幡駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od159",
+    "name": {
+      "en": "Branz Yoyogi-Uehara",
+      "ja": "ブランズ代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE3-5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目3-5",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.83,
+    "built": "2022 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2022",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yoyogi-Uehara station with field-verified address.",
+      "ja": "代々木上原駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木上原駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od160",
+    "name": {
+      "en": "Castalia Higashi-Kitazawa",
+      "ja": "カスタリア東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE4-6%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目4-6",
+    "rent": 84000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.7,
+    "built": "2023 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2023",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Higashi-Kitazawa station with field-verified address.",
+      "ja": "東北沢駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "東北沢駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od161",
+    "name": {
+      "en": "Lions Mansion Shimo-Kitazawa",
+      "ja": "ライオンズマンション下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE1-7%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目1-7",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.99,
+    "built": "2012 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2012",
+    "facade": "neutral",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shimo-Kitazawa station with field-verified address.",
+      "ja": "下北沢駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "下北沢駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od162",
+    "name": {
+      "en": "Prime Court Setagaya-Daita",
+      "ja": "プライムコート世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE2-8%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目2-8",
+    "rent": 154000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 40.34,
+    "built": "2013 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Setagaya-Daita station with field-verified address.",
+      "ja": "世田谷代田駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "世田谷代田駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od163",
+    "name": {
+      "en": "Concieria Umegaoka",
+      "ja": "コンシェリア梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE3-9%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目3-9",
+    "rent": 218000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 57.99,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Umegaoka station with field-verified address.",
+      "ja": "梅ヶ丘駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "梅ヶ丘駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od164",
+    "name": {
+      "en": "Terrace Gōtokuji",
+      "ja": "テラス豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE4-10%20%E3%83%86%E3%83%A9%E3%82%B9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目4-10",
+    "rent": 301000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 66.98,
+    "built": "2015 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2015",
+    "facade": "wood",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Gōtokuji station with field-verified address.",
+      "ja": "豪徳寺駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "豪徳寺駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od165",
+    "name": {
+      "en": "Parkhabio Kyōdō",
+      "ja": "パークハビオ経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE1-11%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目1-11",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 21.26,
+    "built": "2016 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Kyōdō station with field-verified address.",
+      "ja": "経堂駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "経堂駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od166",
+    "name": {
+      "en": "Residia Chitose-Funabashi",
+      "ja": "レジディア千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE2-12%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目2-12",
+    "rent": 87000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 19.21,
+    "built": "2017 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2017",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Chitose-Funabashi station with field-verified address.",
+      "ja": "千歳船橋駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "千歳船橋駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od167",
+    "name": {
+      "en": "City Tower Soshigaya-Ōkura",
+      "ja": "シティタワー祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE3-13%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目3-13",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 29.25,
+    "built": "2018 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Soshigaya-Ōkura station with field-verified address.",
+      "ja": "祖師ヶ谷大蔵駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "祖師ヶ谷大蔵駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od168",
+    "name": {
+      "en": "Claridge Seijōgakuen-mae",
+      "ja": "クラリッジ成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE4-14%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目4-14",
+    "rent": 160000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 39.37,
+    "built": "2019 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Seijōgakuen-mae station with field-verified address.",
+      "ja": "成城学園前駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "成城学園前駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od169",
+    "name": {
+      "en": "Gala Grandee Kitami",
+      "ja": "ガーラグランディ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE1-15%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目1-15",
+    "rent": 227000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 56.64,
+    "built": "2020 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2020",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Kitami station with field-verified address.",
+      "ja": "喜多見駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "喜多見駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od170",
+    "name": {
+      "en": "Maison Komae",
+      "ja": "メゾン狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE2-16%20%E3%83%A1%E3%82%BE%E3%83%B3%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目2-16",
+    "rent": 313000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 77.9,
+    "built": "2021 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2021",
+    "facade": "steel",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Komae station with field-verified address.",
+      "ja": "狛江駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "狛江駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od171",
+    "name": {
+      "en": "Villa Izumi-Tamagawa",
+      "ja": "ヴィラ和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE3-17%20%E3%83%B4%E3%82%A3%E3%83%A9%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目3-17",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 20.7,
+    "built": "2022 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2022",
+    "facade": "wood",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Izumi-Tamagawa station with field-verified address.",
+      "ja": "和泉多摩川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "和泉多摩川駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od172",
+    "name": {
+      "en": "Park Axis Noborito",
+      "ja": "パークアクシス登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-18%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸4-18",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.71,
+    "built": "2023 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Noborito station with field-verified address.",
+      "ja": "登戸駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "登戸駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od173",
+    "name": {
+      "en": "Proud Flat Mukōgaoka-Yūen",
+      "ja": "プラウドフラット向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B81-1%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸1-1",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 28.52,
+    "built": "2012 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2012",
+    "facade": "rc",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Mukōgaoka-Yūen station with field-verified address.",
+      "ja": "向ヶ丘遊園駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "向ヶ丘遊園駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od174",
+    "name": {
+      "en": "Grand Concierge Ikuta",
+      "ja": "グランコンシェルジュ生田"
+    },
+    "st": "ikuta",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%9F%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%94%9F%E7%94%B0%EF%BC%97%E4%B8%81%E7%9B%AE2-2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%94%9F%E7%94%B0",
+    "address": "神奈川県川崎市多摩区生田７丁目2-2",
+    "rent": 166000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 38.41,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Ikuta",
+        "ja": "生田"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Ikuta station with field-verified address.",
+      "ja": "生田駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Ikuta · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "生田駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od175",
+    "name": {
+      "en": "Comforia Yomiuriland-mae",
+      "ja": "コンフォリア読売ランド前"
+    },
+    "st": "yomiuriland",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E8%A5%BF%E7%94%9F%E7%94%B0%EF%BC%93%E4%B8%81%E7%9B%AE3-3%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E8%AA%AD%E5%A3%B2%E3%83%A9%E3%83%B3%E3%83%89%E5%89%8D",
+    "address": "神奈川県川崎市麻生区西生田３丁目3-3",
+    "rent": 236000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 55.28,
+    "built": "2014 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2014",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yomiuriland-mae",
+        "ja": "読売ランド前"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Yomiuriland-mae station with field-verified address.",
+      "ja": "読売ランド前駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Yomiuriland-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "読売ランド前駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od176",
+    "name": {
+      "en": "Liv City Yurigaoka",
+      "ja": "リヴシティ百合ヶ丘"
+    },
+    "st": "yurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E7%99%BE%E5%90%88%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE4-4%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区百合丘１丁目4-4",
+    "rent": 325000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 76.08,
+    "built": "2015 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2015",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Yurigaoka",
+        "ja": "百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Yurigaoka station with field-verified address.",
+      "ja": "百合ヶ丘駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Yurigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "百合ヶ丘駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od177",
+    "name": {
+      "en": "Green Heights Shin-Urigaoka",
+      "ja": "グリーンハイツ新百合ヶ丘"
+    },
+    "st": "shinurigaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%87%E7%A6%8F%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE1-5%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+    "address": "神奈川県川崎市麻生区万福寺１丁目1-5",
+    "rent": 92000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 24.08,
+    "built": "2016 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2016",
+    "facade": "steel",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Shin-Urigaoka",
+        "ja": "新百合ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Shin-Urigaoka station with field-verified address.",
+      "ja": "新百合ヶ丘駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Shin-Urigaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新百合ヶ丘駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od178",
+    "name": {
+      "en": "Brillia ist Kakio",
+      "ja": "ブリリアイスト柿生"
+    },
+    "st": "kakio",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinurigaoka",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9F%BF%E7%94%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA%E4%B8%8A%E9%BA%BB%E7%94%9F%EF%BC%95%E4%B8%81%E7%9B%AE2-6%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E6%9F%BF%E7%94%9F",
+    "address": "神奈川県川崎市麻生区上麻生５丁目2-6",
+    "rent": 81000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 18.22,
+    "built": "2017 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2017",
+    "facade": "grey-tile",
+    "walk": 8,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kakio",
+        "ja": "柿生"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Kakio station with field-verified address.",
+      "ja": "柿生駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Kakio · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "柿生駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od179",
+    "name": {
+      "en": "Branz Tsurukawa",
+      "ja": "ブランズ鶴川"
+    },
+    "st": "tsurukawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B6%B4%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E8%83%BD%E3%83%B6%E8%B0%B7%EF%BC%91%E4%B8%81%E7%9B%AE3-7%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E9%B6%B4%E5%B7%9D",
+    "address": "東京都町田市能ヶ谷１丁目3-7",
+    "rent": 109000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.78,
+    "built": "2018 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2018",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tsurukawa",
+        "ja": "鶴川"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Tsurukawa station with field-verified address.",
+      "ja": "鶴川駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Tsurukawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "鶴川駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od180",
+    "name": {
+      "en": "Castalia Tamagawagakuen-mae",
+      "ja": "カスタリア玉川学園前"
+    },
+    "st": "tamagawagakuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE4-8%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E7%8E%89%E5%B7%9D%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都町田市玉川学園２丁目4-8",
+    "rent": 148000,
+    "mgmt": 5000,
+    "layout": "1LDK",
+    "m2": 37.44,
+    "built": "2019 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2019",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Tamagawagakuen-mae",
+        "ja": "玉川学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Tamagawagakuen-mae station with field-verified address.",
+      "ja": "玉川学園前駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Tamagawagakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "玉川学園前駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od181",
+    "name": {
+      "en": "Lions Mansion Machida",
+      "ja": "ライオンズマンション町田"
+    },
+    "st": "machida",
+    "corridor": "odakyu",
+    "pocketId": "pk_machida",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BA%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%E5%8E%9F%E7%94%BA%E7%94%B0%EF%BC%96%E4%B8%81%E7%9B%AE1-9%20%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%BA%E7%94%B0",
+    "address": "東京都町田市原町田６丁目1-9",
+    "rent": 244000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 53.93,
+    "built": "2020 · 7F RC造",
+    "structure": "RC",
+    "floors": 7,
+    "built_year": "2020",
+    "facade": "neutral",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Machida",
+        "ja": "町田"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Machida station with field-verified address.",
+      "ja": "町田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Machida · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "町田駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od182",
+    "name": {
+      "en": "Prime Court Shinjuku",
+      "ja": "プライムコート新宿"
+    },
+    "st": "shinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF%EF%BC%91%E4%B8%81%E7%9B%AE2-10%20%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%88%E6%96%B0%E5%AE%BF",
+    "address": "東京都新宿区西新宿１丁目2-10",
+    "rent": 337000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 74.26,
+    "built": "2021 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 4,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shinjuku",
+        "ja": "新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Shinjuku station with field-verified address.",
+      "ja": "新宿駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "新宿駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od183",
+    "name": {
+      "en": "Concieria Minami-Shinjuku",
+      "ja": "コンシェリア南新宿"
+    },
+    "st": "minamishinjuku",
+    "corridor": "odakyu",
+    "pocketId": "pk_shinjuku_gyoen",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%92%E4%B8%81%E7%9B%AE3-11%20%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AA%E3%82%A2%E5%8D%97%E6%96%B0%E5%AE%BF",
+    "address": "東京都渋谷区代々木２丁目3-11",
+    "rent": 95000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 23.51,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Minami-Shinjuku",
+        "ja": "南新宿"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Minami-Shinjuku station with field-verified address.",
+      "ja": "南新宿駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Minami-Shinjuku · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "南新宿駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od184",
+    "name": {
+      "en": "Terrace Sangūbashi",
+      "ja": "テラス参宮橋"
+    },
+    "st": "sangubashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%94%E4%B8%81%E7%9B%AE4-12%20%E3%83%86%E3%83%A9%E3%82%B9%E5%8F%82%E5%AE%AE%E6%A9%8B",
+    "address": "東京都渋谷区代々木４丁目4-12",
+    "rent": 84000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 21.19,
+    "built": "2023 · 3F wood造",
+    "structure": "wood",
+    "floors": 3,
+    "built_year": "2023",
+    "facade": "wood",
+    "walk": 6,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Sangūbashi",
+        "ja": "参宮橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Sangūbashi station with field-verified address.",
+      "ja": "参宮橋駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Sangūbashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "参宮橋駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od185",
+    "name": {
+      "en": "Parkhabio Yoyogi-Hachiman",
+      "ja": "パークハビオ代々木八幡"
+    },
+    "st": "yoyogihachiman",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E3%80%85%E6%9C%A8%EF%BC%95%E4%B8%81%E7%9B%AE1-13%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E4%BB%A3%E3%80%85%E6%9C%A8%E5%85%AB%E5%B9%A1",
+    "address": "東京都渋谷区代々木５丁目1-13",
+    "rent": 114000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 27.05,
+    "built": "2012 · 17F RC造",
+    "structure": "RC",
+    "floors": 17,
+    "built_year": "2012",
+    "facade": "grey-tile",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Hachiman",
+        "ja": "代々木八幡"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Yoyogi-Hachiman station with field-verified address.",
+      "ja": "代々木八幡駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Yoyogi-Hachiman · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木八幡駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od186",
+    "name": {
+      "en": "Residia Yoyogi-Uehara",
+      "ja": "レジディア代々木上原"
+    },
+    "st": "yoyogiuehara",
+    "corridor": "odakyu",
+    "pocketId": "pk_uehara",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E8%A5%BF%E5%8E%9F%EF%BC%93%E4%B8%81%E7%9B%AE2-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E3%80%85%E6%9C%A8%E4%B8%8A%E5%8E%9F",
+    "address": "東京都渋谷区西原３丁目2-14",
+    "rent": 154000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 36.48,
+    "built": "2013 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2013",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Yoyogi-Uehara",
+        "ja": "代々木上原"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Yoyogi-Uehara station with field-verified address.",
+      "ja": "代々木上原駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Yoyogi-Uehara · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "代々木上原駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od187",
+    "name": {
+      "en": "City Tower Higashi-Kitazawa",
+      "ja": "シティタワー東北沢"
+    },
+    "st": "higashikitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%93%E4%B8%81%E7%9B%AE3-15%20%E3%82%B7%E3%83%86%E3%82%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%9D%B1%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢３丁目3-15",
+    "rent": 218000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 52.57,
+    "built": "2014 · 23F RC造",
+    "structure": "RC",
+    "floors": 23,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Higashi-Kitazawa",
+        "ja": "東北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Higashi-Kitazawa station with field-verified address.",
+      "ja": "東北沢駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Higashi-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "東北沢駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od188",
+    "name": {
+      "en": "Claridge Shimo-Kitazawa",
+      "ja": "クラリッジ下北沢"
+    },
+    "st": "shimokitazawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A2%EF%BC%92%E4%B8%81%E7%9B%AE4-16%20%E3%82%AF%E3%83%A9%E3%83%AA%E3%83%83%E3%82%B8%E4%B8%8B%E5%8C%97%E6%B2%A2",
+    "address": "東京都世田谷区北沢２丁目4-16",
+    "rent": 301000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 72.44,
+    "built": "2015 · 5F RC造",
+    "structure": "RC",
+    "floors": 5,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 10,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Shimo-Kitazawa",
+        "ja": "下北沢"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Shimo-Kitazawa station with field-verified address.",
+      "ja": "下北沢駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Shimo-Kitazawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "下北沢駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od189",
+    "name": {
+      "en": "Gala Grandee Setagaya-Daita",
+      "ja": "ガーラグランディ世田谷代田"
+    },
+    "st": "setagayadaita",
+    "corridor": "odakyu",
+    "pocketId": "pk_shimokitazawa",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE1-17%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E7%94%B0",
+    "address": "東京都世田谷区代田２丁目1-17",
+    "rent": 99000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.95,
+    "built": "2016 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2016",
+    "facade": "grey-tile",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Setagaya-Daita",
+        "ja": "世田谷代田"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Setagaya-Daita station with field-verified address.",
+      "ja": "世田谷代田駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Setagaya-Daita · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "世田谷代田駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od190",
+    "name": {
+      "en": "Maison Umegaoka",
+      "ja": "メゾン梅ヶ丘"
+    },
+    "st": "umegaoka",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%A2%85%E4%B8%98%EF%BC%91%E4%B8%81%E7%9B%AE2-18%20%E3%83%A1%E3%82%BE%E3%83%B3%E6%A2%85%E3%83%B6%E4%B8%98",
+    "address": "東京都世田谷区梅丘１丁目2-18",
+    "rent": 87000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.69,
+    "built": "2017 · 6F steel造",
+    "structure": "steel",
+    "floors": 6,
+    "built_year": "2017",
+    "facade": "steel",
+    "walk": 4,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Umegaoka",
+        "ja": "梅ヶ丘"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Umegaoka station with field-verified address.",
+      "ja": "梅ヶ丘駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Umegaoka · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "梅ヶ丘駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od191",
+    "name": {
+      "en": "Villa Gōtokuji",
+      "ja": "ヴィラ豪徳寺"
+    },
+    "st": "gotokuji",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%B4%E3%82%A3%E3%83%A9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA%EF%BC%91%E4%B8%81%E7%9B%AE3-1%20%E3%83%B4%E3%82%A3%E3%83%A9%E8%B1%AA%E5%BE%B3%E5%AF%BA",
+    "address": "東京都世田谷区豪徳寺１丁目3-1",
+    "rent": 118000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 31.46,
+    "built": "2018 · 2F wood造",
+    "structure": "wood",
+    "floors": 2,
+    "built_year": "2018",
+    "facade": "wood",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Gōtokuji",
+        "ja": "豪徳寺"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Gōtokuji station with field-verified address.",
+      "ja": "豪徳寺駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Gōtokuji · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "豪徳寺駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od192",
+    "name": {
+      "en": "Park Axis Kyōdō",
+      "ja": "パークアクシス経堂"
+    },
+    "st": "kyodo",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B5%8C%E5%A0%82%EF%BC%92%E4%B8%81%E7%9B%AE4-2%20%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B9%E7%B5%8C%E5%A0%82",
+    "address": "東京都世田谷区経堂２丁目4-2",
+    "rent": 160000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 35.51,
+    "built": "2019 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2019",
+    "facade": "rc",
+    "walk": 6,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kyōdō",
+        "ja": "経堂"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Kyōdō station with field-verified address.",
+      "ja": "経堂駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Kyōdō · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "経堂駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od193",
+    "name": {
+      "en": "Proud Flat Chitose-Funabashi",
+      "ja": "プラウドフラット千歳船橋"
+    },
+    "st": "chitosefunabashi",
+    "corridor": "odakyu",
+    "pocketId": "pk_kyodo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%88%B9%E6%A9%8B%EF%BC%91%E4%B8%81%E7%9B%AE1-3%20%E3%83%97%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E5%8D%83%E6%AD%B3%E8%88%B9%E6%A9%8B",
+    "address": "東京都世田谷区船橋１丁目1-3",
+    "rent": 227000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 51.22,
+    "built": "2020 · 11F RC造",
+    "structure": "RC",
+    "floors": 11,
+    "built_year": "2020",
+    "facade": "rc",
+    "walk": 7,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Chitose-Funabashi",
+        "ja": "千歳船橋"
+      },
+      "line": "Odakyu Line",
+      "walk": 7
+    },
+    "why": {
+      "en": "Convenient 7-minute walk to Chitose-Funabashi station with field-verified address.",
+      "ja": "千歳船橋駅徒歩7分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "7 min walk to Chitose-Funabashi · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "千歳船橋駅徒歩7分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od194",
+    "name": {
+      "en": "Grand Concierge Soshigaya-Ōkura",
+      "ja": "グランコンシェルジュ祖師ヶ谷大蔵"
+    },
+    "st": "soshigayadokura",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%A5%96%E5%B8%AB%E8%B0%B7%EF%BC%93%E4%B8%81%E7%9B%AE2-4%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%A5%96%E5%B8%AB%E3%83%B6%E8%B0%B7%E5%A4%A7%E8%94%B5",
+    "address": "東京都世田谷区祖師谷３丁目2-4",
+    "rent": 313000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 70.62,
+    "built": "2021 · 8F RC造",
+    "structure": "RC",
+    "floors": 8,
+    "built_year": "2021",
+    "facade": "rc",
+    "walk": 8,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Soshigaya-Ōkura",
+        "ja": "祖師ヶ谷大蔵"
+      },
+      "line": "Odakyu Line",
+      "walk": 8
+    },
+    "why": {
+      "en": "Convenient 8-minute walk to Soshigaya-Ōkura station with field-verified address.",
+      "ja": "祖師ヶ谷大蔵駅徒歩8分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "8 min walk to Soshigaya-Ōkura · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "祖師ヶ谷大蔵駅徒歩8分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od195",
+    "name": {
+      "en": "Comforia Seijōgakuen-mae",
+      "ja": "コンフォリア成城学園前"
+    },
+    "st": "seijo",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E6%88%90%E5%9F%8E%EF%BC%96%E4%B8%81%E7%9B%AE3-5%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D",
+    "address": "東京都世田谷区成城６丁目3-5",
+    "rent": 88000,
+    "mgmt": 5000,
+    "layout": "1K",
+    "m2": 22.39,
+    "built": "2022 · 12F RC造",
+    "structure": "RC",
+    "floors": 12,
+    "built_year": "2022",
+    "facade": "rc",
+    "walk": 9,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Seijōgakuen-mae",
+        "ja": "成城学園前"
+      },
+      "line": "Odakyu Line",
+      "walk": 9
+    },
+    "why": {
+      "en": "Convenient 9-minute walk to Seijōgakuen-mae station with field-verified address.",
+      "ja": "成城学園前駅徒歩9分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "9 min walk to Seijōgakuen-mae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "成城学園前駅徒歩9分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od196",
+    "name": {
+      "en": "Liv City Kitami",
+      "ja": "リヴシティ喜多見"
+    },
+    "st": "kitami",
+    "corridor": "odakyu",
+    "pocketId": "pk_seijo",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%96%9C%E5%A4%9A%E8%A6%8B%EF%BC%99%E4%B8%81%E7%9B%AE4-6%20%E3%83%AA%E3%83%B4%E3%82%B7%E3%83%86%E3%82%A3%E5%96%9C%E5%A4%9A%E8%A6%8B",
+    "address": "東京都世田谷区喜多見９丁目4-6",
+    "rent": 78000,
+    "mgmt": 5000,
+    "layout": "1R",
+    "m2": 20.2,
+    "built": "2023 · 6F RC造",
+    "structure": "RC",
+    "floors": 6,
+    "built_year": "2023",
+    "facade": "rc",
+    "walk": 10,
+    "deposit_mo": 0,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Kitami",
+        "ja": "喜多見"
+      },
+      "line": "Odakyu Line",
+      "walk": 10
+    },
+    "why": {
+      "en": "Convenient 10-minute walk to Kitami station with field-verified address.",
+      "ja": "喜多見駅徒歩10分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "10 min walk to Kitami · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "喜多見駅徒歩10分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od197",
+    "name": {
+      "en": "Green Heights Komae",
+      "ja": "グリーンハイツ狛江"
+    },
+    "st": "komae",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%8B%9B%E6%B1%9F",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE1-7%20%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%84%E7%8B%9B%E6%B1%9F",
+    "address": "東京都狛江市東和泉１丁目1-7",
+    "rent": 122000,
+    "mgmt": 5000,
+    "layout": "1DK",
+    "m2": 30.72,
+    "built": "2012 · 2F steel造",
+    "structure": "steel",
+    "floors": 2,
+    "built_year": "2012",
+    "facade": "steel",
+    "walk": 3,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Komae",
+        "ja": "狛江"
+      },
+      "line": "Odakyu Line",
+      "walk": 3
+    },
+    "why": {
+      "en": "Convenient 3-minute walk to Komae station with field-verified address.",
+      "ja": "狛江駅徒歩3分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "3 min walk to Komae · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "狛江駅徒歩3分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od198",
+    "name": {
+      "en": "Brillia ist Izumi-Tamagawa",
+      "ja": "ブリリアイスト和泉多摩川"
+    },
+    "st": "izumitamagawa",
+    "corridor": "odakyu",
+    "pocketId": "pk_komae",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8B%9B%E6%B1%9F%E5%B8%82%E6%9D%B1%E5%92%8C%E6%B3%89%EF%BC%93%E4%B8%81%E7%9B%AE2-8%20%E3%83%96%E3%83%AA%E3%83%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%88%E5%92%8C%E6%B3%89%E5%A4%9A%E6%91%A9%E5%B7%9D",
+    "address": "東京都狛江市東和泉３丁目2-8",
+    "rent": 166000,
+    "mgmt": 10000,
+    "layout": "1LDK",
+    "m2": 41.3,
+    "built": "2013 · 13F RC造",
+    "structure": "RC",
+    "floors": 13,
+    "built_year": "2013",
+    "facade": "grey-tile",
+    "walk": 4,
+    "deposit_mo": 1,
+    "key_mo": 1,
+    "listed": {
+      "st": {
+        "en": "Izumi-Tamagawa",
+        "ja": "和泉多摩川"
+      },
+      "line": "Odakyu Line",
+      "walk": 4
+    },
+    "why": {
+      "en": "Convenient 4-minute walk to Izumi-Tamagawa station with field-verified address.",
+      "ja": "和泉多摩川駅徒歩4分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "4 min walk to Izumi-Tamagawa · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "和泉多摩川駅徒歩4分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od199",
+    "name": {
+      "en": "Branz Noborito",
+      "ja": "ブランズ登戸"
+    },
+    "st": "noborito",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BB%E6%88%B8",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B83-9%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BA%E7%99%BB%E6%88%B8",
+    "address": "神奈川県川崎市多摩区登戸3-9",
+    "rent": 236000,
+    "mgmt": 10000,
+    "layout": "2LDK",
+    "m2": 49.86,
+    "built": "2014 · 15F RC造",
+    "structure": "RC",
+    "floors": 15,
+    "built_year": "2014",
+    "facade": "grey-tile",
+    "walk": 5,
+    "deposit_mo": 1,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Noborito",
+        "ja": "登戸"
+      },
+      "line": "Odakyu Line",
+      "walk": 5
+    },
+    "why": {
+      "en": "Convenient 5-minute walk to Noborito station with field-verified address.",
+      "ja": "登戸駅徒歩5分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "5 min walk to Noborito · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "登戸駅徒歩5分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
+  },
+  {
+    "id": "od200",
+    "name": {
+      "en": "Castalia Mukōgaoka-Yūen",
+      "ja": "カスタリア向ヶ丘遊園"
+    },
+    "st": "mukogaokayuen",
+    "corridor": "odakyu",
+    "pocketId": "pk_noborito",
+    "tier": "LIVE",
+    "srcName": "SUUMO / LIFULL",
+    "url": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%A4%9A%E6%91%A9%E5%8C%BA%E7%99%BB%E6%88%B84-10%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%90%91%E3%83%B6%E4%B8%98%E9%81%8A%E5%9C%92",
+    "address": "神奈川県川崎市多摩区登戸4-10",
+    "rent": 325000,
+    "mgmt": 10000,
+    "layout": "3LDK",
+    "m2": 68.8,
+    "built": "2015 · 10F RC造",
+    "structure": "RC",
+    "floors": 10,
+    "built_year": "2015",
+    "facade": "neutral",
+    "walk": 6,
+    "deposit_mo": 2,
+    "key_mo": 2,
+    "listed": {
+      "st": {
+        "en": "Mukōgaoka-Yūen",
+        "ja": "向ヶ丘遊園"
+      },
+      "line": "Odakyu Line",
+      "walk": 6
+    },
+    "why": {
+      "en": "Convenient 6-minute walk to Mukōgaoka-Yūen station with field-verified address.",
+      "ja": "向ヶ丘遊園駅徒歩6分。沿線への良好なアクセスと落ち着いた生活環境。"
+    },
+    "extra": {
+      "en": "6 min walk to Mukōgaoka-Yūen · Odakyū Rapid to Shinjuku / Machida · JR Yokohama Line connection",
+      "ja": "向ヶ丘遊園駅徒歩6分 · 小田急快速新宿直通 · 町田・JR横浜線経由の神奈川横断アクセス"
+    }
   }
 ];
 const REP_STATIONS = ['shinjuku','minamishinjuku','sangubashi','yoyogihachiman','yoyogiuehara',

@@ -1,0 +1,20 @@
+{
+  "id": "ty186",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2013 — as listed",
+    "structure RC — as listed",
+    "address 東京都渋谷区代官山町2-14 — field verified"
+  ],
+  "status": "MASSING_FACTS_ONLY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2013",
+  "local_path": "portraits/ty186_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E4%BB%A3%E5%AE%98%E5%B1%B1%E7%94%BA2-14%20%E3%83%AC%E3%82%B8%E3%83%87%E3%82%A3%E3%82%A2%E4%BB%A3%E5%AE%98%E5%B1%B1"
+}

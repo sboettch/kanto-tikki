@@ -146,10 +146,7 @@ function pairTime(a, b){                    // raw in-motion minutes a→b + tra
   return { mins: best, transfers };
 }
 
-function commute(stationId, destId){
-  if (typeof calcCommute === 'function' && typeof state !== 'undefined' && state.corridor && state.corridor !== 'keikyu'){
-    return calcCommute(stationId, destId);
-  }
+function keikyuCommute(stationId, destId){
   const a = (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[stationId]]) || (typeof activeStations === 'function' && activeStations().find(s => s.id === stationId));
   if (!a) {
     return { median:25, p90:29, transfers:0, direct:true, verified:false, walkOnly:false };
@@ -200,8 +197,15 @@ function commute(stationId, destId){
              transfers:leg.transfers, direct:leg.transfers===0, verified:false };
   }
 
-  if (typeof calcCommute === 'function') return calcCommute(a.id, b.id);
+  if (!fromCalc && typeof calcCommute === 'function') return calcCommute(a.id, b ? b.id : destId);
   return { median:25, p90:29, transfers:0, direct:true, verified:false, walkOnly:false };
+}
+
+function commute(stationId, destId, fromCalc){
+  if (!fromCalc && typeof calcCommute === 'function' && typeof state !== 'undefined' && state.corridor && state.corridor !== 'keikyu'){
+    return calcCommute(stationId, destId);
+  }
+  return keikyuCommute(stationId, destId, fromCalc);
 }
 function r5(x){ return Math.round(x*2)/2; }
 
