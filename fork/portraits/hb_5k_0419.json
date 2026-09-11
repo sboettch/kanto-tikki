@@ -1,0 +1,20 @@
+{
+  "id": "hb_5k_0419",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "16 storeys — as listed",
+    "built 2015 — as listed",
+    "structure RC — as listed",
+    "address 東京都荒川区南千住５丁目3-3 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 16,
+  "structure": "RC",
+  "built": "2015",
+  "local_path": "portraits/hb_5k_0419.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%97%E5%8D%83%E4%BD%8F",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%8D%92%E5%B7%9D%E5%8C%BA%E5%8D%97%E5%8D%83%E4%BD%8F%EF%BC%95%E4%B8%81%E7%9B%AE3-3%20%E3%83%91%E3%83%BC%E3%82%AF%E3%83%8F%E3%83%93%E3%82%AA%E5%8D%97%E5%8D%83%E4%BD%8F"
+}

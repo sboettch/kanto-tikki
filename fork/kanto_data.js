@@ -146,10 +146,10 @@ function pairTime(a, b){                    // raw in-motion minutes a→b + tra
   return { mins: best, transfers };
 }
 
-function keikyuCommute(stationId, destId){
+function keikyuCommute(stationId, destId, fromCalc){
   const a = (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[stationId]]) || (typeof activeStations === 'function' && activeStations().find(s => s.id === stationId));
   if (!a) {
-    return { median:25, p90:29, transfers:0, direct:true, verified:false, walkOnly:false };
+    return { median: null, p90: null, transfers: 0, direct: false, verified: false, walkOnly: false, modelled: false };
   }
   const destList = (typeof activeDests === 'function') ? activeDests() : DESTS;
   const dest = destList.find(d=>d.id===destId) || DESTS.find(d=>d.id===destId) || DESTS[0];
@@ -187,7 +187,7 @@ function keikyuCommute(stationId, destId){
   }
 
   const b = (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[dest.st || dest.id]]) || (typeof activeStations === 'function' && activeStations().find(s => s.id === (dest.st || dest.id)));
-  if (!b) return { median:25, p90:29, transfers:0, direct:true, verified:false, walkOnly:false };
+  if (!b) return { median: null, p90: null, transfers: 0, direct: false, verified: false, walkOnly: false, modelled: false };
   if (a.id === b.id) return { median:0, p90:0, transfers:0, direct:true, verified:true, walkOnly:true };
 
   if (typeof S_IDX !== 'undefined' && S_IDX[a.id] !== undefined && S_IDX[b.id] !== undefined){
@@ -198,7 +198,7 @@ function keikyuCommute(stationId, destId){
   }
 
   if (!fromCalc && typeof calcCommute === 'function') return calcCommute(a.id, b ? b.id : destId);
-  return { median:25, p90:29, transfers:0, direct:true, verified:false, walkOnly:false };
+  return { median: null, p90: null, transfers: 0, direct: false, verified: false, walkOnly: false, modelled: false };
 }
 
 function commute(stationId, destId, fromCalc){

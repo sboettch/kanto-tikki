@@ -1,0 +1,20 @@
+{
+  "id": "ybr_0147",
+  "kind": "HERO_WASHI",
+  "card": "INTERPRETIVE ILLUSTRATION · 和紙版画",
+  "detail": "INTERPRETIVE ILLUSTRATION — washi paper shadowbox architectural study",
+  "matched": [
+    "10 storeys — as listed",
+    "built 2005 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横須賀市馬堀海岸２丁目1-6 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 10,
+  "structure": "RC",
+  "built": "2005",
+  "local_path": "portraits/ybr_0147_hero.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%A6%AC%E5%A0%80%E6%B5%B7%E5%B2%B8",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E9%A0%88%E8%B3%80%E5%B8%82%E9%A6%AC%E5%A0%80%E6%B5%B7%E5%B2%B8%EF%BC%92%E4%B8%81%E7%9B%AE1-6%20%E3%82%AC%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E9%A6%AC%E5%A0%80%E6%B5%B7%E5%B2%B8"
+}

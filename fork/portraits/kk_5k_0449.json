@@ -1,0 +1,20 @@
+{
+  "id": "kk_5k_0449",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "11 storeys — as listed",
+    "built 2021 — as listed",
+    "structure RC — as listed",
+    "address 東京都大田区蒲田２丁目1-15 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 11,
+  "structure": "RC",
+  "built": "2021",
+  "local_path": "portraits/kk_5k_0449.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A2%85%E5%B1%8B%E6%95%B7",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E8%92%B2%E7%94%B0%EF%BC%92%E4%B8%81%E7%9B%AE1-15%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E6%A2%85%E5%B1%8B%E6%95%B7"
+}

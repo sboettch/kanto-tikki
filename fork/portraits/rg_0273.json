@@ -1,0 +1,20 @@
+{
+  "id": "rg_0273",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "8 storeys — as listed",
+    "built 2012 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県川崎市中原区木月1丁目13 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 8,
+  "structure": "RC",
+  "built": "2012",
+  "local_path": "portraits/rg_0273.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%83%E4%BD%8F%E5%90%89",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%8E%9F%E5%8C%BA%E6%9C%A8%E6%9C%881%E4%B8%81%E7%9B%AE13%20%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E5%85%83%E4%BD%8F%E5%90%89"
+}

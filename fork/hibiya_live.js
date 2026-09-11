@@ -45,7 +45,7 @@ const LIVE = [
     "fingerprint": "318f93efe4dacaf4",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:07:35.535925+00:00",
+    "last_verified": "2026-09-09T22:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -55,13 +55,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 155,
-      "survival_probability_pct": 58.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 69.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -108,7 +108,7 @@ const LIVE = [
     "fingerprint": "11eebc3f268bb80c",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:18:35.535925+00:00",
+    "last_verified": "2026-09-09T19:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -118,13 +118,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 324,
-      "survival_probability_pct": 43.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 56.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -171,7 +171,7 @@ const LIVE = [
     "fingerprint": "0c5416a5c7776d3c",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:58:35.535925+00:00",
+    "last_verified": "2026-09-09T19:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -181,13 +181,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 23,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 344,
-      "survival_probability_pct": 38.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 52.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -234,7 +234,7 @@ const LIVE = [
     "fingerprint": "c074d46576c4ae65",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:54:35.535925+00:00",
+    "last_verified": "2026-09-09T22:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -244,13 +244,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 168,
-      "survival_probability_pct": 62.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 71.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -297,7 +297,7 @@ const LIVE = [
     "fingerprint": "5e05cdc9a17ea787",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:21:35.535925+00:00",
+    "last_verified": "2026-09-09T17:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -307,13 +307,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 4,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 441,
-      "survival_probability_pct": 84.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 88.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -360,7 +360,7 @@ const LIVE = [
     "fingerprint": "79563013b5ec151f",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:57:35.535925+00:00",
+    "last_verified": "2026-09-09T23:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -370,13 +370,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 23,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 105,
-      "survival_probability_pct": 26.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 39.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -423,7 +423,7 @@ const LIVE = [
     "fingerprint": "35ae411e5d19a1bd",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:28:35.535925+00:00",
+    "last_verified": "2026-09-09T18:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -433,13 +433,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 374,
-      "survival_probability_pct": 45.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 58.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -486,7 +486,7 @@ const LIVE = [
     "fingerprint": "0e1ed97d6a6a1f0b",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:41:35.535925+00:00",
+    "last_verified": "2026-09-09T23:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -496,13 +496,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 61,
-      "survival_probability_pct": 62.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 71.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -549,7 +549,7 @@ const LIVE = [
     "fingerprint": "2a982354c08ac68f",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:14:35.535925+00:00",
+    "last_verified": "2026-09-10T00:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -559,13 +559,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 14,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 50.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 62.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -612,7 +612,7 @@ const LIVE = [
     "fingerprint": "f8068b4a44b38956",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:57:35.535925+00:00",
+    "last_verified": "2026-09-09T23:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -622,13 +622,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 105,
-      "survival_probability_pct": 18.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -675,7 +675,7 @@ const LIVE = [
     "fingerprint": "e33d5034c1cbe7ce",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:01:35.535925+00:00",
+    "last_verified": "2026-09-09T23:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -685,13 +685,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 101,
-      "survival_probability_pct": 69.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 77.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -738,7 +738,7 @@ const LIVE = [
     "fingerprint": "b82697e95da814e5",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:49:35.535925+00:00",
+    "last_verified": "2026-09-09T17:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -748,13 +748,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 473,
-      "survival_probability_pct": 33.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -801,7 +801,7 @@ const LIVE = [
     "fingerprint": "9bb39c6df426110c",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:39:35.535925+00:00",
+    "last_verified": "2026-09-09T18:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -811,13 +811,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 5,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 363,
-      "survival_probability_pct": 74.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 80.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -864,7 +864,7 @@ const LIVE = [
     "fingerprint": "897beeaa6098b589",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:56:35.535925+00:00",
+    "last_verified": "2026-09-09T19:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -874,13 +874,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 346,
-      "survival_probability_pct": 72.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 79.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -927,7 +927,7 @@ const LIVE = [
     "fingerprint": "d405995eea990aa0",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:31:35.535925+00:00",
+    "last_verified": "2026-09-09T21:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -937,13 +937,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 191,
-      "survival_probability_pct": 60.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -990,7 +990,7 @@ const LIVE = [
     "fingerprint": "8738ecec785dae5d",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:04:35.535925+00:00",
+    "last_verified": "2026-09-09T17:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1000,13 +1000,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 458,
-      "survival_probability_pct": 57.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1053,7 +1053,7 @@ const LIVE = [
     "fingerprint": "6abcbf758c01d93a",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:51:35.535925+00:00",
+    "last_verified": "2026-09-09T19:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1063,13 +1063,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 351,
-      "survival_probability_pct": 15.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 27.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1116,7 +1116,7 @@ const LIVE = [
     "fingerprint": "40a3842e527754bb",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:58:35.535925+00:00",
+    "last_verified": "2026-09-09T21:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1126,13 +1126,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 224,
-      "survival_probability_pct": 33.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1179,7 +1179,7 @@ const LIVE = [
     "fingerprint": "4b3482a6793b4ac9",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:36:35.535925+00:00",
+    "last_verified": "2026-09-09T18:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1189,13 +1189,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 21,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 366,
-      "survival_probability_pct": 29.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 43.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1242,7 +1242,7 @@ const LIVE = [
     "fingerprint": "a1c52543e3076e35",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:44:35.535925+00:00",
+    "last_verified": "2026-09-09T22:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1252,13 +1252,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 118,
-      "survival_probability_pct": 72.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 79.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1305,7 +1305,7 @@ const LIVE = [
     "fingerprint": "37d8db351a3ff38e",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:07:35.535925+00:00",
+    "last_verified": "2026-09-09T20:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1315,13 +1315,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 275,
-      "survival_probability_pct": 20.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 33.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1368,7 +1368,7 @@ const LIVE = [
     "fingerprint": "d8098c9cac6e1df0",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:32:35.535925+00:00",
+    "last_verified": "2026-09-09T19:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1378,13 +1378,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 310,
-      "survival_probability_pct": 26.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1431,7 +1431,7 @@ const LIVE = [
     "fingerprint": "593afaf0426e9bd1",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:29:35.535925+00:00",
+    "last_verified": "2026-09-09T23:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1441,13 +1441,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 73,
-      "survival_probability_pct": 28.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1494,7 +1494,7 @@ const LIVE = [
     "fingerprint": "47f4aa45ae7762d0",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:50:35.535925+00:00",
+    "last_verified": "2026-09-09T23:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1504,13 +1504,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 112,
-      "survival_probability_pct": 87.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 89.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1557,7 +1557,7 @@ const LIVE = [
     "fingerprint": "ef825f1b1fa7cbae",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:34:35.535925+00:00",
+    "last_verified": "2026-09-09T22:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1567,13 +1567,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 128,
-      "survival_probability_pct": 64.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1620,7 +1620,7 @@ const LIVE = [
     "fingerprint": "23985f4c9c66c32f",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:28:35.535925+00:00",
+    "last_verified": "2026-09-09T19:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1630,13 +1630,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 18,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 314,
-      "survival_probability_pct": 35.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 48.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1683,7 +1683,7 @@ const LIVE = [
     "fingerprint": "9384c4b985be39f0",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:25:35.535925+00:00",
+    "last_verified": "2026-09-09T18:37:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1693,13 +1693,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 377,
-      "survival_probability_pct": 60.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1746,7 +1746,7 @@ const LIVE = [
     "fingerprint": "81acd049766fc94a",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:55:35.535925+00:00",
+    "last_verified": "2026-09-10T00:07:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1756,13 +1756,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 47,
-      "survival_probability_pct": 17.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 30.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1809,7 +1809,7 @@ const LIVE = [
     "fingerprint": "bb1488b6513a5eb5",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:47:35.535925+00:00",
+    "last_verified": "2026-09-09T18:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1819,13 +1819,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 355,
-      "survival_probability_pct": 15.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 27.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1872,7 +1872,7 @@ const LIVE = [
     "fingerprint": "670954dc2914b706",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:09:35.535925+00:00",
+    "last_verified": "2026-09-09T20:21:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1882,13 +1882,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 25,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 23.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 36.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1935,7 +1935,7 @@ const LIVE = [
     "fingerprint": "3d1d33c49112a62a",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:33:35.535925+00:00",
+    "last_verified": "2026-09-09T21:45:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -1945,13 +1945,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 189,
-      "survival_probability_pct": 56.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -1998,7 +1998,7 @@ const LIVE = [
     "fingerprint": "8a89467a4a29ac68",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:04:35.535925+00:00",
+    "last_verified": "2026-09-09T17:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2008,13 +2008,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 458,
-      "survival_probability_pct": 39.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2061,7 +2061,7 @@ const LIVE = [
     "fingerprint": "e85f78eff2c3f768",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:56:35.535925+00:00",
+    "last_verified": "2026-09-09T19:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2071,13 +2071,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 346,
-      "survival_probability_pct": 42.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2124,7 +2124,7 @@ const LIVE = [
     "fingerprint": "e93bfdef6231a00f",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:50:35.535925+00:00",
+    "last_verified": "2026-09-09T23:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2134,13 +2134,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 7,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 112,
-      "survival_probability_pct": 68.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 76.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2187,7 +2187,7 @@ const LIVE = [
     "fingerprint": "594e06005d5af43d",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:23:35.535925+00:00",
+    "last_verified": "2026-09-09T21:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2197,13 +2197,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 199,
-      "survival_probability_pct": 34.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 48.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2250,7 +2250,7 @@ const LIVE = [
     "fingerprint": "2118979648c6c68b",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:44:35.535925+00:00",
+    "last_verified": "2026-09-09T19:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2260,13 +2260,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 298,
-      "survival_probability_pct": 42.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2313,7 +2313,7 @@ const LIVE = [
     "fingerprint": "3b61d9870a5883ed",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:04:35.535925+00:00",
+    "last_verified": "2026-09-09T18:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2323,13 +2323,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 7,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 398,
-      "survival_probability_pct": 64.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2376,7 +2376,7 @@ const LIVE = [
     "fingerprint": "aaf4dcd393425319",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:16:35.535925+00:00",
+    "last_verified": "2026-09-09T18:28:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2386,13 +2386,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 386,
-      "survival_probability_pct": 13.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 24.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2439,7 +2439,7 @@ const LIVE = [
     "fingerprint": "8b26673660ee15cf",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:48:35.535925+00:00",
+    "last_verified": "2026-09-09T23:00:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2449,13 +2449,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 114,
-      "survival_probability_pct": 16.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 29.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2502,7 +2502,7 @@ const LIVE = [
     "fingerprint": "21faa3f8fdfeee46",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:46:35.535925+00:00",
+    "last_verified": "2026-09-09T16:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2512,13 +2512,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 476,
-      "survival_probability_pct": 52.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 64.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2565,7 +2565,7 @@ const LIVE = [
     "fingerprint": "4e533808df3b96b3",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:36:35.535925+00:00",
+    "last_verified": "2026-09-09T18:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2575,13 +2575,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 366,
-      "survival_probability_pct": 26.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2628,7 +2628,7 @@ const LIVE = [
     "fingerprint": "8e13bc49e38a8236",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:30:35.535925+00:00",
+    "last_verified": "2026-09-09T17:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2638,13 +2638,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 25,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 432,
-      "survival_probability_pct": 18.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 32.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2691,7 +2691,7 @@ const LIVE = [
     "fingerprint": "57e77ed122fb8962",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:00:35.535925+00:00",
+    "last_verified": "2026-09-09T21:12:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2701,13 +2701,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 2,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 222,
-      "survival_probability_pct": 91.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 92.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2754,7 +2754,7 @@ const LIVE = [
     "fingerprint": "a15115e405779517",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:10:35.535925+00:00",
+    "last_verified": "2026-09-09T23:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2764,13 +2764,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 92,
-      "survival_probability_pct": 37.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2817,7 +2817,7 @@ const LIVE = [
     "fingerprint": "e2911bfb18a8dcbf",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:58:35.535925+00:00",
+    "last_verified": "2026-09-10T00:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2827,13 +2827,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 44,
-      "survival_probability_pct": 32.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 46.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2880,7 +2880,7 @@ const LIVE = [
     "fingerprint": "417deff7beca09ec",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:31:35.535925+00:00",
+    "last_verified": "2026-09-09T23:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2890,13 +2890,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 71,
-      "survival_probability_pct": 14.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 25.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -2943,7 +2943,7 @@ const LIVE = [
     "fingerprint": "74656f980cb80947",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:21:35.535925+00:00",
+    "last_verified": "2026-09-09T18:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -2953,13 +2953,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 381,
-      "survival_probability_pct": 14.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 25.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3006,7 +3006,7 @@ const LIVE = [
     "fingerprint": "e93c273d98634108",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:46:35.535925+00:00",
+    "last_verified": "2026-09-09T18:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3016,13 +3016,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 356,
-      "survival_probability_pct": 28.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3069,7 +3069,7 @@ const LIVE = [
     "fingerprint": "fb56f7a0c436af0c",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:18:35.535925+00:00",
+    "last_verified": "2026-09-09T21:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3079,13 +3079,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 204,
-      "survival_probability_pct": 24.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 37.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3132,7 +3132,7 @@ const LIVE = [
     "fingerprint": "522c1631eb52fd0f",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:07:35.535925+00:00",
+    "last_verified": "2026-09-09T18:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3142,13 +3142,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 395,
-      "survival_probability_pct": 19.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3195,7 +3195,7 @@ const LIVE = [
     "fingerprint": "93cc83764ccadb8f",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:09:35.535925+00:00",
+    "last_verified": "2026-09-09T20:21:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3205,13 +3205,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 39.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3258,7 +3258,7 @@ const LIVE = [
     "fingerprint": "910126be6e37cd27",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:29:35.535925+00:00",
+    "last_verified": "2026-09-09T17:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3268,13 +3268,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 433,
-      "survival_probability_pct": 34.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 48.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3321,7 +3321,7 @@ const LIVE = [
     "fingerprint": "022e2273d52ef4d0",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:42:35.535925+00:00",
+    "last_verified": "2026-09-09T19:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3331,13 +3331,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 300,
-      "survival_probability_pct": 42.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3384,7 +3384,7 @@ const LIVE = [
     "fingerprint": "1892a32404882a32",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:30:35.535925+00:00",
+    "last_verified": "2026-09-09T18:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3394,13 +3394,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 372,
-      "survival_probability_pct": 37.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3447,7 +3447,7 @@ const LIVE = [
     "fingerprint": "1c8a5613e659a13c",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:36:35.535925+00:00",
+    "last_verified": "2026-09-09T16:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3457,13 +3457,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 486,
-      "survival_probability_pct": 60.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3510,7 +3510,7 @@ const LIVE = [
     "fingerprint": "d935e05c4e1ff99f",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:26:35.535925+00:00",
+    "last_verified": "2026-09-09T23:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3520,13 +3520,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 76,
-      "survival_probability_pct": 14.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 26.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3573,7 +3573,7 @@ const LIVE = [
     "fingerprint": "ad8beae6fbbd13f8",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:28:35.535925+00:00",
+    "last_verified": "2026-09-09T18:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3583,13 +3583,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 24,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 374,
-      "survival_probability_pct": 20.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 33.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3636,7 +3636,7 @@ const LIVE = [
     "fingerprint": "5d6fec04f862cf60",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:38:35.535925+00:00",
+    "last_verified": "2026-09-09T18:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3646,13 +3646,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 364,
-      "survival_probability_pct": 42.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3699,7 +3699,7 @@ const LIVE = [
     "fingerprint": "1d5a3a88ce04d4e7",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:37:35.535925+00:00",
+    "last_verified": "2026-09-09T23:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3709,13 +3709,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 4,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 65,
-      "survival_probability_pct": 79.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 84.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3762,7 +3762,7 @@ const LIVE = [
     "fingerprint": "eb935dcab5fed22f",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:24:35.535925+00:00",
+    "last_verified": "2026-09-09T23:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3772,13 +3772,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 2,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 78,
-      "survival_probability_pct": 91.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 92.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3825,7 +3825,7 @@ const LIVE = [
     "fingerprint": "f024da284468b084",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:57:35.535925+00:00",
+    "last_verified": "2026-09-09T23:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3835,13 +3835,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 105,
-      "survival_probability_pct": 42.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 53.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3888,7 +3888,7 @@ const LIVE = [
     "fingerprint": "eb7ea86fcd799189",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:51:35.535925+00:00",
+    "last_verified": "2026-09-09T20:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3898,13 +3898,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 291,
-      "survival_probability_pct": 85.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 88.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -3951,7 +3951,7 @@ const LIVE = [
     "fingerprint": "748591508777d8f7",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:50:35.535925+00:00",
+    "last_verified": "2026-09-09T22:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -3961,13 +3961,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 172,
-      "survival_probability_pct": 28.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 42.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4014,7 +4014,7 @@ const LIVE = [
     "fingerprint": "5e6c09ca0f51682a",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:15:35.535925+00:00",
+    "last_verified": "2026-09-09T18:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4024,13 +4024,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 387,
-      "survival_probability_pct": 28.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4077,7 +4077,7 @@ const LIVE = [
     "fingerprint": "14e48a98eebfbccb",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:16:35.535925+00:00",
+    "last_verified": "2026-09-09T22:28:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4087,13 +4087,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 146,
-      "survival_probability_pct": 34.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 48.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4140,7 +4140,7 @@ const LIVE = [
     "fingerprint": "8f10436611f402e6",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:42:35.535925+00:00",
+    "last_verified": "2026-09-09T21:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4150,13 +4150,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 14,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 180,
-      "survival_probability_pct": 40.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 53.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4203,7 +4203,7 @@ const LIVE = [
     "fingerprint": "9ae8a462b0924c0c",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:18:35.535925+00:00",
+    "last_verified": "2026-09-09T22:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4213,13 +4213,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 144,
-      "survival_probability_pct": 49.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 61.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4266,7 +4266,7 @@ const LIVE = [
     "fingerprint": "247ddd6fbb7257b4",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:43:35.535925+00:00",
+    "last_verified": "2026-09-09T20:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4276,13 +4276,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 239,
-      "survival_probability_pct": 32.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 46.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4329,7 +4329,7 @@ const LIVE = [
     "fingerprint": "4bac2919e0f3fdf2",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:30:35.535925+00:00",
+    "last_verified": "2026-09-09T22:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4339,13 +4339,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 132,
-      "survival_probability_pct": 17.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 30.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4392,7 +4392,7 @@ const LIVE = [
     "fingerprint": "b72d33b0cc21571a",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:00:35.535925+00:00",
+    "last_verified": "2026-09-09T21:12:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4402,13 +4402,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 222,
-      "survival_probability_pct": 18.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4455,7 +4455,7 @@ const LIVE = [
     "fingerprint": "c20ed68c95c21e33",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:35:35.535925+00:00",
+    "last_verified": "2026-09-09T20:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4465,13 +4465,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 247,
-      "survival_probability_pct": 83.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 86.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4518,7 +4518,7 @@ const LIVE = [
     "fingerprint": "1b5e3632de222b43",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:26:35.535925+00:00",
+    "last_verified": "2026-09-09T19:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4528,13 +4528,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 316,
-      "survival_probability_pct": 22.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 35.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4581,7 +4581,7 @@ const LIVE = [
     "fingerprint": "25ebee37bf1924ef",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:13:35.535925+00:00",
+    "last_verified": "2026-09-09T17:25:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4591,13 +4591,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 449,
-      "survival_probability_pct": 50.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 62.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4644,7 +4644,7 @@ const LIVE = [
     "fingerprint": "7cfe6cc7f9b8d134",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:14:35.535925+00:00",
+    "last_verified": "2026-09-10T00:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4654,13 +4654,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 24.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 38.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4707,7 +4707,7 @@ const LIVE = [
     "fingerprint": "ac91a4dff08815db",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:38:35.535925+00:00",
+    "last_verified": "2026-09-09T21:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4717,13 +4717,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 184,
-      "survival_probability_pct": 33.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4770,7 +4770,7 @@ const LIVE = [
     "fingerprint": "43e791571c441d23",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:51:35.535925+00:00",
+    "last_verified": "2026-09-09T22:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4780,13 +4780,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 4,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 171,
-      "survival_probability_pct": 82.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 86.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4833,7 +4833,7 @@ const LIVE = [
     "fingerprint": "e4fbac97e67c5bf0",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:04:35.535925+00:00",
+    "last_verified": "2026-09-10T00:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4843,13 +4843,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 38,
-      "survival_probability_pct": 39.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 52.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4896,7 +4896,7 @@ const LIVE = [
     "fingerprint": "3965cef2eace42ba",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:15:35.535925+00:00",
+    "last_verified": "2026-09-10T00:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4906,13 +4906,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 27,
-      "survival_probability_pct": 60.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -4959,7 +4959,7 @@ const LIVE = [
     "fingerprint": "01964c88e198dbc5",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:33:35.535925+00:00",
+    "last_verified": "2026-09-09T18:45:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -4969,13 +4969,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 369,
-      "survival_probability_pct": 65.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 74.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5022,7 +5022,7 @@ const LIVE = [
     "fingerprint": "8266c4fc8bdda3bd",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:17:35.535925+00:00",
+    "last_verified": "2026-09-09T17:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5032,13 +5032,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 445,
-      "survival_probability_pct": 83.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 86.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5085,7 +5085,7 @@ const LIVE = [
     "fingerprint": "15cebb6540f04c27",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:40:35.535925+00:00",
+    "last_verified": "2026-09-09T23:52:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5095,13 +5095,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 62,
-      "survival_probability_pct": 31.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 44.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5148,7 +5148,7 @@ const LIVE = [
     "fingerprint": "375fe25b3b812e35",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:35:35.535925+00:00",
+    "last_verified": "2026-09-09T23:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5158,13 +5158,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 67,
-      "survival_probability_pct": 49.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 59.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5211,7 +5211,7 @@ const LIVE = [
     "fingerprint": "72773757322288ea",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:47:35.535925+00:00",
+    "last_verified": "2026-09-09T22:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5221,13 +5221,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 115,
-      "survival_probability_pct": 56.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5274,7 +5274,7 @@ const LIVE = [
     "fingerprint": "73a5fe535bd09f8d",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:16:35.535925+00:00",
+    "last_verified": "2026-09-09T20:28:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5284,13 +5284,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 266,
-      "survival_probability_pct": 57.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5337,7 +5337,7 @@ const LIVE = [
     "fingerprint": "4f8cf9abbd9a6f3c",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:57:35.535925+00:00",
+    "last_verified": "2026-09-09T21:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5347,13 +5347,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 225,
-      "survival_probability_pct": 17.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 30.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5400,7 +5400,7 @@ const LIVE = [
     "fingerprint": "89b8e68a72a6b306",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:37:35.535925+00:00",
+    "last_verified": "2026-09-09T23:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5410,13 +5410,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 24,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 65,
-      "survival_probability_pct": 20.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 33.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5463,7 +5463,7 @@ const LIVE = [
     "fingerprint": "90337c350bd9d6bc",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:38:35.535925+00:00",
+    "last_verified": "2026-09-09T20:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5473,13 +5473,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 5,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 244,
-      "survival_probability_pct": 74.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 80.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5526,7 +5526,7 @@ const LIVE = [
     "fingerprint": "8fe500d8776896a2",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:43:35.535925+00:00",
+    "last_verified": "2026-09-09T21:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5536,13 +5536,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 179,
-      "survival_probability_pct": 60.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5589,7 +5589,7 @@ const LIVE = [
     "fingerprint": "540bd3d313471abe",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:27:35.535925+00:00",
+    "last_verified": "2026-09-09T22:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5599,13 +5599,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 18,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 135,
-      "survival_probability_pct": 30.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 44.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5652,7 +5652,7 @@ const LIVE = [
     "fingerprint": "57338541c744e922",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:17:35.535925+00:00",
+    "last_verified": "2026-09-09T22:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5662,13 +5662,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 145,
-      "survival_probability_pct": 16.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 29.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5715,7 +5715,7 @@ const LIVE = [
     "fingerprint": "11e29794ddf921b1",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:36:35.535925+00:00",
+    "last_verified": "2026-09-09T21:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5725,13 +5725,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 186,
-      "survival_probability_pct": 20.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 33.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5778,7 +5778,7 @@ const LIVE = [
     "fingerprint": "6aedf633b64965ff",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:42:35.535925+00:00",
+    "last_verified": "2026-09-09T19:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5788,13 +5788,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 25,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 300,
-      "survival_probability_pct": 28.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 42.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5841,7 +5841,7 @@ const LIVE = [
     "fingerprint": "817cf6f3dba06b9c",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:45:35.535925+00:00",
+    "last_verified": "2026-09-09T17:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5851,13 +5851,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 417,
-      "survival_probability_pct": 33.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 46.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5904,7 +5904,7 @@ const LIVE = [
     "fingerprint": "bd01cf3d03bfdfba",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:09:35.535925+00:00",
+    "last_verified": "2026-09-09T22:21:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5914,13 +5914,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 153,
-      "survival_probability_pct": 39.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -5967,7 +5967,7 @@ const LIVE = [
     "fingerprint": "d7a3754ebde70f30",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:22:35.535925+00:00",
+    "last_verified": "2026-09-09T21:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -5977,13 +5977,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 200,
-      "survival_probability_pct": 64.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6030,7 +6030,7 @@ const LIVE = [
     "fingerprint": "00260337a551b865",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:18:35.535925+00:00",
+    "last_verified": "2026-09-09T21:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6040,13 +6040,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 204,
-      "survival_probability_pct": 57.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6093,7 +6093,7 @@ const LIVE = [
     "fingerprint": "2513d6ba0527b045",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:32:35.535925+00:00",
+    "last_verified": "2026-09-09T16:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6103,13 +6103,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 490,
-      "survival_probability_pct": 57.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6156,7 +6156,7 @@ const LIVE = [
     "fingerprint": "f64ad45a90bf3631",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:20:35.535925+00:00",
+    "last_verified": "2026-09-09T19:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6166,13 +6166,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 18,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 322,
-      "survival_probability_pct": 30.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 44.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6219,7 +6219,7 @@ const LIVE = [
     "fingerprint": "ada7c5665bf433ef",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:51:35.535925+00:00",
+    "last_verified": "2026-09-09T18:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6229,13 +6229,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 23,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 411,
-      "survival_probability_pct": 32.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 45.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6282,7 +6282,7 @@ const LIVE = [
     "fingerprint": "97a0e68e0dd760d1",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:15:35.535925+00:00",
+    "last_verified": "2026-09-09T23:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6292,13 +6292,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 87,
-      "survival_probability_pct": 60.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6346,7 +6346,7 @@ const LIVE = [
     "fingerprint": "5ffdad875a87070f",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:44:35.535925+00:00",
+    "last_verified": "2026-09-09T18:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6356,13 +6356,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 358,
-      "survival_probability_pct": 37.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6410,7 +6410,7 @@ const LIVE = [
     "fingerprint": "1d8100cebcd3aedc",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:06:35.535925+00:00",
+    "last_verified": "2026-09-10T00:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6420,13 +6420,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 36,
-      "survival_probability_pct": 50.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 62.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6474,7 +6474,7 @@ const LIVE = [
     "fingerprint": "c011fc3ad3c144fb",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:28:35.535925+00:00",
+    "last_verified": "2026-09-09T21:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6484,13 +6484,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 194,
-      "survival_probability_pct": 53.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 64.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6538,7 +6538,7 @@ const LIVE = [
     "fingerprint": "65d2131e2ea46341",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:08:35.535925+00:00",
+    "last_verified": "2026-09-09T22:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6548,13 +6548,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 154,
-      "survival_probability_pct": 47.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 59.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6602,7 +6602,7 @@ const LIVE = [
     "fingerprint": "60a5af84669a8c70",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:14:35.535925+00:00",
+    "last_verified": "2026-09-09T19:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6612,13 +6612,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 328,
-      "survival_probability_pct": 28.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6666,7 +6666,7 @@ const LIVE = [
     "fingerprint": "3caf8a9633613957",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:11:35.535925+00:00",
+    "last_verified": "2026-09-09T18:23:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6676,13 +6676,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 391,
-      "survival_probability_pct": 47.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 59.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6730,7 +6730,7 @@ const LIVE = [
     "fingerprint": "1e952df9fc8973c7",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:42:35.535925+00:00",
+    "last_verified": "2026-09-09T21:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6740,13 +6740,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 180,
-      "survival_probability_pct": 85.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 88.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6794,7 +6794,7 @@ const LIVE = [
     "fingerprint": "940bcf2c01d95dae",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:56:35.535925+00:00",
+    "last_verified": "2026-09-09T22:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6804,13 +6804,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 166,
-      "survival_probability_pct": 42.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6858,7 +6858,7 @@ const LIVE = [
     "fingerprint": "88807057d097cf40",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:53:35.535925+00:00",
+    "last_verified": "2026-09-09T21:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6868,13 +6868,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 229,
-      "survival_probability_pct": 24.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 38.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6922,7 +6922,7 @@ const LIVE = [
     "fingerprint": "b2bdf5f5717cc24d",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:29:35.535925+00:00",
+    "last_verified": "2026-09-09T23:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6932,13 +6932,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 73,
-      "survival_probability_pct": 64.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -6986,7 +6986,7 @@ const LIVE = [
     "fingerprint": "43f615b7befd7cf0",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:05:35.535925+00:00",
+    "last_verified": "2026-09-09T20:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -6996,13 +6996,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 277,
-      "survival_probability_pct": 26.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7050,7 +7050,7 @@ const LIVE = [
     "fingerprint": "c4be9b001ee733a4",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:53:35.535925+00:00",
+    "last_verified": "2026-09-09T18:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7060,13 +7060,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 409,
-      "survival_probability_pct": 65.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 74.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7114,7 +7114,7 @@ const LIVE = [
     "fingerprint": "9bcb178d8d1737b0",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:58:35.535925+00:00",
+    "last_verified": "2026-09-09T21:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7124,13 +7124,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 224,
-      "survival_probability_pct": 37.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7178,7 +7178,7 @@ const LIVE = [
     "fingerprint": "49439807dade816b",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:30:35.535925+00:00",
+    "last_verified": "2026-09-09T23:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7188,13 +7188,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 72,
-      "survival_probability_pct": 64.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7242,7 +7242,7 @@ const LIVE = [
     "fingerprint": "19d85297c41eb899",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:19:35.535925+00:00",
+    "last_verified": "2026-09-09T19:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7252,13 +7252,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 323,
-      "survival_probability_pct": 45.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 58.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7306,7 +7306,7 @@ const LIVE = [
     "fingerprint": "db11872bce5dbf57",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "last_verified": "2026-09-09T21:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7316,13 +7316,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 79.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 85.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7370,7 +7370,7 @@ const LIVE = [
     "fingerprint": "a802ef9a7242bd23",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:55:35.535925+00:00",
+    "last_verified": "2026-09-09T21:07:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7380,13 +7380,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 24,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 227,
-      "survival_probability_pct": 20.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 33.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7434,7 +7434,7 @@ const LIVE = [
     "fingerprint": "a0093b8d4b636a99",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:22:35.535925+00:00",
+    "last_verified": "2026-09-10T00:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7444,13 +7444,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 20,
-      "survival_probability_pct": 51.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 63.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7498,7 +7498,7 @@ const LIVE = [
     "fingerprint": "8660e93575530324",
     "status": "LIVE",
     "first_seen": "2026-08-24T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:51:35.535925+00:00",
+    "last_verified": "2026-09-09T21:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7508,13 +7508,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 16.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 17,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 231,
-      "survival_probability_pct": 32.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 46.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7562,7 +7562,7 @@ const LIVE = [
     "fingerprint": "67b0107f84c1955e",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:56:35.535925+00:00",
+    "last_verified": "2026-09-09T17:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7572,13 +7572,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 466,
-      "survival_probability_pct": 33.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 46.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7626,7 +7626,7 @@ const LIVE = [
     "fingerprint": "8330c55539773941",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:37:35.535925+00:00",
+    "last_verified": "2026-09-09T23:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7636,13 +7636,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 7,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 65,
-      "survival_probability_pct": 72.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 79.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7690,7 +7690,7 @@ const LIVE = [
     "fingerprint": "cbb1ff46af83fc25",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:22:35.535925+00:00",
+    "last_verified": "2026-09-09T20:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7700,13 +7700,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 2,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 260,
-      "survival_probability_pct": 94.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7754,7 +7754,7 @@ const LIVE = [
     "fingerprint": "1d4d197331544b6b",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:06:35.535925+00:00",
+    "last_verified": "2026-09-09T21:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7764,13 +7764,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 4,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 216,
-      "survival_probability_pct": 77.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 82.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7818,7 +7818,7 @@ const LIVE = [
     "fingerprint": "f8da84b6d3073038",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:24:35.535925+00:00",
+    "last_verified": "2026-09-09T23:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7828,13 +7828,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 78,
-      "survival_probability_pct": 54.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 65.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7882,7 +7882,7 @@ const LIVE = [
     "fingerprint": "6acfef7ee4b5fdd9",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:20:35.535925+00:00",
+    "last_verified": "2026-09-09T22:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7892,13 +7892,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 142,
-      "survival_probability_pct": 17.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 30.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -7946,7 +7946,7 @@ const LIVE = [
     "fingerprint": "31c8d235b581d701",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:55:35.535925+00:00",
+    "last_verified": "2026-09-09T17:07:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -7956,13 +7956,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 467,
-      "survival_probability_pct": 18.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8010,7 +8010,7 @@ const LIVE = [
     "fingerprint": "d7fdfe77b5c7299d",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:25:35.535925+00:00",
+    "last_verified": "2026-09-09T17:37:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8020,13 +8020,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 437,
-      "survival_probability_pct": 53.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 64.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8074,7 +8074,7 @@ const LIVE = [
     "fingerprint": "5c0a8566349cd806",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:34:35.535925+00:00",
+    "last_verified": "2026-09-09T22:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8084,13 +8084,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 128,
-      "survival_probability_pct": 39.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 53.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8138,7 +8138,7 @@ const LIVE = [
     "fingerprint": "28013a53a0cf41f9",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:07:35.535925+00:00",
+    "last_verified": "2026-09-09T18:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8148,13 +8148,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 395,
-      "survival_probability_pct": 22.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 35.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8202,7 +8202,7 @@ const LIVE = [
     "fingerprint": "0842b127353a7286",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:35:35.535925+00:00",
+    "last_verified": "2026-09-09T21:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8212,13 +8212,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.3,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 21,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 187,
-      "survival_probability_pct": 22.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 36.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8266,7 +8266,7 @@ const LIVE = [
     "fingerprint": "c87b1aa2647cd001",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:51:35.535925+00:00",
+    "last_verified": "2026-09-09T23:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8276,13 +8276,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 111,
-      "survival_probability_pct": 59.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 68.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8330,7 +8330,7 @@ const LIVE = [
     "fingerprint": "2f8cec45a82adc51",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:27:35.535925+00:00",
+    "last_verified": "2026-09-09T21:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8340,13 +8340,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 195,
-      "survival_probability_pct": 72.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 79.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8394,7 +8394,7 @@ const LIVE = [
     "fingerprint": "a53f3ca64154b0ed",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:12:35.535925+00:00",
+    "last_verified": "2026-09-09T21:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8404,13 +8404,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 210,
-      "survival_probability_pct": 53.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 64.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8458,7 +8458,7 @@ const LIVE = [
     "fingerprint": "980fc5c7fef18c95",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:39:35.535925+00:00",
+    "last_verified": "2026-09-09T18:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8468,13 +8468,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 363,
-      "survival_probability_pct": 61.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 71.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8522,7 +8522,7 @@ const LIVE = [
     "fingerprint": "74850e03c79c8b19",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:50:35.535925+00:00",
+    "last_verified": "2026-09-09T21:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8532,13 +8532,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 232,
-      "survival_probability_pct": 31.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 43.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8586,7 +8586,7 @@ const LIVE = [
     "fingerprint": "d82c5088a55d6d92",
     "status": "LIVE",
     "first_seen": "2026-09-04T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:04:35.535925+00:00",
+    "last_verified": "2026-09-09T21:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8596,13 +8596,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 5.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 6,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 218,
-      "survival_probability_pct": 65.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 74.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8650,7 +8650,7 @@ const LIVE = [
     "fingerprint": "d1ce4190ca3d0220",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:01:35.535925+00:00",
+    "last_verified": "2026-09-09T23:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8660,13 +8660,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 101,
-      "survival_probability_pct": 52.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 63.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8714,7 +8714,7 @@ const LIVE = [
     "fingerprint": "f2a3883248188af6",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:58:35.535925+00:00",
+    "last_verified": "2026-09-09T22:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8724,13 +8724,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 164,
-      "survival_probability_pct": 53.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 64.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8778,7 +8778,7 @@ const LIVE = [
     "fingerprint": "242b99bc236ece6d",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:23:35.535925+00:00",
+    "last_verified": "2026-09-10T00:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8788,13 +8788,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 19,
-      "survival_probability_pct": 37.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8842,7 +8842,7 @@ const LIVE = [
     "fingerprint": "4cdf5ffc598dfee6",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:04:35.535925+00:00",
+    "last_verified": "2026-09-09T20:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8852,13 +8852,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 278,
-      "survival_probability_pct": 45.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 58.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8906,7 +8906,7 @@ const LIVE = [
     "fingerprint": "644ee64f0ae073b1",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:19:35.535925+00:00",
+    "last_verified": "2026-09-09T22:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8916,13 +8916,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 143,
-      "survival_probability_pct": 14.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 25.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -8970,7 +8970,7 @@ const LIVE = [
     "fingerprint": "2956a750495dabfa",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:38:35.535925+00:00",
+    "last_verified": "2026-09-09T21:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -8980,13 +8980,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 184,
-      "survival_probability_pct": 11.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 22.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9034,7 +9034,7 @@ const LIVE = [
     "fingerprint": "2e77e6fae0de73a3",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:57:35.535925+00:00",
+    "last_verified": "2026-09-09T17:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9044,13 +9044,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 465,
-      "survival_probability_pct": 60.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 70.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9098,7 +9098,7 @@ const LIVE = [
     "fingerprint": "7a4e8d85eee8d3e1",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:11:35.535925+00:00",
+    "last_verified": "2026-09-10T00:23:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9108,13 +9108,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 31,
-      "survival_probability_pct": 31.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 45.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9162,7 +9162,7 @@ const LIVE = [
     "fingerprint": "077c2b8071c6a811",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:24:35.535925+00:00",
+    "last_verified": "2026-09-09T20:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9172,13 +9172,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 258,
-      "survival_probability_pct": 23.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 37.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9226,7 +9226,7 @@ const LIVE = [
     "fingerprint": "0f73a7a02c1bb94c",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:29:35.535925+00:00",
+    "last_verified": "2026-09-09T22:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9236,13 +9236,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 133,
-      "survival_probability_pct": 33.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9290,7 +9290,7 @@ const LIVE = [
     "fingerprint": "df53e74ccb207cf1",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:40:35.535925+00:00",
+    "last_verified": "2026-09-09T16:52:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9300,13 +9300,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 482,
-      "survival_probability_pct": 57.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 66.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9354,7 +9354,7 @@ const LIVE = [
     "fingerprint": "d6883ae3c6702ff6",
     "status": "LIVE",
     "first_seen": "2026-08-27T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:35:35.535925+00:00",
+    "last_verified": "2026-09-09T18:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9364,13 +9364,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 13.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 14,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 367,
-      "survival_probability_pct": 34.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 48.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9418,7 +9418,7 @@ const LIVE = [
     "fingerprint": "3b0a2df982b34678",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:14:35.535925+00:00",
+    "last_verified": "2026-09-09T22:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9428,13 +9428,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 148,
-      "survival_probability_pct": 28.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 42.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9482,7 +9482,7 @@ const LIVE = [
     "fingerprint": "2b03ae98b17c9767",
     "status": "LIVE",
     "first_seen": "2026-08-20T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:34:35.535925+00:00",
+    "last_verified": "2026-09-09T18:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9492,13 +9492,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 20.3,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 21,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 368,
-      "survival_probability_pct": 33.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9546,7 +9546,7 @@ const LIVE = [
     "fingerprint": "9e34b27300c8f2e5",
     "status": "LIVE",
     "first_seen": "2026-08-17T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:50:35.535925+00:00",
+    "last_verified": "2026-09-09T21:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9556,13 +9556,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 23.3,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 24,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 232,
-      "survival_probability_pct": 34.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 47.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9610,7 +9610,7 @@ const LIVE = [
     "fingerprint": "a3c743b2498dd1c2",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "last_verified": "2026-09-09T21:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9620,13 +9620,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 64.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9674,7 +9674,7 @@ const LIVE = [
     "fingerprint": "38f6a282275c7e8a",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:38:35.535925+00:00",
+    "last_verified": "2026-09-09T17:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9684,13 +9684,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 23,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 424,
-      "survival_probability_pct": 18.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 29.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9738,7 +9738,7 @@ const LIVE = [
     "fingerprint": "9fb29ef7285fff98",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:26:35.535925+00:00",
+    "last_verified": "2026-09-09T23:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9748,13 +9748,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 76,
-      "survival_probability_pct": 47.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 59.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9802,7 +9802,7 @@ const LIVE = [
     "fingerprint": "edf87bb5be6e4359",
     "status": "LIVE",
     "first_seen": "2026-08-18T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:53:35.535925+00:00",
+    "last_verified": "2026-09-09T21:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9812,13 +9812,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 22.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 23,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 229,
-      "survival_probability_pct": 21.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 35.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9866,7 +9866,7 @@ const LIVE = [
     "fingerprint": "88d4f2e47c44c0d1",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:13:35.535925+00:00",
+    "last_verified": "2026-09-09T17:25:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9876,13 +9876,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 449,
-      "survival_probability_pct": 18.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9930,7 +9930,7 @@ const LIVE = [
     "fingerprint": "7648022f11dc2873",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:54:35.535925+00:00",
+    "last_verified": "2026-09-09T20:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -9940,13 +9940,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 288,
-      "survival_probability_pct": 37.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 50.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -9994,7 +9994,7 @@ const LIVE = [
     "fingerprint": "ec806abe28ffa27d",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:30:35.535925+00:00",
+    "last_verified": "2026-09-09T18:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10004,13 +10004,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 372,
-      "survival_probability_pct": 64.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 73.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10058,7 +10058,7 @@ const LIVE = [
     "fingerprint": "7ba73ab22432eccb",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "last_verified": "2026-09-09T21:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10068,13 +10068,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 39.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10122,7 +10122,7 @@ const LIVE = [
     "fingerprint": "19a5ad8b6e18c546",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:59:35.535925+00:00",
+    "last_verified": "2026-09-09T22:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10132,13 +10132,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 163,
-      "survival_probability_pct": 10.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 21.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10186,7 +10186,7 @@ const LIVE = [
     "fingerprint": "2f5b588a16ffc0b2",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:41:35.535925+00:00",
+    "last_verified": "2026-09-09T20:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10196,13 +10196,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 241,
-      "survival_probability_pct": 26.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 40.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10250,7 +10250,7 @@ const LIVE = [
     "fingerprint": "5fd6eb49a74b1c4e",
     "status": "LIVE",
     "first_seen": "2026-08-26T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:59:35.535925+00:00",
+    "last_verified": "2026-09-09T23:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10260,13 +10260,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 14.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 15,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 42.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 55.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10314,7 +10314,7 @@ const LIVE = [
     "fingerprint": "33b258c8c07645df",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:18:35.535925+00:00",
+    "last_verified": "2026-09-09T20:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10324,13 +10324,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 264,
-      "survival_probability_pct": 56.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 66.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10378,7 +10378,7 @@ const LIVE = [
     "fingerprint": "4cd0ae504c9db7dc",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:26:35.535925+00:00",
+    "last_verified": "2026-09-09T22:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10388,13 +10388,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 136,
-      "survival_probability_pct": 72.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 79.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10442,7 +10442,7 @@ const LIVE = [
     "fingerprint": "73ca7678f08e1386",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:03:35.535925+00:00",
+    "last_verified": "2026-09-09T22:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10452,13 +10452,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 159,
-      "survival_probability_pct": 19.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10506,7 +10506,7 @@ const LIVE = [
     "fingerprint": "6068f644630438d8",
     "status": "LIVE",
     "first_seen": "2026-08-28T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:09:35.535925+00:00",
+    "last_verified": "2026-09-09T20:21:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10516,13 +10516,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 12.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 13,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 37.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10570,7 +10570,7 @@ const LIVE = [
     "fingerprint": "7234600d1373ee17",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:04:35.535925+00:00",
+    "last_verified": "2026-09-10T00:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10580,13 +10580,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 38,
-      "survival_probability_pct": 28.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 42.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10634,7 +10634,7 @@ const LIVE = [
     "fingerprint": "68e87c642647671f",
     "status": "LIVE",
     "first_seen": "2026-08-15T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:26:35.535925+00:00",
+    "last_verified": "2026-09-09T19:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10644,13 +10644,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 25.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 26,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 316,
-      "survival_probability_pct": 22.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 35.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10698,7 +10698,7 @@ const LIVE = [
     "fingerprint": "fa8a0fed48fd3996",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:21:35.535925+00:00",
+    "last_verified": "2026-09-09T23:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10708,13 +10708,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 81,
-      "survival_probability_pct": 59.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 69.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10762,7 +10762,7 @@ const LIVE = [
     "fingerprint": "8e84429fcdac3245",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:57:35.535925+00:00",
+    "last_verified": "2026-09-10T00:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10772,13 +10772,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.3,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 25,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 45,
-      "survival_probability_pct": 39.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 51.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10826,7 +10826,7 @@ const LIVE = [
     "fingerprint": "13b264d7864d7261",
     "status": "LIVE",
     "first_seen": "2026-08-22T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:32:35.535925+00:00",
+    "last_verified": "2026-09-09T22:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10836,13 +10836,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 18.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 19,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 130,
-      "survival_probability_pct": 28.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 42.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10890,7 +10890,7 @@ const LIVE = [
     "fingerprint": "bed26908bf358f01",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:08:35.535925+00:00",
+    "last_verified": "2026-09-10T00:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10900,13 +10900,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 34,
-      "survival_probability_pct": 47.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 59.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -10954,7 +10954,7 @@ const LIVE = [
     "fingerprint": "398bd55ccccd86de",
     "status": "LIVE",
     "first_seen": "2026-09-06T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:04:35.535925+00:00",
+    "last_verified": "2026-09-09T17:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -10964,13 +10964,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 3.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 4,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 458,
-      "survival_probability_pct": 79.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 84.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11018,7 +11018,7 @@ const LIVE = [
     "fingerprint": "5ea6ff6e384c16ca",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:29:35.535925+00:00",
+    "last_verified": "2026-09-09T18:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11028,13 +11028,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 373,
-      "survival_probability_pct": 18.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 31.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11082,7 +11082,7 @@ const LIVE = [
     "fingerprint": "43a5741de538a983",
     "status": "LIVE",
     "first_seen": "2026-08-25T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:59:35.535925+00:00",
+    "last_verified": "2026-09-09T23:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11092,13 +11092,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 15.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 16,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 45.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 58.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11146,7 +11146,7 @@ const LIVE = [
     "fingerprint": "42a455eb28b0f350",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:37:35.535925+00:00",
+    "last_verified": "2026-09-09T21:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11156,13 +11156,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 7,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 185,
-      "survival_probability_pct": 76.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 82.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11210,7 +11210,7 @@ const LIVE = [
     "fingerprint": "c043906344c8cb31",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T15:31:35.535925+00:00",
+    "last_verified": "2026-09-09T22:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11220,13 +11220,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 131,
-      "survival_probability_pct": 49.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 61.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11274,7 +11274,7 @@ const LIVE = [
     "fingerprint": "d5e5b0d3a7337657",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:54:35.535925+00:00",
+    "last_verified": "2026-09-09T22:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11284,13 +11284,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 2,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 168,
-      "survival_probability_pct": 89.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 91.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11338,7 +11338,7 @@ const LIVE = [
     "fingerprint": "6b090e3503a94f06",
     "status": "LIVE",
     "first_seen": "2026-08-12T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:30:35.535925+00:00",
+    "last_verified": "2026-09-09T21:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11348,13 +11348,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 28.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 29,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 192,
-      "survival_probability_pct": 14.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 26.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11402,7 +11402,7 @@ const LIVE = [
     "fingerprint": "763b8444778d6071",
     "status": "LIVE",
     "first_seen": "2026-08-16T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:55:35.535925+00:00",
+    "last_verified": "2026-09-09T20:07:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11412,13 +11412,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 24.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 25,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 287,
-      "survival_probability_pct": 23.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 36.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11466,7 +11466,7 @@ const LIVE = [
     "fingerprint": "4543ddf05966c7b5",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:46:35.535925+00:00",
+    "last_verified": "2026-09-09T19:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11476,13 +11476,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 296,
-      "survival_probability_pct": 88.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 91.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11530,7 +11530,7 @@ const LIVE = [
     "fingerprint": "98f2c09919e2499f",
     "status": "LIVE",
     "first_seen": "2026-08-21T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:20:35.535925+00:00",
+    "last_verified": "2026-09-09T23:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11540,13 +11540,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 19.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 20,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 82,
-      "survival_probability_pct": 43.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 56.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11594,7 +11594,7 @@ const LIVE = [
     "fingerprint": "b8340bbfbdd22ab8",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:17:35.535925+00:00",
+    "last_verified": "2026-09-09T23:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11604,13 +11604,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 85,
-      "survival_probability_pct": 57.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 66.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11658,7 +11658,7 @@ const LIVE = [
     "fingerprint": "8b1dfa3a26c0dcf3",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:10:35.535925+00:00",
+    "last_verified": "2026-09-09T18:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11668,13 +11668,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 392,
-      "survival_probability_pct": 14.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 26.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11722,7 +11722,7 @@ const LIVE = [
     "fingerprint": "e54c2ed1a79194b8",
     "status": "LIVE",
     "first_seen": "2026-09-01T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:53:35.535925+00:00",
+    "last_verified": "2026-09-09T22:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11732,13 +11732,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 8.3,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 9,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 169,
-      "survival_probability_pct": 56.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 67.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11786,7 +11786,7 @@ const LIVE = [
     "fingerprint": "89c74322771c6619",
     "status": "LIVE",
     "first_seen": "2026-09-03T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:05:35.535925+00:00",
+    "last_verified": "2026-09-10T00:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11796,13 +11796,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 6.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 7,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 37,
-      "survival_probability_pct": 68.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 76.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11850,7 +11850,7 @@ const LIVE = [
     "fingerprint": "cef4d4fd4e7f59d2",
     "status": "LIVE",
     "first_seen": "2026-08-14T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:04:35.535925+00:00",
+    "last_verified": "2026-09-10T00:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11860,13 +11860,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 26.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 27,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 38,
-      "survival_probability_pct": 26.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 39.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11914,7 +11914,7 @@ const LIVE = [
     "fingerprint": "1ffc8eea1dbadcdb",
     "status": "LIVE",
     "first_seen": "2026-08-29T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T09:34:35.535925+00:00",
+    "last_verified": "2026-09-09T16:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11924,13 +11924,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 11.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 12,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 488,
-      "survival_probability_pct": 61.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 71.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -11978,7 +11978,7 @@ const LIVE = [
     "fingerprint": "1abbbfb6e29d194e",
     "status": "LIVE",
     "first_seen": "2026-09-05T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:39:35.535925+00:00",
+    "last_verified": "2026-09-09T18:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -11988,13 +11988,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 4.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 5,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 363,
-      "survival_probability_pct": 71.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 78.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12042,7 +12042,7 @@ const LIVE = [
     "fingerprint": "8e6c1c1d2da3e108",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:49:35.535925+00:00",
+    "last_verified": "2026-09-09T22:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12052,13 +12052,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.3,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 18,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 173,
-      "survival_probability_pct": 28.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12106,7 +12106,7 @@ const LIVE = [
     "fingerprint": "20f25e083cd1f8dc",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:43:35.535925+00:00",
+    "last_verified": "2026-09-09T23:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12116,13 +12116,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 59,
-      "survival_probability_pct": 26.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 39.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12170,7 +12170,7 @@ const LIVE = [
     "fingerprint": "215c6393d42cac40",
     "status": "LIVE",
     "first_seen": "2026-09-08T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:33:35.535925+00:00",
+    "last_verified": "2026-09-09T18:45:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12180,13 +12180,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 1.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 2,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 369,
-      "survival_probability_pct": 92.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 93.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12234,7 +12234,7 @@ const LIVE = [
     "fingerprint": "935fee2844eca7e9",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:29:35.535925+00:00",
+    "last_verified": "2026-09-09T23:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12244,13 +12244,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 73,
-      "survival_probability_pct": 88.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 91.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12298,7 +12298,7 @@ const LIVE = [
     "fingerprint": "5d6e004c8404637e",
     "status": "LIVE",
     "first_seen": "2026-08-23T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T10:01:35.535925+00:00",
+    "last_verified": "2026-09-09T17:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12308,13 +12308,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 17.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 18,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 461,
-      "survival_probability_pct": 47.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 60.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12362,7 +12362,7 @@ const LIVE = [
     "fingerprint": "2d3958c9a407094f",
     "status": "LIVE",
     "first_seen": "2026-08-30T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T14:12:35.535925+00:00",
+    "last_verified": "2026-09-09T21:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12372,13 +12372,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 10.3,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 11,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 210,
-      "survival_probability_pct": 45.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 56.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12426,7 +12426,7 @@ const LIVE = [
     "fingerprint": "ef35dbe1099d3bd7",
     "status": "LIVE",
     "first_seen": "2026-08-13T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T17:17:35.535925+00:00",
+    "last_verified": "2026-09-10T00:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12436,13 +12436,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 27.3,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 28,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 25,
-      "survival_probability_pct": 11.1,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 22.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12490,7 +12490,7 @@ const LIVE = [
     "fingerprint": "761f7cbcda012ee0",
     "status": "LIVE",
     "first_seen": "2026-09-07T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T16:42:35.535925+00:00",
+    "last_verified": "2026-09-09T23:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12500,13 +12500,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 2.3,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 3,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 60,
-      "survival_probability_pct": 86.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 89.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12554,7 +12554,7 @@ const LIVE = [
     "fingerprint": "ccb12c0858a346ab",
     "status": "LIVE",
     "first_seen": "2026-08-19T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T11:45:35.535925+00:00",
+    "last_verified": "2026-09-09T18:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12564,13 +12564,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 21.3,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 22,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 357,
-      "survival_probability_pct": 28.0,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 41.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12618,7 +12618,7 @@ const LIVE = [
     "fingerprint": "15fbc1df3e232699",
     "status": "LIVE",
     "first_seen": "2026-08-31T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T13:12:35.535925+00:00",
+    "last_verified": "2026-09-09T20:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12628,13 +12628,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 9.3,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 10,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 270,
-      "survival_probability_pct": 62.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 71.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12682,7 +12682,7 @@ const LIVE = [
     "fingerprint": "d5c9f6881a4ff17f",
     "status": "LIVE",
     "first_seen": "2026-09-02T09:49:50.002442+00:00",
-    "last_verified": "2026-09-09T12:46:35.535925+00:00",
+    "last_verified": "2026-09-09T19:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:48:48.801401+00:00",
     "price_history": [
       {
@@ -12692,13 +12692,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 7.3,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 8,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 296,
-      "survival_probability_pct": 72.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 80.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12747,7 +12747,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:23:35.535925+00:00",
+    "last_verified": "2026-09-09T21:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12757,13 +12757,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 199,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12812,7 +12812,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:42:35.535925+00:00",
+    "last_verified": "2026-09-09T17:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12822,13 +12822,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 420,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12877,7 +12877,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:19:35.535925+00:00",
+    "last_verified": "2026-09-10T00:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12887,13 +12887,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 23,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -12942,7 +12942,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:58:35.535925+00:00",
+    "last_verified": "2026-09-09T22:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -12952,13 +12952,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 164,
       "survival_probability_pct": 95.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13007,7 +13007,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:17:35.535925+00:00",
+    "last_verified": "2026-09-09T19:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13017,13 +13017,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 325,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13072,7 +13072,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:11:35.535925+00:00",
+    "last_verified": "2026-09-10T00:23:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13082,13 +13082,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 31,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13137,7 +13137,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:52:35.535925+00:00",
+    "last_verified": "2026-09-09T18:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13147,13 +13147,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 410,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13202,7 +13202,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:36:35.535925+00:00",
+    "last_verified": "2026-09-09T23:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13212,13 +13212,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 66,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13267,7 +13267,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:10:35.535925+00:00",
+    "last_verified": "2026-09-09T23:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13277,13 +13277,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 92,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13332,7 +13332,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:15:35.535925+00:00",
+    "last_verified": "2026-09-09T22:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13342,13 +13342,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 147,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13397,7 +13397,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:02:35.535925+00:00",
+    "last_verified": "2026-09-09T20:14:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13407,13 +13407,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 280,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13462,7 +13462,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:05:35.535925+00:00",
+    "last_verified": "2026-09-09T17:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13472,13 +13472,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 457,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13527,7 +13527,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:46:35.535925+00:00",
+    "last_verified": "2026-09-09T21:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13537,13 +13537,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 176,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13592,7 +13592,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:52:35.535925+00:00",
+    "last_verified": "2026-09-09T19:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13602,13 +13602,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 350,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13657,7 +13657,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:48:35.535925+00:00",
+    "last_verified": "2026-09-10T00:00:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13667,13 +13667,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 54,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13722,7 +13722,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:51:35.535925+00:00",
+    "last_verified": "2026-09-09T20:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13732,13 +13732,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 291,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13787,7 +13787,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:21:35.535925+00:00",
+    "last_verified": "2026-09-09T17:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13797,13 +13797,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 441,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13852,7 +13852,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:54:35.535925+00:00",
+    "last_verified": "2026-09-09T17:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13862,13 +13862,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 468,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13917,7 +13917,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:12:35.535925+00:00",
+    "last_verified": "2026-09-09T22:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13927,13 +13927,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 150,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -13982,7 +13982,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:47:35.535925+00:00",
+    "last_verified": "2026-09-09T22:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -13992,13 +13992,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 115,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14047,7 +14047,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:24:35.535925+00:00",
+    "last_verified": "2026-09-09T17:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14057,13 +14057,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 438,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14112,7 +14112,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:19:35.535925+00:00",
+    "last_verified": "2026-09-09T18:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14122,13 +14122,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 383,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14177,7 +14177,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:57:35.535925+00:00",
+    "last_verified": "2026-09-09T23:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14187,13 +14187,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 105,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14242,7 +14242,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:19:35.535925+00:00",
+    "last_verified": "2026-09-09T21:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14252,13 +14252,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 203,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14307,7 +14307,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:08:35.535925+00:00",
+    "last_verified": "2026-09-09T19:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14317,13 +14317,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 334,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14372,7 +14372,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:49:35.535925+00:00",
+    "last_verified": "2026-09-10T00:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14382,13 +14382,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 53,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14437,7 +14437,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:26:35.535925+00:00",
+    "last_verified": "2026-09-10T00:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14447,13 +14447,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 16,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14502,7 +14502,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:27:35.535925+00:00",
+    "last_verified": "2026-09-09T22:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14512,13 +14512,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 135,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14567,7 +14567,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:45:35.535925+00:00",
+    "last_verified": "2026-09-09T23:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14577,13 +14577,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 57,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14632,7 +14632,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:34:35.535925+00:00",
+    "last_verified": "2026-09-09T23:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14642,13 +14642,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 68,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14697,7 +14697,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:43:35.535925+00:00",
+    "last_verified": "2026-09-09T16:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14707,13 +14707,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 479,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14762,7 +14762,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:24:35.535925+00:00",
+    "last_verified": "2026-09-09T18:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14772,13 +14772,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 378,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14827,7 +14827,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:25:35.535925+00:00",
+    "last_verified": "2026-09-10T00:37:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14837,13 +14837,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 17,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14892,7 +14892,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:40:35.535925+00:00",
+    "last_verified": "2026-09-09T22:52:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14902,13 +14902,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 122,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -14957,7 +14957,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:43:35.535925+00:00",
+    "last_verified": "2026-09-09T19:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -14967,13 +14967,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 299,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15022,7 +15022,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:27:35.535925+00:00",
+    "last_verified": "2026-09-09T20:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15032,13 +15032,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 255,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15087,7 +15087,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:24:35.535925+00:00",
+    "last_verified": "2026-09-09T18:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15097,13 +15097,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 378,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15152,7 +15152,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:55:35.535925+00:00",
+    "last_verified": "2026-09-09T22:07:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15162,13 +15162,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 167,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15217,7 +15217,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:05:35.535925+00:00",
+    "last_verified": "2026-09-09T23:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15227,13 +15227,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 97,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15282,7 +15282,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:38:35.535925+00:00",
+    "last_verified": "2026-09-09T23:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15292,13 +15292,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 64,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15347,7 +15347,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:01:35.535925+00:00",
+    "last_verified": "2026-09-09T20:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15357,13 +15357,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 281,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15412,7 +15412,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:54:35.535925+00:00",
+    "last_verified": "2026-09-09T19:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15422,13 +15422,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 348,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15477,7 +15477,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:50:35.535925+00:00",
+    "last_verified": "2026-09-09T22:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15487,13 +15487,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 172,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15542,7 +15542,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:47:35.535925+00:00",
+    "last_verified": "2026-09-09T21:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15552,13 +15552,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 175,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15607,7 +15607,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:54:35.535925+00:00",
+    "last_verified": "2026-09-10T00:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15617,13 +15617,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 48,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15672,7 +15672,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:07:35.535925+00:00",
+    "last_verified": "2026-09-10T00:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15682,13 +15682,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 35,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15737,7 +15737,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:48:35.535925+00:00",
+    "last_verified": "2026-09-10T00:00:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15747,13 +15747,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 54,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15802,7 +15802,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:23:35.535925+00:00",
+    "last_verified": "2026-09-09T22:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15812,13 +15812,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 139,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15867,7 +15867,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:04:35.535925+00:00",
+    "last_verified": "2026-09-09T21:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15877,13 +15877,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 218,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15932,7 +15932,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:29:35.535925+00:00",
+    "last_verified": "2026-09-09T19:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -15942,13 +15942,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 313,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -15997,7 +15997,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:24:35.535925+00:00",
+    "last_verified": "2026-09-09T23:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16007,13 +16007,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 78,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16062,7 +16062,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:25:35.535925+00:00",
+    "last_verified": "2026-09-09T18:37:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16072,13 +16072,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 377,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16127,7 +16127,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:03:35.535925+00:00",
+    "last_verified": "2026-09-09T18:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16137,13 +16137,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 399,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16192,7 +16192,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:35:35.535925+00:00",
+    "last_verified": "2026-09-09T20:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16202,13 +16202,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 247,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16257,7 +16257,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:44:35.535925+00:00",
+    "last_verified": "2026-09-09T17:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16267,13 +16267,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 418,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16322,7 +16322,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:53:35.535925+00:00",
+    "last_verified": "2026-09-09T17:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16332,13 +16332,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 469,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16387,7 +16387,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:22:35.535925+00:00",
+    "last_verified": "2026-09-09T18:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16397,13 +16397,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 380,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16452,7 +16452,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:30:35.535925+00:00",
+    "last_verified": "2026-09-09T21:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16462,13 +16462,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 192,
       "survival_probability_pct": 95.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16517,7 +16517,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:51:35.535925+00:00",
+    "last_verified": "2026-09-09T18:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16527,13 +16527,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 411,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16582,7 +16582,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:13:35.535925+00:00",
+    "last_verified": "2026-09-09T20:25:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16592,13 +16592,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 269,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16647,7 +16647,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:45:35.535925+00:00",
+    "last_verified": "2026-09-09T18:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16657,13 +16657,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 357,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16712,7 +16712,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:06:35.535925+00:00",
+    "last_verified": "2026-09-09T23:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16722,13 +16722,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 96,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16777,7 +16777,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:23:35.535925+00:00",
+    "last_verified": "2026-09-09T18:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16787,13 +16787,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 379,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16842,7 +16842,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:42:35.535925+00:00",
+    "last_verified": "2026-09-09T19:54:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16852,13 +16852,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 300,
       "survival_probability_pct": 95.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16907,7 +16907,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:04:35.535925+00:00",
+    "last_verified": "2026-09-10T00:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16917,13 +16917,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 38,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -16972,7 +16972,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:57:35.535925+00:00",
+    "last_verified": "2026-09-09T17:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -16982,13 +16982,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 465,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17037,7 +17037,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:23:35.535925+00:00",
+    "last_verified": "2026-09-09T17:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17047,13 +17047,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 439,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17102,7 +17102,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:15:35.535925+00:00",
+    "last_verified": "2026-09-10T00:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17112,13 +17112,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 27,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17167,7 +17167,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "last_verified": "2026-09-09T22:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17177,13 +17177,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17232,7 +17232,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:23:35.535925+00:00",
+    "last_verified": "2026-09-09T20:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17242,13 +17242,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 259,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17297,7 +17297,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:28:35.535925+00:00",
+    "last_verified": "2026-09-09T18:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17307,13 +17307,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 374,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17362,7 +17362,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:05:35.535925+00:00",
+    "last_verified": "2026-09-09T19:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17372,13 +17372,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 337,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17427,7 +17427,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:19:35.535925+00:00",
+    "last_verified": "2026-09-09T20:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17437,13 +17437,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 263,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17492,7 +17492,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:54:35.535925+00:00",
+    "last_verified": "2026-09-10T00:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17502,13 +17502,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 48,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17557,7 +17557,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:03:35.535925+00:00",
+    "last_verified": "2026-09-09T19:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17567,13 +17567,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 339,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17622,7 +17622,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:34:35.535925+00:00",
+    "last_verified": "2026-09-09T17:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17632,13 +17632,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 428,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17687,7 +17687,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:58:35.535925+00:00",
+    "last_verified": "2026-09-10T00:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17697,13 +17697,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 44,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17752,7 +17752,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:03:35.535925+00:00",
+    "last_verified": "2026-09-09T21:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17762,13 +17762,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 219,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17817,7 +17817,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:48:35.535925+00:00",
+    "last_verified": "2026-09-09T23:00:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17827,13 +17827,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 114,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17882,7 +17882,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:06:35.535925+00:00",
+    "last_verified": "2026-09-09T22:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17892,13 +17892,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 156,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -17947,7 +17947,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:26:35.535925+00:00",
+    "last_verified": "2026-09-09T23:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -17957,13 +17957,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 76,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18012,7 +18012,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:01:35.535925+00:00",
+    "last_verified": "2026-09-09T20:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18022,13 +18022,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 281,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18077,7 +18077,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:59:35.535925+00:00",
+    "last_verified": "2026-09-10T00:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18087,13 +18087,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 43,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18142,7 +18142,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:18:35.535925+00:00",
+    "last_verified": "2026-09-09T17:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18152,13 +18152,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 444,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18207,7 +18207,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:06:35.535925+00:00",
+    "last_verified": "2026-09-10T00:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18217,13 +18217,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 36,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18272,7 +18272,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:12:35.535925+00:00",
+    "last_verified": "2026-09-09T18:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18282,13 +18282,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 390,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18337,7 +18337,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:25:35.535925+00:00",
+    "last_verified": "2026-09-09T17:37:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18347,13 +18347,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 437,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18402,7 +18402,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:02:35.535925+00:00",
+    "last_verified": "2026-09-09T23:14:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18412,13 +18412,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 100,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18467,7 +18467,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:51:35.535925+00:00",
+    "last_verified": "2026-09-09T22:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18477,13 +18477,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 171,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18532,7 +18532,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:15:35.535925+00:00",
+    "last_verified": "2026-09-09T20:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18542,13 +18542,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 267,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18597,7 +18597,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:07:35.535925+00:00",
+    "last_verified": "2026-09-09T17:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18607,13 +18607,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 455,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18662,7 +18662,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:58:35.535925+00:00",
+    "last_verified": "2026-09-10T00:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18672,13 +18672,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 44,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18727,7 +18727,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:36:35.535925+00:00",
+    "last_verified": "2026-09-09T19:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18737,13 +18737,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 306,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18792,7 +18792,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:30:35.535925+00:00",
+    "last_verified": "2026-09-09T16:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18802,13 +18802,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 492,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18857,7 +18857,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:58:35.535925+00:00",
+    "last_verified": "2026-09-09T23:10:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18867,13 +18867,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 104,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18922,7 +18922,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:04:35.535925+00:00",
+    "last_verified": "2026-09-09T23:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18932,13 +18932,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 98,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -18987,7 +18987,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:00:35.535925+00:00",
+    "last_verified": "2026-09-09T23:12:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -18997,13 +18997,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 102,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19052,7 +19052,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:45:35.535925+00:00",
+    "last_verified": "2026-09-09T20:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19062,13 +19062,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 237,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19117,7 +19117,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:59:35.535925+00:00",
+    "last_verified": "2026-09-09T19:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19127,13 +19127,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 343,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19182,7 +19182,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:00:35.535925+00:00",
+    "last_verified": "2026-09-09T19:12:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19192,13 +19192,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 342,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19247,7 +19247,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:30:35.535925+00:00",
+    "last_verified": "2026-09-09T18:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19257,13 +19257,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 372,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19312,7 +19312,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:05:35.535925+00:00",
+    "last_verified": "2026-09-10T00:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19322,13 +19322,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 37,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19377,7 +19377,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:44:35.535925+00:00",
+    "last_verified": "2026-09-09T19:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19387,13 +19387,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 298,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19442,7 +19442,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:21:35.535925+00:00",
+    "last_verified": "2026-09-09T18:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19452,13 +19452,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 381,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19507,7 +19507,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:08:35.535925+00:00",
+    "last_verified": "2026-09-09T21:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19517,13 +19517,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 214,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19572,7 +19572,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:27:35.535925+00:00",
+    "last_verified": "2026-09-10T00:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19582,13 +19582,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 15,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19637,7 +19637,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:22:35.535925+00:00",
+    "last_verified": "2026-09-09T17:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19647,13 +19647,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 440,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19702,7 +19702,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:23:35.535925+00:00",
+    "last_verified": "2026-09-09T21:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19712,13 +19712,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 199,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19767,7 +19767,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:47:35.535925+00:00",
+    "last_verified": "2026-09-09T17:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19777,13 +19777,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 415,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19832,7 +19832,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:17:35.535925+00:00",
+    "last_verified": "2026-09-09T18:29:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19842,13 +19842,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 385,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19897,7 +19897,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:32:35.535925+00:00",
+    "last_verified": "2026-09-09T18:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19907,13 +19907,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 370,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -19962,7 +19962,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:13:35.535925+00:00",
+    "last_verified": "2026-09-09T23:25:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -19972,13 +19972,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 89,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20027,7 +20027,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:37:35.535925+00:00",
+    "last_verified": "2026-09-09T21:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20037,13 +20037,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 185,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20092,7 +20092,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:15:35.535925+00:00",
+    "last_verified": "2026-09-09T18:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20102,13 +20102,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 387,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20157,7 +20157,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:36:35.535925+00:00",
+    "last_verified": "2026-09-09T20:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20167,13 +20167,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 246,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20222,7 +20222,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:34:35.535925+00:00",
+    "last_verified": "2026-09-09T17:46:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20232,13 +20232,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 428,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20287,7 +20287,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:54:35.535925+00:00",
+    "last_verified": "2026-09-09T17:06:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20297,13 +20297,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 468,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20352,7 +20352,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:49:35.535925+00:00",
+    "last_verified": "2026-09-09T20:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20362,13 +20362,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 293,
       "survival_probability_pct": 95.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20417,7 +20417,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:47:35.535925+00:00",
+    "last_verified": "2026-09-09T18:59:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20427,13 +20427,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 355,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20482,7 +20482,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:11:35.535925+00:00",
+    "last_verified": "2026-09-09T23:23:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20492,13 +20492,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 91,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20547,7 +20547,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:51:35.535925+00:00",
+    "last_verified": "2026-09-09T20:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20557,13 +20557,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 291,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20612,7 +20612,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:12:35.535925+00:00",
+    "last_verified": "2026-09-09T18:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20622,13 +20622,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 390,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20677,7 +20677,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "last_verified": "2026-09-09T22:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20687,13 +20687,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20742,7 +20742,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:32:35.535925+00:00",
+    "last_verified": "2026-09-09T23:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20752,13 +20752,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 70,
       "survival_probability_pct": 95.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20807,7 +20807,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:26:35.535925+00:00",
+    "last_verified": "2026-09-09T22:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20817,13 +20817,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 136,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20872,7 +20872,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:44:35.535925+00:00",
+    "last_verified": "2026-09-09T19:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20882,13 +20882,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 298,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -20937,7 +20937,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:07:35.535925+00:00",
+    "last_verified": "2026-09-09T21:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -20947,13 +20947,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 215,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21002,7 +21002,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:41:35.535925+00:00",
+    "last_verified": "2026-09-09T23:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21012,13 +21012,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 61,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21067,7 +21067,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:08:35.535925+00:00",
+    "last_verified": "2026-09-10T00:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21077,13 +21077,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 34,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21132,7 +21132,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:10:35.535925+00:00",
+    "last_verified": "2026-09-09T18:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21142,13 +21142,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 392,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21197,7 +21197,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:21:35.535925+00:00",
+    "last_verified": "2026-09-10T00:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21207,13 +21207,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 21,
-      "survival_probability_pct": 96.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21262,7 +21262,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:38:35.535925+00:00",
+    "last_verified": "2026-09-09T19:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21272,13 +21272,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 304,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21327,7 +21327,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:31:35.535925+00:00",
+    "last_verified": "2026-09-09T22:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21337,13 +21337,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 131,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21392,7 +21392,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:05:35.535925+00:00",
+    "last_verified": "2026-09-09T18:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21402,13 +21402,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 397,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21457,7 +21457,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:19:35.535925+00:00",
+    "last_verified": "2026-09-09T21:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21467,13 +21467,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 203,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21522,7 +21522,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:37:35.535925+00:00",
+    "last_verified": "2026-09-09T21:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21532,13 +21532,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 185,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21587,7 +21587,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:46:35.535925+00:00",
+    "last_verified": "2026-09-09T18:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21597,13 +21597,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 356,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21652,7 +21652,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:04:35.535925+00:00",
+    "last_verified": "2026-09-09T18:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21662,13 +21662,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 398,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21717,7 +21717,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:10:35.535925+00:00",
+    "last_verified": "2026-09-09T20:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21727,13 +21727,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 272,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21782,7 +21782,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:41:35.535925+00:00",
+    "last_verified": "2026-09-09T23:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21792,13 +21792,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 61,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21847,7 +21847,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:40:35.535925+00:00",
+    "last_verified": "2026-09-09T20:52:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21857,13 +21857,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 242,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21912,7 +21912,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:45:35.535925+00:00",
+    "last_verified": "2026-09-09T22:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21922,13 +21922,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 117,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -21977,7 +21977,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:11:35.535925+00:00",
+    "last_verified": "2026-09-09T23:23:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -21987,13 +21987,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 91,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22042,7 +22042,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:28:35.535925+00:00",
+    "last_verified": "2026-09-09T22:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22052,13 +22052,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 134,
-      "survival_probability_pct": 96.8,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22107,7 +22107,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:32:35.535925+00:00",
+    "last_verified": "2026-09-09T22:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22117,13 +22117,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 130,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22172,7 +22172,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:28:35.535925+00:00",
+    "last_verified": "2026-09-09T20:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22182,13 +22182,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 254,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22237,7 +22237,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:22:35.535925+00:00",
+    "last_verified": "2026-09-10T00:34:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22247,13 +22247,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 20,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22302,7 +22302,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T13:05:35.535925+00:00",
+    "last_verified": "2026-09-09T20:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22312,13 +22312,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 277,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22367,7 +22367,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:46:35.535925+00:00",
+    "last_verified": "2026-09-09T17:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22377,13 +22377,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 416,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22432,7 +22432,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:40:35.535925+00:00",
+    "last_verified": "2026-09-09T19:52:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22442,13 +22442,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 302,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22497,7 +22497,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T17:27:35.535925+00:00",
+    "last_verified": "2026-09-10T00:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22507,13 +22507,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 15,
       "survival_probability_pct": 97.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22562,7 +22562,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:23:35.535925+00:00",
+    "last_verified": "2026-09-09T17:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22572,13 +22572,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 439,
       "survival_probability_pct": 97.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22627,7 +22627,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:27:35.535925+00:00",
+    "last_verified": "2026-09-09T21:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22637,13 +22637,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 195,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22692,7 +22692,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:23:35.535925+00:00",
+    "last_verified": "2026-09-09T19:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22702,13 +22702,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 319,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22757,7 +22757,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T09:35:35.535925+00:00",
+    "last_verified": "2026-09-09T16:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22767,13 +22767,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 487,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22822,7 +22822,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:50:35.535925+00:00",
+    "last_verified": "2026-09-09T20:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22832,13 +22832,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 292,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22887,7 +22887,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:38:35.535925+00:00",
+    "last_verified": "2026-09-09T17:50:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22897,13 +22897,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 424,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -22952,7 +22952,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:08:35.535925+00:00",
+    "last_verified": "2026-09-09T23:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -22962,13 +22962,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 94,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23017,7 +23017,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T16:36:35.535925+00:00",
+    "last_verified": "2026-09-09T23:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23027,13 +23027,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 66,
-      "survival_probability_pct": 95.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 95.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23082,7 +23082,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T12:23:35.535925+00:00",
+    "last_verified": "2026-09-09T19:35:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23092,13 +23092,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 319,
       "survival_probability_pct": 95.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23147,7 +23147,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T14:20:35.535925+00:00",
+    "last_verified": "2026-09-09T21:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23157,13 +23157,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 202,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23212,7 +23212,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T15:26:35.535925+00:00",
+    "last_verified": "2026-09-09T22:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23222,13 +23222,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 136,
-      "survival_probability_pct": 96.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 96.3,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23277,7 +23277,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:26:35.535925+00:00",
+    "last_verified": "2026-09-09T17:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23287,13 +23287,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 436,
       "survival_probability_pct": 96.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23342,7 +23342,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T11:43:35.535925+00:00",
+    "last_verified": "2026-09-09T18:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23352,13 +23352,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 359,
-      "survival_probability_pct": 97.7,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 97.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23407,7 +23407,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T02:59:00.561404+00:00",
-    "last_verified": "2026-09-09T10:27:35.535925+00:00",
+    "last_verified": "2026-09-09T17:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T02:59:00.561404+00:00",
     "price_history": [
       {
@@ -23417,13 +23417,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.6,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 1,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 435,
       "survival_probability_pct": 95.9,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23472,7 +23472,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T09:43:35.535925+00:00",
+    "last_verified": "2026-09-09T16:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23482,13 +23482,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 479,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23537,7 +23537,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T12:32:35.535925+00:00",
+    "last_verified": "2026-09-09T19:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23547,13 +23547,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 310,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23602,7 +23602,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T11:45:35.535925+00:00",
+    "last_verified": "2026-09-09T18:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23612,13 +23612,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 357,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23667,7 +23667,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:01:35.535925+00:00",
+    "last_verified": "2026-09-09T21:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23677,13 +23677,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 221,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23732,7 +23732,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:26:35.535925+00:00",
+    "last_verified": "2026-09-09T20:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23742,13 +23742,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 256,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23797,7 +23797,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:41:35.535925+00:00",
+    "last_verified": "2026-09-09T21:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23807,13 +23807,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 181,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23862,7 +23862,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T16:05:35.535925+00:00",
+    "last_verified": "2026-09-09T23:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23872,13 +23872,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 97,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23927,7 +23927,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T17:08:35.535925+00:00",
+    "last_verified": "2026-09-10T00:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -23937,13 +23937,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 34,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -23992,7 +23992,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T09:59:35.535925+00:00",
+    "last_verified": "2026-09-09T17:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24002,13 +24002,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 463,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24057,7 +24057,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:52:35.535925+00:00",
+    "last_verified": "2026-09-09T21:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24067,13 +24067,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 230,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24122,7 +24122,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:28:35.535925+00:00",
+    "last_verified": "2026-09-09T21:40:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24132,13 +24132,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 194,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24187,7 +24187,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T09:43:35.535925+00:00",
+    "last_verified": "2026-09-09T16:55:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24197,13 +24197,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 479,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24252,7 +24252,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:31:35.535925+00:00",
+    "last_verified": "2026-09-09T20:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24262,13 +24262,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 251,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24317,7 +24317,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T15:59:35.535925+00:00",
+    "last_verified": "2026-09-09T23:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24327,13 +24327,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24382,7 +24382,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T11:03:35.535925+00:00",
+    "last_verified": "2026-09-09T18:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24392,13 +24392,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 399,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24447,7 +24447,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T16:10:35.535925+00:00",
+    "last_verified": "2026-09-09T23:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24457,13 +24457,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 92,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24512,7 +24512,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T12:50:35.535925+00:00",
+    "last_verified": "2026-09-09T20:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24522,13 +24522,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 292,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24577,7 +24577,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:53:35.535925+00:00",
+    "last_verified": "2026-09-09T21:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24587,13 +24587,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 229,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24642,7 +24642,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:45:35.535925+00:00",
+    "last_verified": "2026-09-09T20:57:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24652,13 +24652,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 237,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24707,7 +24707,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T15:41:35.535925+00:00",
+    "last_verified": "2026-09-09T22:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24717,13 +24717,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 121,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24772,7 +24772,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T13:56:35.535925+00:00",
+    "last_verified": "2026-09-09T21:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24782,13 +24782,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 226,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24837,7 +24837,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T10:51:35.535925+00:00",
+    "last_verified": "2026-09-09T18:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24847,13 +24847,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 411,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24902,7 +24902,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:19:35.535925+00:00",
+    "last_verified": "2026-09-09T21:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24912,13 +24912,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 203,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -24967,7 +24967,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:32:35.535925+00:00",
+    "last_verified": "2026-09-09T21:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -24977,13 +24977,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 190,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25032,7 +25032,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:24:35.535925+00:00",
+    "last_verified": "2026-09-09T21:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25042,13 +25042,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 198,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25097,7 +25097,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T15:16:35.535925+00:00",
+    "last_verified": "2026-09-09T22:28:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25107,13 +25107,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 146,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25162,7 +25162,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T16:50:35.535925+00:00",
+    "last_verified": "2026-09-10T00:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25172,13 +25172,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 52,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25227,7 +25227,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T11:52:35.535925+00:00",
+    "last_verified": "2026-09-09T19:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25237,13 +25237,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 350,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25292,7 +25292,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T11:31:35.535925+00:00",
+    "last_verified": "2026-09-09T18:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25302,13 +25302,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 371,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25357,7 +25357,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T09:29:35.535925+00:00",
+    "last_verified": "2026-09-09T16:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25367,13 +25367,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 493,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25422,7 +25422,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T16:31:35.535925+00:00",
+    "last_verified": "2026-09-09T23:43:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25432,13 +25432,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 71,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25487,7 +25487,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T14:41:35.535925+00:00",
+    "last_verified": "2026-09-09T21:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25497,13 +25497,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 181,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25552,7 +25552,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T16:07:35.535925+00:00",
+    "last_verified": "2026-09-09T23:19:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25562,13 +25562,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 95,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25617,7 +25617,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T11:39:35.535925+00:00",
+    "last_verified": "2026-09-09T18:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25627,13 +25627,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 363,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25682,7 +25682,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:27:41.171939+00:00",
-    "last_verified": "2026-09-09T12:57:35.535925+00:00",
+    "last_verified": "2026-09-09T20:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:27:41.171939+00:00",
     "price_history": [
       {
@@ -25692,13 +25692,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 285,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25747,7 +25747,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:50:35.535925+00:00",
+    "last_verified": "2026-09-10T00:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -25757,13 +25757,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 52,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25812,7 +25812,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:30:35.535925+00:00",
+    "last_verified": "2026-09-09T23:42:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -25822,13 +25822,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 72,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25877,7 +25877,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:06:35.535925+00:00",
+    "last_verified": "2026-09-09T17:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -25887,13 +25887,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 456,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -25942,7 +25942,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T09:56:35.535925+00:00",
+    "last_verified": "2026-09-09T17:08:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -25952,13 +25952,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 466,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26007,7 +26007,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:01:35.535925+00:00",
+    "last_verified": "2026-09-09T20:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26017,13 +26017,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 281,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26072,7 +26072,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:33:35.535925+00:00",
+    "last_verified": "2026-09-09T23:45:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26082,13 +26082,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 69,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26137,7 +26137,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:18:35.535925+00:00",
+    "last_verified": "2026-09-09T20:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26147,13 +26147,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 264,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26202,7 +26202,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:14:35.535925+00:00",
+    "last_verified": "2026-09-09T22:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26212,13 +26212,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 148,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26267,7 +26267,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "last_verified": "2026-09-09T22:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26277,13 +26277,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26332,7 +26332,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:52:35.535925+00:00",
+    "last_verified": "2026-09-10T00:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26342,13 +26342,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 50,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26397,7 +26397,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:19:35.535925+00:00",
+    "last_verified": "2026-09-09T17:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26407,13 +26407,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 443,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26462,7 +26462,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:50:35.535925+00:00",
+    "last_verified": "2026-09-09T21:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26472,13 +26472,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 232,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26527,7 +26527,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T14:24:35.535925+00:00",
+    "last_verified": "2026-09-09T21:36:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26537,13 +26537,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 198,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26592,7 +26592,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T14:12:35.535925+00:00",
+    "last_verified": "2026-09-09T21:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26602,13 +26602,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 210,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26657,7 +26657,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:39:35.535925+00:00",
+    "last_verified": "2026-09-09T22:51:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26667,13 +26667,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 123,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26722,7 +26722,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T12:49:35.535925+00:00",
+    "last_verified": "2026-09-09T20:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26732,13 +26732,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 293,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26787,7 +26787,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T12:19:35.535925+00:00",
+    "last_verified": "2026-09-09T19:31:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26797,13 +26797,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 323,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26852,7 +26852,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:20:35.535925+00:00",
+    "last_verified": "2026-09-09T17:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26862,13 +26862,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 442,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26917,7 +26917,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:14:35.535925+00:00",
+    "last_verified": "2026-09-09T20:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26927,13 +26927,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 268,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -26982,7 +26982,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:57:35.535925+00:00",
+    "last_verified": "2026-09-10T00:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -26992,13 +26992,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 45,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27047,7 +27047,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T12:32:35.535925+00:00",
+    "last_verified": "2026-09-09T19:44:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27057,13 +27057,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 310,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27112,7 +27112,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:41:35.535925+00:00",
+    "last_verified": "2026-09-09T23:53:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27122,13 +27122,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 61,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27177,7 +27177,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:52:35.535925+00:00",
+    "last_verified": "2026-09-09T21:04:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27187,13 +27187,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 230,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27242,7 +27242,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:08:35.535925+00:00",
+    "last_verified": "2026-09-09T22:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27252,13 +27252,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 17.9,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 26,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 154,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.2,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27307,7 +27307,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:50:35.535925+00:00",
+    "last_verified": "2026-09-09T23:02:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27317,13 +27317,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 112,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27372,7 +27372,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T11:21:35.535925+00:00",
+    "last_verified": "2026-09-09T18:33:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27382,13 +27382,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 381,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27437,7 +27437,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T11:20:35.535925+00:00",
+    "last_verified": "2026-09-09T18:32:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27447,13 +27447,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 382,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27502,7 +27502,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:10:35.535925+00:00",
+    "last_verified": "2026-09-09T17:22:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27512,13 +27512,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 452,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27567,7 +27567,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:51:35.535925+00:00",
+    "last_verified": "2026-09-10T00:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27577,13 +27577,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 51,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27632,7 +27632,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T11:46:35.535925+00:00",
+    "last_verified": "2026-09-09T18:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27642,13 +27642,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 356,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27697,7 +27697,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:27:35.535925+00:00",
+    "last_verified": "2026-09-09T23:39:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27707,13 +27707,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 75,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27762,7 +27762,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:44:35.535925+00:00",
+    "last_verified": "2026-09-09T20:56:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27772,13 +27772,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 238,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27827,7 +27827,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T09:37:35.535925+00:00",
+    "last_verified": "2026-09-09T16:49:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27837,13 +27837,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 485,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27892,7 +27892,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:01:35.535925+00:00",
+    "last_verified": "2026-09-09T17:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27902,13 +27902,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 461,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -27957,7 +27957,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:51:35.535925+00:00",
+    "last_verified": "2026-09-09T23:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -27967,13 +27967,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 111,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28022,7 +28022,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T10:36:35.535925+00:00",
+    "last_verified": "2026-09-09T17:48:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28032,13 +28032,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 426,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28087,7 +28087,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:18:35.535925+00:00",
+    "last_verified": "2026-09-09T23:30:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28097,13 +28097,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 84,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28152,7 +28152,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:26:35.535925+00:00",
+    "last_verified": "2026-09-09T20:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28162,13 +28162,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 256,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28217,7 +28217,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T09:51:35.535925+00:00",
+    "last_verified": "2026-09-09T17:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28227,13 +28227,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 471,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28282,7 +28282,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:14:35.535925+00:00",
+    "last_verified": "2026-09-09T23:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28292,13 +28292,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 88,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28347,7 +28347,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T09:46:35.535925+00:00",
+    "last_verified": "2026-09-09T16:58:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28357,13 +28357,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 476,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28412,7 +28412,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T14:04:35.535925+00:00",
+    "last_verified": "2026-09-09T21:16:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28422,13 +28422,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 218,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28477,7 +28477,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:09:35.535925+00:00",
+    "last_verified": "2026-09-09T20:21:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28487,13 +28487,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 273,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28542,7 +28542,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:06:35.535925+00:00",
+    "last_verified": "2026-09-09T23:18:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28552,13 +28552,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.5,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 14,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 96,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.5,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28607,7 +28607,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T14:29:35.535925+00:00",
+    "last_verified": "2026-09-09T21:41:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28617,13 +28617,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 193,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28672,7 +28672,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T15:59:35.535925+00:00",
+    "last_verified": "2026-09-09T23:11:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28682,13 +28682,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 103,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28737,7 +28737,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T17:14:35.535925+00:00",
+    "last_verified": "2026-09-10T00:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28747,13 +28747,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 28,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28802,7 +28802,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T14:15:35.535925+00:00",
+    "last_verified": "2026-09-09T21:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28812,13 +28812,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 207,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28867,7 +28867,7 @@ const LIVE = [
     "status": "FILLED",
     "tier": "FILLED",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T16:13:35.535925+00:00",
+    "last_verified": "2026-09-09T23:25:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:42:14.863090+00:00",
     "price_history": [
       {
@@ -28877,13 +28877,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 89,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28932,7 +28932,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:36:24.673248+00:00",
-    "last_verified": "2026-09-09T13:05:35.535925+00:00",
+    "last_verified": "2026-09-09T20:17:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:36:24.673248+00:00",
     "price_history": [
       {
@@ -28942,13 +28942,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 277,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -28997,7 +28997,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T10:01:35.535925+00:00",
+    "last_verified": "2026-09-09T17:13:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29007,13 +29007,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.2,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 16,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 461,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.7,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29062,7 +29062,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T11:00:35.535925+00:00",
+    "last_verified": "2026-09-09T18:12:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29072,13 +29072,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 402,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29127,7 +29127,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T10:49:35.535925+00:00",
+    "last_verified": "2026-09-09T18:01:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29137,13 +29137,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 413,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29192,7 +29192,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:51:35.535925+00:00",
+    "last_verified": "2026-09-09T23:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29202,13 +29202,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 111,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29257,7 +29257,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T14:03:35.535925+00:00",
+    "last_verified": "2026-09-09T21:15:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29267,13 +29267,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 219,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29322,7 +29322,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:48:35.535925+00:00",
+    "last_verified": "2026-09-09T23:00:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29332,13 +29332,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 114,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29387,7 +29387,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:57:35.535925+00:00",
+    "last_verified": "2026-09-09T23:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29397,13 +29397,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 105,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29452,7 +29452,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T12:14:35.535925+00:00",
+    "last_verified": "2026-09-09T19:26:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29462,13 +29462,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 328,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29517,7 +29517,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T13:51:35.535925+00:00",
+    "last_verified": "2026-09-09T21:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29527,13 +29527,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 13.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 20,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 231,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29582,7 +29582,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T10:51:35.535925+00:00",
+    "last_verified": "2026-09-09T18:03:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29592,13 +29592,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 411,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29647,7 +29647,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:35:35.535925+00:00",
+    "last_verified": "2026-09-09T22:47:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29657,13 +29657,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 127,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29712,7 +29712,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T10:57:35.535925+00:00",
+    "last_verified": "2026-09-09T18:09:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29722,13 +29722,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 405,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29777,7 +29777,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:08:35.535925+00:00",
+    "last_verified": "2026-09-09T22:20:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29787,13 +29787,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 154,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29842,7 +29842,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T13:33:35.535925+00:00",
+    "last_verified": "2026-09-09T20:45:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29852,13 +29852,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 12.9,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 19,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 249,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.9,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29907,7 +29907,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T16:53:35.535925+00:00",
+    "last_verified": "2026-09-10T00:05:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29917,13 +29917,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 15.1,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 22,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 49,
-      "survival_probability_pct": 99.5,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.0,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -29972,7 +29972,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T17:02:35.535925+00:00",
+    "last_verified": "2026-09-10T00:14:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -29982,13 +29982,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 16.1,
-      "velocity_tier": "Standard Market",
-      "velocity_icon": "⏱️",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 24,
+      "velocity_tier": "Relaxed Selection",
+      "velocity_icon": "⏳",
       "heartbeat_age_min": 40,
-      "survival_probability_pct": 99.6,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 99.1,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -30037,7 +30037,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T15:26:35.535925+00:00",
+    "last_verified": "2026-09-09T22:38:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -30047,13 +30047,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 9.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 136,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -30102,7 +30102,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T16:02:35.535925+00:00",
+    "last_verified": "2026-09-09T23:14:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -30112,13 +30112,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 8.6,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 13,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 100,
-      "survival_probability_pct": 99.2,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.4,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -30167,7 +30167,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T11:15:35.535925+00:00",
+    "last_verified": "2026-09-09T18:27:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -30177,13 +30177,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 10.1,
-      "velocity_tier": "High Velocity",
-      "velocity_icon": "⚡",
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 15,
+      "velocity_tier": "Standard Market",
+      "velocity_icon": "⏱️",
       "heartbeat_age_min": 387,
-      "survival_probability_pct": 99.3,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.6,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   },
   {
@@ -30232,7 +30232,7 @@ const LIVE = [
     "status": "LIVE",
     "tier": "LIVE",
     "first_seen": "2026-09-09T17:37:50.017024+00:00",
-    "last_verified": "2026-09-09T10:12:35.535925+00:00",
+    "last_verified": "2026-09-09T17:24:46.729312+00:00",
     "status_changed_at": "2026-09-09T17:37:50.017024+00:00",
     "price_history": [
       {
@@ -30242,13 +30242,13 @@ const LIVE = [
       }
     ],
     "vitals": {
-      "days_on_market": 0.1,
-      "expected_time_to_off_market_days": 11.6,
+      "days_on_market": 0,
+      "expected_time_to_off_market_days": 17,
       "velocity_tier": "Standard Market",
       "velocity_icon": "⏱️",
       "heartbeat_age_min": 450,
-      "survival_probability_pct": 99.4,
-      "pocket_velocity_desc": "High student & commuter turnover on Keio campus side"
+      "survival_probability_pct": 98.8,
+      "pocket_velocity_desc": "Active residential corridor"
     }
   }
 ];

@@ -1,0 +1,20 @@
+{
+  "id": "ty_5k_0428",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "7 storeys — as listed",
+    "built 2024 — as listed",
+    "structure RC — as listed",
+    "address 神奈川県横浜市神奈川区白楽4-12 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 7,
+  "structure": "RC",
+  "built": "2024",
+  "local_path": "portraits/ty_5k_0428.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%99%BD%E6%A5%BD",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA%E7%99%BD%E6%A5%BD4-12%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%E7%99%BD%E6%A5%BD"
+}

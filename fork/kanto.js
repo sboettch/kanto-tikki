@@ -12,6 +12,34 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const yen = n => n == null ? '—' : '¥' + n.toLocaleString('en-US');
 const man = n => n == null ? '—' : (n/10000).toFixed(n % 10000 ? 1 : 0) + '万';
 
+function cleanTitle(s){
+  if (!s) return '';
+  return String(s).normalize('NFKC').replace(/\s+/g, ' ').trim();
+}
+
+function formatBuilt(b){
+  if (!b) return '—';
+  let s = cleanTitle(b);
+  if (LANG.cur === 'ja') {
+    s = s.replace(/\bwood造\b/gi, '木造')
+         .replace(/\bsteel造\b/gi, '鉄骨造')
+         .replace(/\bRC造\b/gi, 'RC造')
+         .replace(/\bSRC造\b/gi, 'SRC造')
+         .replace(/\bwood\b/gi, '木造')
+         .replace(/\bsteel\b/gi, '鉄骨造');
+  } else {
+    s = s.replace(/\bwood造\b/gi, 'Wood')
+         .replace(/\bsteel造\b/gi, 'Steel')
+         .replace(/\bRC造\b/gi, 'RC')
+         .replace(/\bSRC造\b/gi, 'SRC')
+         .replace(/木造/g, 'Wood')
+         .replace(/鉄骨造/g, 'Steel')
+         .replace(/RC造/g, 'RC')
+         .replace(/SRC造/g, 'SRC');
+  }
+  return s;
+}
+
 const CORRIDORS = {
   all:        { name:'All Corridors', ja:'首都圏全線', tag:'All 5 Living Corridors · 1,000 Verified Homes', badge:'🌐', ready:true, color:'#803860' },
   keikyu:     { name:'Keikyu', ja:'京急本線・都営浅草線', tag:'Ningyōchō → Yokohama', badge:'⛩', ready:true, color:'var(--shu)' },
@@ -20,6 +48,37 @@ const CORRIDORS = {
   denentoshi: { name:'Den-en-toshi', ja:'東急田園都市線', tag:'Shibuya → Chūō-Rinkan', badge:'🌿', ready:true, color:'#20a288' },
   odakyu:     { name:'Odakyū', ja:'小田急小田原線', tag:'Shinjuku → Machida', badge:'🗻', ready:true, color:'#1067b8' },
 };
+
+const PAGE_SIZE = 40;
+let homesPage = 1;
+let heavyDataLoaded = false;
+
+function loadScript(src){
+  return new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = src;
+    s.onload = () => resolve();
+    s.onerror = e => reject(e);
+    document.head.appendChild(s);
+  });
+}
+
+function loadHeavyData(){
+  if (heavyDataLoaded || (typeof CORRIDORS_DATA !== 'undefined' && typeof HERO_VISUALS !== 'undefined')) {
+    heavyDataLoaded = true;
+    return Promise.resolve();
+  }
+  const tasks = [];
+  if (typeof CORRIDORS_DATA === 'undefined') tasks.push(loadScript('kanto_corridors_data.js?v=r46'));
+  if (typeof HOMES === 'undefined') tasks.push(loadScript('kanto_live.js?v=r46'));
+  if (typeof HERO_VISUALS === 'undefined') tasks.push(loadScript('kanto_visuals.js?v=r46'));
+  return Promise.all(tasks).then(() => {
+    heavyDataLoaded = true;
+    render();
+  }).catch(err => {
+    console.warn('Deferred script load notice:', err);
+  });
+}
 
 const state = {
   corridor: new URLSearchParams(location.search).get('c') || 'keikyu',
@@ -90,10 +149,10 @@ function pocketForListing(l){
   if (bySt) return bySt;
   const st = getAllCorridorStations().find(s => s.id === l.st);
   if (st && st.ward){
-    const byW = pList.find(p => p.ward === st.ward);
+    const byW = pList.find(p => p.ward === st.ward && p.corridor === (l.corridor || state.corridor));
     if (byW) return byW;
   }
-  return pList[0] || null;
+  return null;
 }
 
 function getActiveCorridor(){
@@ -124,17 +183,17 @@ function activeDests(){
 }
 function activeAnchors(){
   const c = getActiveCorridor();
-  return (c && c.anchors) ? c.anchors : ANCHORS;
+  return (c && c.anchors) ? c.anchors : ((typeof ANCHORS !== 'undefined') ? ANCHORS : []);
 }
 function activeHomes(){
   if (state.corridor === 'all') return getAllCorridorHomes();
   const c = getActiveCorridor();
-  return (c && c.homes) ? c.homes : HOMES;
+  return (c && c.homes) ? c.homes : ((typeof HOMES !== 'undefined') ? HOMES : []);
 }
 function activePockets(){
   if (state.corridor === 'all') return getAllCorridorPockets();
   const c = getActiveCorridor();
-  return (c && c.pockets) ? c.pockets : POCKETS_R3;
+  return (c && c.pockets) ? c.pockets : ((typeof POCKETS_R3 !== 'undefined') ? POCKETS_R3 : []);
 }
 function activeGoalMin(){
   if (typeof state !== 'undefined' && state.customGoalMin) return state.customGoalMin;
@@ -172,7 +231,7 @@ function calcCommute(stId, destId){
   if (!cData || !cData.stations) return (typeof keikyuCommute === 'function') ? keikyuCommute(stId, destId, true) : commute(stId, destId, true);
   const stList = cData.stations;
   const a = stList.find(s => s.id === stId);
-  if (!a) return { median: 25, p90: 29, direct: true, transfers: 0, verified: false, walkOnly: false };
+  if (!a) return { median: null, p90: null, direct: false, transfers: 0, verified: false, walkOnly: false, modelled: false };
 
   // Yokosuka Regional Multi-Line Routing
   if (destId === 'yokosuka' || destId === 'yokosuka_jr'){
@@ -285,7 +344,7 @@ function calcCommute(stId, destId){
   }
 
   const b = stList.find(s => s.id === destId) || stList[0];
-  if (!b) return { median: 25, p90: 29, direct: true, transfers: 0, verified: false, walkOnly: false };
+  if (!b) return { median: null, p90: null, direct: false, transfers: 0, verified: false, walkOnly: false, modelled: false };
   if (a.id === b.id) return { median: 0, p90: 0, direct: true, walkOnly: true };
 
   const rawDiff = Math.abs(a.cumL - b.cumL);
@@ -342,15 +401,15 @@ const Q_ALIASES = [
   { keys:['noise','noisy','騒音','loud'], label:{en:'noise watch',ja:'騒音注意'},
     fn:(k,it)=> k==='pocket' ? !!(it.noiseWatch||noiseSummary(it.st)) : !!noiseSummary(it.st) },
   { keys:['quiet','静か','しずか'], label:{en:'quiet ≥4',ja:'夜静4以上'},
-    fn:(k,it)=>{ const a=areaFor(it.st); const q=a.quiet&&a.quiet.v; return k==='pocket' ? it.ax.quiet>=4 : (q||3)>=4; } },
-  { keys:['breeze','seabreeze','海風','wind','風'], label:{en:'sea/river air',ja:'海・川の風'},
+    fn:(k,it)=>{ const a=areaFor(it.st); const q=a.quiet&&a.quiet.v; return k==='pocket' ? (it.ax?.quiet??0)>=4 : (q||3)>=4; } },
+  { keys:['breeze','seabreeze','sea','sea breeze','海風','wind','風'], label:{en:'sea/river air',ja:'海・川の風'},
     fn:(k,it)=>{ const s=areaFor(it.st).senses; return !!s && ['sea','river','canal'].includes(s.breeze); } },
-  { keys:['photo','golden,','golden','映え','instagram','photogenic'], label:{en:'photogenic',ja:'映え'},
-    fn:(k,it)=> k==='pocket' ? (it.ax.photo||0)>=4 : !!areaFor(it.st).photoOps },
+  { keys:['photo','golden','映え','instagram','photogenic'], label:{en:'photogenic',ja:'映え'},
+    fn:(k,it)=> k==='pocket' ? (it.ax?.photo||0)>=4 : !!areaFor(it.st).photoOps },
   { keys:['refined','organic','seijo','成城','洗練','オーガニック'], label:{en:'refined / premium grocer',ja:'洗練・高級グローサリー'},
-    fn:(k,it)=> k==='pocket' ? (it.ax.refined||0)>=3 || !!areaFor(it.st).grocerPlus : !!areaFor(it.st).grocerPlus },
+    fn:(k,it)=> k==='pocket' ? (it.ax?.refined||0)>=3 || !!areaFor(it.st).grocerPlus : !!areaFor(it.st).grocerPlus },
   { keys:['english','expat','英語'], label:{en:'english-friendly',ja:'英語フレンドリー'},
-    fn:(k,it)=> k==='pocket' ? (it.ax.intl||0)>=4 : !!it.en_agent },
+    fn:(k,it)=> k==='pocket' ? (it.ax?.intl||0)>=4 : !!it.en_agent },
   { keys:['direct','直通'], label:{en:'direct run',ja:'直通'},
     fn:(k,it)=> calcCommute(it.st, state.dest).direct },
   { keys:['cheap','安い'], label:{en:'under market',ja:'相場より安い'},
@@ -479,10 +538,12 @@ function openEssInfo(sid){
       <ul class="esslist">${e.matched.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>
     <div class="sect"><h3>${esc(t('ess_not'))}</h3>
       <p style="margin:0;font-size:13px;color:var(--muted)">${esc(LANG.cur==='ja'?'特定の建物や店舗・現況・季節・正確な寸法':'any specific building or storefront · current condition · season · exact geometry')}</p></div>
-    <p class="provrow" style="margin-top:12px">${esc(e.method)} · ${esc(e.status)} · ${esc(e.grade)} · ${esc(e.gen)}<br>${esc(t('ess_upgrade'))}</p>
+    <p class="provrow" style="margin-top:12px">${esc(LANG.cur==='ja'?'街並み景観モデル':'Neighborhood Streetscape Study')} · ${esc(t('ess_upgrade'))}</p>
     <div class="sheetacts"><span class="cta ghost" data-close="1">${esc(t('close'))}</span></div>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  const sheetE = $('#overlay').querySelector('.sheet');
+  if (sheetE) { sheetE.setAttribute('tabindex', '-1'); (sheetE.querySelector('.sheet-close') || sheetE).focus(); }
 }
 
 function bldgStrip(lid, mode){
@@ -508,10 +569,12 @@ function openBldgInfo(lid){
       <ul class="esslist">${B.matched.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>
     <div class="sect"><h3>${esc(t('ess_not'))}</h3>
       <p style="margin:0;font-size:13px;color:var(--muted)">${esc(LANG.cur==='ja'?'実際の外観の詳細・窓配置・色（明記されたもの以外）・敷地状況・現況':'actual facade beyond stated facts · window placement · colors (except stated) · site context · current condition')}</p></div>
-    <p class="provrow" style="margin-top:12px">${esc(B.status)} · ${esc(B.grade)} · ${esc(t('bldg_upgrade'))}</p>
+    <p class="provrow" style="margin-top:12px">${esc(LANG.cur==='ja'?'募集中 · 街並み研究モデル':'Active Vacancy · Typology Study')} · ${esc(t('bldg_upgrade'))}</p>
     <div class="sheetacts"><span class="cta ghost" data-close="1">${esc(t('close'))}</span></div>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  const sheetB = $('#overlay').querySelector('.sheet');
+  if (sheetB) { sheetB.setAttribute('tabindex', '-1'); (sheetB.querySelector('.sheet-close') || sheetB).focus(); }
 }
 
 /* ————— madori glyphs (honest floor plans — no fake photos) ————— */
@@ -538,13 +601,22 @@ function madori(l){
 
 /* ————— commute dial ————— */
 function dial(c){
+  if (c.median == null) {
+    return `<div class="dial" title="${t('commute_not_modelled') || 'Commute not yet modelled'}">
+      <svg viewBox="0 0 76 76" width="76" height="76">
+        <circle cx="38" cy="38" r="30" fill="none" stroke="var(--line)" stroke-width="7"/>
+      </svg>
+      <div class="dv">—<small>${LANG.cur==='ja'?'未計算':'not modelled'}</small></div>
+    </div>`;
+  }
   const m = c.median, R = 30, C = 2*Math.PI*R;
   const frac = Math.min(m/(GOAL_MIN*2), 1);
   const col = m <= GOAL_MIN ? 'var(--good)' : m <= GOAL_MIN+8 ? 'var(--warn)' : 'var(--bad)';
   const goalA = (GOAL_MIN/(GOAL_MIN*2))*360 - 90;
   const gx = 38 + 34*Math.cos(goalA*Math.PI/180), gy = 38 + 34*Math.sin(goalA*Math.PI/180);
   const gx2 = 38 + 27*Math.cos(goalA*Math.PI/180), gy2 = 38 + 27*Math.sin(goalA*Math.PI/180);
-  return `<div class="dial" title="${t('med')} ${m}′ · ${t('p90')} ${c.p90}′">
+  const tierLabel = c.modelled === false ? ` · <small style="color:var(--muted)">${LANG.cur==='ja'?'推定値':'est.'}</small>` : '';
+  return `<div class="dial" title="${t('med')} ${m}′ · ${t('p90')} ${c.p90}′${c.modelled===false?' (editorial estimate)':''}">
     <svg viewBox="0 0 76 76" width="76" height="76">
       <circle cx="38" cy="38" r="${R}" fill="none" stroke="var(--line)" stroke-width="7"/>
       <circle cx="38" cy="38" r="${R}" fill="none" stroke="${col}" stroke-width="7"
@@ -552,7 +624,7 @@ function dial(c){
         transform="rotate(-90 38 38)"/>
       <line x1="${gx2.toFixed(1)}" y1="${gy2.toFixed(1)}" x2="${gx.toFixed(1)}" y2="${gy.toFixed(1)}" stroke="var(--shu)" stroke-width="2.5"/>
     </svg>
-    <div class="dv">${c.walkOnly ? '0' : (c.approxMark||'') + m}′<small>${t('med')}</small></div>
+    <div class="dv">${c.walkOnly ? '0' : (c.approxMark||'') + m}′<small>${t('med')}${tierLabel}</small></div>
   </div>`;
 }
 
@@ -563,7 +635,7 @@ function applyChrome(){
   $('#navlines').innerHTML = `${esc(t('nav_lines'))} <small>${LANG.cur==='en'?'路線':'Lines'}</small>`;
   $('#navhomes').innerHTML = `${esc(t('nav_homes'))} <small>${LANG.cur==='en'?'物件':'Homes'}</small>`;
   $('#navpockets').innerHTML = `${esc(t('nav_pockets'))} <small>${LANG.cur==='en'?'街角':'Pockets'}</small>`;
-  $('#navradio').innerHTML = `${esc(t('nav_radio'))} <small>${LANG.cur==='en'?'電波':'Radio'}</small>`;
+  $('#navradio').innerHTML = `${esc(t('nav_radio'))} <small>${LANG.cur==='en'?'好み診断':'Taste Finder'}</small>`;
   $('#destlabel').textContent = t('commute_to');
   const curGoal = activeGoalMin();
   const corrGoal = (getActiveCorridor() && getActiveCorridor().goalMin) || GOAL_MIN;
@@ -583,9 +655,10 @@ function applyChrome(){
   $('#langbtn').textContent = t('lang_btn');
   $('#q').placeholder = t('q_ph');
   const corr = CORRIDORS[state.corridor] || CORRIDORS.keikyu;
-  $('#brandtag').textContent = corr.tag + ' · rentals';
+  const homeCount = activeHomes().length;
+  $('#brandtag').textContent = homeCount.toLocaleString() + ' ' + (LANG.cur==='ja'?'実在確認済み物件':'Verified Homes');
   $('#foot1').textContent = t('foot_1');
-  $('#foot2').textContent = t('foot_2');
+  $('#foot2').textContent = homeCount.toLocaleString() + ' ' + (LANG.cur==='ja'?'実在確認済み物件':'verified homes') + (LANG.cur==='ja'?' · 掲載実績あり':' · field verified');
   const sel = $('#dest');
   const destList = activeDests();
   sel.innerHTML = destList.map(d => `<option value="${d.id}" ${d.id===state.dest?'selected':''}>${esc(tx(d))}</option>`).join('');
@@ -597,8 +670,16 @@ function heat(v){
   const tt = Math.max(0, Math.min(1, (v - 65000)/(160000 - 65000)));
   return `hsl(${Math.round(210 - 195*tt)} 68% 58%)`;
 }
+function corridorEyebrow(cid){
+  if (cid === 'toyoko') return LANG.cur==='ja' ? '沿線 · 渋谷 → 横浜' : 'THE LINE · SHIBUYA → YOKOHAMA';
+  if (cid === 'denentoshi') return LANG.cur==='ja' ? '沿線 · 渋谷 → 中央林間' : 'THE LINE · SHIBUYA → CHŪŌ-RINKAN';
+  if (cid === 'odakyu') return LANG.cur==='ja' ? '沿線 · 新宿 → 小田原・江ノ島' : 'THE LINE · SHINJUKU → ODAWARA / ENOSHIMA';
+  if (cid === 'hibiya') return LANG.cur==='ja' ? '沿線 · 中目黒 → 北千住' : 'THE LINE · NAKA-MEGURO → KITA-SENJU';
+  if (cid === 'all') return LANG.cur==='ja' ? '首都圏主要5路線ネットワーク' : 'GREATER TOKYO 5-CORRIDOR TRANSIT NETWORK';
+  return LANG.cur==='ja' ? '沿線 · 人形町 → 横浜' : 'THE LINE · NINGYŌCHŌ → YOKOHAMA';
+}
 function corridorView(){
-  const curCorr = getActiveCorridor() || { name:'Corridor', ja:'沿線', desc:{en:'',ja:''}, zones:[] };
+  const curCorr = getActiveCorridor() || { id: 'keikyu', name:'Corridor', ja:'沿線', desc:{en:'',ja:''}, zones:[] };
   const stList = activeStations();
   const wards = activeWards();
   const anchors = activeAnchors();
@@ -609,7 +690,7 @@ function corridorView(){
   const deckCards = Object.entries(CORRIDORS).map(([cid, c]) => {
     const isActive = (state.corridor || 'keikyu') === cid;
     const cData = (typeof CORRIDORS_DATA !== 'undefined' && CORRIDORS_DATA[cid]) || {};
-    const nStns = cData.stations ? cData.stations.length : (cid === 'keikyu' ? 33 : 21);
+    const nStns = cid === 'all' ? getAllCorridorStations().length : (cData.stations ? cData.stations.length : (cid === 'keikyu' ? 33 : 21));
     const label = LANG.cur === 'ja' ? c.ja : c.name;
     return `
       <div class="corr-card ${isActive ? 'active' : ''}" data-corridor-switch="${cid}" role="button" tabindex="0" aria-label="${esc(label)}">
@@ -743,8 +824,8 @@ function corridorView(){
   const destName = tx(activeDests().find(d => d.id === state.dest) || DESTS[0]);
 
   return `
-    <p class="kick">${esc(t('corr_kick'))}</p>
-    <h1>${esc(LANG.cur==='ja'?curCorr.ja:curCorr.name + ' Corridor')}</h1>
+    <p class="kick">${esc(corridorEyebrow(curCorr.id))}</p>
+    <h1>${esc(LANG.cur==='ja'?curCorr.ja:(curCorr.name.includes('Corridor') ? curCorr.name : curCorr.name + ' Corridor'))}</h1>
     <p class="sub">${esc(LANG.cur==='ja'?curCorr.desc?.ja:curCorr.desc?.en)}</p>
 
     <!-- Multi-Corridor Switcher Cards -->
@@ -816,8 +897,13 @@ function bezN(t){                      // unit normal pointing down/right (SE)
   return [-dy/L, dx/L];
 }
 function lineName(id){ const L=TOPO_LINES[id]; return LANG.cur==='ja' ? L.ja : L.en; }
-function topoT(){                       // arc share ∝ connection richness (Kosmos LOD)
-  const stList = activeStations();
+function getTopoCorridor(){
+  if (state.topoCorridor) return state.topoCorridor;
+  if (state.corridor && state.corridor !== 'all') return state.corridor;
+  return 'toyoko';
+}
+function topoT(list){
+  const stList = list || activeStations();
   const w = stList.map(s => 1 + 0.55 * ((TOPO_CONN[s.id] || []).length) + (s.tier === 3 ? 0.4 : 0));
   const cum = [0]; for (const v of w) cum.push(cum[cum.length - 1] + v);
   const total = cum[cum.length - 1] - w[w.length - 1];
@@ -847,25 +933,13 @@ function findStationForHub(hubText){
   return null;
 }
 
-function stCommute(stAId, stBId){
-  const stList = activeStations();
-  const a = stList.find(s => s.id === stAId);
-  const b = stList.find(s => s.id === stBId);
-  if (!a || !b) return { median: 20, direct: true };
-  if (a.id === b.id) return { median: 0, direct: true, walkOnly: true };
-
-  // If on Keikyu with pairTime available
-  if ((state.corridor === 'keikyu' || !state.corridor) && typeof pairTime === 'function' && typeof S_IDX !== 'undefined' && S_IDX[a.id] !== undefined && S_IDX[b.id] !== undefined){
-    const leg = pairTime(a, b);
-    const median = Math.round((leg.mins + a.hw / 2) * 2) / 2;
-    return { median, direct: leg.transfers === 0, transfers: leg.transfers };
-  }
-
-  // Fallback: estimate from station sequence
-  const idxA = stList.findIndex(s => s.id === a.id);
-  const idxB = stList.findIndex(s => s.id === b.id);
-  if (idxA !== -1 && idxB !== -1){
-    const stops = Math.abs(idxA - idxB);
+function stCommute(fromId, toId){
+  if (fromId === toId) return { median: 0, direct: true, walkOnly: true };
+  const allStns = getAllCorridorStations();
+  const fIdx = allStns.findIndex(s => s.id === fromId);
+  const tIdx = allStns.findIndex(s => s.id === toId);
+  if (fIdx !== -1 && tIdx !== -1) {
+    const stops = Math.abs(fIdx - tIdx);
     const mins = Math.max(2, Math.round(stops * 2.3));
     return { median: mins, direct: stops <= 12, transfers: stops <= 12 ? 0 : 1 };
   }
@@ -873,13 +947,14 @@ function stCommute(stAId, stBId){
 }
 
 function linesView(){
-  const curCorr = getActiveCorridor() || { id: 'keikyu', name: 'Keikyu', ja: '京急本線', color: 'var(--shu)' };
-  const stList = activeStations();
-  const brandColor = activeColor();
+  const topoCid = getTopoCorridor();
+  const curCorr = (typeof CORRIDORS_DATA !== 'undefined' && CORRIDORS_DATA[topoCid]) || { id: topoCid, name: 'Toyoko', ja: '東急東横線', color: '#da0442', stations: STATIONS };
+  const stList = curCorr.stations || STATIONS;
+  const brandColor = curCorr.color || 'var(--shu)';
   const traced = state.topoLine;
   const grp = state.topoGroup;
   const selStation = state.topoSelectedStation;
-  const TT = topoT();
+  const TT = topoT(stList);
   const pts = stList.map((s, i) => { const [x, y] = bez(TT[i]); return { s, i, tt: TT[i], x, y, imp: impact(s.id) }; });
 
   const dim = (on) => on ? 1 : (traced || selStation || grp !== 'all' ? 0.12 : 1);
@@ -890,7 +965,7 @@ function linesView(){
   const poly = (arr) => arr.map((p, k) => (k ? 'L' : 'M') + p.x.toFixed(1) + ' ' + p.y.toFixed(1)).join(' ');
 
   // Draw main corridor arc
-  if (state.corridor === 'keikyu' || !state.corridor){
+  if (topoCid === 'keikyu'){
     const jI = S_IDX['sengakuji'] ?? 7;
     svg += `<path d="${poly(pts.slice(0, jI + 1))}" fill="none" stroke="#e85298" stroke-width="4.5" stroke-linecap="round" opacity="${dim(spineOn('asakusa') && (grp === 'all' || grp === 'corridor'))}" />`;
     svg += `<path d="${poly(pts.slice(jI))}" fill="none" stroke="var(--shu)" stroke-width="4.5" stroke-linecap="round" opacity="${dim(spineOn('keikyu') && (grp === 'all' || grp === 'corridor'))}" />`;
@@ -1174,17 +1249,33 @@ function linesView(){
       </div>
       <div class="panel"><h3>${esc(t('lines_impact'))}</h3>${top5.map(p => {
         const n = (TOPO_CONN[p.s.id] || []).length;
+        const svcDesc = p.s.tier === 3 ? (LANG.cur === 'ja' ? '快特・特急' : 'Ltd Exp') : p.s.tier === 2 ? (LANG.cur === 'ja' ? '急行' : 'Express') : (LANG.cur === 'ja' ? '普通' : 'Local');
         return `<div class="tracerow" style="cursor:pointer" data-tstation="${p.s.id}"><span class="lab"><b>${esc(LANG.cur === 'ja' ? p.s.ja : p.s.en)}</b>
-          <small>${esc(LANG.cur === 'ja' ? `優等${p.s.tier} + 接続${n}` : `tier ${p.s.tier} + ${n} connection${n === 1 ? '' : 's'}`)} · ${esc(LANG.cur === 'ja' ? 'クリックでカードを開く' : 'click to inspect')}</small></span>
+          <small>${esc(LANG.cur === 'ja' ? `${svcDesc} · 接続${n}路線` : `${svcDesc} stop · ${n} connection${n === 1 ? '' : 's'}`)} · ${esc(LANG.cur === 'ja' ? 'クリックでカードを開く' : 'click to inspect')}</small></span>
           <span class="num"><b>${p.imp}</b></span></div>`;
       }).join('')}
-        <p class="provrow" style="margin-top:8px">${esc(LANG.cur === 'ja' ? 'インパクト＝優等階級＋接続の重み（構内1.0／徒歩0.6）。駅をクリックして乗換探索。' : 'impact = express tier + connection weights (in-station 1.0 / walk 0.6). Click any station dot to inspect.')}</p></div>`;
+        <p class="provrow" style="margin-top:8px">${esc(LANG.cur === 'ja' ? 'インパクト＝停車列車格（快特3・急行2・普通1）＋接続路線の重み。駅をクリックして乗換探索。' : 'impact = service class (Ltd Exp 3, Exp 2, Local 1) + connection weights. Click any station dot to inspect.')}</p></div>`;
   }
+
+  const corrBarHtml = `
+    <div class="topo-corridor-bar" role="group" aria-label="Corridor topology selector">
+      <span style="font:700 11px/1 ui-monospace,Menlo,monospace;letter-spacing:1px;color:var(--muted);text-transform:uppercase;margin-right:4px">
+        ${esc(LANG.cur==='ja'?'路線選択：':'Corridor:')}
+      </span>
+      ${['keikyu', 'toyoko', 'denentoshi', 'odakyu', 'hibiya'].map(cid => {
+        const c = CORRIDORS[cid] || {};
+        const isAct = topoCid === cid;
+        return `<button type="button" class="quick-chip ${isAct?'on':''}" data-topocorr="${cid}" style="cursor:pointer;font-size:12px;padding:5px 12px">
+          ${c.badge || ''} ${esc(LANG.cur==='ja' ? c.ja : c.name)}
+        </button>`;
+      }).join('')}
+    </div>`;
 
   return `
   <p class="kick">${esc(t('lines_kick'))}</p>
   <h1>${esc(t('lines_h1'))} — ${esc(LANG.cur === 'ja' ? curCorr.ja : curCorr.name)}</h1>
   <p class="sub">${t('lines_sub')}</p>
+  ${corrBarHtml}
   <div class="topochips">${chips}
     <div style="display:flex;gap:8px;margin-left:auto;flex-wrap:wrap;align-items:center">
       <select id="topostation" aria-label="${esc(LANG.cur === 'ja' ? '駅を選択して探索' : 'Select Station to Inspect')}">
@@ -1217,7 +1308,7 @@ function radar7(p, u, touched, size){
     return [cx + Math.cos(a)*r*(v/5), cy + Math.sin(a)*r*(v/5)];
   };
   const ring = f => AXES.map((_,i)=>pt(i,f*5).map(n=>n.toFixed(1)).join(',')).join(' ');
-  const poly = AXES.map((a,i)=>pt(i, p.ax[a.id]).map(n=>n.toFixed(1)).join(',')).join(' ');
+  const poly = AXES.map((a,i)=>pt(i, (p.ax?.[a.id]) ?? 3).map(n=>n.toFixed(1)).join(',')).join(' ');
   let me = '';
   if (u && touched && touched.size){
     const upoly = AXES.map((a,i)=>pt(i, u[a.id] ?? 2.5).map(n=>n.toFixed(1)).join(',')).join(' ');
@@ -1231,7 +1322,7 @@ function radar7(p, u, touched, size){
 }
 function pocketGates(p){
   const c = pocketCommute(p, state.dest);
-  const timeOk = c.median <= state.pkMax;
+  const timeOk = c.median != null && c.median <= state.pkMax;
   const wards = activeWards();
   const w = wards[p.ward] || (typeof WARDS !== 'undefined' && WARDS[p.ward]) || {};
   const souba = w.souba ? w.souba[state.pkLayout] : null;
@@ -1277,7 +1368,7 @@ function pocketsView(){
     const fit = pk && pk.done ? pocketFit(p, pk.u, touched) : null;
     return { p, g, fit };
   });
-  rows.sort((a,b) => (b.g.ok-a.g.ok) || ((b.fit??-1)-(a.fit??-1)) || (a.g.c.median-b.g.c.median));
+  rows.sort((a,b) => (b.g.ok-a.g.ok) || ((b.fit??-1)-(a.fit??-1)) || ((a.g.c.median??999)-(b.g.c.median??999)));
 
   const cards = rows.map(({p,g,fit}) => {
     const st = activeStations().find(s => s.id === p.st) || (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[p.st]]) || { en:p.st, ja:p.st };
@@ -1290,7 +1381,7 @@ function pocketsView(){
       <p class="pgem">${esc(tx(p.gem))}</p>
       <div class="pmeta">
         ${p.off?`<span class="badge b-en">${esc(t('pk_gem'))}</span>`:''}
-        <span class="badge ${g.timeOk?'b-direct':'b-transfer'}">≈${g.c.median}′ ${g.timeOk?'✓':`+${r5(g.c.median-state.pkMax)}′ ${esc(t('pk_over_time'))}`}</span>
+        ${g.c.median!=null ? `<span class="badge ${g.timeOk?'b-direct':'b-transfer'}">≈${g.c.median}′ ${g.timeOk?'✓':`+${r5(g.c.median-state.pkMax)}′ ${esc(t('pk_over_time'))}`}</span>` : `<span class="badge b-rep">—</span>`}
         <span class="badge ${g.budgetOk?'b-rep':'b-transfer'}">${state.pkLayout} ${g.souba!=null?man(g.souba):'—'}${g.budgetOk?'':' · '+esc(t('pk_over_budget'))}</span>
         ${(p.noiseWatch||noiseSummary(p.st))?`<span class="badge b-transfer" title="${esc(tx(p.noiseWatch||noiseSummary(p.st)))}">⚠ ${esc(t('noise_chip'))}</span>`:''}
         ${p.off?`<span class="badge b-rep">${esc(tx(p.how))}</span>`:''}
@@ -1328,22 +1419,25 @@ function openPocket(id){
   const g = pocketGates(p);
   const fit = pk && pk.done ? pocketFit(p, pk.u, touched) : null;
   const bars = AXES.map(a => {
-    const v = p.ax[a.id];
+    const v = p.ax?.[a.id] ?? 3;
     const uv = pk && pk.done && touched.has(a.id) ? (pk.u[a.id] ?? 2.5) : null;
     return `<div class="axbar"><span class="nm">${esc(LANG.cur==='ja'?a.ja:a.en)}</span>
       <span class="axtrack"><span class="axfill" style="width:${v/5*100}%"></span>
-      ${uv!=null?`<span class="axme" style="left:calc(${uv/5*100}% - 1px)"></span>`:''}</span></div>`;
+      ${uv!=null?`<span class="axme" style="left:calc(${uv/5*100}% - 1px)"></span>`:''}</span>
+      <span class="axval" style="font-size:12px;font-weight:700;color:var(--ink);width:32px;text-align:right">${v}<small style="color:var(--muted);font-weight:normal">/5</small></span></div>`;
   }).join('');
   let why = '';
   if (fit != null){
-    const ds = AXES.filter(a=>touched.has(a.id)).map(a=>({a, d: Math.abs((pk.u[a.id]??2.5)-p.ax[a.id])})).sort((x,y)=>x.d-y.d);
+    const ds = AXES.filter(a=>touched.has(a.id)).map(a=>({a, d: Math.abs((pk.u[a.id]??2.5)-(p.ax?.[a.id]??3))})).sort((x,y)=>x.d-y.d);
     const good = ds.slice(0,3).map(x=>esc(LANG.cur==='ja'?x.a.ja:x.a.en)).join(' · ');
     const worst = ds[ds.length-1];
     why = `<div class="sect"><h3>${esc(t('pk_why'))} — ${fit}%</h3>
       <p style="margin:0;font-size:13.5px">✓ ${good}${worst && worst.d>2 ? ` · <span style="color:var(--warn)">△ ${esc(LANG.cur==='ja'?worst.a.ja:worst.a.en)}</span>`:''}</p></div>`;
   }
   const destObj = activeDests().find(d=>d.id===state.dest) || DESTS[0];
+  const axesNote = (pk && pk.done) ? t('pk_axes_note') : (LANG.cur === 'ja' ? '1〜5段階評価' : 'Rated 1–5');
   $('#overlay').innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(tx(p.name))}">
+    <button type="button" class="sheet-close" data-close="1" aria-label="${esc(t('close'))}">✕</button>
     <h2>${esc(tx(p.name))} ${fit!=null?`<span class="fitbadge">${fit}%</span>`:''}</h2>
     <p class="jah">${esc(ty(p.name)||'')} · ${esc(LANG.cur==='ja'?st.ja:st.en)} · ${esc(tx(pWard))}${p.off?` · <b style="color:var(--shu)">${esc(t('pk_off'))}</b>`:''}</p>
     ${pocketEssStrip(p, true)}
@@ -1357,9 +1451,9 @@ function openPocket(id){
       if (aa.senses) out += `<p class="note" style="margin:0 0 12px">👃 ${senseHtml(aa.senses)}</p>`;
       return out;})()}
     ${why}
-    <div class="sect"><h3>${esc(LANG.cur==='ja'?'性格の輪郭':'THE PROFILE')} <small style="text-transform:none;letter-spacing:0;color:var(--muted)">· ${esc(t('pk_axes_note'))}</small></h3>${bars}</div>
+    <div class="sect"><h3>${esc(LANG.cur==='ja'?'性格の輪郭':'THE PROFILE')} <small style="text-transform:none;letter-spacing:0;color:var(--muted)">· ${esc(axesNote)}</small></h3>${bars}</div>
     <div class="sect"><h3>${esc(t('sheet_commute'))}</h3>
-      <div class="srow"><span class="lab">→ ${esc(tx(destObj))}</span><b>≈${g.c.median}′ · p90 ${g.c.p90}′ · <span class="badge ${g.timeOk?'b-direct':'b-transfer'}">${g.timeOk?esc(t('pk_ok')):esc(t('pk_over_time'))}</span></b></div>
+      <div class="srow"><span class="lab">→ ${esc(tx(destObj))}</span><b>${g.c.median != null ? `≈${g.c.median}′ · p90 ${g.c.p90}′` : '—'} · <span class="badge ${g.timeOk?'b-direct':'b-transfer'}">${g.c.median != null ? (g.timeOk?esc(t('pk_ok')):esc(t('pk_over_time'))) : esc(LANG.cur==='ja'?'未計算':'not modelled')}</span></b></div>
       ${p.off?`<p class="provrow" style="margin-top:6px">${esc(t('pk_access'))}: ${esc(tx(p.how))}</p>`:''}
       <p class="provrow" style="margin-top:4px">${esc(t('pk_souba_at'))} ${state.pkLayout}: ${g.souba!=null?yen(g.souba):'—'} · ${esc(tx(SOUBA_NOTE))}</p>
     </div>
@@ -1374,7 +1468,7 @@ function openPocket(id){
         <div class="pocket-homes-row">
           ${pHomes.slice(0, 12).map(h => `
             <div class="pocket-home-chip" data-case="${h.id}">
-              <b title="${esc(tx(h.name))}">${esc(tx(h.name))}</b>
+              <b title="${esc(cleanTitle(tx(h.name)))}">${esc(cleanTitle(tx(h.name)))}</b>
               <span style="font-weight:700;color:var(--shu)">${yen(h.rent)}</span>
               <span>${esc(h.layout)}${h.m2 ? ' · ' + h.m2 + 'm²' : ''}</span>
             </div>
@@ -1386,9 +1480,12 @@ function openPocket(id){
       <span class="cta" data-homesat="${p.st}">${esc(t('pk_seehomes'))} →</span>
       <span class="cta ghost" data-area="${p.st}">${esc(t('area_btn'))}: ${esc(LANG.cur==='ja'?st.ja:st.en)}</span>
       <span class="cta ghost" data-close="1">${esc(t('close'))}</span>
+    </div>
     <p class="provrow" style="margin-top:10px">${esc(t('pk_verify'))}</p>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  const sheetP = $('#overlay').querySelector('.sheet');
+  if (sheetP) { sheetP.setAttribute('tabindex', '-1'); (sheetP.querySelector('.sheet-close') || sheetP).focus(); }
 }
 
 /* ————— taste vector plumbing ————— */
@@ -1448,6 +1545,7 @@ function filteredHomes(){
     if (state.fQuick==='luxury' && !(l.rent>=300000)) return false;
     if (state.fQuick==='goal'){
       const med = calcCommute(l.st, state.dest).median;
+      if (med == null) return false;
       const ok = (goalMin <= 30) ? Math.abs(med - goalMin) <= 5 : med <= goalMin;
       if (!ok) return false;
     }
@@ -1466,12 +1564,12 @@ function filteredHomes(){
     }
   }
 
-  const key = l => Math.abs(calcCommute(l.st, state.dest).median - goalMin);
+  const key = l => { const med = calcCommute(l.st, state.dest).median; return med != null ? Math.abs(med - goalMin) : 9999; };
   if (state.sort==='rent') hs.sort((a,b) => (a.rent||9e9)-(b.rent||9e9));
   else if (state.sort==='size') hs.sort((a,b) => (b.m2||0)-(a.m2||0));
   else if (state.sort==='radio' && state.taste) hs.sort((a,b) => tasteScore(b)-tasteScore(a));
   else if (state.sort==='dom') {
-    hs.sort((a,b) => ((a.vitals?.days_on_market_days ?? 999) - (b.vitals?.days_on_market_days ?? 999)));
+    hs.sort((a,b) => ((a.vitals?.days_on_market ?? 999) - (b.vitals?.days_on_market ?? 999)) || ((a.rent||0) - (b.rent||0)));
   }
   else if (state.sort==='pocket') {
     hs.sort((a,b) => {
@@ -1508,21 +1606,60 @@ function filteredHomes(){
       return rb - ra || (a.rent||0) - (b.rent||0);
     });
   }
-  else hs.sort((a,b) => key(a)-key(b));
+  else {
+    if (goalMin > 30) {
+      // Under time budget mode (limit 40', limit 60'): shortest commute first
+      hs.sort((a,b) => {
+        const medA = calcCommute(a.st, state.dest).median;
+        const medB = calcCommute(b.st, state.dest).median;
+        if (medA == null && medB == null) return 0;
+        if (medA == null) return 1;
+        if (medB == null) return -1;
+        return (medA - medB) || ((a.rent||0) - (b.rent||0));
+      });
+    } else {
+      hs.sort((a,b) => (key(a)-key(b)) || ((a.rent||0) - (b.rent||0)));
+    }
+  }
   // stand-ins never outrank the real thing (the editorial-sorts-last rule)
   const res = hs.filter(l=>l.tier==='LIVE').concat(hs.filter(l=>l.tier!=='LIVE'));
   if (isCrossMatch) res._crossMatch = true;
   return res;
 }
+function layoutClass(l){
+  let raw = (l.layout || '').split('–')[0].trim();
+  if (raw === 'ワンルーム') raw = '1R';
+  return raw || '1K';
+}
 function layoutOptions(){
   const allHomes = activeHomes();
   const set = [...new Set(allHomes.map(layoutClass))];
-  const order = ['1R','1K','1DK','1LDK','1SLDK','2K','2DK','2LDK','3DK','3LDK'];
-  return set.sort((a,b)=>order.indexOf(a)-order.indexOf(b));
+  const order = ['1R','1K','1DK','1LDK','1SLDK','2K','2DK','2LDK','3DK','3LDK','4LDK'];
+  return set.sort((a,b) => {
+    const ia = order.indexOf(a), ib = order.indexOf(b);
+    if (ia !== -1 && ib !== -1) return ia - ib;
+    if (ia !== -1) return -1;
+    if (ib !== -1) return 1;
+    return a.localeCompare(b);
+  });
 }
 function homesView(){
-  const hs = filteredHomes();
   const allHomes = activeHomes();
+  if (allHomes.length === 0 && !heavyDataLoaded) {
+    return `
+    <p class="kick">${esc(t('homes_kick'))}</p>
+    <h1>${esc(t('homes_h1'))}</h1>
+    <p class="sub">${esc(t('homes_sub'))}</p>
+    <div class="homes-count-banner">
+      <span><b>${esc(LANG.cur==='ja' ? '物件データを読み込み中…' : 'Loading inventory data…')}</b></span>
+    </div>
+    <div class="grid">
+      ${Array.from({length: 8}).map(() => `<div class="skeleton-card"></div>`).join('')}
+    </div>`;
+  }
+  const hs = filteredHomes();
+  const visibleHomes = hs.slice(0, homesPage * PAGE_SIZE);
+  const hasMore = visibleHomes.length < hs.length;
   const stList = activeStations();
   const goalMin = activeGoalMin();
   const nLive = allHomes.filter(l => l.status !== 'FILLED' && l.tier === 'LIVE').length;
@@ -1531,6 +1668,7 @@ function homesView(){
   const nLuxury = allHomes.filter(l=>l.rent>=300000).length;
   const nGoal = allHomes.filter(l => {
     const med = calcCommute(l.st, state.dest).median;
+    if (med == null) return false;
     return (goalMin <= 30) ? Math.abs(med - goalMin) <= 5 : med <= goalMin;
   }).length;
   const nDirect = allHomes.filter(l => calcCommute(l.st, state.dest).direct).length;
@@ -1549,17 +1687,27 @@ function homesView(){
   const ribbonNodes = stList.map(s => {
     const count = stCounts[s.id] || 0;
     const isCur = state.fStation === s.id;
+    const vClass = count === 0 ? 'v-0' : count < 20 ? 'v-1' : count < 100 ? 'v-2' : count < 500 ? 'v-3' : 'v-4';
     return `<div class="ribbon-st ${isCur?'on':''}" data-stfilter="${s.id}" title="${esc(s.en)} (${esc(s.ja)}): ${count} ${esc(t('n_homes'))}">
-      <div class="ribbon-dot ${s.tier>1?'exp':''} ${count>0?'has-homes':''}"></div>
+      <div class="ribbon-dot-wrap">
+        <div class="ribbon-dot ${vClass} ${s.tier>1?'exp':''} ${count>0?'has-homes':''}"></div>
+      </div>
       <div class="ribbon-name">${esc(LANG.cur==='ja'?s.ja:s.en)}</div>
       <div class="ribbon-count ${count===0?'zero':''}">${count}</div>
     </div>`;
   }).join('');
 
+  const goalDesc = goalMin <= 30
+    ? (LANG.cur==='ja' ? `目標 ${goalMin}分` : `${goalMin}′ goal`)
+    : (LANG.cur==='ja' ? `上限 ${goalMin}分` : `${goalMin}′ limit`);
+  const subCopy = LANG.cur === 'ja'
+    ? `LIVEカードはSUUMO等から取得した実在の募集（家賃は原文のまま・出典リンク付き）。REPカードは未取得駅の相場代表値で、その旨明記。ダイヤルは${goalDesc}に対するドア・ツー・ホームの通勤所要時間。`
+    : `LIVE cards are real listings pulled from SUUMO with source links — rents quoted exactly. REP cards are market-rate stand-ins for stations with no live listing yet, and say so. Dial = door-to-platform commute vs the ${goalDesc}.`;
+
   return `
   <p class="kick">${esc(t('homes_kick'))}</p>
   <h1>${esc(t('homes_h1'))}</h1>
-  <p class="sub">${esc(t('homes_sub'))}</p>
+  <p class="sub">${subCopy}</p>
 
   <!-- Preattentive Scope Deck -->
   <div class="scope-deck" aria-label="Corridor Scope Summary">
@@ -1569,27 +1717,26 @@ function homesView(){
       <div class="subtxt"><b>${nLive}</b> ${esc(t('live_badge'))} · ${nRep} ${esc(t('rep_badge'))}</div>
     </div>
     <div class="scope-card">
-      <div class="label">${esc(LANG.cur==='ja'?'賃料相場帯':'Rent Spread')}</div>
+      <div class="label">${esc(LANG.cur==='ja'?'賃料レンジ':'Rent Range')}</div>
       <div class="num">${man(medRent)}</div>
-      <div class="subtxt">${yen(minRent)} – ${yen(maxRent)} (${esc(LANG.cur==='ja'?'中央値':'median')})</div>
+      <div class="subtxt">${yen(minRent)} – ${yen(maxRent)} (${esc(LANG.cur==='ja'?'中央値':'median')} ${man(medRent)})</div>
     </div>
     <div class="scope-card">
-      <div class="label">${esc(LANG.cur==='ja'?'路線カバー数':'Stations Covered')}</div>
-      <div class="num">${stationsWithHomes}<small style="font-size:18px;color:var(--muted)">/${stList.length}</small></div>
-      <div class="subtxt"><b>${nDirect}</b> ${esc(LANG.cur==='ja'?'直通運転':'direct to desk')}</div>
+      <div class="label">${esc(LANG.cur==='ja'?'カバー駅数':'Stations Covered')}</div>
+      <div class="num">${stationsWithHomes}</div>
+      <div class="subtxt"><b>${nDirect}</b> ${esc(LANG.cur==='ja'?'直通運転':'direct to destination')}</div>
     </div>
     <div class="scope-card">
-      <div class="label">${esc(LANG.cur==='ja'?'目標通勤適合':'Within ±5′ of Goal')}</div>
+      <div class="label">${esc(goalMin <= 30 ? (LANG.cur==='ja'?'目標±5分以内':'Within ±5′ of Goal') : (LANG.cur==='ja'?'通勤時間内':'Within Time Budget'))}</div>
       <div class="num"><b>${nGoal}</b></div>
-      <div class="subtxt"><b>${nLuxury}</b> ${esc(t('tier_luxury'))}</div>
+      <div class="subtxt"><b>${nLuxury}</b> ${esc(t('tier_luxury'))} · <b>${nUnder100}</b> ${esc(LANG.cur==='ja'?'10万以下':'≤ ¥100k')}</div>
     </div>
   </div>
-
   <!-- Preattentive Corridor Transit Ribbon -->
   <div class="ribbon-wrap" aria-label="Corridor Station Distribution">
     <div class="ribbon-head">
-      <span class="ribbon-title">${esc(LANG.cur==='ja'?'沿線分布 · 駅をクリックで絞り込み':'Corridor Distribution · Click station to filter')}</span>
-      <span class="ribbon-hint">${state.fStation==='all'?esc(LANG.cur==='ja'?'全駅表示中':'Showing all stations'):`Filtered: <b>${esc(stList.find(s=>s.id===state.fStation)?.[LANG.cur==='ja'?'ja':'en']||state.fStation)}</b> (${stCounts[state.fStation]||0})`}</span>
+      <span>${esc(LANG.cur==='ja'?'沿線各駅の掲載物件分布':'Station Listing Volume Along Corridor')}</span>
+      <span style="margin-left:auto">${stationsWithHomes} / ${stList.length} ${esc(LANG.cur==='ja'?'駅に物件あり':'stations')}</span>
     </div>
     <div class="corridor-ribbon">
       <div class="ribbon-track"></div>
@@ -1618,12 +1765,12 @@ function homesView(){
       🚅 ${esc(t('direct'))} <span class="q-count">${nDirect}</span>
     </button>
     <button class="quick-chip ${state.fQuick==='under100k'?'on':''}" data-qfilter="under100k">
-      ≤ ¥100k <span class="q-count">${nUnder100}</span>
+      ${esc(LANG.cur==='ja'?'≤ 10万円':'≤ ¥100k')} <span class="q-count">${nUnder100}</span>
     </button>
     <button class="quick-chip ${state.fQuick==='family'?'on':''}" data-qfilter="family">
       2LDK+ ${esc(LANG.cur==='ja'?'ファミリー':'Family')} <span class="q-count">${nFamily}</span>
     </button>
-    ${(state.fStation!=='all' || state.fPocket!=='all' || state.fLayout!=='all' || state.fTier!=='all' || state.fQuick!=='all' || state.sort!=='goal') ?
+    ${(state.fStation!=='all' || state.fPocket!=='all' || state.fLayout!=='all' || state.fTier!=='all' || state.fQuick!=='all' || state.sort!=='goal' || (state.q||'').trim()) ?
       `<button class="quick-chip" data-qfilter="clear" style="margin-left:auto;color:var(--shu);border-color:var(--shu)">
         ✕ ${esc(LANG.cur==='ja'?'リセット':'Clear filters')}
       </button>` : ''}
@@ -1670,6 +1817,35 @@ function homesView(){
     <span class="count">${hs.length} ${esc(t('n_homes'))}</span>
   </div>
   ${(() => {
+    if (state.fStation === 'all') return '';
+    const stObj = activeStations().find(s => s.id === state.fStation) || getAllCorridorStations().find(s => s.id === state.fStation);
+    if (!stObj) return '';
+    const a = areaFor(stObj.id) || {};
+    const c = calcCommute(stObj.id, state.dest);
+    const svcClass = stObj.tier === 3 ? (LANG.cur === 'ja' ? '快特・特急停車' : 'Ltd-express stop') : stObj.tier === 2 ? (LANG.cur === 'ja' ? '特急・急行停車' : 'Express stop') : (LANG.cur === 'ja' ? '普通のみ' : 'Local only');
+    const dObj = activeDests().find(d => d.id === state.dest) || DESTS[0];
+    return `
+    <div class="station-dossier-card">
+      <div style="display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+        <h3 style="margin:0;font-size:18px;font-weight:700;display:flex;align-items:center;gap:8px;">
+          <span>🚉</span> ${esc(LANG.cur === 'ja' ? stObj.ja : stObj.en)}
+          <span style="font-size:13px;font-weight:normal;color:var(--muted);">${esc(LANG.cur === 'ja' ? stObj.en : stObj.ja)} ${stObj.num ? `(${stObj.num})` : ''}</span>
+          <span style="font-size:12px;font-weight:normal;color:var(--muted);background:var(--tag-bg,#f3f4f6);padding:2px 8px;border-radius:4px;">${esc(svcClass)}</span>
+        </h3>
+        <div style="display:flex;gap:12px;font-size:13px;color:var(--muted);flex-wrap:wrap;align-items:center;">
+          <span><b>${hs.length}</b> ${esc(t('n_homes'))}</span>
+          ${c.median != null ? `<span>→ ${esc(tx(dObj))}: <b>${c.walkOnly ? '0' : c.median}′</b> <small>(${c.direct ? t('direct') : t('transfer') + ' ×' + c.transfers})</small></span>` : ''}
+          ${a.quiet ? `<span>🤫 ${LANG.cur === 'ja' ? '静穏' : 'Quiet'} <b>${a.quiet.v}/5</b></span>` : ''}
+          <button type="button" class="mini" data-area="${stObj.id}" style="cursor:pointer;padding:4px 10px;font-size:12px;">
+            ${esc(LANG.cur === 'ja' ? '駅ファイル' : 'Station Area File')} →
+          </button>
+        </div>
+      </div>
+      ${a.char ? `<p style="margin:0 0 6px 0;font-size:13.5px;line-height:1.5;color:var(--ink);">${esc(tx(a.char))}</p>` : ''}
+      ${stObj.stNote ? `<div style="font-size:12px;color:var(--muted);">${esc(tx(stObj.stNote))}</div>` : ''}
+    </div>`;
+  })()}
+  ${(() => {
     const pkObj = (state.fPocket !== 'all') ? activePockets().find(p => p.id === state.fPocket) : null;
     if (!pkObj) return '';
     const stObj = activeStations().find(s => s.id === pkObj.st);
@@ -1715,47 +1891,151 @@ function homesView(){
       </button>
     </div>` : ''}
   <p class="note"><b>${hs.length}</b> ${esc(t('n_homes'))} ${state.fStation!=='all'||state.fPocket!=='all'||state.fQuick!=='all'||state.fTier!=='all'?'matching filter':'across corridor'} · ${nLive} <b>LIVE</b> · ${nRep} REP · ${esc(LANG.cur==='ja'?'取得':'fetched')} ${FETCHED}</p>
-  <div class="grid">${hs.map(card).join('')}</div>`;
+  <div class="homes-count-banner">
+    <span><b>${esc(LANG.cur==='ja' ? `${hs.length.toLocaleString()}件中 ${visibleHomes.length.toLocaleString()}件を表示` : `Showing ${visibleHomes.length.toLocaleString()} of ${hs.length.toLocaleString()} homes`)}</b></span>
+    ${hasMore ? `<span style="color:var(--muted);">${esc(LANG.cur==='ja' ? 'スクロールまたはボタンで追加読み込み' : 'Scroll down or click below to load more')}</span>` : ''}
+  </div>
+  ${visibleHomes.length === 0 ? `
+    <div class="empty-results-box" role="status">
+      <div style="font-size:36px;margin-bottom:10px">🔍</div>
+      <h3 style="margin:0 0 8px;font-size:18px">${esc(LANG.cur==='ja'?'該当する物件が見つかりませんでした':'No matching homes found')}</h3>
+      <p style="margin:0 0 16px;color:var(--muted);font-size:13.5px">
+        ${state.q ? (LANG.cur==='ja' ? `「${state.q}」に一致する物件はありません。検索キーワードを変更するか、フィルターをリセットしてください。` : `No homes matched “${state.q}”. Try a different keyword or reset filters.`) : (LANG.cur==='ja' ? '選択した条件に一致する物件がありません。フィルターを解除してお試しください。' : 'No homes matched the current filters. Clear filters to browse all inventory.')}
+      </p>
+      <button type="button" class="cta" data-qfilter="clear" style="padding:8px 20px;font-size:13px;cursor:pointer">
+        ✕ ${esc(LANG.cur==='ja'?'条件をリセット':'Clear all filters')}
+      </button>
+    </div>` : `
+    <div class="grid" id="homesGrid">${visibleHomes.map(card).join('')}</div>
+  `}
+  ${hasMore ? `
+    <div class="load-more-wrap" id="loadMoreWrap">
+      <button type="button" class="cta" data-loadmore="1" style="padding:10px 28px;font-size:14px;cursor:pointer">
+        ${esc(LANG.cur==='ja' ? `さらに表示 (残り ${(hs.length - visibleHomes.length).toLocaleString()}件)` : `Load next 40 homes (${(hs.length - visibleHomes.length).toLocaleString()} remaining)`)}
+      </button>
+      <div id="homesSentinel" style="height:40px;margin-top:12px;"></div>
+    </div>` : (hs.length > 0 ? `
+    <p class="note" style="text-align:center;margin:28px 0">${esc(LANG.cur==='ja' ? 'すべての条件一致物件を表示しました' : 'All matching homes loaded')}</p>` : '')}`;
+}
+
+let sentinelIO = null;
+function initHomesSentinel(){
+  if (sentinelIO) sentinelIO.disconnect();
+  const sentinel = document.getElementById('homesSentinel');
+  if (!sentinel) return;
+  sentinelIO = new IntersectionObserver(entries => {
+    if (entries[0] && entries[0].isIntersecting){
+      loadNextPage();
+    }
+  }, { rootMargin: '300px' });
+  sentinelIO.observe(sentinel);
+}
+
+function loadNextPage(){
+  const hs = filteredHomes();
+  const currentCount = homesPage * PAGE_SIZE;
+  if (currentCount >= hs.length) return;
+  const nextHomes = hs.slice(currentCount, currentCount + PAGE_SIZE);
+  homesPage++;
+  const grid = document.getElementById('homesGrid');
+  if (grid && nextHomes.length){
+    grid.insertAdjacentHTML('beforeend', nextHomes.map(card).join(''));
+    bindCardVideos();
+  }
+  const banner = document.querySelector('.homes-count-banner span b');
+  const nowVisible = Math.min(homesPage * PAGE_SIZE, hs.length);
+  if (banner){
+    banner.textContent = LANG.cur==='ja'
+      ? `${hs.length.toLocaleString()}件中 ${nowVisible.toLocaleString()}件を表示`
+      : `Showing ${nowVisible.toLocaleString()} of ${hs.length.toLocaleString()} homes`;
+  }
+  const wrap = document.getElementById('loadMoreWrap');
+  if (nowVisible >= hs.length && wrap){
+    wrap.innerHTML = `<p class="note" style="text-align:center;margin:20px 0">${esc(LANG.cur==='ja' ? 'すべての条件一致物件を表示しました' : 'All matching homes loaded')}</p>`;
+    if (sentinelIO) sentinelIO.disconnect();
+  } else if (wrap) {
+    const btn = wrap.querySelector('[data-loadmore]');
+    if (btn) {
+      btn.textContent = LANG.cur==='ja'
+        ? `さらに表示 (残り ${(hs.length - nowVisible).toLocaleString()}件)`
+        : `Load next 40 homes (${(hs.length - nowVisible).toLocaleString()} remaining)`;
+    }
+  }
 }
 function rentLine(l){
   let s = `<span class="rentline">${yen(l.rent)}`;
   if (l.rentMax) s += `<small>–${yen(l.rentMax)}</small>`;
-  s += `<small>${esc(t('rent_mo'))}${l.mgmt?` +${man(l.mgmt)} ${esc(t('mgmt'))}`:''}</small></span>`;
+  const mgmtStr = l.mgmt ? (LANG.cur==='ja' ? ` +${man(l.mgmt)} ${esc(t('mgmt'))}` : ` +${yen(l.mgmt)} ${esc(t('mgmt'))}`) : '';
+  s += `<small>${esc(t('rent_mo'))}${mgmtStr}</small></span>`;
   return s;
 }
+function formatLineName(lineStr){
+  if (!lineStr) return '';
+  if (LANG.cur !== 'ja') return lineStr;
+  const map = {
+    'Tokyu Toyoko Line': '東急東横線',
+    'Tokyu Den-en-toshi Line': '東急田園都市線',
+    'Odakyu Odawara Line': '小田急小田原線',
+    'Tokyo Metro Hibiya Line': '東京メトロ日比谷線',
+    'Keikyu Main Line': '京急本線',
+    'Toei Asakusa Line': '都営浅草線',
+    'JR Yamanote Line': 'JR山手線',
+    'JR Keihin-Tohoku Line': 'JR京浜東北線',
+    'Toyoko Line': '東急東横線',
+    'Den-en-toshi Line': '東急田園都市線',
+    'Odakyu Line': '小田急小田原線',
+    'Hibiya Line': '東京メトロ日比谷線',
+    'Keikyu Line': '京急本線'
+  };
+  return map[lineStr] || lineStr;
+}
+function formatVelocityDesc(desc){
+  if (!desc) return '';
+  if (LANG.cur !== 'ja') return desc;
+  if (desc.includes('Keio campus')) return '慶應義塾大学キャンパス側の高い学生・通勤者流動';
+  if (desc.includes('central transit corridor')) return '主要通勤沿線における活発な賃貸需要';
+  if (desc.includes('suburban enclave')) return '閑静な住宅街における安定した賃貸稼働';
+  return desc;
+}
 function card(l){
-  const st = activeStations().find(s => s.id === l.st) || (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[l.st]]) || { en:l.st, ja:l.st, num:'' };
+  const st = getAllCorridorStations().find(s => s.id === l.st) || activeStations().find(s => s.id === l.st) || (typeof S_IDX !== 'undefined' && STATIONS[S_IDX[l.st]]) || (l.listed?.st?.en ? { en: l.listed.st.en, ja: l.listed.st.ja, num: '' } : { en: l.st, ja: l.st, num: '' });
   const c = calcCommute(l.st, state.dest);
   if (l.approx) c.approxMark = '≈';
-  const gd = c.median - activeGoalMin();
+  const gd = c.median != null ? c.median - activeGoalMin() : null;
   const loved = state.loved.has(l.id);
   const listedName = l.listed ? tx(l.listed.st) : '';
-  const listedDiff = l.listed && listedName !== (LANG.cur==='ja'?st.ja:st.en);
+  const curStName = LANG.cur==='ja' ? st.ja : st.en;
+  const altStName = LANG.cur==='ja' ? st.en : st.ja;
+  const listedDiff = l.listed && listedName && listedName.toLowerCase() !== (curStName || '').toLowerCase();
   const isFilled = l.status === 'FILLED';
-  return `<button class="card ${isFilled?'is-filled':''}" data-case="${l.id}" aria-label="${esc(tx(l.name))}">
+  const titleClean = cleanTitle(tx(l.name));
+  return `<div class="card ${isFilled?'is-filled':''}" role="article" tabindex="0" data-case="${l.id}" aria-label="${esc(titleClean)}">
     <div class="cardtop">
       <div class="madori">${madori(l)}</div>
-      <div>${rentLine(l)}<div class="factline">${esc(l.layout)}${l.m2?` · ${l.m2}${l.m2Max?'–'+l.m2Max:''}m²`:''}${l.built?` · ${esc(l.built)}`:''}</div></div>
+      <div>
+        ${rentLine(l)}
+        <div class="factline">${esc(l.layout)}${l.m2?` · ${l.m2}${l.m2Max?'–'+l.m2Max:''}m²`:''}${l.built?` · ${esc(formatBuilt(l.built))}`:''}</div>
+      </div>
       ${dial(c)}
     </div>
-    ${((typeof HERO_VISUALS !== 'undefined') && HERO_VISUALS[l.id]) ? bldgStrip(l.id, 'card') : essStrip(l.st, 'card')}
-    <div class="cardmid">
-      <div class="stline">${esc(LANG.cur==='ja'?st.ja:st.en)} <span class="ja">${esc(LANG.cur==='ja'?st.en:st.ja)}</span>${l.listed?` <span class="ja">· ${listedDiff?esc(listedName)+' ':''}${l.listed.walk?l.listed.walk+'′':''}</span>`:''}</div>
-      <div class="factline">${esc(tx(l.name))}</div>
+    <div class="card-facts-header">
+      <div class="stline">${esc(curStName)}${altStName && altStName !== curStName ? ` <span class="ja">${esc(altStName)}</span>` : ''}${l.listed?` <span class="ja">· ${listedDiff?esc(listedName)+' ':''}${l.listed.walk?l.listed.walk+'′':''}</span>`:''}</div>
+      <div class="titleline">${esc(titleClean)}</div>
       <div class="commline">
         <span class="badge ${isFilled?'b-filled':(l.tier==='LIVE'?'b-live':'b-rep')}">${esc(isFilled ? (LANG.cur==='ja'?'成約参考':'LEASED REF') : (l.tier==='LIVE'?t('live_badge'):t('rep_badge')))}</span>
         ${l.en_agent?`<span class="badge b-en">${esc(t('en_badge'))}</span>`:''}
         ${l.rent>=300000?`<span class="badge b-luxury">${esc(t('luxury_badge'))}</span>`:''}
-        <span class="badge ${c.direct?'b-direct':'b-transfer'}">${esc(c.direct?t('direct'):t('transfer')+' ×'+c.transfers)}</span>
-        <span class="badge b-goal">${gd>0?'+':''}${gd.toFixed(1)}′</span>
-        <span class="badge b-rep">p90 ${c.p90}′</span>
+        ${c.median!=null ? `<span class="badge ${c.direct?'b-direct':'b-transfer'}">${esc(c.direct?t('direct'):t('transfer')+' ×'+c.transfers)}</span>` : ''}
+        ${gd!=null ? `<span class="badge b-goal">${gd>0?'+':''}${gd.toFixed(1)}′</span>` : `<span class="badge b-rep">—</span>`}
+        ${c.p90!=null ? `<span class="badge b-rep">p90 ${c.p90}′</span>` : ''}
         ${noiseSummary(l.st)?`<span class="badge b-transfer" title="${esc(tx(noiseSummary(l.st)))}">⚠ ${esc(t('noise_chip'))}</span>`:''}
       </div>
     </div>
+    ${((typeof HERO_VISUALS !== 'undefined') && HERO_VISUALS[l.id]) ? bldgStrip(l.id, 'card') : essStrip(l.st, 'card')}
     ${(() => {
       const pkt = pocketForListing(l);
       if (!pkt) return '';
-      return `<div class="card-pocket-bar" data-pocket="${pkt.id}" title="${esc(tx(pkt.name))}">
+      return `<div class="card-pocket-bar" role="button" tabindex="0" data-pocket="${pkt.id}" title="${esc(tx(pkt.name))}">
         <span class="pkt-badge">🏮 ${esc(tx(pkt.name))}</span>
         <span class="pkt-gem">${esc(tx(pkt.gem))}</span>
         <span class="pkt-link">${esc(LANG.cur==='ja'?'街角カルテ':'Pocket')} →</span>
@@ -1763,20 +2043,24 @@ function card(l){
     })()}
     ${(() => {
       const v = l.vitals;
-      if (!v) return '';
-      const hbText = v.heartbeat_age_min < 60 ? (v.heartbeat_age_min + 'm') : (Math.round(v.heartbeat_age_min/60) + 'h');
-      return `<div class="card-vitals-bar" title="MIMIC-III Telemetry · ${esc(v.velocity_tier)}">
-        <span class="vitals-chip-tag"><span class="vitals-dot"></span>${esc(v.velocity_icon)} <b>${v.days_on_market}d</b> ${esc(LANG.cur==='ja'?'掲載経過':'on market')}</span>
-        <span class="vitals-chip-pace">${esc(v.velocity_tier === 'High Velocity' ? (LANG.cur==='ja'?'⚡ 高回転':'⚡ Fast') : (LANG.cur==='ja'?'⏱️ 標準':'⏱️ Standard'))} · ${esc(LANG.cur==='ja'?'巡回':'Pulse')} ${hbText} ${esc(LANG.cur==='ja'?'前':'ago')}</span>
+      if (!v || l.tier === 'REP' || l.status === 'FILLED') return '';
+      const dom = Math.round(v.days_on_market);
+      const domLabel = LANG.cur==='ja' ? `${dom}日前に掲載` : `Listed ${dom}d ago`;
+      const paceLabel = v.velocity_tier === 'High Velocity'
+        ? (LANG.cur==='ja'?'⚡ 高回転エリア':'⚡ Fast-moving area')
+        : (LANG.cur==='ja'?'⏱️ 標準ペース':'⏱️ Standard pace');
+      return `<div class="card-vitals-bar" title="${esc(paceLabel)}">
+        <span class="vitals-chip-tag"><span class="vitals-dot"></span><b>${domLabel}</b></span>
+        <span class="vitals-chip-pace">${esc(paceLabel)}</span>
       </div>`;
     })()}
     ${matchLine(qMatch('listing', l).reasons)}
     <div class="cardacts">
-      <span class="mini">${esc(t('case_btn'))}</span>
-      <span class="mini ${loved?'loved':''}" data-love="${l.id}">♥ ${esc(t('love_btn'))}</span>
-      <span class="mini" data-area="${l.st}">${esc(t('area_btn'))}: ${esc(LANG.cur==='ja'?st.ja:st.en)}</span>
+      <button type="button" class="mini" data-case="${l.id}">${esc(t('case_btn'))}</button>
+      <button type="button" class="mini ${loved?'loved':''}" data-love="${l.id}">♥ ${esc(t('love_btn'))}</button>
+      <button type="button" class="mini" data-area="${l.st}">${esc(t('area_btn'))}: ${esc(LANG.cur==='ja'?st.ja:st.en)}</button>
     </div>
-  </button>`;
+  </div>`;
 }
 
 /* ————— case sheet ————— */
@@ -1789,16 +2073,31 @@ function openCase(id){
   const dList = activeDests();
   const commRows = dList.map(d => {
     const c = calcCommute(l.st, d.id);
+    if (c.median == null) {
+      return `<tr><td>${esc(tx(d))}</td><td>—</td><td>—</td><td><span class="badge b-rep">${esc(LANG.cur==='ja'?'未計算':'not modelled')}</span></td></tr>`;
+    }
     return `<tr><td>${esc(tx(d))}</td><td>${c.walkOnly?esc(t('walkonly')):(l.approx?'≈':'')+c.median+'′'}</td><td>${c.walkOnly?'—':c.p90+'′'}</td>
       <td>${c.walkOnly?'':`<span class="badge ${c.direct?'b-direct':'b-transfer'}">${esc(c.direct?t('direct'):t('transfer')+' ×'+c.transfers)}</span>`}</td></tr>`;
   }).join('');
   const a = areaFor(l.st) || {};
   const dep = l.deposit_mo!=null ? (l.deposit_mo===0?'0':l.deposit_mo+' mo') : l.deposit_yen!=null ? yen(l.deposit_yen) : '—';
   const key = l.key_mo!=null ? (l.key_mo===0?'0':l.key_mo+' mo') : l.key_yen!=null ? yen(l.key_yen) : '—';
-  $('#overlay').innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(tx(l.name))}">
+  const titleClean = cleanTitle(tx(l.name));
+  const subTitleClean = cleanTitle(ty(l.name));
+  const hasDistinctSub = subTitleClean && subTitleClean.toLowerCase() !== titleClean.toLowerCase();
+  $('#overlay').innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(titleClean)}">
     <button type="button" class="sheet-close" data-close="1" aria-label="${esc(t('close'))}">✕</button>
-    <h2>${esc(tx(l.name))} <span class="badge ${l.tier==='LIVE'?'b-live':'b-rep'}">${esc(l.tier==='LIVE'?t('live_badge'):t('rep_badge'))}</span>${l.en_agent?` <span class="badge b-en">${esc(t('en_badge'))}</span>`:''}</h2>
-    <p class="jah">${esc(ty(l.name)||'')} · ${esc(LANG.cur==='ja'?st.ja:st.en)}${l.listed?` · ${esc(tx(l.listed.st))}${l.listed.walk?' '+l.listed.walk+'′':''}${l.listed.line?' · '+esc(l.listed.line):''}`:''}</p>
+    <h2>${esc(titleClean)} <span class="badge ${l.tier==='LIVE'?'b-live':'b-rep'}">${esc(l.tier==='LIVE'?t('live_badge'):t('rep_badge'))}</span>${l.en_agent?` <span class="badge b-en">${esc(t('en_badge'))}</span>`:''}</h2>
+    <p class="jah">${hasDistinctSub ? esc(subTitleClean) + ' · ' : ''}${esc(LANG.cur==='ja'?st.ja:st.en)}${l.listed?` · ${esc(tx(l.listed.st))}${l.listed.walk?' '+l.listed.walk+'′':''}${l.listed.line?' · '+esc(formatLineName(l.listed.line)):''}`:''}</p>
+    <div class="costgrid">
+      <div class="fact"><div class="k">${esc(LANG.cur==='ja'?'家賃':'Rent')}</div><div class="v">${yen(l.rent)}${l.rentMax?'–'+yen(l.rentMax):''}</div></div>
+      <div class="fact"><div class="k">${esc(t('mgmt'))}</div><div class="v">${l.mgmt?yen(l.mgmt):'—'}</div></div>
+      <div class="fact"><div class="k">${esc(t('deposit'))}</div><div class="v">${dep}</div></div>
+      <div class="fact"><div class="k">${esc(t('key'))}</div><div class="v">${key}</div></div>
+      <div class="fact"><div class="k">${esc(t('area_m2'))}</div><div class="v">${l.m2?l.m2+(l.m2Max?'–'+l.m2Max:'')+'m²':'—'}</div></div>
+      <div class="fact"><div class="k">${esc(t('floor_age'))}</div><div class="v">${esc(formatBuilt(l.built))}</div></div>
+      ${eff!=null?`<div class="fact" style="border-color:var(--shu)"><div class="k" style="color:var(--shu)">${esc(t('eff_cost'))}</div><div class="v">${yen(eff)}</div><div class="k" style="text-transform:none;letter-spacing:.3px">${esc(t('eff_note'))}</div></div>`:''}
+    </div>
     <div class="shadowbox-container" id="caseShadowboxViewport">
       <div class="shadowbox-badge">🏮 LIVING 3D SHADOWBOX · 和紙立体図 <i data-bldginfo="${l.id}" role="button" tabindex="0" style="margin-left:6px;cursor:pointer;font-style:normal" aria-label="${esc(t('ess_title'))}">ⓘ</i></div>
       <div class="shadowbox-controls">
@@ -1809,48 +2108,32 @@ function openCase(id){
       </div>
     </div>
     ${essStrip(l.st, true)}
-    <div class="costgrid">
-      <div class="fact"><div class="k">${esc(LANG.cur==='ja'?'家賃':'Rent')}</div><div class="v">${yen(l.rent)}${l.rentMax?'–'+yen(l.rentMax):''}</div></div>
-      <div class="fact"><div class="k">${esc(t('mgmt'))}</div><div class="v">${l.mgmt?yen(l.mgmt):'—'}</div></div>
-      <div class="fact"><div class="k">${esc(t('deposit'))}</div><div class="v">${dep}</div></div>
-      <div class="fact"><div class="k">${esc(t('key'))}</div><div class="v">${key}</div></div>
-      <div class="fact"><div class="k">${esc(t('area_m2'))}</div><div class="v">${l.m2?l.m2+(l.m2Max?'–'+l.m2Max:'')+'m²':'—'}</div></div>
-      <div class="fact"><div class="k">${esc(t('floor_age'))}</div><div class="v">${esc(l.built||'—')}</div></div>
-      ${eff!=null?`<div class="fact" style="border-color:var(--shu)"><div class="k" style="color:var(--shu)">${esc(t('eff_cost'))}</div><div class="v">${yen(eff)}</div><div class="k" style="text-transform:none;letter-spacing:.3px">${esc(t('eff_note'))}</div></div>`:''}
-    </div>
     ${(() => {
       const v = l.vitals;
-      if (!v) return '';
-      const hbText = v.heartbeat_age_min < 60 ? (v.heartbeat_age_min + 'm') : (Math.round(v.heartbeat_age_min/60) + 'h');
+      if (!v || l.tier === 'REP' || l.status === 'FILLED') return '';
+      const dom = Math.round(v.days_on_market);
+      const estDays = Math.round(v.expected_time_to_off_market_days || 30);
+      const paceLabel = v.velocity_tier === 'High Velocity'
+        ? (LANG.cur==='ja'?'⚡ 高回転エリア':'⚡ Fast-moving area')
+        : (LANG.cur==='ja'?'⏱️ 標準ペース':'⏱️ Standard pace');
       return `<div class="sect">
         <div class="vitals-dossier-card">
           <div class="vitals-dossier-header">
-            <span class="vitals-dossier-tag">🩺 CLINICAL LISTING VITALS · 物件カルテ</span>
-            <span class="vitals-pulse-badge">🟢 HTTP 200 · ${esc(LANG.cur==='ja'?'巡回検知済み':'Heartbeat Active')} (${hbText} ${esc(LANG.cur==='ja'?'前':'ago')})</span>
+            <span class="vitals-dossier-tag">${esc(LANG.cur==='ja'?'📅 掲載状況':'📅 Listing Status')}</span>
           </div>
           <div class="vitals-grid">
             <div class="v-cell">
-              <div class="vk">${esc(LANG.cur==='ja'?'市場掲載期間 (DoM)':'Days on Market')}</div>
-              <div class="vv">${v.days_on_market} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
-              <div class="vn">${esc(LANG.cur==='ja'?'初検知':'First Seen')}: ${l.first_seen ? l.first_seen.split('T')[0] : '—'}</div>
+              <div class="vk">${esc(LANG.cur==='ja'?'掲載からの日数':'Days Listed')}</div>
+              <div class="vv">${dom} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
+              <div class="vn">${esc(LANG.cur==='ja'?'初回確認':'First seen')}: ${l.first_seen ? l.first_seen.split('T')[0] : '—'}</div>
             </div>
             <div class="v-cell">
-              <div class="vk">${esc(LANG.cur==='ja'?'成約予測日数':'Est. Days till Leased')}</div>
-              <div class="vv">${v.expected_time_to_off_market_days} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
-              <div class="vn">${esc(v.velocity_icon)} ${esc(v.velocity_tier)}</div>
-            </div>
-            <div class="v-cell">
-              <div class="vk">${esc(LANG.cur==='ja'?'空室残存確率 S(t)':'Survival Probability')}</div>
-              <div class="vv">${v.survival_probability_pct}%</div>
-              <div class="vn">${esc(LANG.cur==='ja'?'カプランマイヤー推計':'Kaplan-Meier model')}</div>
-            </div>
-            <div class="v-cell">
-              <div class="vk">${esc(LANG.cur==='ja'?'構造・仕様判定':'Structure Vital')}</div>
-              <div class="vv">${esc(l.structure || 'RC')}</div>
-              <div class="vn">SHA256: <code>${(l.fingerprint || 'fp').slice(0,8)}</code></div>
+              <div class="vk">${esc(LANG.cur==='ja'?'このエリアでの平均掲載日数':'Typical availability in area')}</div>
+              <div class="vv">~${estDays} <small>${esc(LANG.cur==='ja'?'日':'days')}</small></div>
+              <div class="vn">${esc(paceLabel)}</div>
             </div>
           </div>
-          <div class="vitals-desc-note">ℹ️ <b>${esc(LANG.cur==='ja'?'エリア成約ペース':'Corridor Velocity')}:</b> ${esc(v.pocket_velocity_desc)}</div>
+          ${v.pocket_velocity_desc ? `<div class="vitals-desc-note">ℹ️ ${esc(formatVelocityDesc(v.pocket_velocity_desc))}</div>` : ''}
         </div>
       </div>`;
     })()}
@@ -1862,9 +2145,9 @@ function openCase(id){
       const pkt = pocketForListing(l);
       if (!pkt) return '';
       const radarMini = pkt.ax ? `<div class="commline" style="margin-top:8px">
-        <span class="badge b-rep">🤫 ${esc(LANG.cur==='ja'?'静寂':'Quiet')} ${pkt.ax.quiet}/5</span>
-        <span class="badge b-rep">🍜 ${esc(LANG.cur==='ja'?'食文化':'Food')} ${pkt.ax.food}/5</span>
-        <span class="badge b-rep">🌿 ${esc(LANG.cur==='ja'?'緑道':'Green')} ${pkt.ax.green}/5</span>
+        <span class="badge b-rep">🤫 ${esc(LANG.cur==='ja'?'静寂':'Quiet')} ${pkt.ax.quiet??3}/5</span>
+        <span class="badge b-rep">🍜 ${esc(LANG.cur==='ja'?'食文化':'Food')} ${pkt.ax.food??3}/5</span>
+        <span class="badge b-rep">🌿 ${esc(LANG.cur==='ja'?'緑道':'Green')} ${pkt.ax.green??3}/5</span>
         <span class="badge b-rep">🏮 ${esc(LANG.cur==='ja'?'風情':'Retro')} ${pkt.ax.old ?? pkt.ax.retro ?? 3}/5</span>
       </div>` : '';
       return `<div class="sect">
@@ -1875,7 +2158,7 @@ function openCase(id){
               ${esc(LANG.cur==='ja'?'この街角を詳しく見る':'Explore Pocket Dossier')} →
             </button>
           </div>
-          <h4 style="margin:6px 0 4px;font-size:16px">${esc(tx(pkt.name))} <small style="font-weight:normal;color:var(--muted)">${esc(ty(pkt.name))}</small></h4>
+          <h4 style="margin:6px 0 4px;font-size:16px">${esc(cleanTitle(tx(pkt.name)))} <small style="font-weight:normal;color:var(--muted)">${esc(cleanTitle(ty(pkt.name)))}</small></h4>
           <p style="margin:0;font-size:13.5px;color:var(--ink)">${esc(tx(pkt.gem))}</p>
           ${pkt.noiseWatch ? `<p class="note" style="color:var(--warn);margin:8px 0 0">⚠ <b>${esc(LANG.cur==='ja'?'環境留意点':'Environmental Watch')}:</b> ${esc(tx(pkt.noiseWatch))}</p>` : ''}
           ${radarMini}
@@ -1886,14 +2169,14 @@ function openCase(id){
       <p style="margin:0 0 10px">${esc(tx(a.char)||'')}</p>
       <div class="commline">
         ${a.quiet?`<span class="badge b-rep" title="${esc(t('noise_scale'))}">${esc(LANG.cur==='ja'?'夜':'quiet')} ${a.quiet.v}/5 <i class="tierchip tc-P">P</i></span>`:''}
-        ${a.air?`<span class="badge b-rep">${esc(LANG.cur==='ja'?'空気':'air')} ${'●'.repeat(a.air.band)}${'○'.repeat(3-a.air.band)} <i class="tierchip tc-P">P</i></span>`:''}
+        ${a.air?`<span class="badge b-rep">${esc(LANG.cur==='ja'?'空気':'air')} ${'●'.repeat(Math.max(1, Math.min(3, 4 - a.air.band)))}${'○'.repeat(Math.max(0, Math.min(2, a.air.band - 1)))} <i class="tierchip tc-P">P</i></span>`:''}
         ${a.uber?`<span class="badge b-rep">Uber Eats: ${esc(a.uber.thin?t('uber_thin'):t('uber_yes'))} <i class="tierchip tc-E">E</i></span>`:''}
-        ${a.people?`<span class="badge b-rep">${esc(LANG.cur==='ja'?'外国人比率':'foreign share')} ${esc(a.people.foreign)} <i class="tierchip tc-E">E</i></span>`:''}
+        ${(a.people && a.people.foreign)?`<span class="badge b-rep">${esc(LANG.cur==='ja'?'外国人比率':'foreign share')} ${esc(a.people.foreign)} <i class="tierchip tc-E">E</i></span>`:''}
         ${a.noise?`<span class="badge b-transfer">⚠ ${esc(t('noise_chip'))} ×${a.noise.length} <i class="tierchip tc-E">E</i></span>`:''}
       </div>
       ${a.noise?`<p class="note" style="color:var(--warn);margin:10px 0 0">⚠ ${esc(tx(noiseSummary(l.st)))}</p>`:''}
       ${a.senses?`<p class="note" style="margin:10px 0 0">👃 ${senseHtml(a.senses)}</p>`:''}
-      <p style="margin:10px 0 0"><span class="mini" data-area="${l.st}">${esc(LANG.cur==='ja'?'街ファイルを開く':'Open the full area file')} →</span></p>
+      <p style="margin:10px 0 0"><button type="button" class="mini" data-area="${l.st}">${esc(LANG.cur==='ja'?'街ファイルを開く':'Open the full area file')} →</button></p>
     </div>` : ''}
     <div class="sect">
       <details class="ledger"><summary>${esc(t('sheet_ledger'))}</summary><div class="schema">${esc(l.tier==='LIVE'
@@ -1910,11 +2193,13 @@ function openCase(id){
     <div class="sheetacts">
       <a class="cta" href="${esc(l.url)}" target="_blank" rel="noopener">${esc(t('open_src'))} ↗</a>
       ${l.mapUrl ? `<a class="cta cta-maps" href="${esc(l.mapUrl)}" target="_blank" rel="noopener">Google Maps 📍</a>` : ''}
-      <span class="cta ghost" data-love="${l.id}">♥ ${esc(t('love_btn'))}</span>
-      <span class="cta ghost" data-close="1">${esc(t('close'))}</span>
+      <button type="button" class="cta ghost" data-love="${l.id}">♥ ${esc(t('love_btn'))}</button>
+      <button type="button" class="cta ghost" data-close="1">${esc(t('close'))}</button>
     </div>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  const sheetC = $('#overlay').querySelector('.sheet');
+  if (sheetC) { sheetC.setAttribute('tabindex', '-1'); (sheetC.querySelector('.sheet-close') || sheetC).focus(); }
   if (typeof KantoShadowbox !== 'undefined' && KantoShadowbox.mount) {
     const sb = KantoShadowbox.mount('caseShadowboxViewport', l, { timeOfDay: 'dusk' });
     const sbBtns = $('#overlay').querySelectorAll('[data-sb-tod]');
@@ -1949,18 +2234,19 @@ function openArea(sid){
   $('#overlay').innerHTML = `<div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(st.en)}">
     <button type="button" class="sheet-close" data-close="1" aria-label="${esc(t('close'))}">✕</button>
     <h2>${esc(LANG.cur==='ja'?st.ja:st.en)} <span class="ja" style="font-size:15px">${esc(LANG.cur==='ja'?st.en:st.ja)} · ${st.num}</span></h2>
-    <p class="jah">${esc(tx(w))}${ty(w)?' '+esc(ty(w)):''} · ${esc(svcClass)}</p>
+    <p class="jah">${esc(tx(w))}${(ty(w) && ty(w).toLowerCase() !== tx(w).toLowerCase()) ? ' ' + esc(ty(w)) : ''} · ${esc(svcClass)}</p>
     ${essStrip(sid, true)}
     <p style="margin:4px 0 14px">${esc(tx(a.char)||'')}</p>
+    <p class="provrow" style="margin:0 0 10px">${['V','S','P','E','Q'].map(x=>`${tierChip(x)} ${esc(t('tier_'+x))}`).join(' · ')}</p>
     <div class="areagrid">
-      ${afact(t('area_rail'), 'E', `${esc(svcClass)} · ${esc(LANG.cur==='ja'?'日中間隔':'daytime headway')} ~${st.hw}′ · → ${esc(destName)}: <b>${c.walkOnly?esc(t('walkonly')):c.median+'′ '+esc(t('med'))+' · '+c.p90+'′ p90'}</b>${st.airport?` · ✈ ${esc(LANG.cur==='ja'?'空港線分岐':'airport line junction')}`:''}${st.junction?` · ${esc(t('corr_through'))}`:''}`, 'ODPT')}
+      ${afact(t('area_rail'), 'E', `${esc(svcClass)} · ${esc(LANG.cur==='ja'?'日中間隔':'daytime headway')} ~${st.hw}′ · → ${esc(destName)}: <b>${!c ? '—' : c.walkOnly?esc(t('walkonly')):c.median+'′ '+esc(t('med'))+' · '+c.p90+'′ p90'}</b>${st.airport?` · ✈ ${esc(LANG.cur==='ja'?'空港線分岐':'airport line junction')}`:''}${st.junction?` · ${esc(t('corr_through'))}`:''}`, 'ODPT')}
       ${a.quiet?afact(t('area_quiet'), 'P', `<b>${a.quiet.v}/5</b> — ${esc(tx(a.quiet.why))}<br><small>${esc(t('noise_scale'))} · ${esc(LANG.cur==='ja'?'式：基準3、通過・幹線・工場・夜街・街宣・混雑で−、寺社・運河・裏路地で+':'formula: base 3 · − express trains, trunk roads, industry, nightlife, sound trucks, tourist crowding · + temple, canal, residential back-grid insulation')}</small>`):''}
       ${a.crime?afact(t('area_safety'), 'E', esc(tx(a.crime)), LANG.cur==='ja'?'警察オープンデータ':'police open data'):''}
       ${a.noise?afact(t('area_noisewatch'), 'E', a.noise.map(ev=>{
         const typeLab = (typeof NOISE_TYPE_LABELS !== 'undefined' && NOISE_TYPE_LABELS[ev.type]) ? tx(NOISE_TYPE_LABELS[ev.type]) : ev.type;
         return `<b>${esc(typeLab)}</b> · <span style="color:var(--muted)">${esc(tx(ev.when))}</span><br>${esc(tx(ev))}${ev.tip?`<br><small style="color:var(--shu);display:block;margin-top:2px">💡 ${esc(tx(ev.tip))}</small>`:''}<br><small style="color:var(--muted)">${esc(ev.src||'—')}</small>`;
       }).join('<hr style="border:none;border-top:1px solid var(--line);margin:8px 0">')+`<br><small>${esc(tx(NOISE_REPORT))}</small>`, LANG.cur==='ja'?'苦情データ':'complaint data'):''}
-      ${a.air?afact(t('area_air'), 'P', `${'●'.repeat(a.air.band)}${'○'.repeat(3-a.air.band)} — ${esc(tx(a.air))}`, 'Soramame'):''}
+      ${a.air?afact(t('area_air'), 'P', `${'●'.repeat(Math.max(1, Math.min(3, 4 - a.air.band)))}${'○'.repeat(Math.max(0, Math.min(2, a.air.band - 1)))} — ${esc(tx(a.air))}`, 'Soramame'):''}
       ${a.senses?afact(t('area_feel'), 'E', senseHtml(a.senses), LANG.cur==='ja'?'気象庁+MLIT混雑率':'JMA weather + MLIT congestion'):''}
       ${a.people?afact(t('area_people'), 'E', `${a.people.foreign?`<b>${esc(LANG.cur==='ja'?'外国人比率':'foreign residents')} ${esc(a.people.foreign)}</b> · `:''}${esc(tx(a.people))}`, 'e-Stat'):''}
       ${afact(LANG.cur==='ja'?'家賃相場':'Rent market', 'S', `<table class="commtable" style="font-size:12.5px">${soubaRows}</table><small><a href="${esc(w.src)}" target="_blank" rel="noopener">${esc(tx(SOUBA_NOTE))} ↗</a></small>`)}
@@ -1971,13 +2257,14 @@ function openArea(sid){
       ${a.hobby?afact(t('area_hobby'), 'E', esc(tx(a.hobby))):''}
       ${a.photoOps?afact(t('area_photo'), 'E', `${esc(tx(a.photoOps))}<br><small>${esc(t('golden_label'))} ${goldenHour().start}–${goldenHour().end} <i class="tierchip tc-P" title="${esc(LANG.cur==='ja'?'太陽計算（NOAA近似・東京湾岸・±3分）':'computed (NOAA approx, Tokyo bay, ±3min)')}">P</i></small>`):''}
     </div>
-    <p class="provrow" style="margin-top:12px">${['V','S','P','E','Q'].map(x=>`${tierChip(x)} ${esc(t('tier_'+x))}`).join(' · ')}</p>
     <div class="sheetacts">
       <span class="cta" data-homesat="${sid}">${esc(LANG.cur==='ja'?'この駅の物件を見る':'See homes at this station')} →</span>
       <span class="cta ghost" data-close="1">${esc(t('close'))}</span>
     </div>
   </div>`;
   $('#overlay').hidden = false; kickVideos();
+  const sheetA = $('#overlay').querySelector('.sheet');
+  if (sheetA) { sheetA.setAttribute('tabindex', '-1'); (sheetA.querySelector('.sheet-close') || sheetA).focus(); }
 }
 
 /* ————— tikki radio ————— */
@@ -2013,9 +2300,9 @@ function radioView(){
   <div class="deckwrap"><div class="deckcard">
     <div class="cardtop">
       <div class="madori" style="width:110px;height:110px">${madori(l)}</div>
-      <div>${rentLine(l)}<div class="factline">${esc(l.layout)}${l.m2?` · ${l.m2}m²`:''}${l.built?` · ${esc(l.built)}`:''}</div>
+      <div>${rentLine(l)}<div class="factline">${esc(l.layout)}${l.m2?` · ${l.m2}m²`:''}${l.built?` · ${esc(formatBuilt(l.built))}`:''}</div>
         <div class="stline" style="margin-top:6px">${esc(LANG.cur==='ja'?st.ja:st.en)} <span class="ja">${esc(LANG.cur==='ja'?st.en:st.ja)}</span></div>
-        <div class="factline">${esc(tx(l.name))} · ${esc(l.srcName)}</div></div>
+        <div class="factline">${esc(cleanTitle(tx(l.name)))} · ${esc(l.srcName)}</div></div>
       ${dial(c)}
     </div>
     ${((typeof HERO_VISUALS !== 'undefined') && HERO_VISUALS[l.id]) ? bldgStrip(l.id, 'card') : essStrip(l.st, 'card')}
@@ -2030,11 +2317,11 @@ function radioView(){
     <div class="stamp" id="stamp" hidden></div>
   </div>
   <div class="verbbar">
-    <span class="verb v-pass" data-verdict="pass">✕ ${esc(t('pass'))}</span>
-    <span class="verb v-case" data-case="${l.id}">${esc(t('open_case'))}</span>
-    <span class="verb v-love" data-verdict="love">♥ ${esc(t('love'))}</span>
+    <button type="button" class="verb v-pass" data-verdict="pass">✕ ${esc(t('pass'))}</button>
+    <button type="button" class="verb v-case" data-case="${l.id}">${esc(t('open_case'))}</button>
+    <button type="button" class="verb v-love" data-verdict="love">♥ ${esc(t('love'))}</button>
   </div>
-  <p class="provrow" style="text-align:center;margin-top:8px">${esc(LANG.cur==='ja'?'← スキップ · → 好き · スペースで調書':'← skip · → love · space = case file')}</p></div>`;
+  <p class="provrow" style="text-align:center;margin-top:8px">${esc(LANG.cur==='ja'?'← スキップ · → 好き · スペースで物件概要':'← skip · → love · space = case file')}</p></div>`;
 }
 function judge(verdict){
   const r = state.radio; if (!r || r.i >= r.deck.length || r.timer) return;
@@ -2063,6 +2350,7 @@ function judge(verdict){
 function setView(v){
   if (state.radio && state.radio.timer){ clearTimeout(state.radio.timer); state.radio.timer = null; }  // R1 lesson
   state.view = v;
+  if (v === 'homes') homesPage = 1;
   if (location.hash !== '#'+v) history.replaceState(null, '', '#'+v);
   render();
 }
@@ -2070,7 +2358,10 @@ function render(){
   applyChrome();
   document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.v === state.view));
   const m = $('#main');
-  if (state.view === 'homes') m.innerHTML = homesView();
+  if (state.view === 'homes') {
+    m.innerHTML = homesView();
+    initHomesSentinel();
+  }
   else if (state.view === 'lines') {
     m.innerHTML = linesView();
     const topo = document.querySelector('.topo');
@@ -2113,14 +2404,25 @@ function toast(msg){
 document.addEventListener('click', e => {
   const ov = $('#overlay');
   if (e.target === ov){ if (typeof KantoShadowbox !== 'undefined') KantoShadowbox.unmount(); ov.hidden = true; return; }
-  const el = e.target.closest('[data-v],[data-case],[data-essinfo],[data-area],[data-love],[data-close],[data-verdict],[data-radiorestart],[data-gohomes],[data-homesat],[data-tgroup],[data-tline],[data-tstation],[data-tstation-clear],[data-bldginfo],[data-essplay],[data-pq],[data-pkstart],[data-pkskip],[data-pkredo],[data-pocket],[data-qfilter],[data-stfilter],[data-corridor-switch],[data-fservice],[data-stn-snap],[data-filter-stn],[data-open-dossier],#langbtn');
+  const el = e.target.closest('[data-v],[data-case],[data-essinfo],[data-area],[data-love],[data-close],[data-verdict],[data-radiorestart],[data-gohomes],[data-homesat],[data-tgroup],[data-tline],[data-tstation],[data-tstation-clear],[data-topocorr],[data-bldginfo],[data-essplay],[data-pq],[data-pkstart],[data-pkskip],[data-pkredo],[data-pocket],[data-qfilter],[data-stfilter],[data-corridor-switch],[data-fservice],[data-stn-snap],[data-filter-stn],[data-open-dossier],[data-loadmore],#langbtn');
   if (!el) return;
   if (el.id === 'langbtn'){ LANG.cur = LANG.cur === 'en' ? 'ja' : 'en'; render(); return; }
+  if (el.dataset.topocorr){
+    e.stopPropagation(); e.preventDefault();
+    state.topoCorridor = el.dataset.topocorr;
+    state.topoSelectedStation = null;
+    state.topoLine = null;
+    render();
+    return;
+  }
+  if (el.dataset.loadmore){ e.preventDefault(); loadNextPage(); return; }
   if (el.dataset.qfilter){
     e.preventDefault();
+    homesPage = 1;
     const qf = el.dataset.qfilter;
     if (qf === 'clear'){
-      state.fStation = 'all'; state.fPocket = 'all'; state.fLayout = 'all'; state.fTier = 'all'; state.fQuick = 'all'; state.sort = 'goal';
+      state.fStation = 'all'; state.fPocket = 'all'; state.fLayout = 'all'; state.fTier = 'all'; state.fQuick = 'all'; state.sort = 'goal'; state.q = '';
+      const qi = $('#q'); if (qi) qi.value = '';
     } else {
       state.fQuick = (state.fQuick === qf ? 'all' : qf);
       if (state.fQuick === 'luxury') state.fTier = 'LUXURY';
@@ -2132,6 +2434,7 @@ document.addEventListener('click', e => {
   }
   if (el.dataset.stfilter){
     e.preventDefault();
+    homesPage = 1;
     const sid = el.dataset.stfilter;
     state.fStation = (state.fStation === sid ? 'all' : sid);
     render(); return;
@@ -2235,6 +2538,7 @@ document.addEventListener('click', e => {
   if (el.dataset.gohomes){ if (state.taste) state.sort = 'radio'; setView('homes'); return; }
 });
 document.addEventListener('change', e => {
+  homesPage = 1;
   if (e.target.id === 'goalpick'){
     state.customGoalMin = parseFloat(e.target.value) || 26.5;
     toast((LANG.cur === 'ja' ? '通勤目標: ' : 'Commute goal: ') + state.customGoalMin + '′');
@@ -2274,7 +2578,20 @@ let qT = null;
 document.addEventListener('input', e => {
   if (e.target.id === 'q'){
     clearTimeout(qT);
-    qT = setTimeout(() => { state.q = e.target.value; if (['homes','pockets','corridor'].includes(state.view)){ const f = document.activeElement; render(); if (f && f.id==='q'){ const el=$('#q'); el.focus(); el.value = state.q; el.setSelectionRange(el.value.length, el.value.length); } } }, 180);
+    qT = setTimeout(() => {
+      homesPage = 1;
+      state.q = e.target.value;
+      if (['homes','pockets','corridor'].includes(state.view)){
+        const f = document.activeElement;
+        render();
+        if (f && f.id==='q'){
+          const el=$('#q');
+          el.focus();
+          el.value = state.q;
+          el.setSelectionRange(el.value.length, el.value.length);
+        }
+      }
+    }, 180);
   }
 });
 document.addEventListener('keydown', e => {
@@ -2282,6 +2599,11 @@ document.addEventListener('keydown', e => {
   if ((e.key === 'Enter' || e.key === ' ') && e.target && e.target.getAttribute && e.target.getAttribute('role') === 'button' && e.target.tabIndex >= 0){
     e.preventDefault();
     e.target.click();
+    return;
+  }
+  if ((e.key === 'Enter' || e.key === ' ') && e.target && e.target.dataset && e.target.dataset.case && e.target.classList.contains('card')){
+    e.preventDefault();
+    openCase(e.target.dataset.case);
     return;
   }
   if (state.view === 'radio' && $('#overlay').hidden){
@@ -2295,6 +2617,7 @@ document.addEventListener('keydown', e => {
 function switchCorridor(cid){
   if (!CORRIDORS[cid]) return;
   state.corridor = cid;
+  homesPage = 1;
   const cData = getActiveCorridor();
   const dList = (cData && cData.dests) ? cData.dests : DESTS;
   state.dest = dList[0] ? dList[0].id : (cid === 'keikyu' ? 'yokohama' : 'shibuya');
@@ -2352,6 +2675,7 @@ function switchCorridor(cid){
     if (state.view === 'corridor') state.activeStnDrawer = stnParam;
   }
   render();
+  setTimeout(loadHeavyData, 10);
   const caseId = new URLSearchParams(location.search).get('case') || (location.hash.match(/#case[=/]([\w-]+)/) || [])[1];
   if (caseId) {
     setTimeout(() => { openCase(caseId); }, 50);

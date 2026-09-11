@@ -378,8 +378,11 @@ class VitalsEngine:
         print(f"Closed episode {ep_id} for unit {fp}: {result['duration_days']} days till off-market ({exit_reason}).")
         return result
 
-    def compute_vitality_metrics(self, item: Dict[str, Any]) -> Dict[str, Any]:
+    def compute_vitality_metrics(self, item: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         """Calculate real-time telemetry metrics for edge frontend consumption."""
+        if item.get("tier") == "REP":
+            return None
+
         fp = item.get("fingerprint", "")
         now = datetime.datetime.now(datetime.timezone.utc)
 
@@ -391,10 +394,11 @@ class VitalsEngine:
             days_on_market = 3.5
 
         # Benchmark calculation
-        pocket = item.get("pocket", "pk_hiyoshi_west")
-        pocket_info = self.survival_benchmarks["by_pocket"].get(pocket, {
+        pocket = item.get("pocketId") or item.get("pocket")
+        pocket_info = self.survival_benchmarks["by_pocket"].get(pocket or "", {
             "median_days": self.survival_benchmarks["default_median_dom_days"],
-            "velocity": "Standard"
+            "velocity": "Standard",
+            "description": "Active residential corridor"
         })
         base_dom = pocket_info["median_days"]
 
@@ -404,7 +408,7 @@ class VitalsEngine:
         layout = str(item.get("layout", "1K")).upper()
         layout_mod = self.survival_benchmarks["by_layout"].get(layout, {}).get("multiplier", 1.0)
 
-        expected_dom = round(base_dom * struct_mod * layout_mod, 1)
+        expected_dom = round(base_dom * struct_mod * layout_mod)
 
         # Velocity classification
         if expected_dom <= 11.0:
@@ -431,7 +435,7 @@ class VitalsEngine:
         percent_market_active = round(survival_prob * 100.0, 1)
 
         return {
-            "days_on_market": round(days_on_market, 1),
+            "days_on_market": round(days_on_market),
             "expected_time_to_off_market_days": expected_dom,
             "velocity_tier": velocity_tier,
             "velocity_icon": velocity_icon,

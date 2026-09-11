@@ -213,7 +213,10 @@ const PQ = [
 ];
 
 function pocketCommute(p, destId){
-  const c = commute(p.st, destId);
+  const c = (typeof calcCommute === 'function') ? calcCommute(p.st, destId) : ((typeof commute === 'function') ? commute(p.st, destId) : { median: null });
+  if (!c || c.median == null) {
+    return { median: null, p90: null, transfers: 0, direct: false, approx: true, walkOnly: false };
+  }
   const extra = p.extra || 3;                 // on-corridor pockets: ~3′ walk pad
   return { median: r5(c.median + extra), p90: r5(c.p90 + extra),
            transfers: c.transfers, direct: c.direct, approx: !!p.off, walkOnly: false };
@@ -222,6 +225,6 @@ function pocketFit(p, u, touched){
   const keys = AXES.map(a=>a.id).filter(k => touched.has(k));
   if (!keys.length) return null;
   let dist = 0;
-  for (const k of keys) dist += Math.abs((u[k] ?? 2.5) - p.ax[k]);
+  for (const k of keys) dist += Math.abs((u[k] ?? 2.5) - (p.ax?.[k] ?? 3));
   return Math.round(100 * (1 - dist / (5 * keys.length)));
 }

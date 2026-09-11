@@ -1,12 +1,12 @@
 {
-  "total": 2496,
-  "live": 2496,
-  "filled": 0,
+  "total": 5051,
+  "live": 5024,
+  "filled": 27,
   "by_corridor": {
-    "keikyu": 615,
-    "toyoko": 786,
-    "hibiya": 365,
-    "denentoshi": 365,
-    "odakyu": 365
+    "keikyu": 970,
+    "toyoko": 2671,
+    "hibiya": 470,
+    "denentoshi": 470,
+    "odakyu": 470
   }
 }

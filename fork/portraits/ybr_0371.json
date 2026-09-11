@@ -1,0 +1,20 @@
+{
+  "id": "ybr_0371",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "3 storeys — as listed",
+    "built 2022 — as listed",
+    "structure wood — as listed",
+    "address 神奈川県横浜市中区大和町２丁目1-16 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 3,
+  "structure": "wood",
+  "built": "2022",
+  "local_path": "portraits/ybr_0371.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%83%86%E3%83%A9%E3%82%B9%E5%B1%B1%E6%89%8B",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%A4%A7%E5%92%8C%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE1-16%20%E3%83%86%E3%83%A9%E3%82%B9%E5%B1%B1%E6%89%8B"
+}

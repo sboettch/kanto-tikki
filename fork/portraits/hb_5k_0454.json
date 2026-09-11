@@ -1,0 +1,20 @@
+{
+  "id": "hb_5k_0454",
+  "kind": "PORTRAIT",
+  "card": "INTERPRETIVE ILLUSTRATION · 外形図",
+  "detail": "INTERPRETIVE ILLUSTRATION — floors, structure, and year are the listing's; window rhythm and colors are typology reference",
+  "matched": [
+    "9 storeys — as listed",
+    "built 2014 — as listed",
+    "structure RC — as listed",
+    "address 東京都中央区八丁堀２丁目2-2 — field verified"
+  ],
+  "status": "ACTIVE_VACANCY",
+  "grade": "COMMUNITY_STUDY",
+  "floors": 9,
+  "structure": "RC",
+  "built": "2014",
+  "local_path": "portraits/hb_5k_0454.webp",
+  "source": "https://suumo.jp/chintai/search/?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E5%A0%80",
+  "map_query": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%AB%E4%B8%81%E5%A0%80%EF%BC%92%E4%B8%81%E7%9B%AE2-2%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%A2%E5%85%AB%E4%B8%81%E5%A0%80"
+}
